@@ -1,0 +1,1316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: development/detail/notification.html:49
+msgid "+ Add Notification"
+msgstr "+ 新增提醒"
+
+#: development/dialogs/notification/create.html:193
+#: development/dialogs/notification/edit.html:193
+msgid "+ Add data channel"
+msgstr "+ 新增資料頻道"
+
+#: development/detail/firmware.html:65
+msgid "+ Add firmware"
+msgstr "+ 新增韌體"
+
+#: development/detail/testdevicelist.html:49
+msgid "+ Add test device"
+msgstr "+ 新增測試設備"
+
+#: development/detail/userprivileges.html:53
+#: mydevices/detail/userprivileges.html:53
+msgid "+ Add user"
+msgstr "+ 新增使用者"
+
+#: development/dialogs/finishCreateTestDevice.html:15
+#: development/dialogs/finishRelease.html:9
+msgid "A test device is created successfully!"
+msgstr "測試設備已成功產生!"
+
+#: development/detail/notification.html:24
+#: mydevices/detail/notification.html:24
+msgid "AND"
+msgstr "和"
+
+#: mydevices/detail/components.html:95
+msgid "API Hint"
+msgstr ""
+
+#: mydevices/detail.html:178 mydevices/dialogs/showapihint.html:3
+msgid "API hint"
+msgstr ""
+
+#: api_references/index.html:26
+msgid "API reference"
+msgstr "API 參考資料"
+
+#: api_references/index.html:2 api_references/index.html:8 aside.html:39
+#: header.html:110
+msgid "API references"
+msgstr "API 參考資料集"
+
+#: mydevices/dialogs/showapihint.html:23
+msgid "API type"
+msgstr ""
+
+#: mydevices/detail/apihint.html:39
+msgid ""
+"API type \n"
+"        <ul class=\"filters\">\n"
+"          <li>\n"
+"            <input type=\"checkbox\" name=\"apiMethod\" ng-model=\"apiMethod"
+"\" ng-false-value=\"get\" ng-click=\"contentUrl = api.apiUrl + 'post/arduino."
+"md?apikey='+$parent.device.deviceKey;$analytics.eventTrack('MainPage', "
+"{category: 'Devicedetail', label: 'apiHintMethod(post, tab)'});\" ng-true-"
+"value=\"post\">\n"
+"            <span class=\"icon\"><i class=\"fa fa-check\"></i></span>\n"
+"            {{ 'Upload datapoint' | translate }}\n"
+"          </li>\n"
+"          <li>\n"
+"            <input type=\"checkbox\" name=\"apiMethod\" ng-model=\"apiMethod"
+"\" ng-false-value=\"post\" ng-click=\"contentUrl = api.apiUrl +'get/arduino."
+"md?apikey='+$parent.device.deviceKey;$analytics.eventTrack('MainPage', "
+"{category: 'Devicedetail', label: 'apiHintMethod(get, tab)'});\" ng-true-"
+"value=\"get\">\n"
+"            <span class=\"icon\"><i class=\"fa fa-check\"></i></span>\n"
+"            {{ 'Retrieve datapoint' | translate }}\n"
+"          </li>\n"
+"        </ul>"
+msgstr ""
+
+#: management/device-list.html:78
+msgid "Activated date"
+msgstr ""
+
+#: development/detail/components.html:11
+#: development/dialogs/addComponent.html:27
+#: development/dialogs/addComponent.html:54
+#: development/dialogs/notification/create.html:213
+msgid "Add"
+msgstr "新增"
+
+#: development/detail/components.html:10
+msgid "Add Data channel now!"
+msgstr "馬上新增資料頻道!"
+
+#: development/dialogs/addComponent.html:3
+#: development/dialogs/addComponentContent.html:3
+msgid "Add data channel"
+msgstr ""
+
+#: mydevices/dialogs/createDevices.html:3
+msgid "Add devices"
+msgstr ""
+
+#: development/dialogs/notification/create.html:3
+msgid "Add notification"
+msgstr "新增提醒"
+
+#: development/dialogs/userPrivilege.html:3
+#: mydevices/dialogs/userPrivilege.html:3
+msgid "Add user"
+msgstr "新增使用者"
+
+#: mydevices/index.html:56
+msgid "Add your devices now!"
+msgstr "馬上新增設備!"
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
+msgid "All firmware(default)"
+msgstr ""
+
+#: components/control/gps.html:79
+msgid "Altitude:"
+msgstr "高度"
+
+#: development/dialogs/notification/create.html:41
+#: development/dialogs/notification/edit.html:41
+msgid "And"
+msgstr "和"
+
+#: dashboard/index.html:57
+msgid "And now your prototype is ready to connect to the world."
+msgstr ""
+
+#: mydevices/detail/apihint.html:77 mydevices/dialogs/showapihint.html:81
+msgid "Angular"
+msgstr ""
+
+#: development/dialogs/createProducts.html:139
+#: development/dialogs/editProducts.html:128
+#: mydevices/dialogs/editDevices.html:92
+msgid "Application"
+msgstr "應用程式"
+
+#: mydevices/detail/apihint.html:68 mydevices/dialogs/showapihint.html:63
+msgid "Arduino"
+msgstr ""
+
+#: development/dialogs/deleteConfirm.html:17
+msgid "Are you sure you want to delete? You cannot revert this action."
+msgstr ""
+
+#: mydevices/detail.html:42
+msgid "Back to prototype &nbsp"
+msgstr ""
+
+#: dashboard/index.html:40
+msgid "Before started, here are the quick steps to get you off the ground."
+msgstr ""
+
+#: dashboard/index.html:26
+msgid ""
+"Built around MT7681, a compact chipset with Wi-Fi support and built in TCP/"
+"IP stack, the MediaTek LinkIt Connect 7681development board is designed to "
+"enable easy embedding into small and simple home appliances such as smart "
+"lighting, and door locks."
+msgstr ""
+
+#: development/dialogs/addComponent.html:84
+msgid "Can't find your template?"
+msgstr ""
+
+#: date.html:6 development/dialogs/addComponentContent.html:444
+#: development/dialogs/createProducts.html:213
+#: development/dialogs/createTestDevice.html:40
+#: development/dialogs/deleteConfirm.html:22
+#: development/dialogs/editComponent.html:47
+#: development/dialogs/editProducts.html:202
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:79
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:55
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:77
+#: development/dialogs/notification/create.html:207
+#: development/dialogs/notification/edit.html:207
+#: development/dialogs/userPrivilege.html:70
+#: management/dialogs/createSerialNumber.html:80
+#: mydevices/dialogs/createDevices.html:72
+#: mydevices/dialogs/userPrivilege.html:68
+#: profile/dialogs/changePassword.html:54
+msgid "Cancel"
+msgstr "取消"
+
+#: development/dialogs/addComponentContent.html:198
+#: development/dialogs/addComponentContent.html:98
+msgid "Category"
+msgstr "分類"
+
+#: profile/dialogs/changePassword.html:3
+msgid "Change password"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:11
+msgid "Channel Id"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:66
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:42
+msgid "Check Sum"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:29
+msgid "Chip"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:55
+#: management/dialogs/createSerialNumber.html:55
+msgid "Choose file"
+msgstr "選擇檔案"
+
+#: development/dialogs/notification/create.html:67
+#: development/dialogs/notification/edit.html:67
+msgid "Choose the data channel"
+msgstr "選擇資料頻道"
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:47
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:76
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:47
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:72
+msgid "Clear all selected"
+msgstr "清除所選"
+
+#: development/detail/manufacturerinfo.html:6
+msgid "Click the edit button. Let's start editing !"
+msgstr ""
+
+#: dashboard/index.html:48
+msgid "Collect the data"
+msgstr ""
+
+#: dialogs/comingSoon.html:3
+msgid "Coming soon!"
+msgstr ""
+
+#: development/dialogs/editFirmware.html:26
+msgid "Compatible firmware"
+msgstr ""
+
+#: profile/dialogs/changePassword.html:40
+msgid "Confirm password"
+msgstr ""
+
+#: dashboard/index.html:56
+msgid "Connect to the world"
+msgstr ""
+
+#: dashboard/index.html:52
+msgid "Control the device"
+msgstr ""
+
+#: development/dialogs/addComponent.html:21
+msgid "Controller"
+msgstr ""
+
+#: development/index.html:58
+msgid "Create"
+msgstr "創建"
+
+#: dashboard/index.html:85
+msgid "Create new"
+msgstr ""
+
+#: dashboard/index.html:44
+msgid "Create our prototype"
+msgstr ""
+
+#: development/dialogs/createProducts.html:3
+msgid "Create prototype"
+msgstr "創建原型"
+
+#: development/detail.html:43 development/dialogs/createTestDevice.html:3
+msgid "Create test device"
+msgstr "創建測試設備"
+
+#: development/index.html:57
+msgid "Create your prototype now!"
+msgstr "馬上創建原型!"
+
+#: aside.html:12 dashboard/index.html:2
+msgid "Dashboard"
+msgstr "儀表板"
+
+#: development/detail.html:137 mydevices/detail.html:140
+msgid "Data channel"
+msgstr ""
+
+#: mydevices/detail/apihint.html:38
+msgid "Data channel ID : {{ api.id }}"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:29
+msgid "Data channel Id"
+msgstr "資料頻道Id"
+
+#: development/dialogs/addComponentContent.html:11
+#: development/dialogs/editComponent.html:11
+msgid "Data channel name"
+msgstr ""
+
+#: mydevices/detail/apihint.html:37
+msgid "Data channel name: {{ api.name }}"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:69
+msgid "Data type"
+msgstr ""
+
+#: dashboard/index.html:45
+msgid "Define your prototype and the data you want to collect."
+msgstr ""
+
+#: development/detail.html:117 development/detail/components.html:116
+#: development/index.html:92 mydevices/detail.html:126 mydevices/index.html:84
+msgid "Delete"
+msgstr "刪除"
+
+#: development/dialogs/notification/create.html:161
+#: development/dialogs/notification/edit.html:161
+msgid "Delete data channel"
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:18
+#: development/dialogs/addComponentContent.html:48
+#: development/dialogs/createProducts.html:82
+#: development/dialogs/editComponent.html:29
+#: development/dialogs/editProducts.html:78
+#: mydevices/dialogs/createDevices.html:41
+#: mydevices/dialogs/editDevices.html:59
+msgid "Description"
+msgstr "描述"
+
+#: development/index.html:124 management/device-list.html:105
+#: mydevices/index.html:112
+msgid "Detail"
+msgstr ""
+
+#: aside.html:21 development/detail.html:26 development/index.html:26
+#: header.html:24
+msgid "Development"
+msgstr "開發"
+
+#: development/detail/testdevicelist.html:11 management/device-list.html:77
+msgid "Device ID"
+msgstr "設備 ID"
+
+#: development/detail/testdevicelist.html:12
+msgid "Device Key"
+msgstr "設備金鑰"
+
+#: development/dialogs/createTestDevice.html:25
+msgid "Device description"
+msgstr ""
+
+#: mydevices/detail.html:26 mydevices/detail.html:32
+msgid "Device detail"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:17
+msgid "Device key"
+msgstr ""
+
+#: mydevices/index.html:32
+msgid "Device list"
+msgstr ""
+
+#: development/dialogs/createTestDevice.html:10
+#: mydevices/dialogs/createDevices.html:31
+#: mydevices/dialogs/editDevices.html:10
+msgid "Device name"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:20
+msgid "Device version"
+msgstr ""
+
+#: management/device-list.html:61 management/product-list.html:55
+msgid "Devices"
+msgstr ""
+
+#: development/detail/testdevicelist.html:4
+msgid "Devices ({{ devices.length }})"
+msgstr "設備 ({{ devices.length }})"
+
+#: management/device-list.html:37
+msgid "Devices list"
+msgstr ""
+
+#: development/dialogs/addComponent.html:48
+msgid "Display"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:58
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:81
+msgid "Done"
+msgstr ""
+
+#: components/control/integer.html:3
+msgid "EX:100(only input integer)"
+msgstr "例如: 100(只能打整數)"
+
+#: development/detail.html:116 development/detail/components.html:109
+#: development/detail/manufacturerinfo.html:11 development/index.html:91
+msgid "Edit"
+msgstr "編輯"
+
+#: development/dialogs/editComponent.html:3
+msgid "Edit data channel"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:3
+msgid "Edit device"
+msgstr ""
+
+#: development/dialogs/editFirmware.html:3
+msgid "Edit firmware"
+msgstr ""
+
+#: development/dialogs/notification/edit.html:3
+msgid "Edit notification"
+msgstr ""
+
+#: development/dialogs/editProducts.html:3
+msgid "Edit prototype"
+msgstr ""
+
+#: development/detail/firmware.html:15 development/detail/notification.html:12
+msgid "Edit&Delete"
+msgstr "編輯和刪除"
+
+#: development/detail/userprivileges.html:11
+#: mydevices/detail/userprivileges.html:11 profile/index.html:74
+msgid "Email"
+msgstr ""
+
+#: management/dialogs/createSerialNumber.html:71
+msgid "Enter your serials, one per line."
+msgstr ""
+
+#: management/device-list.html:79
+msgid "Error"
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:25
+msgid "Example : Prototype A"
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:30
+msgid "Example : Prototype A2"
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:24
+msgid "Example : Prototype name"
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:29
+msgid "Example : Prototype name2"
+msgstr ""
+
+#: aside.html:111 header.html:138 supports/faq.html:2 supports/faq.html:8
+msgid "FAQ"
+msgstr "問與答"
+
+#: header.html:158
+msgid "Feedback"
+msgstr "回饋"
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:42
+#: management/dialogs/createSerialNumber.html:45
+msgid "File upload"
+msgstr ""
+
+#: development/detail.html:157
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
+#: mydevices/detail.html:164
+msgid "Firmware"
+msgstr ""
+
+#: development/detail/firmware.html:4
+msgid "Firmware ({{ firmwares.length }})"
+msgstr "韌體 ({{ firmwares.length }})"
+
+#: mydevices/detail/firmware.html:10
+msgid "Firmware ({{firmwares.length}})"
+msgstr ""
+
+#: development/dialogs/editFirmware.html:17
+msgid "Firmware information"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:3
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:3
+msgid "Firmware name"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:120
+#: development/dialogs/addComponentContent.html:220
+msgid "Float"
+msgstr ""
+
+#: profile/dialogs/changePassword.html:23
+msgid "Forgot passowrd"
+msgstr "忘記密碼"
+
+#: header.html:153
+msgid "Forum"
+msgstr "論壇"
+
+#: development/dialogs/addComponentContent.html:164
+#: development/dialogs/addComponentContent.html:264
+msgid "GPIO"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:153
+#: development/dialogs/addComponentContent.html:253
+msgid "GPS"
+msgstr ""
+
+#: management/dialogs/createSerialNumber.html:86
+msgid "Generate"
+msgstr ""
+
+#: management/device-list.html:63 management/dialogs/createSerialNumber.html:3
+msgid "Generate serial numbers"
+msgstr ""
+
+#: management/dialogs/createSerialNumber.html:11
+msgid "Generate type"
+msgstr ""
+
+#: dashboard/index.html:39
+msgid "Get you connected"
+msgstr ""
+
+#: aside.html:86 header.html:66 supports/tutorial.html:2
+#: supports/tutorial.html:8
+msgid "Getting started"
+msgstr ""
+
+#: development/dialogs/finishCreateTestDevice.html:27
+msgid "Go to detail"
+msgstr ""
+
+#: development/dialogs/createProducts.html:40
+#: development/dialogs/editProducts.html:40
+msgid "Hardware platform"
+msgstr ""
+
+#: header.html:130 supports/faq.html:2 supports/terms_of_use.html:2
+msgid "Help"
+msgstr "幫助"
+
+#: mydevices/detail/apihint.html:32
+msgid "Here is the API hint for you."
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:131
+#: development/dialogs/addComponentContent.html:231
+msgid "Hex"
+msgstr ""
+
+#: development/detail/components.html:105 mydevices/detail/components.html:91
+msgid "Hide History"
+msgstr "隱藏歷史資料"
+
+#: components/control/gpio.html:3
+msgid "High"
+msgstr ""
+
+#: development/dialogs/deleteConfirm.html:17
+msgid ""
+"If you delete a prototype, all test devices in it will be deleted as well."
+msgstr ""
+
+#: development/dialogs/createProducts.html:179
+#: development/dialogs/editProducts.html:165
+#: mydevices/dialogs/createDevices.html:52
+#: mydevices/dialogs/editDevices.html:119
+msgid "Image upload"
+msgstr ""
+
+#: development/dialogs/createProducts.html:96
+#: development/dialogs/editProducts.html:92
+#: mydevices/dialogs/editDevices.html:65
+msgid "Industry"
+msgstr ""
+
+#: components/control/hexstring.html:3
+msgid "Input the hexadecimal value, only 0-9 or A-F."
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:109
+#: development/dialogs/addComponentContent.html:209
+msgid "Integer"
+msgstr ""
+
+#: aside.html:64 header.html:52 supports/introduction.html:2
+#: supports/introduction.html:8
+msgid "Introduction"
+msgstr "介紹"
+
+#: aside.html:70 header.html:59 supports/key_concept.html:2
+#: supports/key_concept.html:8
+msgid "Key concepts"
+msgstr ""
+
+#: components/control/gps.html:55
+msgid "Latitude:"
+msgstr ""
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:29
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:26
+msgid "Limit Firmware"
+msgstr ""
+
+#: dashboard/index.html:24
+msgid "LinkIt Connect 7681 Development Board Support"
+msgstr ""
+
+#: aside.html:100 header.html:80
+#: supports/implementing_using_mt7681_development_board.html:2
+#: supports/implementing_using_mt7681_development_board.html:8
+msgid "Linkit connect tutorial"
+msgstr ""
+
+#: aside.html:93 header.html:73 supports/implementing_using_linkit_one.html:2
+#: supports/implementing_using_linkit_one.html:8
+msgid "Linkit one tutorial"
+msgstr ""
+
+#: mydevices/detail/firmware.html:56
+msgid "Loading..."
+msgstr ""
+
+#: header.html:188
+msgid "Log Out"
+msgstr "登出"
+
+#: components/control/gps.html:67
+msgid "Longitude:"
+msgstr ""
+
+#: components/control/gpio.html:2
+msgid "Low"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:47
+msgid "MT7681"
+msgstr ""
+
+#: development/dialogs/finishRelease.html:10 management/product-list.html:4
+msgid "Management"
+msgstr ""
+
+#: management/device-list.html:31
+msgid "Management > Devices list"
+msgstr ""
+
+#: management/product-list.html:10
+msgid "Management list"
+msgstr ""
+
+#: header.html:101 supports/managing_firmware.html:2
+#: supports/managing_firmware.html:8
+msgid "Managing firmware"
+msgstr "管理韌體"
+
+#: management/dialogs/createSerialNumber.html:32
+msgid "Manual"
+msgstr ""
+
+#: management/dialogs/createSerialNumber.html:65
+msgid "Manually enter serial numbers"
+msgstr ""
+
+#: aside.html:106 header.html:117 supports/mobile_application.html:2
+#: supports/mobile_application.html:8
+msgid "Mobile application"
+msgstr "行動應用"
+
+#: dashboard/index.html:19
+msgid "More Data Types"
+msgstr ""
+
+#: header.html:32
+msgid "My Devices"
+msgstr "我的設備"
+
+#: aside.html:30 mydevices/detail.html:26 mydevices/index.html:26
+msgid "My devices"
+msgstr "我的設備"
+
+#: components/control/gps.html:35
+msgid "My marker will reappear when you close me."
+msgstr ""
+
+#: development/detail/firmware.html:10 development/detail/notification.html:10
+#: development/detail/testdevicelist.html:10 mydevices/detail/firmware.html:17
+#: mydevices/detail/notification.html:10
+msgid "Name"
+msgstr "姓名"
+
+#: profile/dialogs/changePassword.html:28
+msgid "New password"
+msgstr ""
+
+#: dashboard/index.html:30
+msgid "New version of the mobile application available now!"
+msgstr ""
+
+#: dashboard/index.html:8
+msgid "News from MediaTek Cloud Sandbox"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:88
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:88
+msgid "Next"
+msgstr ""
+
+#: profile/index.html:70
+msgid "Nick name"
+msgstr ""
+
+#: components/graph/gpio.html:7 components/graph/line.html:7
+#: components/graph/pwm.html:7
+msgid "No Data Available"
+msgstr ""
+
+#: development/dialogs/finishCreateTestDevice.html:21
+msgid "No, thanks"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:57
+msgid "Not now"
+msgstr ""
+
+#: alert.html:5 development/dialogs/deleteConfirm.html:5
+msgid "Notice!"
+msgstr ""
+
+#: development/detail.html:143 mydevices/detail.html:148
+msgid "Notification"
+msgstr ""
+
+#: development/detail/notification.html:4
+msgid "Notification ({{ notifications.length }})"
+msgstr ""
+
+#: development/detail/notification.html:11
+#: mydevices/detail/notification.html:11
+msgid "Notification Rules"
+msgstr ""
+
+#: development/dialogs/notification/create.html:14
+#: development/dialogs/notification/edit.html:14
+msgid "Notification name"
+msgstr ""
+
+#: development/dialogs/notification/create.html:53
+#: development/dialogs/notification/edit.html:53
+msgid "Notification rule"
+msgstr ""
+
+#: mydevices/detail/firmware.html:54
+msgid "Now used"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:292
+#: development/dialogs/addComponentContent.html:332
+msgid "Number of categories"
+msgstr ""
+
+#: alert.html:18 components/category/selectFromToDate.html:69
+#: components/control/float.html:12 components/control/gps.html:92
+#: components/control/hexstring.html:12 components/control/integer.html:12
+#: components/control/pwm.html:16 components/control/string.html:12
+#: date.html:5 development/dialogs/createTestDevice.html:46
+#: development/dialogs/deleteConfirm.html:30
+#: development/dialogs/release.html:43 dialogs/comingSoon.html:22
+msgid "OK"
+msgstr "確認"
+
+#: development/dialogs/addComponentContent.html:187
+#: development/dialogs/addComponentContent.html:87
+msgid "ON / OFF"
+msgstr ""
+
+#: profile/dialogs/changePassword.html:11
+msgid "Old password"
+msgstr "舊密碼"
+
+#: development/dialogs/notification/create.html:178
+#: development/dialogs/notification/edit.html:178
+msgid "Only support integer and float data channel types."
+msgstr ""
+
+#: mydevices/detail/notification.html:12
+msgid "Open/Close"
+msgstr ""
+
+#: development/detail/testdevicelist.html:16
+#: development/detail/userprivileges.html:13
+#: mydevices/detail/userprivileges.html:13
+msgid "Operate"
+msgstr ""
+
+#: dashboard/index.html:35
+msgid "Over-the-Air (OTA) Firmware Updates"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:175
+#: development/dialogs/addComponentContent.html:275
+msgid "PWM"
+msgstr ""
+
+#: profile/index.html:78
+msgid "Password"
+msgstr ""
+
+#: components/control/pwm.html:13 components/control/pwmSlider.html:4
+msgid "Period"
+msgstr ""
+
+#: development/dialogs/release.html:9
+msgid "Please confirm if you want to release this prototype."
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:365
+msgid "Please select a template that best meet your data channel"
+msgstr ""
+
+#: development/detail/firmware.html:13
+msgid "Prerequisite"
+msgstr ""
+
+#: mydevices/dialogs/createDevices.html:10
+msgid "Product ID"
+msgstr ""
+
+#: header.html:183
+msgid "Profile"
+msgstr "個人檔案"
+
+#: profile/index.html:33
+msgid "Profile detail"
+msgstr ""
+
+#: profile/index.html:27
+msgid "Profile page"
+msgstr ""
+
+#: dashboard/index.html:82
+msgid "Prototype"
+msgstr "原型"
+
+#: management/device-list.html:60 management/product-list.html:46
+msgid "Prototype ID"
+msgstr ""
+
+#: development/detail.html:26 development/detail.html:39
+msgid "Prototype detail"
+msgstr ""
+
+#: development/index.html:32
+msgid "Prototype list"
+msgstr ""
+
+#: development/dialogs/createProducts.html:10
+#: development/dialogs/editProducts.html:10
+msgid "Prototype name"
+msgstr ""
+
+#: development/detail.html:77 development/index.html:113
+msgid "Prototype state: {{ product.prodRlsStatusType.name }}"
+msgstr ""
+
+#: development/dialogs/createProducts.html:25
+#: development/dialogs/editProducts.html:25
+msgid "Prototype version"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:60
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:59
+msgid "Push"
+msgstr ""
+
+#: development/dialogs/editFirmware.html:34
+msgid "Push firmware to device"
+msgstr ""
+
+#: mydevices/detail/firmware.html:21
+msgid "Push&Edit&Delete"
+msgstr ""
+
+#: management/product-list.html:65
+msgid "Registered"
+msgstr ""
+
+#: development/detail/testdevicelist.html:13
+msgid "Registered date"
+msgstr ""
+
+#: management/product-list.html:72
+msgid "Registered rate"
+msgstr ""
+
+#: development/detail/firmware.html:14 mydevices/detail/firmware.html:20
+msgid "Release date"
+msgstr ""
+
+#: development/detail/firmware.html:12
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:34
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:34
+#: mydevices/detail/firmware.html:19
+msgid "Release note"
+msgstr ""
+
+#: development/dialogs/release.html:24
+msgid "Release with serial number generator."
+msgstr ""
+
+#: development/dialogs/release.html:33
+msgid "Release without serial number generator."
+msgstr ""
+
+#: api_references/index.html:2 header.html:44
+#: supports/28_using_notification.html:2
+#: supports/implementing_using_linkit_one.html:2
+#: supports/implementing_using_mt7681_development_board.html:2
+#: supports/introduction.html:2 supports/key_concept.html:2
+#: supports/managing_firmware.html:2 supports/mobile_application.html:2
+#: supports/setting_notification.html:2 supports/tutorial.html:2
+msgid "Resources"
+msgstr "資源"
+
+#: mydevices/detail/apihint.html:61 mydevices/dialogs/showapihint.html:46
+msgid "Retrieve datapoint"
+msgstr ""
+
+#: development/detail/userprivileges.html:12
+#: development/dialogs/userPrivilege.html:36
+#: mydevices/detail/userprivileges.html:12
+#: mydevices/dialogs/userPrivilege.html:34
+msgid "Role"
+msgstr "角色"
+
+#: development/dialogs/addComponentContent.html:450
+#: development/dialogs/createProducts.html:219
+#: development/dialogs/editComponent.html:53
+#: development/dialogs/editProducts.html:208
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:61
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:84
+#: development/dialogs/notification/edit.html:213
+#: development/dialogs/userPrivilege.html:78
+#: mydevices/dialogs/createDevices.html:77
+#: mydevices/dialogs/userPrivilege.html:76
+#: profile/dialogs/changePassword.html:60
+msgid "Save"
+msgstr ""
+
+#: components/category/selectFromToDate.html:120 development/index.html:43
+#: management/device-list.html:49 management/product-list.html:21
+#: mydevices/index.html:43
+msgid "Search"
+msgstr "搜尋"
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
+msgid "Select all devices"
+msgstr ""
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:70
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:66
+msgid "Select all firmware"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:6
+msgid ""
+"Select the devices that you would like to upgrade to the firmware "
+"(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) you've uploaded."
+msgstr ""
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:1
+msgid ""
+"Select the prerequisite firmware that are compatible for this firmware "
+"(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) upgrade you've "
+"uploaded."
+msgstr ""
+
+#: development/dialogs/addComponent.html:90
+msgid "Send us a message!"
+msgstr ""
+
+#: management/device-list.html:76 mydevices/dialogs/createDevices.html:21
+msgid "Serial number"
+msgstr ""
+
+#: header.html:94 supports/setting_notification.html:2
+#: supports/setting_notification.html:8
+msgid "Setting user privilege"
+msgstr "設定使用者權限"
+
+#: development/detail/components.html:104 mydevices/detail/components.html:90
+msgid "Show History"
+msgstr "打開歷史資料"
+
+#: dashboard/index.html:29
+msgid "Smart Remote Control Mobile App"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:142
+#: development/dialogs/addComponentContent.html:242
+msgid "String"
+msgstr ""
+
+#: development/dialogs/finishCreateTestDevice.html:3
+msgid "Success!"
+msgstr ""
+
+#: aside.html:49
+msgid "Supports"
+msgstr "支援"
+
+#: management/device-list.html:80
+msgid "System detail"
+msgstr ""
+
+#: development/dialogs/addComponent.html:87
+msgid "Tell us what kind of template you want to add!"
+msgstr ""
+
+#: mydevices/detail/apihint.html:71 mydevices/dialogs/showapihint.html:69
+msgid "Telnet"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:364
+msgid "Template preview"
+msgstr ""
+
+#: header.html:145 supports/terms_of_use.html:2 supports/terms_of_use.html:8
+msgid "Terms of use"
+msgstr ""
+
+#: mydevices/detail.html:116 mydevices/index.html:75
+msgid "Test"
+msgstr ""
+
+#: development/detail.html:165
+msgid "Test device"
+msgstr ""
+
+#: development/dialogs/addComponent.html:71
+msgid ""
+"The Hybrid data channel is a two ways data channel contains bothe controller "
+"and display."
+msgstr ""
+
+#: dashboard/index.html:31
+msgid ""
+"The Smart Remote control mobile application enables the users to register "
+"and access their devices,  display the latest device data and its status "
+"putting their world at their fingertips."
+msgstr ""
+
+#: development/dialogs/addComponent.html:24
+msgid ""
+"The controller data channels allow you to control the status of your "
+"devices. eg, ON/OFF for a switch"
+msgstr ""
+
+#: development/dialogs/addComponent.html:51
+msgid "The display data channels allow you to get the data from your devices."
+msgstr ""
+
+#: dashboard/index.html:25
+msgid ""
+"The new LinkIt Connect 7681 development board is now available for you to "
+"use."
+msgstr ""
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:30
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:30
+msgid "There is no compatible firmware at this moment."
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:3
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:3
+msgid "There is no test device at this moment."
+msgstr ""
+
+#: dialogs/comingSoon.html:15
+msgid "This feature is under development, will be coming soon!"
+msgstr ""
+
+#: components/control/gps.html:34
+msgid "This is my clicked marker!"
+msgstr ""
+
+#: components/category/selectFromToDate.html:16
+#: components/category/selectFromToDate.html:56
+msgid "Time:"
+msgstr ""
+
+#: profile/index.html:86
+msgid "Timezone"
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:17
+msgid "Title"
+msgstr "標題"
+
+#: components/category/selectFromToDate.html:101
+msgid "To"
+msgstr "到"
+
+#: aside.html:73
+msgid "Tutorial"
+msgstr ""
+
+#: management/device-list.html:75
+msgid "Type"
+msgstr ""
+
+#: dashboard/index.html:36
+msgid "Update the latest firmware to your devices using our FOTA feauture."
+msgstr ""
+
+#: mydevices/detail/firmware.html:53
+msgid "Upgrade"
+msgstr ""
+
+#: development/dialogs/createProducts.html:200
+#: development/dialogs/editProducts.html:189
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:84
+#: management/dialogs/createSerialNumber.html:24
+#: mydevices/dialogs/createDevices.html:60
+#: mydevices/dialogs/editDevices.html:127
+msgid "Upload"
+msgstr ""
+
+#: management/dialogs/createSerialNumber.html:42
+msgid "Upload a CSV file, one serial number per line"
+msgstr ""
+
+#: profile/index.html:54
+msgid "Upload an image"
+msgstr ""
+
+#: mydevices/detail/apihint.html:50 mydevices/dialogs/showapihint.html:35
+msgid "Upload datapoint"
+msgstr ""
+
+#: development/dialogs/createProducts.html:181
+#: development/dialogs/editProducts.html:170
+#: mydevices/dialogs/createDevices.html:54
+#: mydevices/dialogs/editDevices.html:121 profile/index.html:45
+msgid "Uploading..."
+msgstr ""
+
+#: dashboard/index.html:53
+msgid ""
+"Use the My Devices to easily manage pre-release devices, track device "
+"registration rates, provide FOTA and more."
+msgstr ""
+
+#: dashboard/index.html:49
+msgid ""
+"Use the rich set of RESTful APIs to gather data from any sensor connected to "
+"your devices."
+msgstr ""
+
+#: development/dialogs/userPrivilege.html:10
+#: mydevices/dialogs/userPrivilege.html:10
+msgid "User Email"
+msgstr ""
+
+#: development/detail/userprivileges.html:10
+#: mydevices/detail/userprivileges.html:10
+msgid "User Name"
+msgstr ""
+
+#: development/detail.html:151 mydevices/detail.html:156
+msgid "User privileges"
+msgstr ""
+
+#: development/detail/userprivileges.html:4
+#: mydevices/detail/userprivileges.html:4
+msgid "Users ({{ privileges.length }})"
+msgstr ""
+
+#: header.html:87 supports/28_using_notification.html:2
+#: supports/28_using_notification.html:9
+msgid "Using notification"
+msgstr "使用通知"
+
+#: components/control/pwm.html:4 components/control/pwmSlider.html:12
+msgid "Value"
+msgstr "值"
+
+#: development/detail/firmware.html:11
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:18
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
+#: mydevices/detail/firmware.html:18
+msgid "Version"
+msgstr "版本"
+
+#: development/detail.html:75 development/index.html:111
+msgid "Version: {{ product.version }}"
+msgstr ""
+
+#: dashboard/index.html:14
+msgid ""
+"Welcome to MediaTek Cloud Sandbox 2.0 beta. We've enhanced our platform from "
+"the 1.0 closed test environment\n"
+"and added several new features:"
+msgstr ""
+
+#: dashboard/index.html:13
+msgid "What’s New"
+msgstr ""
+
+#: dashboard/index.html:20
+msgid ""
+"With supports for nine data types it's easy to create your prototype. And to "
+"better support the MediaTek LinkIt Connect 7681 development platform you've "
+"access to data types for GPIO and PWM."
+msgstr ""
+
+#: development/detail/manufacturerinfo.html:5
+msgid ""
+"You can edit the information of your prototype that you want your users to "
+"see it."
+msgstr ""
+
+#: development/dialogs/finishRelease.html:10
+msgid "You can see its detail in"
+msgstr ""
+
+#: development/dialogs/finishCreateTestDevice.html:16
+msgid "You can see its detail in \"My devices\"."
+msgstr ""
+
+#: mydevices/detail/apihint.html:33
+msgid ""
+"You can use the APIs listed here to set up the action you need.eg. upload or "
+"retrieve data."
+msgstr ""
+
+#: profile/index.html:154
+msgid "Your current timezone"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:135
+msgid "cancel"
+msgstr ""
+
+#: components/control/float.html:8 components/control/hexstring.html:8
+#: components/control/integer.html:8 components/control/pwm.html:8
+#: components/control/string.html:8
+msgid "clear"
+msgstr "清除"
+
+#: mydevices/detail.html:70
+msgid "copy to clipboard"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
+msgid "device"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
+msgid "device ID"
+msgstr ""
+
+#: profile/index.html:154
+msgid "is different from your setting."
+msgstr ""
+
+#: mydevices/detail/apihint.html:74 mydevices/dialogs/showapihint.html:75
+msgid "jQuery"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:136
+msgid "save"
+msgstr ""
+
+#: management/device-list.html:87
+msgid "test"
+msgstr ""
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
+#: mydevices/index.html:99
+msgid "version"
+msgstr ""
