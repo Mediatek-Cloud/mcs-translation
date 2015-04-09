@@ -157,7 +157,7 @@ msgstr "應用程式"
 
 #: mydevices/detail/apihint.html:68 mydevices/dialogs/showapihint.html:63
 msgid "Arduino"
-msgstr ""
+msgstr "Arduino"
 
 #: development/dialogs/deleteConfirm.html:17
 msgid "Are you sure you want to delete? You cannot revert this action."
