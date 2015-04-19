@@ -5,7 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh_TW\n"
+"Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,15 +19,15 @@ msgstr "+ 新增提醒"
 #: development/dialogs/notification/create.html:193
 #: development/dialogs/notification/edit.html:193
 msgid "+ Add data channel"
-msgstr "+ 新增资料频道"
+msgstr "+ 新增資料頻道"
 
 #: development/detail/firmware.html:65
 msgid "+ Add firmware"
-msgstr "+ 新增韧体"
+msgstr "+ 新增韌體"
 
 #: development/detail/testdevicelist.html:49
 msgid "+ Add test device"
-msgstr "+ 新增测试设备"
+msgstr "+ 新增測試設備"
 
 #: development/detail/userprivileges.html:53
 #: mydevices/detail/userprivileges.html:53
@@ -37,7 +37,7 @@ msgstr "+ 新增使用者"
 #: development/dialogs/finishCreateTestDevice.html:15
 #: development/dialogs/finishRelease.html:9
 msgid "A test device is created successfully!"
-msgstr "测试设备已成功产生!"
+msgstr "測試設備已成功產生!"
 
 #: development/detail/notification.html:24
 #: mydevices/detail/notification.html:24
@@ -54,12 +54,12 @@ msgstr ""
 
 #: api_references/index.html:26
 msgid "API reference"
-msgstr "API 参考资料"
+msgstr "API 參考資料"
 
 #: api_references/index.html:2 api_references/index.html:8 aside.html:39
 #: header.html:110
 msgid "API references"
-msgstr "API 参考资料集"
+msgstr "API 參考資料集"
 
 #: mydevices/dialogs/showapihint.html:23
 msgid "API type"
@@ -103,7 +103,7 @@ msgstr "新增"
 
 #: development/detail/components.html:10
 msgid "Add Data channel now!"
-msgstr "马上新增资料频道!"
+msgstr "馬上新增資料頻道!"
 
 #: development/dialogs/addComponent.html:3
 #: development/dialogs/addComponentContent.html:3
@@ -125,7 +125,7 @@ msgstr "新增使用者"
 
 #: mydevices/index.html:56
 msgid "Add your devices now!"
-msgstr "马上新增设备!"
+msgstr "馬上新增設備!"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
@@ -153,7 +153,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:128
 #: mydevices/dialogs/editDevices.html:92
 msgid "Application"
-msgstr "应用程式"
+msgstr "應用程式"
 
 #: mydevices/detail/apihint.html:68 mydevices/dialogs/showapihint.html:63
 msgid "Arduino"
@@ -164,7 +164,7 @@ msgid "Are you sure you want to delete? You cannot revert this action."
 msgstr ""
 
 #: mydevices/detail.html:42
-msgid "Back to prototype  "
+msgid "Back to prototype &nbsp"
 msgstr ""
 
 #: dashboard/index.html:40
@@ -206,7 +206,7 @@ msgstr "取消"
 #: development/dialogs/addComponentContent.html:198
 #: development/dialogs/addComponentContent.html:98
 msgid "Category"
-msgstr "分类"
+msgstr "分類"
 
 #: profile/dialogs/changePassword.html:3
 msgid "Change password"
@@ -228,19 +228,19 @@ msgstr ""
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:55
 #: management/dialogs/createSerialNumber.html:55
 msgid "Choose file"
-msgstr "选择档案"
+msgstr "選擇檔案"
 
 #: development/dialogs/notification/create.html:67
 #: development/dialogs/notification/edit.html:67
 msgid "Choose the data channel"
-msgstr "选择资料频道"
+msgstr "選擇資料頻道"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:47
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:76
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:47
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:72
 msgid "Clear all selected"
-msgstr "清除所选"
+msgstr "清除所選"
 
 #: development/detail/manufacturerinfo.html:6
 msgid "Click the edit button. Let's start editing !"
@@ -276,7 +276,7 @@ msgstr ""
 
 #: development/index.html:58
 msgid "Create"
-msgstr "创建"
+msgstr "創建"
 
 #: dashboard/index.html:85
 msgid "Create new"
@@ -288,19 +288,19 @@ msgstr ""
 
 #: development/dialogs/createProducts.html:3
 msgid "Create prototype"
-msgstr "创建原型"
+msgstr "創建原型"
 
 #: development/detail.html:43 development/dialogs/createTestDevice.html:3
 msgid "Create test device"
-msgstr "创建测试设备"
+msgstr "創建測試設備"
 
 #: development/index.html:57
 msgid "Create your prototype now!"
-msgstr "马上创建原型!"
+msgstr "馬上創建原型!"
 
 #: aside.html:12 dashboard/index.html:2
 msgid "Dashboard"
-msgstr "仪表板"
+msgstr "儀表板"
 
 #: development/detail.html:137 mydevices/detail.html:140
 msgid "Data channel"
@@ -312,7 +312,7 @@ msgstr ""
 
 #: development/dialogs/addComponentContent.html:29
 msgid "Data channel Id"
-msgstr "资料频道Id"
+msgstr "資料頻道Id"
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11
@@ -334,7 +334,7 @@ msgstr ""
 #: development/detail.html:117 development/detail/components.html:116
 #: development/index.html:92 mydevices/detail.html:126 mydevices/index.html:84
 msgid "Delete"
-msgstr "删除"
+msgstr "刪除"
 
 #: development/dialogs/notification/create.html:161
 #: development/dialogs/notification/edit.html:161
@@ -359,15 +359,15 @@ msgstr ""
 #: aside.html:21 development/detail.html:26 development/index.html:26
 #: header.html:24
 msgid "Development"
-msgstr "开发"
+msgstr "開發"
 
 #: development/detail/testdevicelist.html:11 management/device-list.html:77
 msgid "Device ID"
-msgstr "设备 ID"
+msgstr "設備 ID"
 
 #: development/detail/testdevicelist.html:12
 msgid "Device Key"
-msgstr "设备金钥"
+msgstr "設備金鑰"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
@@ -401,7 +401,7 @@ msgstr ""
 
 #: development/detail/testdevicelist.html:4
 msgid "Devices ({{ devices.length }})"
-msgstr "设备 ({{ devices.length }})"
+msgstr "設備 ({{ devices.length }})"
 
 #: management/device-list.html:37
 msgid "Devices list"
@@ -418,12 +418,12 @@ msgstr ""
 
 #: components/control/integer.html:3
 msgid "EX:100(only input integer)"
-msgstr "例如: 100(只能打整数)"
+msgstr "例如: 100(只能打整數)"
 
 #: development/detail.html:116 development/detail/components.html:109
 #: development/detail/manufacturerinfo.html:11 development/index.html:91
 msgid "Edit"
-msgstr "编辑"
+msgstr "編輯"
 
 #: development/dialogs/editComponent.html:3
 msgid "Edit data channel"
@@ -447,7 +447,7 @@ msgstr ""
 
 #: development/detail/firmware.html:15 development/detail/notification.html:12
 msgid "Edit&Delete"
-msgstr "编辑和删除"
+msgstr "編輯和刪除"
 
 #: development/detail/userprivileges.html:11
 #: mydevices/detail/userprivileges.html:11 profile/index.html:74
@@ -480,11 +480,11 @@ msgstr ""
 
 #: aside.html:111 header.html:138 supports/faq.html:2 supports/faq.html:8
 msgid "FAQ"
-msgstr "问与答"
+msgstr "問與答"
 
 #: header.html:158
 msgid "Feedback"
-msgstr "回馈"
+msgstr "回饋"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
 #: management/dialogs/createSerialNumber.html:45
@@ -499,7 +499,7 @@ msgstr ""
 
 #: development/detail/firmware.html:4
 msgid "Firmware ({{ firmwares.length }})"
-msgstr "韧体 ({{ firmwares.length }})"
+msgstr "韌體 ({{ firmwares.length }})"
 
 #: mydevices/detail/firmware.html:10
 msgid "Firmware ({{firmwares.length}})"
@@ -521,11 +521,11 @@ msgstr ""
 
 #: profile/dialogs/changePassword.html:23
 msgid "Forgot passowrd"
-msgstr "忘记密码"
+msgstr "忘記密碼"
 
 #: header.html:153
 msgid "Forum"
-msgstr "论坛"
+msgstr "論壇"
 
 #: development/dialogs/addComponentContent.html:164
 #: development/dialogs/addComponentContent.html:264
@@ -569,7 +569,7 @@ msgstr ""
 
 #: header.html:130 supports/faq.html:2 supports/terms_of_use.html:2
 msgid "Help"
-msgstr "帮助"
+msgstr "幫助"
 
 #: mydevices/detail/apihint.html:32
 msgid "Here is the API hint for you."
@@ -582,7 +582,7 @@ msgstr ""
 
 #: development/detail/components.html:105 mydevices/detail/components.html:91
 msgid "Hide History"
-msgstr "隐藏历史资料"
+msgstr "隱藏歷史資料"
 
 #: components/control/gpio.html:3
 msgid "High"
@@ -618,7 +618,7 @@ msgstr ""
 #: aside.html:64 header.html:52 supports/introduction.html:2
 #: supports/introduction.html:8
 msgid "Introduction"
-msgstr "介绍"
+msgstr "介紹"
 
 #: aside.html:70 header.html:59 supports/key_concept.html:2
 #: supports/key_concept.html:8
@@ -684,7 +684,7 @@ msgstr ""
 #: header.html:101 supports/managing_firmware.html:2
 #: supports/managing_firmware.html:8
 msgid "Managing firmware"
-msgstr "管理韧体"
+msgstr "管理韌體"
 
 #: management/dialogs/createSerialNumber.html:32
 msgid "Manual"
@@ -697,7 +697,7 @@ msgstr ""
 #: aside.html:106 header.html:117 supports/mobile_application.html:2
 #: supports/mobile_application.html:8
 msgid "Mobile application"
-msgstr "行动应用"
+msgstr "行動應用"
 
 #: dashboard/index.html:19
 msgid "More Data Types"
@@ -705,11 +705,11 @@ msgstr ""
 
 #: header.html:32
 msgid "My Devices"
-msgstr "我的设备"
+msgstr "我的設備"
 
 #: aside.html:30 mydevices/detail.html:26 mydevices/index.html:26
 msgid "My devices"
-msgstr "我的设备"
+msgstr "我的設備"
 
 #: components/control/gps.html:35
 msgid "My marker will reappear when you close me."
@@ -799,7 +799,7 @@ msgstr ""
 #: development/dialogs/deleteConfirm.html:30
 #: development/dialogs/release.html:43 dialogs/comingSoon.html:22
 msgid "OK"
-msgstr "确认"
+msgstr "確認"
 
 #: development/dialogs/addComponentContent.html:187
 #: development/dialogs/addComponentContent.html:87
@@ -808,7 +808,7 @@ msgstr ""
 
 #: profile/dialogs/changePassword.html:11
 msgid "Old password"
-msgstr "旧密码"
+msgstr "舊密碼"
 
 #: development/dialogs/notification/create.html:178
 #: development/dialogs/notification/edit.html:178
@@ -860,7 +860,7 @@ msgstr ""
 
 #: header.html:183
 msgid "Profile"
-msgstr "个人档案"
+msgstr "個人檔案"
 
 #: profile/index.html:33
 msgid "Profile detail"
@@ -952,7 +952,7 @@ msgstr ""
 #: supports/managing_firmware.html:2 supports/mobile_application.html:2
 #: supports/setting_notification.html:2 supports/tutorial.html:2
 msgid "Resources"
-msgstr "资源"
+msgstr "資源"
 
 #: mydevices/detail/apihint.html:61 mydevices/dialogs/showapihint.html:46
 msgid "Retrieve datapoint"
@@ -983,7 +983,7 @@ msgstr ""
 #: management/device-list.html:49 management/product-list.html:21
 #: mydevices/index.html:43
 msgid "Search"
-msgstr "搜寻"
+msgstr "搜尋"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
@@ -1020,11 +1020,11 @@ msgstr ""
 #: header.html:94 supports/setting_notification.html:2
 #: supports/setting_notification.html:8
 msgid "Setting user privilege"
-msgstr "设定使用者权限"
+msgstr "設定使用者權限"
 
 #: development/detail/components.html:104 mydevices/detail/components.html:90
 msgid "Show History"
-msgstr "打开历史资料"
+msgstr "打開歷史資料"
 
 #: dashboard/index.html:29
 msgid "Smart Remote Control Mobile App"
@@ -1129,7 +1129,7 @@ msgstr ""
 
 #: development/detail/manufacturerinfo.html:17
 msgid "Title"
-msgstr "标题"
+msgstr "標題"
 
 #: components/category/selectFromToDate.html:101
 msgid "To"
