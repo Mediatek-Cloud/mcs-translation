@@ -91,7 +91,7 @@ msgstr "新增設備"
 
 #: development/dialogs/addFirmware.html:3
 msgid "Add firmware"
-msgstr ""
+msgstr "新增韌體"
 
 #: development/dialogs/notification/create.html:3
 msgid "Add notification"
@@ -108,7 +108,7 @@ msgstr "馬上新增設備!"
 
 #: supports/tutorial.html:83
 msgid "Advanced setting"
-msgstr ""
+msgstr "進階設置"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
@@ -148,7 +148,7 @@ msgstr "是否確定刪除？ 一但刪除將無法復原。"
 
 #: mydevices/detail.html:42
 msgid "Back to prototype"
-msgstr ""
+msgstr "回到產品原型"
 
 #: dashboard/index.html:40
 msgid "Before started, here are the quick steps to get you off the ground."
@@ -248,7 +248,7 @@ msgstr "確認密碼"
 
 #: supports/connect_device.html:2 supports/connect_device.html:8
 msgid "Connect device"
-msgstr ""
+msgstr "連接裝置"
 
 #: dashboard/index.html:56
 msgid "Connect to the world"
@@ -280,7 +280,7 @@ msgstr "創建測試設備"
 
 #: dashboard/index.html:44
 msgid "Create your prototype"
-msgstr ""
+msgstr "建立產品原型"
 
 #: development/index.html:57
 msgid "Create your prototype now!"
@@ -344,7 +344,7 @@ msgstr "開發"
 
 #: supports/tutorial.html:33
 msgid "Development cycle"
-msgstr ""
+msgstr "開發週期"
 
 #: development/detail/testdevicelist.html:11 management/device-list.html:77
 msgid "Device ID"
@@ -378,7 +378,7 @@ msgstr "設備版本"
 
 #: mydevices/dialogs/showapihint.html:16
 msgid "DeviceKey"
-msgstr ""
+msgstr "DeviceKey"
 
 #: management/device-list.html:61 management/product-list.html:55
 msgid "Devices"
@@ -538,7 +538,7 @@ msgstr "開始"
 
 #: supports/tutorial.html:36
 msgid "Getting started step by step"
-msgstr ""
+msgstr "詳細導覽"
 
 #: development/dialogs/finishCreateTestDevice.html:30
 msgid "Go to detail"
@@ -572,7 +572,7 @@ msgstr "高"
 
 #: supports/tutorial.html:61
 msgid "How to connect device"
-msgstr ""
+msgstr "如何連接裝置"
 
 #: development/dialogs/deleteConfirm.html:17
 msgid ""
@@ -588,15 +588,15 @@ msgstr "上傳影像"
 
 #: supports/tutorial.html:67
 msgid "Implement with Linkit Connect 7681"
-msgstr ""
+msgstr "Linkit Connect 7681 實際操作"
 
 #: supports/tutorial.html:64
 msgid "Implement with Linkit One"
-msgstr ""
+msgstr "Linkit One 實際操作"
 
 #: supports/tutorial.html:52
 msgid "Implement with device"
-msgstr ""
+msgstr "裝置實際操作"
 
 #: development/dialogs/createProducts.html:96
 #: development/dialogs/editProducts.html:93
@@ -625,7 +625,7 @@ msgstr "核心概念"
 
 #: profile/index.html:86
 msgid "Language"
-msgstr ""
+msgstr "語言"
 
 #: components/control/gps.html:55
 msgid "Latitude:"
@@ -892,7 +892,7 @@ msgstr "產品原型名稱"
 
 #: development/detail.html:76 development/index.html:115
 msgid "Prototype state"
-msgstr ""
+msgstr "產品原型狀態"
 
 #: development/dialogs/createProducts.html:25
 #: development/dialogs/editProducts.html:25
@@ -911,11 +911,11 @@ msgstr "將韌體更新推送至裝置"
 
 #: mydevices/detail/firmware.html:21
 msgid "Push&Edit&Delete"
-msgstr ""
+msgstr "推播＆編輯＆刪除"
 
 #: supports/tutorial.html:24
 msgid "Quick start guide"
-msgstr ""
+msgstr "快速上手指南"
 
 #: management/product-list.html:65
 msgid "Registered"
@@ -1010,7 +1010,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "Select the prerequisite firmware that are compatible for this firmware"
-msgstr ""
+msgstr "選擇可以相容的韌體"
 
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:1
 msgid ""
@@ -1044,20 +1044,21 @@ msgstr "智慧遠端控制手機應用程式"
 
 #: development/dialogs/addFirmware.html:26
 msgid "Step 1"
-msgstr ""
+msgstr "步驟一"
 
 #: development/dialogs/addFirmware.html:38
 #: development/dialogs/addFirmware.html:45
 msgid "Step 2"
-msgstr ""
+msgstr "步驟二"
 
 #: development/dialogs/addFirmware.html:55
 msgid "Step 3"
-msgstr ""
+msgstr "步驟三"
 
 #: supports/tutorial.html:14
 msgid "Step by guides to use the MCS service and build your IoT prototype."
 msgstr ""
+"我們提供逐步引導如何使用MCS服務的教程內容，讓您建立自己的物聯網產品原型。"
 
 #: development/dialogs/addComponentContent.html:142
 #: development/dialogs/addComponentContent.html:242
@@ -1270,6 +1271,8 @@ msgid ""
 "1.0 closed test environment\n"
 "and added several new features:"
 msgstr ""
+"歡迎到Mediatek Cloud Sandbox 2.0 。我們基於1.0服務，提升並改善了平台性能\n"
+"並增加了一些新的特點："
 
 #: dashboard/index.html:13
 msgid "What’s New"
@@ -1348,7 +1351,7 @@ msgstr "測試"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
-msgstr ""
+msgstr "升級你所上傳的檔案。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/index.html:106
