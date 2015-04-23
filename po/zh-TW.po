@@ -12,6 +12,14 @@ msgstr ""
 "X-Generator: Poedit 1.7.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: components/control/gps.html:61 components/control/gps.html:73
+msgid "(degree)"
+msgstr ""
+
+#: components/control/gps.html:84
+msgid "(meter)"
+msgstr ""
+
 #: development/detail/notification.html:54
 msgid "+ Add Notification"
 msgstr "+ 新增提醒"
@@ -146,6 +154,10 @@ msgstr "Arduino"
 msgid "Are you sure you want to delete? You cannot revert this action."
 msgstr "是否確定刪除？ 一但刪除將無法復原。"
 
+#: profile/dialogs/changePassword.html:101
+msgid "At least 8 characters"
+msgstr ""
+
 #: mydevices/detail.html:42
 msgid "Back to prototype"
 msgstr ""
@@ -212,10 +224,33 @@ msgstr "晶片"
 msgid "Choose file"
 msgstr "選擇檔案"
 
+#: development/dialogs/createProducts.html:151
+#: development/dialogs/editProducts.html:141
+msgid "Choose the application"
+msgstr ""
+
 #: development/dialogs/notification/create.html:67
 #: development/dialogs/notification/edit.html:67
 msgid "Choose the data channel"
 msgstr "選擇資料頻道"
+
+#: mydevices/detail/apihint.html:6
+msgid "Choose the dataChannel"
+msgstr ""
+
+#: development/dialogs/createProducts.html:51
+#: development/dialogs/editProducts.html:51
+msgid "Choose the hardware platform"
+msgstr ""
+
+#: development/dialogs/createProducts.html:107
+#: development/dialogs/editProducts.html:104
+msgid "Choose the industry"
+msgstr ""
+
+#: development/dialogs/userPrivilege.html:44
+msgid "Choose the role"
+msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:47
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:76
@@ -358,6 +393,10 @@ msgstr "設備金鑰"
 msgid "Device description"
 msgstr "設備描述"
 
+#: mydevices/dialogs/createDevices.html:48
+msgid "Device description ( default )"
+msgstr ""
+
 #: mydevices/detail.html:26 mydevices/detail.html:32
 msgid "Device detail"
 msgstr "設備詳情"
@@ -371,6 +410,10 @@ msgstr "設備清單"
 #: mydevices/dialogs/editDevices.html:10
 msgid "Device name"
 msgstr "設備名稱"
+
+#: mydevices/dialogs/createDevices.html:36
+msgid "Device name ( default )"
+msgstr ""
 
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
@@ -400,6 +443,10 @@ msgstr "顯示器"
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:86
 msgid "Done"
 msgstr "完成"
+
+#: components/control/float.html:3
+msgid "EX:0.01(only input float)"
+msgstr ""
 
 #: components/control/integer.html:3
 msgid "EX:100(only input integer)"
@@ -438,6 +485,10 @@ msgstr "編輯和刪除"
 #: mydevices/detail/userprivileges.html:11 profile/index.html:74
 msgid "Email"
 msgstr "電子郵件帳號"
+
+#: mydevices/dialogs/editDevices.html:15
+msgid "Enter device name"
+msgstr ""
 
 #: management/dialogs/createSerialNumber.html:71
 msgid "Enter your serials, one per line."
@@ -604,14 +655,123 @@ msgstr ""
 msgid "Industry"
 msgstr "產業"
 
+#: mydevices/dialogs/editDevices.html:35 mydevices/dialogs/editDevices.html:71
+#: mydevices/dialogs/editDevices.html:98
+msgid "Input chip name"
+msgstr ""
+
+#: development/dialogs/editComponent.html:39
+msgid "Input the component description"
+msgstr ""
+
+#: profile/dialogs/changePassword.html:47
+msgid "Input the confirm password"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:21
+#: development/dialogs/editComponent.html:21
+msgid "Input the data channel name"
+msgstr ""
+
+#: development/dialogs/createTestDevice.html:35
+msgid "Input the device description"
+msgstr ""
+
+#: development/dialogs/createTestDevice.html:20
+msgid "Input the device name"
+msgstr ""
+
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:16
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:16
+msgid "Input the device name or device ID"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:10
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:10
+msgid "Input the firmware name"
+msgstr ""
+
+#: development/dialogs/firmware/add/selectCompatibleFirmware.html:46
+#: development/dialogs/firmware/edit/selectCompatibleFirmware.html:42
+msgid "Input the firmware name or version"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:25
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:25
+msgid "Input the firmware version"
+msgstr ""
+
 #: components/control/hexstring.html:3
 msgid "Input the hexadecimal value, only 0-9 or A-F."
 msgstr "輸入十六近位值,，可接受值為0-9 或是A-F。"
+
+#: profile/dialogs/changePassword.html:35
+msgid "Input the new password"
+msgstr ""
+
+#: development/dialogs/notification/create.html:21
+#: development/dialogs/notification/edit.html:21
+msgid "Input the notification name"
+msgstr ""
+
+#: profile/dialogs/changePassword.html:16
+msgid "Input the old password"
+msgstr ""
+
+#: mydevices/dialogs/createDevices.html:15
+msgid "Input the product ID"
+msgstr ""
+
+#: development/dialogs/createProducts.html:91
+#: development/dialogs/editProducts.html:88
+msgid "Input the prototype description"
+msgstr ""
+
+#: development/dialogs/createProducts.html:20
+#: development/dialogs/editProducts.html:20
+msgid "Input the prototype name"
+msgstr ""
+
+#: development/dialogs/createProducts.html:34
+#: development/dialogs/editProducts.html:35
+msgid "Input the prototype version"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:36
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:36
+msgid "Input the release note"
+msgstr ""
+
+#: mydevices/dialogs/createDevices.html:26
+msgid "Input the serial number"
+msgstr ""
+
+#: components/control/string.html:3
+msgid "Input the string value."
+msgstr ""
+
+#: development/dialogs/userPrivilege.html:21
+msgid "Input the user name or email"
+msgstr ""
+
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:71
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
+msgid "Input your check sum information"
+msgstr ""
+
+#: profile/dialogs/changePassword.html:111
+msgid "Input your new password again"
+msgstr ""
 
 #: development/dialogs/addComponentContent.html:109
 #: development/dialogs/addComponentContent.html:209
 msgid "Integer"
 msgstr "整數"
+
+#: components/control/pwm.html:14 components/control/pwm.html:5
+#: components/control/pwmSlider.html:8
+msgid "Integer only"
+msgstr ""
 
 #: aside.html:64 header.html:52 supports/introduction.html:2
 #: supports/introduction.html:8
@@ -990,6 +1150,10 @@ msgstr "儲存"
 msgid "Search"
 msgstr "搜尋"
 
+#: mydevices/dialogs/userPrivilege.html:19
+msgid "Search User"
+msgstr ""
+
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
 msgid "Select all devices"
@@ -1149,6 +1313,11 @@ msgstr "此功能目前正在開發中，將會很快能夠提供服務 ！"
 msgid "This is my clicked marker!"
 msgstr "這是我的點擊標記！"
 
+#: development/dialogs/notification/create.html:144
+#: development/dialogs/notification/edit.html:143
+msgid "Threshold value"
+msgstr ""
+
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
 msgid "Time:"
@@ -1244,6 +1413,9 @@ msgid "User privileges"
 msgstr "使用者權限"
 
 #: development/detail/userprivileges.html:4
+msgid "Users"
+msgstr ""
+
 #: mydevices/detail/userprivileges.html:4
 msgid "Users ({{ privileges.length }})"
 msgstr "使用者 ({{ privileges.length }})"
@@ -1312,6 +1484,14 @@ msgstr "目前所在地時間"
 msgid "cancel"
 msgstr "取消"
 
+#: profile/index.html:92
+msgid "choose Language"
+msgstr ""
+
+#: profile/index.html:131
+msgid "choose Timezone"
+msgstr ""
+
 #: components/control/float.html:8 components/control/hexstring.html:8
 #: components/control/integer.html:8 components/control/pwm.html:8
 #: components/control/string.html:8
@@ -1341,6 +1521,10 @@ msgstr "jQuery"
 #: mydevices/dialogs/editDevices.html:145
 msgid "save"
 msgstr "儲存"
+
+#: mydevices/dialogs/userPrivilege.html:40
+msgid "select role"
+msgstr ""
 
 #: management/device-list.html:87
 msgid "test"
