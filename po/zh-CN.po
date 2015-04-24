@@ -379,14 +379,6 @@ msgstr "开发"
 msgid "Development cycle"
 msgstr ""
 
-#: development/detail/testdevicelist.html:11 management/device-list.html:77
-msgid "Device ID"
-msgstr "设备 ID"
-
-#: development/detail/testdevicelist.html:12
-msgid "Device Key"
-msgstr "设备金钥"
-
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
 msgstr ""
@@ -417,6 +409,13 @@ msgstr ""
 msgid "Device version"
 msgstr ""
 
+#: development/detail/testdevicelist.html:11
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
+#: management/device-list.html:77
+msgid "DeviceId"
+msgstr ""
+
+#: development/detail/testdevicelist.html:12
 #: mydevices/dialogs/showapihint.html:16
 msgid "DeviceKey"
 msgstr ""
@@ -681,7 +680,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:16
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:16
-msgid "Input the device name or device ID"
+msgid "Input the device name or DeviceId"
 msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:10
@@ -1163,6 +1162,7 @@ msgid "Select all firmware"
 msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:6
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:6
 msgid ""
 "Select the devices that you would like to upgrade to the firmware "
 "(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) you've uploaded."
@@ -1494,10 +1494,6 @@ msgstr ""
 msgid "device"
 msgstr ""
 
-#: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
-msgid "device ID"
-msgstr ""
-
 #: profile/index.html:194
 msgid "is different from your setting."
 msgstr ""
@@ -1526,6 +1522,12 @@ msgstr ""
 #: mydevices/index.html:106
 msgid "version"
 msgstr ""
+
+#~ msgid "Device ID"
+#~ msgstr "设备 ID"
+
+#~ msgid "Device Key"
+#~ msgstr "设备金钥"
 
 #~ msgid "Firmware ({{ firmwares.length }})"
 #~ msgstr "韧体 ({{ firmwares.length }})"
