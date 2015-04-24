@@ -579,7 +579,7 @@ msgstr "產生類別"
 
 #: dashboard/index.html:39
 msgid "Get you connected"
-msgstr "讓你連結"
+msgstr "讓你與世界連結"
 
 #: aside.html:86 supports/getting_started.html:2
 #: supports/getting_started.html:8
