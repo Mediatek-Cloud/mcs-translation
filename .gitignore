@@ -26,6 +26,4 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
-# We ignore .pot-files because .pot-files can be created every time we need it and sholud be deleted after updated to .po-files.
-pots
-*.pot
+.mo
