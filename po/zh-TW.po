@@ -121,7 +121,7 @@ msgstr "進階設置"
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
-msgstr "所有韌體(默認值)"
+msgstr "所有韌體(初始值)"
 
 #: components/control/gps.html:79
 msgid "Altitude:"
@@ -383,39 +383,39 @@ msgstr "開發週期"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
-msgstr "設備描述"
+msgstr "裝置描述"
 
 #: mydevices/dialogs/createDevices.html:48
 msgid "Device description ( default )"
-msgstr ""
+msgstr "裝置描述(初始值)"
 
 #: mydevices/detail.html:26 mydevices/detail.html:32
 msgid "Device detail"
-msgstr "設備詳情"
+msgstr "裝置詳細資料"
 
 #: mydevices/index.html:32
 msgid "Device list"
-msgstr "設備清單"
+msgstr "裝置列表"
 
 #: development/dialogs/createTestDevice.html:10
 #: mydevices/dialogs/createDevices.html:31
 #: mydevices/dialogs/editDevices.html:10
 msgid "Device name"
-msgstr "設備名稱"
+msgstr "裝置名稱"
 
 #: mydevices/dialogs/createDevices.html:36
 msgid "Device name ( default )"
-msgstr "裝置明撐 (初始值)"
+msgstr "裝置名稱 (初始值)"
 
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
-msgstr "設備版本"
+msgstr "裝置版本"
 
 #: development/detail/testdevicelist.html:11
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 #: management/device-list.html:77
 msgid "DeviceId"
-msgstr ""
+msgstr "DeviceId"
 
 #: development/detail/testdevicelist.html:12
 #: mydevices/dialogs/showapihint.html:16
@@ -424,15 +424,15 @@ msgstr "DeviceKey"
 
 #: management/device-list.html:61 management/product-list.html:55
 msgid "Devices"
-msgstr "設備"
+msgstr "裝置"
 
 #: development/detail/testdevicelist.html:4
 msgid "Devices ({{ devices.length }})"
-msgstr "設備 ({{ devices.length }})"
+msgstr "裝置 ({{ devices.length }})"
 
 #: management/device-list.html:37
 msgid "Devices list"
-msgstr "設備清單"
+msgstr "裝置列表"
 
 #: development/dialogs/addComponent.html:47
 msgid "Display"
@@ -462,7 +462,7 @@ msgstr "編輯數據通道"
 
 #: mydevices/dialogs/editDevices.html:3
 msgid "Edit device"
-msgstr "編輯設備"
+msgstr "編輯裝置"
 
 #: development/dialogs/editFirmware.html:3
 msgid "Edit firmware"
@@ -519,7 +519,7 @@ msgstr "問與答"
 
 #: header.html:123
 msgid "Feedback"
-msgstr "回饋"
+msgstr "反饋"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
 #: management/dialogs/createSerialNumber.html:45
@@ -702,7 +702,7 @@ msgstr "輸入韌體版本"
 
 #: components/control/hexstring.html:3
 msgid "Input the hexadecimal value, only 0-9 or A-F."
-msgstr "輸入十六近位值,，可接受值為0-9 或是A-F。"
+msgstr "輸入十六近位值，可接受值為0-9 或是A-F。"
 
 #: profile/dialogs/changePassword.html:35
 msgid "Input the new password"
@@ -865,11 +865,11 @@ msgstr "更多種類的資料型態"
 
 #: header.html:32
 msgid "My Devices"
-msgstr "我的設備"
+msgstr "我的裝置"
 
 #: aside.html:30 mydevices/detail.html:26 mydevices/index.html:26
 msgid "My devices"
-msgstr "我的設備"
+msgstr "我的裝置"
 
 #: components/control/gps.html:35
 msgid "My marker will reappear when you close me."
@@ -1390,8 +1390,8 @@ msgid ""
 "Use the My Devices to easily manage pre-release devices, track device "
 "registration rates, provide FOTA and more."
 msgstr ""
-"使用 My Devices 頁面來輕鬆管理尚未發佈的裝置, 追蹤裝置激活比例, 提供空中韌體"
-"更新以及其他功能."
+"使用我的裝置頁面來輕鬆管理尚未發佈的裝置, 追蹤裝置激活比例, 提供空中韌體更新"
+"以及其他功能."
 
 #: dashboard/index.html:49
 msgid ""
@@ -1471,7 +1471,7 @@ msgstr "你可以在此看到詳細資料"
 
 #: development/dialogs/finishCreateTestDevice.html:16
 msgid "You can see its detail in \"My devices\"."
-msgstr "你可以在 My Devices 頁面看到他的詳細資料"
+msgstr "你可以在 我的裝置頁面看到他的詳細資料"
 
 #: mydevices/detail/apihint.html:33
 msgid ""
