@@ -909,7 +909,7 @@ msgstr "尚無資料"
 
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
-msgstr "不用了，謝謝"
+msgstr "先不用"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:57
 msgid "Not now"
