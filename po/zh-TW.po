@@ -14,7 +14,7 @@ msgstr ""
 
 #: components/control/gps.html:61 components/control/gps.html:73
 msgid "(degree)"
-msgstr "（溫度）"
+msgstr "（度）"
 
 #: components/control/gps.html:84
 msgid "(meter)"
@@ -35,7 +35,7 @@ msgstr "+ 新增韌體"
 
 #: development/detail/testdevicelist.html:54
 msgid "+ Add test device"
-msgstr "+ 新增測試設備"
+msgstr "+ 新增測試裝置"
 
 #: development/detail/userprivileges.html:54
 #: mydevices/detail/userprivileges.html:56
@@ -232,7 +232,7 @@ msgstr "選擇應用程式"
 #: development/dialogs/notification/create.html:67
 #: development/dialogs/notification/edit.html:67
 msgid "Choose the data channel"
-msgstr "選擇資料頻道"
+msgstr "選擇資料通道"
 
 #: mydevices/detail/apihint.html:6
 msgid "Choose the dataChannel"
@@ -250,7 +250,7 @@ msgstr "選擇產業別"
 
 #: development/dialogs/userPrivilege.html:44
 msgid "Choose the role"
-msgstr "選擇腳色"
+msgstr "選擇角色"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:47
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:76
@@ -311,7 +311,7 @@ msgstr "創建原型"
 
 #: development/detail.html:51 development/dialogs/createTestDevice.html:3
 msgid "Create test device"
-msgstr "創建測試設備"
+msgstr "創建測試裝置"
 
 #: dashboard/index.html:44
 msgid "Create your prototype"
@@ -445,7 +445,7 @@ msgstr "完成"
 
 #: components/control/float.html:3
 msgid "EX:0.01(only input float)"
-msgstr "舉例: 0.01 (浮點數)"
+msgstr "例如: 0.01 (浮點數)"
 
 #: components/control/integer.html:3
 msgid "EX:100(only input integer)"
@@ -466,7 +466,7 @@ msgstr "編輯裝置"
 
 #: development/dialogs/editFirmware.html:3
 msgid "Edit firmware"
-msgstr "編及韌體"
+msgstr "編輯韌體"
 
 #: development/dialogs/notification/edit.html:3
 msgid "Edit notification"
@@ -491,7 +491,7 @@ msgstr "輸入裝置名稱"
 
 #: management/dialogs/createSerialNumber.html:71
 msgid "Enter your serials, one per line."
-msgstr "請輸入你的序號, 每個序號間請斷行."
+msgstr "請輸入你的序號，每個序號間請斷行。"
 
 #: management/device-list.html:79
 msgid "Error"
@@ -499,11 +499,11 @@ msgstr "錯誤"
 
 #: development/detail/manufacturerinfo.html:25
 msgid "Example : Prototype A"
-msgstr "範例: A 原型"
+msgstr "範例: 產品原型A"
 
 #: development/detail/manufacturerinfo.html:30
 msgid "Example : Prototype A2"
-msgstr "範例: A2 原型"
+msgstr "範例: 產品原型A2"
 
 #: development/detail/manufacturerinfo.html:24
 msgid "Example : Prototype name"
@@ -719,7 +719,7 @@ msgstr "輸入舊密碼"
 
 #: mydevices/dialogs/createDevices.html:15
 msgid "Input the product ID"
-msgstr "輸入輸入新Product ID"
+msgstr "輸入Product ID"
 
 #: development/dialogs/createProducts.html:91
 #: development/dialogs/editProducts.html:88
@@ -887,7 +887,7 @@ msgstr "新密碼"
 
 #: dashboard/index.html:30
 msgid "New version of the mobile application available now!"
-msgstr "有新版本的手機應用軟體可用下載！"
+msgstr "有新版本的手機應用軟體可以下載！"
 
 #: dashboard/index.html:8
 msgid "News from MediaTek Cloud Sandbox"
@@ -1014,7 +1014,7 @@ msgstr "首要條件"
 
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
-msgstr "產品ID"
+msgstr "Product ID"
 
 #: header.html:148
 msgid "Profile"
@@ -1030,7 +1030,7 @@ msgstr "個人檔案頁面"
 
 #: dashboard/index.html:82
 msgid "Prototype"
-msgstr "原型"
+msgstr "產品原型"
 
 #: management/device-list.html:60 management/product-list.html:46
 msgid "Prototype ID"
@@ -1070,7 +1070,7 @@ msgstr "將韌體更新推送至裝置"
 
 #: mydevices/detail/firmware.html:21
 msgid "Push&Edit&Delete"
-msgstr "推播＆編輯＆刪除"
+msgstr "推送＆編輯＆刪除"
 
 #: supports/tutorial.html:24
 msgid "Quick start guide"
@@ -1294,7 +1294,7 @@ msgstr "顯示資料通道允許您從您的設備中讀取資料。"
 msgid ""
 "The new LinkIt Connect 7681 development board is now available for you to "
 "use."
-msgstr "新的 LinkIt COnnect 7681 開發版現已可供您使用。"
+msgstr "新的 LinkIt Connect 7681 開發版現已可供您使用。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:30
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:30
@@ -1390,8 +1390,8 @@ msgid ""
 "Use the My Devices to easily manage pre-release devices, track device "
 "registration rates, provide FOTA and more."
 msgstr ""
-"使用我的裝置頁面來輕鬆管理尚未發佈的裝置, 追蹤裝置激活比例, 提供空中韌體更新"
-"以及其他功能."
+"使用我的裝置頁面來輕鬆管理尚未發佈的裝置，追蹤裝置激活比例， 提供空中韌體更新"
+"以及其他功能。"
 
 #: dashboard/index.html:49
 msgid ""
@@ -1507,7 +1507,7 @@ msgstr "複製到剪貼簿"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 msgid "device"
-msgstr "設備"
+msgstr "裝置"
 
 #: profile/index.html:194
 msgid "is different from your setting."

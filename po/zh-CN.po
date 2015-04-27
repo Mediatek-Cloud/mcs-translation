@@ -14,11 +14,11 @@ msgstr ""
 
 #: components/control/gps.html:61 components/control/gps.html:73
 msgid "(degree)"
-msgstr ""
+msgstr "（度）"
 
 #: components/control/gps.html:84
 msgid "(meter)"
-msgstr ""
+msgstr "（公尺）"
 
 #: development/detail/notification.html:54
 msgid "+ Add Notification"
@@ -31,11 +31,11 @@ msgstr "+ 新增资料频道"
 
 #: development/detail/firmware.html:68
 msgid "+ Add firmware"
-msgstr "+ 新增韧体"
+msgstr "+ 新增固件"
 
 #: development/detail/testdevicelist.html:54
 msgid "+ Add test device"
-msgstr "+ 新增测试设备"
+msgstr "+ 新增测试装置"
 
 #: development/detail/userprivileges.html:54
 #: mydevices/detail/userprivileges.html:56
@@ -45,7 +45,7 @@ msgstr "+ 新增使用者"
 #: development/dialogs/finishCreateTestDevice.html:15
 #: development/dialogs/finishRelease.html:9
 msgid "A test device is created successfully!"
-msgstr "测试设备已成功产生!"
+msgstr "测试设备已成功产生！"
 
 #: development/detail/notification.html:24
 #: mydevices/detail/notification.html:24
@@ -54,11 +54,11 @@ msgstr "和"
 
 #: mydevices/detail/components.html:102
 msgid "API Hint"
-msgstr ""
+msgstr "API 提示"
 
 #: mydevices/detail.html:180 mydevices/dialogs/showapihint.html:3
 msgid "API hint"
-msgstr ""
+msgstr "API 提示"
 
 #: api_references/index.html:26
 msgid "API reference"
@@ -71,11 +71,11 @@ msgstr "API 参考资料集"
 
 #: mydevices/detail/apihint.html:52 mydevices/dialogs/showapihint.html:22
 msgid "API type"
-msgstr ""
+msgstr "API 类型"
 
 #: management/device-list.html:78
 msgid "Activated date"
-msgstr ""
+msgstr "激活日期"
 
 #: development/detail/components.html:15
 #: development/dialogs/addComponent.html:30
@@ -86,20 +86,20 @@ msgstr "新增"
 
 #: development/detail/components.html:10
 msgid "Add Data channel now!"
-msgstr "马上新增资料频道!"
+msgstr "马上新增数据通道！"
 
 #: development/dialogs/addComponent.html:3
 #: development/dialogs/addComponentContent.html:3
 msgid "Add data channel"
-msgstr ""
+msgstr "添加数据通道"
 
 #: mydevices/dialogs/createDevices.html:3
 msgid "Add devices"
-msgstr ""
+msgstr "新增设备"
 
 #: development/dialogs/addFirmware.html:3
 msgid "Add firmware"
-msgstr ""
+msgstr "新增固件"
 
 #: development/dialogs/notification/create.html:3
 msgid "Add notification"
@@ -116,12 +116,12 @@ msgstr "马上新增设备!"
 
 #: supports/tutorial.html:83
 msgid "Advanced setting"
-msgstr ""
+msgstr "高级设定"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
-msgstr ""
+msgstr "所有固件（默认值）"
 
 #: components/control/gps.html:79
 msgid "Altitude:"
@@ -134,17 +134,17 @@ msgstr "和"
 
 #: dashboard/index.html:57
 msgid "And now your prototype is ready to connect to the world."
-msgstr ""
+msgstr "现在您的产品原型准备好和世界连结了。"
 
 #: mydevices/detail/apihint.html:94 mydevices/dialogs/showapihint.html:81
 msgid "Angular"
-msgstr ""
+msgstr "Angular"
 
 #: development/dialogs/createProducts.html:140
 #: development/dialogs/editProducts.html:130
 #: mydevices/dialogs/editDevices.html:92
 msgid "Application"
-msgstr "应用程式"
+msgstr "应用程序"
 
 #: mydevices/detail/apihint.html:85 mydevices/dialogs/showapihint.html:63
 msgid "Arduino"
@@ -152,19 +152,19 @@ msgstr "Arduino"
 
 #: development/dialogs/deleteConfirm.html:17
 msgid "Are you sure you want to delete? You cannot revert this action."
-msgstr ""
+msgstr "是否确定删除？一但删除将无法复原。"
 
 #: profile/dialogs/changePassword.html:101
 msgid "At least 8 characters"
-msgstr ""
+msgstr "至少8个字元"
 
 #: mydevices/detail.html:42
 msgid "Back to prototype"
-msgstr ""
+msgstr "回到产品原型"
 
 #: dashboard/index.html:40
 msgid "Before started, here are the quick steps to get you off the ground."
-msgstr ""
+msgstr "在正式开始之前,，你可以使用快速上手指南来帮助你了解平台。"
 
 #: dashboard/index.html:26
 msgid ""
@@ -173,10 +173,12 @@ msgid ""
 "enable easy embedding into small and simple home appliances such as smart "
 "lighting, and door locks."
 msgstr ""
+"MediaTek LinkIt Connect 7681 开发版内件的MT7681芯片以及支援Wi-Fi和TCP/IP 连接"
+"阜的晶片组， 能够很容易的被嵌入小儿简单的家电设备,，例如智慧照明和门锁。"
 
 #: development/dialogs/addComponent.html:82
 msgid "Can't find your template?"
-msgstr ""
+msgstr "找不到想要的模版吗？"
 
 #: date.html:6 development/dialogs/addComponentContent.html:449
 #: development/dialogs/createProducts.html:219
@@ -206,16 +208,16 @@ msgstr "分类"
 
 #: profile/dialogs/changePassword.html:3
 msgid "Change password"
-msgstr ""
+msgstr "更改密码"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:66
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:42
 msgid "Check Sum"
-msgstr ""
+msgstr "检核码"
 
 #: mydevices/dialogs/editDevices.html:29
 msgid "Chip"
-msgstr ""
+msgstr "芯片"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:55
 #: management/dialogs/createSerialNumber.html:55
@@ -225,30 +227,30 @@ msgstr "选择档案"
 #: development/dialogs/createProducts.html:151
 #: development/dialogs/editProducts.html:141
 msgid "Choose the application"
-msgstr ""
+msgstr "选择应用程序"
 
 #: development/dialogs/notification/create.html:67
 #: development/dialogs/notification/edit.html:67
 msgid "Choose the data channel"
-msgstr "选择资料频道"
+msgstr "选择资料通道"
 
 #: mydevices/detail/apihint.html:6
 msgid "Choose the dataChannel"
-msgstr ""
+msgstr "选择资料通道"
 
 #: development/dialogs/createProducts.html:51
 #: development/dialogs/editProducts.html:51
 msgid "Choose the hardware platform"
-msgstr ""
+msgstr "选择硬件平台"
 
 #: development/dialogs/createProducts.html:107
 #: development/dialogs/editProducts.html:104
 msgid "Choose the industry"
-msgstr ""
+msgstr "选择产业别"
 
 #: development/dialogs/userPrivilege.html:44
 msgid "Choose the role"
-msgstr ""
+msgstr "选择角色"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:47
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:76
@@ -259,41 +261,41 @@ msgstr "清除所选"
 
 #: development/detail/manufacturerinfo.html:6
 msgid "Click the edit button. Let's start editing !"
-msgstr ""
+msgstr "点击编辑按钮，开始编辑！"
 
 #: dashboard/index.html:48
 msgid "Collect the data"
-msgstr ""
+msgstr "搜集资料"
 
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
-msgstr ""
+msgstr "即将推出"
 
 #: development/dialogs/addFirmware.html:38
 #: development/dialogs/addFirmware.html:45
 #: development/dialogs/editFirmware.html:26
 msgid "Compatible firmware"
-msgstr ""
+msgstr "相容的固件"
 
 #: profile/dialogs/changePassword.html:42
 msgid "Confirm password"
-msgstr ""
+msgstr "确认密码"
 
 #: supports/connect_device.html:2 supports/connect_device.html:8
 msgid "Connect device"
-msgstr ""
+msgstr "连接装置"
 
 #: dashboard/index.html:56
 msgid "Connect to the world"
-msgstr ""
+msgstr "和世界连结"
 
 #: dashboard/index.html:52
 msgid "Control the device"
-msgstr ""
+msgstr "控制装置"
 
 #: development/dialogs/addComponent.html:21
 msgid "Controller"
-msgstr ""
+msgstr "调节器"
 
 #: development/index.html:59
 msgid "Create"
@@ -301,7 +303,7 @@ msgstr "创建"
 
 #: dashboard/index.html:85
 msgid "Create new"
-msgstr ""
+msgstr "创建"
 
 #: development/dialogs/createProducts.html:3
 msgid "Create prototype"
@@ -309,15 +311,15 @@ msgstr "创建原型"
 
 #: development/detail.html:51 development/dialogs/createTestDevice.html:3
 msgid "Create test device"
-msgstr "创建测试设备"
+msgstr "创建测试装置"
 
 #: dashboard/index.html:44
 msgid "Create your prototype"
-msgstr ""
+msgstr "建立產品原型建立产品原型"
 
 #: development/index.html:57
 msgid "Create your prototype now!"
-msgstr "马上创建原型!"
+msgstr "马上建立产品原型！"
 
 #: aside.html:12 dashboard/index.html:2
 msgid "Dashboard"
@@ -325,7 +327,7 @@ msgstr "仪表板"
 
 #: development/detail.html:139 mydevices/detail.html:149
 msgid "Data channel"
-msgstr ""
+msgstr "数据通道"
 
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
@@ -335,15 +337,15 @@ msgstr "资料频道Id"
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11 mydevices/detail/apihint.html:40
 msgid "Data channel name"
-msgstr ""
+msgstr "数据通道名称"
 
 #: development/dialogs/addComponentContent.html:69
 msgid "Data type"
-msgstr ""
+msgstr "资料型态"
 
 #: dashboard/index.html:45
 msgid "Define your prototype and the data you want to collect."
-msgstr ""
+msgstr "定义你的产品原型以及想要储存的资料型态"
 
 #: development/detail.html:122 development/detail/components.html:123
 #: development/index.html:97 mydevices/detail.html:131 mydevices/index.html:91
@@ -353,7 +355,7 @@ msgstr "删除"
 #: development/dialogs/notification/create.html:162
 #: development/dialogs/notification/edit.html:161
 msgid "Delete data channel"
-msgstr ""
+msgstr "删除数据通道"
 
 #: development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
@@ -368,7 +370,7 @@ msgstr "描述"
 #: development/index.html:129 management/device-list.html:105
 #: mydevices/index.html:119
 msgid "Detail"
-msgstr ""
+msgstr "详情"
 
 #: aside.html:21 development/detail.html:26 development/index.html:26
 #: header.html:24
@@ -377,73 +379,73 @@ msgstr "开发"
 
 #: supports/tutorial.html:33
 msgid "Development cycle"
-msgstr ""
+msgstr "开发周期"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
-msgstr ""
+msgstr "装置详情"
 
 #: mydevices/dialogs/createDevices.html:48
 msgid "Device description ( default )"
-msgstr ""
+msgstr "装置详情（默认值）"
 
 #: mydevices/detail.html:26 mydevices/detail.html:32
 msgid "Device detail"
-msgstr ""
+msgstr "装置详情"
 
 #: mydevices/index.html:32
 msgid "Device list"
-msgstr ""
+msgstr "装置列表"
 
 #: development/dialogs/createTestDevice.html:10
 #: mydevices/dialogs/createDevices.html:31
 #: mydevices/dialogs/editDevices.html:10
 msgid "Device name"
-msgstr ""
+msgstr "装置名称"
 
 #: mydevices/dialogs/createDevices.html:36
 msgid "Device name ( default )"
-msgstr ""
+msgstr "装置名称（默认值）"
 
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
-msgstr ""
+msgstr "装置版本"
 
 #: development/detail/testdevicelist.html:11
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 #: management/device-list.html:77
 msgid "DeviceId"
-msgstr ""
+msgstr "DeviceId"
 
 #: development/detail/testdevicelist.html:12
 #: mydevices/dialogs/showapihint.html:16
 msgid "DeviceKey"
-msgstr ""
+msgstr "DeviceKey"
 
 #: management/device-list.html:61 management/product-list.html:55
 msgid "Devices"
-msgstr ""
+msgstr "装置"
 
 #: development/detail/testdevicelist.html:4
 msgid "Devices ({{ devices.length }})"
-msgstr "设备 ({{ devices.length }})"
+msgstr "装置 ({{ devices.length }})"
 
 #: management/device-list.html:37
 msgid "Devices list"
-msgstr ""
+msgstr "装置列表"
 
 #: development/dialogs/addComponent.html:47
 msgid "Display"
-msgstr ""
+msgstr "显示器"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:58
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:86
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #: components/control/float.html:3
 msgid "EX:0.01(only input float)"
-msgstr ""
+msgstr "例如： 0.01 （浮点数）"
 
 #: components/control/integer.html:3
 msgid "EX:100(only input integer)"
@@ -456,60 +458,60 @@ msgstr "编辑"
 
 #: development/dialogs/editComponent.html:3
 msgid "Edit data channel"
-msgstr ""
+msgstr "编辑数据通道"
 
 #: mydevices/dialogs/editDevices.html:3
 msgid "Edit device"
-msgstr ""
+msgstr "编辑装置"
 
 #: development/dialogs/editFirmware.html:3
 msgid "Edit firmware"
-msgstr ""
+msgstr "编辑固件"
 
 #: development/dialogs/notification/edit.html:3
 msgid "Edit notification"
-msgstr ""
+msgstr "编辑通知"
 
 #: development/dialogs/editProducts.html:3
 msgid "Edit prototype"
-msgstr ""
+msgstr "编辑产品原型"
 
 #: development/detail/firmware.html:15 development/detail/notification.html:12
 msgid "Edit&Delete"
-msgstr "编辑和删除"
+msgstr "编辑＆删除"
 
 #: development/detail/userprivileges.html:11
 #: mydevices/detail/userprivileges.html:11 profile/index.html:74
 msgid "Email"
-msgstr ""
+msgstr "电子邮件"
 
 #: mydevices/dialogs/editDevices.html:15
 msgid "Enter device name"
-msgstr ""
+msgstr "輸入裝置名稱"
 
 #: management/dialogs/createSerialNumber.html:71
 msgid "Enter your serials, one per line."
-msgstr ""
+msgstr "請輸入你的序號，每個序號間請斷行。"
 
 #: management/device-list.html:79
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: development/detail/manufacturerinfo.html:25
 msgid "Example : Prototype A"
-msgstr ""
+msgstr "范例：产品原型A"
 
 #: development/detail/manufacturerinfo.html:30
 msgid "Example : Prototype A2"
-msgstr ""
+msgstr "范例：产品原型A2"
 
 #: development/detail/manufacturerinfo.html:24
 msgid "Example : Prototype name"
-msgstr ""
+msgstr "范例：产品原型名称"
 
 #: development/detail/manufacturerinfo.html:29
 msgid "Example : Prototype name2"
-msgstr ""
+msgstr "范例：产品原型名称2"
 
 #: aside.html:111 header.html:103 supports/faq.html:2 supports/faq.html:8
 msgid "FAQ"
@@ -522,28 +524,28 @@ msgstr "回馈"
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
 #: management/dialogs/createSerialNumber.html:45
 msgid "File upload"
-msgstr ""
+msgstr "上传文件"
 
 #: development/detail.html:158 development/detail/firmware.html:4
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/detail.html:170 mydevices/detail/firmware.html:10
 msgid "Firmware"
-msgstr ""
+msgstr "固件"
 
 #: development/dialogs/addFirmware.html:27
 #: development/dialogs/editFirmware.html:17
 msgid "Firmware information"
-msgstr ""
+msgstr "固件信息"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:3
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:3
 msgid "Firmware name"
-msgstr ""
+msgstr "固件名称"
 
 #: development/dialogs/addComponentContent.html:120
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
-msgstr ""
+msgstr "浮点数"
 
 #: profile/dialogs/changePassword.html:24
 msgid "Forgot passowrd"
@@ -556,46 +558,46 @@ msgstr "论坛"
 #: development/dialogs/addComponentContent.html:164
 #: development/dialogs/addComponentContent.html:264
 msgid "GPIO"
-msgstr ""
+msgstr "GPIO"
 
 #: development/dialogs/addComponentContent.html:153
 #: development/dialogs/addComponentContent.html:253
 msgid "GPS"
-msgstr ""
+msgstr "GPS"
 
 #: management/dialogs/createSerialNumber.html:88
 msgid "Generate"
-msgstr ""
+msgstr "产生"
 
 #: management/device-list.html:63 management/dialogs/createSerialNumber.html:3
 msgid "Generate serial numbers"
-msgstr ""
+msgstr "产生序列号"
 
 #: management/dialogs/createSerialNumber.html:11
 msgid "Generate type"
-msgstr ""
+msgstr "产生类别"
 
 #: dashboard/index.html:39
 msgid "Get you connected"
-msgstr ""
+msgstr "让你与世界连结"
 
 #: aside.html:86 supports/getting_started.html:2
 #: supports/getting_started.html:8
 msgid "Getting started"
-msgstr ""
+msgstr "入门"
 
 #: supports/tutorial.html:36
 msgid "Getting started step by step"
-msgstr ""
+msgstr "详细入门导览"
 
 #: development/dialogs/finishCreateTestDevice.html:30
 msgid "Go to detail"
-msgstr ""
+msgstr "详细资讯"
 
 #: development/dialogs/createProducts.html:40
 #: development/dialogs/editProducts.html:40
 msgid "Hardware platform"
-msgstr ""
+msgstr "硬件平台"
 
 #: header.html:95 supports/faq.html:2 supports/terms_of_use.html:2
 msgid "Help"
@@ -603,12 +605,12 @@ msgstr "帮助"
 
 #: mydevices/detail/apihint.html:32
 msgid "Here is the API hint for you."
-msgstr ""
+msgstr "这里是可能有帮助的API提示"
 
 #: development/dialogs/addComponentContent.html:131
 #: development/dialogs/addComponentContent.html:231
 msgid "Hex"
-msgstr ""
+msgstr "十六近位值"
 
 #: development/detail/components.html:110 mydevices/detail/components.html:95
 msgid "Hide History"
@@ -616,159 +618,159 @@ msgstr "隐藏历史资料"
 
 #: components/control/gpio.html:3
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #: supports/tutorial.html:61
 msgid "How to connect device"
-msgstr ""
+msgstr "如何连接装置"
 
 #: development/dialogs/deleteConfirm.html:17
 msgid ""
 "If you delete a prototype, all test devices in it will be deleted as well."
-msgstr ""
+msgstr "如果你删除了产品原型，所有包含的测试装置也会跟着被删除。"
 
 #: development/dialogs/createProducts.html:181
 #: development/dialogs/editProducts.html:168
 #: mydevices/dialogs/createDevices.html:52
 #: mydevices/dialogs/editDevices.html:119
 msgid "Image upload"
-msgstr ""
+msgstr "图片上传"
 
 #: supports/tutorial.html:67
 msgid "Implement with Linkit Connect 7681"
-msgstr ""
+msgstr "Linkit Connect 7681 实际操作"
 
 #: supports/tutorial.html:64
 msgid "Implement with Linkit One"
-msgstr ""
+msgstr "Linkit One 实际操作"
 
 #: supports/tutorial.html:52
 msgid "Implement with device"
-msgstr ""
+msgstr "装置实际操作"
 
 #: development/dialogs/createProducts.html:96
 #: development/dialogs/editProducts.html:93
 #: mydevices/dialogs/editDevices.html:65
 msgid "Industry"
-msgstr ""
+msgstr "行业"
 
 #: mydevices/dialogs/editDevices.html:35 mydevices/dialogs/editDevices.html:71
 #: mydevices/dialogs/editDevices.html:98
 msgid "Input chip name"
-msgstr ""
+msgstr "输入芯片名称"
 
 #: development/dialogs/editComponent.html:39
 msgid "Input the component description"
-msgstr ""
+msgstr "输入组件描述"
 
 #: profile/dialogs/changePassword.html:47
 msgid "Input the confirm password"
-msgstr ""
+msgstr "输入确认密码"
 
 #: development/dialogs/addComponentContent.html:21
 #: development/dialogs/editComponent.html:21
 msgid "Input the data channel name"
-msgstr ""
+msgstr "输入资料通道名称"
 
 #: development/dialogs/createTestDevice.html:35
 msgid "Input the device description"
-msgstr ""
+msgstr "输入装置描述"
 
 #: development/dialogs/createTestDevice.html:20
 msgid "Input the device name"
-msgstr ""
+msgstr "输入装置名称"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:16
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:16
 msgid "Input the device name or DeviceId"
-msgstr ""
+msgstr "输入装置名称或是DeviceId"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:10
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:10
 msgid "Input the firmware name"
-msgstr ""
+msgstr "输入固件名称"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:46
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:42
 msgid "Input the firmware name or version"
-msgstr ""
+msgstr "输入固件名称或版本"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:25
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:25
 msgid "Input the firmware version"
-msgstr ""
+msgstr "输入固件版本"
 
 #: components/control/hexstring.html:3
 msgid "Input the hexadecimal value, only 0-9 or A-F."
-msgstr ""
+msgstr "输入十六进制值，可接受值为0-9或A- F。"
 
 #: profile/dialogs/changePassword.html:35
 msgid "Input the new password"
-msgstr ""
+msgstr "输入新的密码"
 
 #: development/dialogs/notification/create.html:21
 #: development/dialogs/notification/edit.html:21
 msgid "Input the notification name"
-msgstr ""
+msgstr "输入通知名称"
 
 #: profile/dialogs/changePassword.html:16
 msgid "Input the old password"
-msgstr ""
+msgstr "输入旧密码"
 
 #: mydevices/dialogs/createDevices.html:15
 msgid "Input the product ID"
-msgstr ""
+msgstr "输入Product ID"
 
 #: development/dialogs/createProducts.html:91
 #: development/dialogs/editProducts.html:88
 msgid "Input the prototype description"
-msgstr ""
+msgstr "输入产品原型描述"
 
 #: development/dialogs/createProducts.html:20
 #: development/dialogs/editProducts.html:20
 msgid "Input the prototype name"
-msgstr ""
+msgstr "输入产品原型名称"
 
 #: development/dialogs/createProducts.html:34
 #: development/dialogs/editProducts.html:35
 msgid "Input the prototype version"
-msgstr ""
+msgstr "输入产品原型版本"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:36
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:36
 msgid "Input the release note"
-msgstr ""
+msgstr "输入发行说明"
 
 #: mydevices/dialogs/createDevices.html:26
 msgid "Input the serial number"
-msgstr ""
+msgstr "输入序列号"
 
 #: components/control/string.html:3
 msgid "Input the string value."
-msgstr ""
+msgstr "输入字串"
 
 #: development/dialogs/userPrivilege.html:21
 msgid "Input the user name or email"
-msgstr ""
+msgstr "输入用户名或电子邮件"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:71
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
 msgid "Input your check sum information"
-msgstr ""
+msgstr "输入检核码"
 
 #: profile/dialogs/changePassword.html:111
 msgid "Input your new password again"
-msgstr ""
+msgstr "再次输入您的新密码"
 
 #: development/dialogs/addComponentContent.html:109
 #: development/dialogs/addComponentContent.html:209
 msgid "Integer"
-msgstr ""
+msgstr "整数"
 
 #: components/control/pwm.html:14 components/control/pwm.html:5
 #: components/control/pwmSlider.html:8
 msgid "Integer only"
-msgstr ""
+msgstr "只接受整数"
 
 #: aside.html:64 header.html:52 supports/introduction.html:2
 #: supports/introduction.html:8
@@ -778,38 +780,38 @@ msgstr "介绍"
 #: aside.html:70 header.html:59 supports/key_concept.html:2
 #: supports/key_concept.html:8
 msgid "Key concepts"
-msgstr ""
+msgstr "核心概念"
 
 #: profile/index.html:86
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: components/control/gps.html:55
 msgid "Latitude:"
-msgstr ""
+msgstr "纬度："
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:29
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:26
 msgid "Limit Firmware"
-msgstr ""
+msgstr "特定的固件"
 
 #: dashboard/index.html:24
 msgid "LinkIt Connect 7681 Development Board Support"
-msgstr ""
+msgstr "LinkIt Connect 7681开发版支援"
 
 #: aside.html:100 supports/implementing_using_mt7681_development_board.html:2
 #: supports/implementing_using_mt7681_development_board.html:8
 msgid "Linkit connect tutorial"
-msgstr ""
+msgstr "LinkIt Connect 教程"
 
 #: aside.html:93 supports/implementing_using_linkit_one.html:2
 #: supports/implementing_using_linkit_one.html:8
 msgid "Linkit one tutorial"
-msgstr ""
+msgstr "LinkIt One教程"
 
 #: mydevices/detail/firmware.html:56
 msgid "Loading..."
-msgstr ""
+msgstr "加载中..."
 
 #: header.html:153
 msgid "Log Out"
@@ -817,40 +819,40 @@ msgstr "登出"
 
 #: components/control/gps.html:67
 msgid "Longitude:"
-msgstr ""
+msgstr "经度："
 
 #: components/control/gpio.html:2
 msgid "Low"
-msgstr ""
+msgstr "低"
 
 #: mydevices/dialogs/editDevices.html:47
 msgid "MT7681"
-msgstr ""
+msgstr "MT7681"
 
 #: development/dialogs/finishRelease.html:10 management/product-list.html:4
 msgid "Management"
-msgstr ""
+msgstr "管理"
 
 #: management/device-list.html:31
 msgid "Management > Devices list"
-msgstr ""
+msgstr "管理>装置列表"
 
 #: management/product-list.html:10
 msgid "Management list"
-msgstr ""
+msgstr "管理列表"
 
 #: supports/managing_firmware.html:2 supports/managing_firmware.html:8
 #: supports/tutorial.html:97
 msgid "Managing firmware"
-msgstr "管理韧体"
+msgstr "管理固件"
 
 #: management/dialogs/createSerialNumber.html:32
 msgid "Manual"
-msgstr ""
+msgstr "手动"
 
 #: management/dialogs/createSerialNumber.html:65
 msgid "Manually enter serial numbers"
-msgstr ""
+msgstr "手动输入序列号"
 
 #: aside.html:106 header.html:82 supports/mobile_application.html:2
 #: supports/mobile_application.html:8
@@ -859,19 +861,19 @@ msgstr "行动应用"
 
 #: dashboard/index.html:19
 msgid "More Data Types"
-msgstr ""
+msgstr "更多种类的资料型态"
 
 #: header.html:32
 msgid "My Devices"
-msgstr "我的设备"
+msgstr "我的装置"
 
 #: aside.html:30 mydevices/detail.html:26 mydevices/index.html:26
 msgid "My devices"
-msgstr "我的设备"
+msgstr "我的装置"
 
 #: components/control/gps.html:35
 msgid "My marker will reappear when you close me."
-msgstr ""
+msgstr "当您关闭后，注记将重新出现。"
 
 #: development/detail/firmware.html:10 development/detail/notification.html:10
 #: development/detail/testdevicelist.html:10 mydevices/detail/firmware.html:17
@@ -881,70 +883,70 @@ msgstr "姓名"
 
 #: profile/dialogs/changePassword.html:30
 msgid "New password"
-msgstr ""
+msgstr "新密码"
 
 #: dashboard/index.html:30
 msgid "New version of the mobile application available now!"
-msgstr ""
+msgstr "有新版本的手机应用软件可以下载！"
 
 #: dashboard/index.html:8
 msgid "News from MediaTek Cloud Sandbox"
-msgstr ""
+msgstr "来自MediaTek Cloud Sandbox的最新消息"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
 msgid "Next"
-msgstr ""
+msgstr "下一步"
 
 #: profile/index.html:70
 msgid "Nick name"
-msgstr ""
+msgstr "绰号"
 
 #: components/graph/gpio.html:7 components/graph/line.html:7
 #: components/graph/pwm.html:7
 msgid "No Data Available"
-msgstr ""
+msgstr "尚无资料"
 
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
-msgstr ""
+msgstr "先不用"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:57
 msgid "Not now"
-msgstr ""
+msgstr "稍等"
 
 #: development/dialogs/deleteConfirm.html:5
 msgid "Notice!"
-msgstr ""
+msgstr "注意！"
 
 #: development/detail.html:146 development/detail/notification.html:4
 #: mydevices/detail.html:156
 msgid "Notification"
-msgstr ""
+msgstr "通知"
 
 #: development/detail/notification.html:11
 #: mydevices/detail/notification.html:11
 msgid "Notification Rules"
-msgstr ""
+msgstr "通知规则"
 
 #: development/dialogs/notification/create.html:14
 #: development/dialogs/notification/edit.html:14
 msgid "Notification name"
-msgstr ""
+msgstr "通知名称"
 
 #: development/dialogs/notification/create.html:53
 #: development/dialogs/notification/edit.html:53
 msgid "Notification rule"
-msgstr ""
+msgstr "通知规则"
 
 #: mydevices/detail/firmware.html:54
 msgid "Now used"
-msgstr ""
+msgstr "现正使用"
 
 #: development/dialogs/addComponentContent.html:292
 #: development/dialogs/addComponentContent.html:332
 msgid "Number of categories"
-msgstr ""
+msgstr "分类数目"
 
 #: alert.html:23 components/category/selectFromToDate.html:69
 #: components/control/float.html:12 components/control/gps.html:92
@@ -960,7 +962,7 @@ msgstr "确认"
 #: development/dialogs/addComponentContent.html:187
 #: development/dialogs/addComponentContent.html:87
 msgid "ON / OFF"
-msgstr ""
+msgstr "开关"
 
 #: profile/dialogs/changePassword.html:11
 msgid "Old password"
@@ -969,50 +971,50 @@ msgstr "旧密码"
 #: development/dialogs/notification/create.html:179
 #: development/dialogs/notification/edit.html:178
 msgid "Only support integer and float data channel types."
-msgstr ""
+msgstr "只支持整数和浮点数的资料通道类型。"
 
 #: mydevices/detail/notification.html:12
 msgid "Open/Close"
-msgstr ""
+msgstr "开/关"
 
 #: development/detail/testdevicelist.html:16
 #: development/detail/userprivileges.html:13
 #: mydevices/detail/userprivileges.html:13
 msgid "Operate"
-msgstr ""
+msgstr "操作"
 
 #: dashboard/index.html:35
 msgid "Over-the-Air (OTA) Firmware Updates"
-msgstr ""
+msgstr "空中固件更新"
 
 #: development/dialogs/addComponentContent.html:175
 #: development/dialogs/addComponentContent.html:275
 msgid "PWM"
-msgstr ""
+msgstr "PWM"
 
 #: profile/index.html:78
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: components/control/pwm.html:13 components/control/pwmSlider.html:4
 msgid "Period"
-msgstr ""
+msgstr "期间"
 
 #: development/dialogs/release.html:9
 msgid "Please confirm if you want to release this prototype."
-msgstr ""
+msgstr "请确认是否要发布这个产品原型。"
 
 #: development/dialogs/addComponentContent.html:366
 msgid "Please select a template that best meet your data channel"
-msgstr ""
+msgstr "请选择最符合您的数据通道的模板"
 
 #: development/detail/firmware.html:13
 msgid "Prerequisite"
-msgstr ""
+msgstr "条件"
 
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
-msgstr ""
+msgstr "Product ID"
 
 #: header.html:148
 msgid "Profile"
@@ -1020,90 +1022,90 @@ msgstr "个人档案"
 
 #: profile/index.html:33
 msgid "Profile detail"
-msgstr ""
+msgstr "详细个人资料"
 
 #: profile/index.html:27
 msgid "Profile page"
-msgstr ""
+msgstr "个人资料页"
 
 #: dashboard/index.html:82
 msgid "Prototype"
-msgstr "原型"
+msgstr "产品原型"
 
 #: management/device-list.html:60 management/product-list.html:46
 msgid "Prototype ID"
-msgstr ""
+msgstr "产品原型ID"
 
 #: development/detail.html:26 development/detail.html:39
 msgid "Prototype detail"
-msgstr ""
+msgstr "产品原型细节"
 
 #: development/index.html:32
 msgid "Prototype list"
-msgstr ""
+msgstr "产品原型列表"
 
 #: development/dialogs/createProducts.html:10
 #: development/dialogs/editProducts.html:10
 msgid "Prototype name"
-msgstr ""
+msgstr "产品原型名称"
 
 #: development/detail.html:76 development/index.html:115
 msgid "Prototype state"
-msgstr ""
+msgstr "产品原型状态"
 
 #: development/dialogs/createProducts.html:25
 #: development/dialogs/editProducts.html:25
 msgid "Prototype version"
-msgstr ""
+msgstr "产品原型版本"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:67
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:65
 msgid "Push"
-msgstr ""
+msgstr "推送"
 
 #: development/dialogs/addFirmware.html:55
 #: development/dialogs/editFirmware.html:34
 msgid "Push firmware to device"
-msgstr ""
+msgstr "将固件更新推送至装置"
 
 #: mydevices/detail/firmware.html:21
 msgid "Push&Edit&Delete"
-msgstr ""
+msgstr "推送与编辑和删除"
 
 #: supports/tutorial.html:24
 msgid "Quick start guide"
-msgstr ""
+msgstr "快速入门指南"
 
 #: management/product-list.html:65
 msgid "Registered"
-msgstr ""
+msgstr "注册"
 
 #: development/detail/testdevicelist.html:13
 msgid "Registered date"
-msgstr ""
+msgstr "注册日期"
 
 #: management/product-list.html:72
 msgid "Registered rate"
-msgstr ""
+msgstr "注册比例"
 
 #: development/detail/firmware.html:14 mydevices/detail/firmware.html:20
 msgid "Release date"
-msgstr ""
+msgstr "发布日期"
 
 #: development/detail/firmware.html:12
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:34
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:34
 #: mydevices/detail/firmware.html:19
 msgid "Release note"
-msgstr ""
+msgstr "发布说明"
 
 #: development/dialogs/release.html:24
 msgid "Release with serial number generator."
-msgstr ""
+msgstr "发布有编号产生器的产品原型。"
 
 #: development/dialogs/release.html:33
 msgid "Release without serial number generator."
-msgstr ""
+msgstr "发布没有编号产生器的产品原型。"
 
 #: api_references/index.html:2 header.html:44
 #: supports/28_using_notification.html:2 supports/connect_device.html:2
@@ -1118,7 +1120,7 @@ msgstr "资源"
 
 #: mydevices/detail/apihint.html:77 mydevices/dialogs/showapihint.html:45
 msgid "Retrieve datapoint"
-msgstr ""
+msgstr "读取资料点"
 
 #: development/detail/userprivileges.html:12
 #: development/dialogs/userPrivilege.html:36
@@ -1139,7 +1141,7 @@ msgstr "角色"
 #: mydevices/dialogs/userPrivilege.html:81
 #: profile/dialogs/changePassword.html:64 profile/dialogs/cropImage.html:31
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: components/category/selectFromToDate.html:135 development/index.html:43
 #: management/device-list.html:49 management/product-list.html:21
@@ -1149,17 +1151,17 @@ msgstr "搜寻"
 
 #: mydevices/dialogs/userPrivilege.html:19
 msgid "Search User"
-msgstr ""
+msgstr "搜索用户"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
 msgid "Select all devices"
-msgstr ""
+msgstr "选择所有装置"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:66
 msgid "Select all firmware"
-msgstr ""
+msgstr "选择所有固件"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:6
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:6
@@ -1167,10 +1169,12 @@ msgid ""
 "Select the devices that you would like to upgrade to the firmware "
 "(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) you've uploaded."
 msgstr ""
+"请选择您想要更新此固件 (<b>{{ firmwareData.name }}, {{ firmwareData."
+"version }}</b>)的装置。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "Select the prerequisite firmware that are compatible for this firmware"
-msgstr ""
+msgstr "选择可以相容的固件"
 
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:1
 msgid ""
@@ -1178,14 +1182,16 @@ msgid ""
 "(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) upgrade you've "
 "uploaded."
 msgstr ""
+"请为您上传的韧体更新(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</"
+"b>)，选择可以相容的韧体。"
 
 #: development/dialogs/addComponent.html:92
 msgid "Send us a message!"
-msgstr ""
+msgstr "给我们留言！"
 
 #: management/device-list.html:76 mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
-msgstr ""
+msgstr "编号"
 
 #: supports/28_using_notification.html:2 supports/28_using_notification.html:8
 #: supports/tutorial.html:94
@@ -1198,33 +1204,34 @@ msgstr "打开历史资料"
 
 #: dashboard/index.html:29
 msgid "Smart Remote Control Mobile App"
-msgstr ""
+msgstr "智慧远端控制手机应用程序"
 
 #: development/dialogs/addFirmware.html:26
 msgid "Step 1"
-msgstr ""
+msgstr "步骤一"
 
 #: development/dialogs/addFirmware.html:38
 #: development/dialogs/addFirmware.html:45
 msgid "Step 2"
-msgstr ""
+msgstr "步骤二"
 
 #: development/dialogs/addFirmware.html:55
 msgid "Step 3"
-msgstr ""
+msgstr "步骤三"
 
 #: supports/tutorial.html:14
 msgid "Step by guides to use the MCS service and build your IoT prototype."
 msgstr ""
+"我們提供逐步引導如何使用MCS服務的教程內容，讓您建立自己的物聯網產品原型。"
 
 #: development/dialogs/addComponentContent.html:142
 #: development/dialogs/addComponentContent.html:242
 msgid "String"
-msgstr ""
+msgstr "字串"
 
 #: development/dialogs/finishCreateTestDevice.html:3
 msgid "Success!"
-msgstr ""
+msgstr "成功！"
 
 #: aside.html:49
 msgid "Supports"
@@ -1232,37 +1239,37 @@ msgstr "支援"
 
 #: management/device-list.html:80
 msgid "System detail"
-msgstr ""
+msgstr "系統信息"
 
 #: development/dialogs/addComponent.html:85
 msgid "Tell us what kind of template you want to add!"
-msgstr ""
+msgstr "将你想要的模版告诉我们！"
 
 #: mydevices/detail/apihint.html:88 mydevices/dialogs/showapihint.html:69
 msgid "Telnet"
-msgstr ""
+msgstr "Telnet"
 
 #: development/dialogs/addComponentContent.html:365
 msgid "Template preview"
-msgstr ""
+msgstr "模板预览"
 
 #: header.html:110 supports/terms_of_use.html:2 supports/terms_of_use.html:8
 msgid "Terms of use"
-msgstr ""
+msgstr "使用条款"
 
 #: mydevices/detail.html:116 mydevices/index.html:75
 msgid "Test"
-msgstr ""
+msgstr "测试"
 
 #: development/detail.html:163
 msgid "Test device"
-msgstr ""
+msgstr "测试装置"
 
 #: development/dialogs/addComponent.html:69
 msgid ""
 "The Hybrid data channel is a two ways data channel contains bothe controller "
 "and display."
-msgstr ""
+msgstr "综合型的资料通道，是双向的资料通道，可以同时是控制器和显示器。"
 
 #: dashboard/index.html:31
 msgid ""
@@ -1270,54 +1277,56 @@ msgid ""
 "and access their devices,  display the latest device data and its status "
 "putting their world at their fingertips."
 msgstr ""
+"使用智慧遠端控制讓使用者能夠註冊並訪問其設備，無論在世界上任何地方，使用者都"
+"能透過手機應用程式來顯示裝置的最新資料和狀態。"
 
 #: development/dialogs/addComponent.html:24
 msgid ""
 "The controller data channels allow you to control the status of your "
 "devices. eg, ON/OFF for a switch"
-msgstr ""
+msgstr "控制器太的行資料通道允許您控制您的設備的狀態。例如，打開或關閉開關。"
 
 #: development/dialogs/addComponent.html:50
 msgid "The display data channels allow you to get the data from your devices."
-msgstr ""
+msgstr "显示资料通道允许您从您的设备中读取资料。"
 
 #: dashboard/index.html:25
 msgid ""
 "The new LinkIt Connect 7681 development board is now available for you to "
 "use."
-msgstr ""
+msgstr "新的LinkIt Connect 7681开发版现已可供您使用。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:30
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:30
 msgid "There is no compatible firmware at this moment."
-msgstr ""
+msgstr "目前还没有相容的固件。"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:3
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:3
 msgid "There is no test device at this moment."
-msgstr ""
+msgstr "目前还没有测试装置。"
 
 #: dialogs/comingSoon.html:15
 msgid "This feature is under development, will be coming soon!"
-msgstr ""
+msgstr "此功能目前正在开发中，将会很快能够提供服务！"
 
 #: components/control/gps.html:34
 msgid "This is my clicked marker!"
-msgstr ""
+msgstr "这是我的点击标记！"
 
 #: development/dialogs/notification/create.html:144
 #: development/dialogs/notification/edit.html:143
 msgid "Threshold value"
-msgstr ""
+msgstr "值"
 
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
 msgid "Time:"
-msgstr ""
+msgstr "时间："
 
 #: profile/index.html:125
 msgid "Timezone"
-msgstr ""
+msgstr "时区"
 
 #: development/detail/manufacturerinfo.html:17
 msgid "Title"
@@ -1334,19 +1343,19 @@ msgstr "到"
 #: supports/managing_firmware.html:2 supports/setting_notification.html:2
 #: supports/tutorial.html:2 supports/tutorial.html:8
 msgid "Tutorial"
-msgstr ""
+msgstr "教程"
 
 #: management/device-list.html:75
 msgid "Type"
-msgstr ""
+msgstr "搜尋結果    Type "
 
 #: dashboard/index.html:36
 msgid "Update the latest firmware to your devices using our FOTA feauture."
-msgstr ""
+msgstr "使用我们的空中固件更新服务来更新最新的韧体版本。"
 
 #: mydevices/detail/firmware.html:53
 msgid "Upgrade"
-msgstr ""
+msgstr "升级"
 
 #: development/dialogs/createProducts.html:202
 #: development/dialogs/editProducts.html:192
@@ -1355,60 +1364,62 @@ msgstr ""
 #: mydevices/dialogs/createDevices.html:60
 #: mydevices/dialogs/editDevices.html:127
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: management/dialogs/createSerialNumber.html:42
 msgid "Upload a CSV file, one serial number per line"
-msgstr ""
+msgstr "上传CSV档案，每个编号请跳行输入。"
 
 #: profile/index.html:54
 msgid "Upload an image"
-msgstr ""
+msgstr "上传图片"
 
 #: mydevices/detail/apihint.html:66 mydevices/dialogs/showapihint.html:34
 msgid "Upload datapoint"
-msgstr ""
+msgstr "上传资料点"
 
 #: development/dialogs/createProducts.html:183
 #: development/dialogs/editProducts.html:173
 #: mydevices/dialogs/createDevices.html:54
 #: mydevices/dialogs/editDevices.html:121 profile/index.html:45
 msgid "Uploading..."
-msgstr ""
+msgstr "上传中..."
 
 #: dashboard/index.html:53
 msgid ""
 "Use the My Devices to easily manage pre-release devices, track device "
 "registration rates, provide FOTA and more."
 msgstr ""
+"使用我的装置页面来轻松管理尚未发布的装置，追踪装置激活比例，提供空中韧体更新"
+"以及其他功能。"
 
 #: dashboard/index.html:49
 msgid ""
 "Use the rich set of RESTful APIs to gather data from any sensor connected to "
 "your devices."
-msgstr ""
+msgstr "使用丰富的基于REST的API来搜集从感应器传来的资料并且与您的装置连结。"
 
 #: development/dialogs/userPrivilege.html:10
 #: mydevices/dialogs/userPrivilege.html:10
 msgid "User Email"
-msgstr ""
+msgstr "用户电子邮件"
 
 #: development/detail/userprivileges.html:10
 #: mydevices/detail/userprivileges.html:10
 msgid "User Name"
-msgstr ""
+msgstr "用户名"
 
 #: development/detail.html:151 mydevices/detail.html:163
 msgid "User privileges"
-msgstr ""
+msgstr "用户权限"
 
 #: development/detail/userprivileges.html:4
 msgid "Users"
-msgstr ""
+msgstr "用户"
 
 #: mydevices/detail/userprivileges.html:4
 msgid "Users ({{ privileges.length }})"
-msgstr ""
+msgstr "用户({{ privileges.length }})"
 
 #: supports/setting_notification.html:2 supports/setting_notification.html:8
 #: supports/tutorial.html:91
@@ -1432,10 +1443,12 @@ msgid ""
 "1.0 closed test environment\n"
 "and added several new features:"
 msgstr ""
+"欢迎到联发科云客栈2.0 。我们基于1.0服务，提升并改善了平台性能\n"
+"并增加了一些新的特点："
 
 #: dashboard/index.html:13
 msgid "What’s New"
-msgstr ""
+msgstr "新鲜事"
 
 #: dashboard/index.html:20
 msgid ""
@@ -1443,42 +1456,44 @@ msgid ""
 "better support the MediaTek LinkIt Connect 7681 development platform you've "
 "access to data types for GPIO and PWM."
 msgstr ""
+"你可以使用九種提供的預設資料形式來輕鬆建立產品原型。其中的GPIO和PWN資料型態，"
+"能夠更好的支援Mediatek LinkIt Connect7681开发版。"
 
 #: development/detail/manufacturerinfo.html:5
 msgid ""
 "You can edit the information of your prototype that you want your users to "
 "see it."
-msgstr ""
+msgstr "你可以编辑你想要使用者看到的产品原型信息。"
 
 #: development/dialogs/finishRelease.html:10
 msgid "You can see its detail in"
-msgstr ""
+msgstr "你可以在此看到它的细节"
 
 #: development/dialogs/finishCreateTestDevice.html:16
 msgid "You can see its detail in \"My devices\"."
-msgstr ""
+msgstr "你可以在我的裝置頁面看到它的细节"
 
 #: mydevices/detail/apihint.html:33
 msgid ""
 "You can use the APIs listed here to set up the action you need.eg. upload or "
 "retrieve data."
-msgstr ""
+msgstr "你可以使用这边提供的API来设定你所需要的动作。例如上传和读取资料点。"
 
 #: profile/index.html:194
 msgid "Your current timezone"
-msgstr ""
+msgstr "您当前的时区"
 
 #: mydevices/dialogs/editDevices.html:139
 msgid "cancel"
-msgstr ""
+msgstr "取消"
 
 #: profile/index.html:92
 msgid "choose Language"
-msgstr ""
+msgstr "选择语言"
 
 #: profile/index.html:131
 msgid "choose Timezone"
-msgstr ""
+msgstr "选择时区"
 
 #: components/control/float.html:8 components/control/hexstring.html:8
 #: components/control/integer.html:8 components/control/pwm.html:8
@@ -1488,40 +1503,40 @@ msgstr "清除"
 
 #: mydevices/detail.html:70
 msgid "copy to clipboard"
-msgstr ""
+msgstr "复制到剪贴板"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 msgid "device"
-msgstr ""
+msgstr "装置"
 
 #: profile/index.html:194
 msgid "is different from your setting."
-msgstr ""
+msgstr "和你目前的设定不符合"
 
 #: mydevices/detail/apihint.html:91 mydevices/dialogs/showapihint.html:75
 msgid "jQuery"
-msgstr ""
+msgstr "jQuery"
 
 #: mydevices/dialogs/editDevices.html:145
 msgid "save"
-msgstr ""
+msgstr "保存"
 
 #: mydevices/dialogs/userPrivilege.html:40
 msgid "select role"
-msgstr ""
+msgstr "选择角色"
 
 #: management/device-list.html:87
 msgid "test"
-msgstr ""
+msgstr "测试"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
-msgstr ""
+msgstr "升级你所上传的档案。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/index.html:106
 msgid "version"
-msgstr ""
+msgstr "版本"
 
 #~ msgid "Device ID"
 #~ msgstr "设备 ID"
