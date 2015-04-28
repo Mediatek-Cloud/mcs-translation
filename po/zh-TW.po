@@ -331,6 +331,14 @@ msgstr "馬上創建原型!"
 msgid "Dashboard"
 msgstr "儀表板"
 
+#: controllers/development/detail.js:277
+msgid "Data Channel Id cannot null"
+msgstr ""
+
+#: controllers/development/detail.js:280
+msgid "Data Channel Id only input a-z, 0-9, and_"
+msgstr ""
+
 #: development/detail.html:139 mydevices/detail.html:149
 msgid "Data channel"
 msgstr "數據通道"
@@ -339,6 +347,10 @@ msgstr "數據通道"
 #: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr "數據通道 ID"
+
+#: controllers/development/detail.js:360
+msgid "Data channel Id was used!"
+msgstr ""
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11 mydevices/detail/apihint.html:40
@@ -412,6 +424,10 @@ msgstr "裝置名稱"
 #: mydevices/dialogs/createDevices.html:36
 msgid "Device name ( default )"
 msgstr "裝置名稱 (初始值)"
+
+#: controllers/development/detail.js:424
+msgid "Device name cannot null."
+msgstr ""
 
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
@@ -835,6 +851,10 @@ msgstr "低"
 msgid "MT7681"
 msgstr "MT7681"
 
+#: controllers/development/detail.js:868 controllers/devices/detail.js:64
+msgid "MUST BE A VALID USER E-MAIL!"
+msgstr ""
+
 #: development/dialogs/finishRelease.html:10 management/product-list.html:4
 msgid "Management"
 msgstr "管理"
@@ -860,6 +880,10 @@ msgstr "手動"
 msgid "Manually enter serial numbers"
 msgstr "手動輸入序號"
 
+#: directives/category/selectFromToDate.js:24
+msgid "Minute format incorrect, Hour must be between 0-60"
+msgstr ""
+
 #: aside.html:106 header.html:82 supports/mobile_application.html:2
 #: supports/mobile_application.html:8
 msgid "Mobile application"
@@ -868,6 +892,18 @@ msgstr "行動應用"
 #: dashboard/index.html:19
 msgid "More Data Types"
 msgstr "更多種類的資料型態"
+
+#: directives/components/control/hex.js:44
+msgid "Must Be a Hex String."
+msgstr ""
+
+#: directives/components/control/integer.js:48
+msgid "Must Be a Integer!"
+msgstr ""
+
+#: directives/components/control/float.js:48
+msgid "Must Be a float!"
+msgstr ""
 
 #: header.html:32
 msgid "My Devices"
@@ -886,6 +922,14 @@ msgstr "當您關閉後，註記將重新出現。"
 #: mydevices/detail/notification.html:10
 msgid "Name"
 msgstr "姓名"
+
+#: controllers/development/index.js:38
+msgid "Name cannot be null."
+msgstr ""
+
+#: controllers/development/detail.js:274
+msgid "Name cannot null"
+msgstr ""
 
 #: profile/dialogs/changePassword.html:30
 msgid "New password"
@@ -935,6 +979,10 @@ msgstr "通知"
 msgid "Notification Rules"
 msgstr "通知規則"
 
+#: controllers/development/detail.js:795
+msgid "Notification had error!"
+msgstr ""
+
 #: development/dialogs/notification/create.html:14
 #: development/dialogs/notification/edit.html:14
 msgid "Notification name"
@@ -957,7 +1005,7 @@ msgstr "分類數目"
 #: alert.html:23 components/category/selectFromToDate.html:69
 #: components/control/float.html:13 components/control/gps.html:92
 #: components/control/hexstring.html:13 components/control/integer.html:13
-#: components/control/pwm.html:21 components/control/string.html:13
+#: components/control/pwm.html:20 components/control/string.html:13
 #: date.html:5 development/dialogs/createTestDevice.html:52
 #: development/dialogs/deleteConfirm.html:33
 #: development/dialogs/finishRelease.html:21
@@ -974,6 +1022,7 @@ msgstr "開關"
 msgid "Old password"
 msgstr "舊密碼"
 
+#: controllers/development/detail.js:775 controllers/development/detail.js:804
 #: development/dialogs/notification/create.html:179
 #: development/dialogs/notification/edit.html:178
 msgid "Only support integer and float data channel types."
@@ -1006,6 +1055,15 @@ msgstr "密碼"
 msgid "Period"
 msgstr "期間"
 
+#: controllers/development/detail.js:947
+#: directives/category/selectFromToDate.js:64
+msgid "Please Try Again!"
+msgstr ""
+
+#: controllers/development/detail.js:525
+msgid "Please choose a file to upload"
+msgstr ""
+
 #: development/dialogs/release.html:9
 msgid "Please confirm if you want to release this prototype."
 msgstr "請確認是否要發佈這個產品原型。"
@@ -1013,6 +1071,18 @@ msgstr "請確認是否要發佈這個產品原型。"
 #: development/dialogs/addComponentContent.html:366
 msgid "Please select a template that best meet your data channel"
 msgstr "請選擇最符合您的數據通道的模板"
+
+#: controllers/development/index.js:44
+msgid "Please select hardware platform."
+msgstr ""
+
+#: controllers/development/index.js:47
+msgid "Please select industry."
+msgstr ""
+
+#: controllers/development/index.js:60
+msgid "Please try again."
+msgstr ""
 
 #: development/detail/firmware.html:13
 msgid "Prerequisite"
@@ -1191,6 +1261,10 @@ msgstr ""
 "請為您上傳的韌體更新(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</"
 "b>) ，選擇可以相容的韌體。"
 
+#: controllers/profile/index.js:53
+msgid "Send email to {{email}}"
+msgstr ""
+
 #: development/dialogs/addComponent.html:92
 msgid "Send us a message!"
 msgstr "和我們連繫"
@@ -1198,6 +1272,15 @@ msgstr "和我們連繫"
 #: management/device-list.html:76 mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
 msgstr "序號"
+
+#: directives/components/control/float.js:45
+#: directives/components/control/gpio.js:63
+#: directives/components/control/integer.js:45
+#: directives/components/control/pwm.js:50
+#: directives/components/control/pwmSlider.js:47
+#: directives/components/control/switch.js:63
+msgid "Server Internal Error."
+msgstr ""
 
 #: supports/28_using_notification.html:2 supports/28_using_notification.html:8
 #: supports/tutorial.html:94
@@ -1325,6 +1408,10 @@ msgstr "這是我的點擊標記！"
 msgid "Threshold value"
 msgstr "值"
 
+#: directives/category/selectFromToDate.js:21
+msgid "Time format incorrect, Hour must be between 0-24"
+msgstr ""
+
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
 msgid "Time:"
@@ -1342,6 +1429,17 @@ msgstr "標題"
 msgid "To"
 msgstr "到"
 
+#: directives/components/control/category.js:142
+#: directives/components/control/category.js:166
+#: directives/components/control/category.js:255
+#: directives/components/control/category.js:280
+#: directives/components/control/category.js:35
+#: directives/components/control/category.js:374
+#: directives/components/control/category.js:400
+#: directives/components/control/category.js:58
+msgid "Try again."
+msgstr ""
+
 #: aside.html:73 header.html:66 supports/28_using_notification.html:2
 #: supports/connect_device.html:2 supports/getting_started.html:2
 #: supports/implementing_using_linkit_one.html:2
@@ -1355,9 +1453,17 @@ msgstr "教程"
 msgid "Type"
 msgstr "型態"
 
+#: controllers/development/detail.js:290
+msgid "Unit type format cannot null"
+msgstr ""
+
 #: dashboard/index.html:36
 msgid "Update the latest firmware to your devices using our FOTA feauture."
 msgstr "使用我們的空中韌體更新服務來更新最新的韌體版本。"
+
+#: controllers/profile/index.js:130
+msgid "Update user Image internal error!"
+msgstr ""
 
 #: mydevices/detail/firmware.html:53
 msgid "Upgrade"
@@ -1443,6 +1549,10 @@ msgstr "值"
 msgid "Version"
 msgstr "版本"
 
+#: controllers/development/index.js:41
+msgid "Version cannot be null."
+msgstr ""
+
 #: dashboard/index.html:14
 msgid ""
 "Welcome to MediaTek Cloud Sandbox 2.0. We've enhanced our platform from the "
@@ -1485,9 +1595,21 @@ msgid ""
 "retrieve data."
 msgstr "你可以使用這邊提供的API來設定你所需要的動作。例如上傳和讀取資料點。"
 
+#: controllers/development/detail.js:283
+msgid "You should choose a data channel type!"
+msgstr ""
+
 #: profile/index.html:194
 msgid "Your current timezone"
 msgstr "目前所在地時間"
+
+#: controllers/profile/index.js:76
+msgid "Your password length cannot less than 8"
+msgstr ""
+
+#: directives/components/control/gps.js:150
+msgid "altitude must be between -20000 and 20000 meters!"
+msgstr ""
 
 #: mydevices/dialogs/editDevices.html:139
 msgid "cancel"
@@ -1501,13 +1623,33 @@ msgstr "選擇語言"
 msgid "choose Timezone"
 msgstr "選擇時區"
 
+#: controllers/profile/index.js:69
+msgid "confirm password can not be null"
+msgstr ""
+
 #: mydevices/detail.html:70
 msgid "copy to clipboard"
 msgstr "複製到剪貼簿"
 
+#: controllers/development/detail.js:833
+msgid "delete notification error!"
+msgstr ""
+
+#: controllers/development/detail.js:885 controllers/devices/detail.js:81
+msgid "delete privilege  error!"
+msgstr ""
+
+#: controllers/development/detail.js:474
+msgid "delete test device error"
+msgstr ""
+
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 msgid "device"
 msgstr "裝置"
+
+#: controllers/development/detail.js:583
+msgid "file cannot be null!"
+msgstr ""
 
 #: profile/index.html:194
 msgid "is different from your setting."
@@ -1517,6 +1659,30 @@ msgstr "和你目前的設定不符合"
 msgid "jQuery"
 msgstr "jQuery"
 
+#: directives/components/control/gps.js:138
+msgid "latitude or longitude cannot be null!"
+msgstr ""
+
+#: directives/components/control/gps.js:147
+msgid "latitude or longitude or altitude should be float/integer!"
+msgstr ""
+
+#: controllers/development/detail.js:577
+msgid "name cannot be null!"
+msgstr ""
+
+#: controllers/profile/index.js:66
+msgid "new password can not be null"
+msgstr ""
+
+#: controllers/profile/index.js:72
+msgid "new password is not as same as confirm password"
+msgstr ""
+
+#: controllers/profile/index.js:63
+msgid "old password can not be null"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:145
 msgid "save"
 msgstr "儲存"
@@ -1525,18 +1691,43 @@ msgstr "儲存"
 msgid "select role"
 msgstr "選擇腳色"
 
+#: controllers/development/detail.js:113 controllers/development/detail.js:139
+#: controllers/development/detail.js:183 controllers/development/detail.js:790
+#: controllers/development/detail.js:97 controllers/development/index.js:123
+#: controllers/development/index.js:143 controllers/devices/detail.js:107
+#: controllers/devices/index.js:66
+msgid "success."
+msgstr ""
+
 #: management/device-list.html:87
 msgid "test"
 msgstr "測試"
+
+#: controllers/development/detail.js:821
+msgid "update notification error!"
+msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
 msgstr "升級你所上傳的檔案。"
 
+#: directives/components/control/pwm.js:53
+#: directives/components/control/pwmSlider.js:50
+msgid "value, period must be a Integer."
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/index.html:106
 msgid "version"
 msgstr "版本"
+
+#: controllers/development/detail.js:580
+msgid "version cannot be null!"
+msgstr ""
+
+#: controllers/development/detail.js:293
+msgid "{{key}} is not {{format}}"
+msgstr ""
 
 #~ msgid "clear"
 #~ msgstr "清除"
