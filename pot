@@ -115,9 +115,17 @@ msgstr ""
 msgid "Advanced setting"
 msgstr ""
 
+#: values/products/ngIntro.js:28
+msgid "After you are happy with your prototype, you can create a Test Device here."
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
+msgstr ""
+
+#: values/products/ngIntro.js:20
+msgid "Allows you define Firmware(s) for this prototype for created test devices Over-the-Air(OTA) Firmware updates."
 msgstr ""
 
 #: components/control/gps.html:79
@@ -474,6 +482,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:58
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:86
+#: values/products/ngIntro.js:39
 msgid "Done"
 msgstr ""
 
@@ -549,6 +558,10 @@ msgstr ""
 
 #: development/detail/manufacturerinfo.html:29
 msgid "Example : Prototype name2"
+msgstr ""
+
+#: values/products/ngIntro.js:38
+msgid "Exit"
 msgstr ""
 
 #: aside.html:111
@@ -987,6 +1000,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
+#: values/products/ngIntro.js:36
 msgid "Next"
 msgstr ""
 
@@ -1138,6 +1152,10 @@ msgstr ""
 
 #: development/detail/firmware.html:13
 msgid "Prerequisite"
+msgstr ""
+
+#: values/products/ngIntro.js:37
+msgid "Previous"
 msgstr ""
 
 #: mydevices/dialogs/createDevices.html:10
@@ -1480,6 +1498,10 @@ msgstr ""
 msgid "To"
 msgstr ""
 
+#: values/products/ngIntro.js:24
+msgid "To see and manage the list of Test devices being created under this prototype."
+msgstr ""
+
 #: directives/components/control/category.js:142
 #: directives/components/control/category.js:166
 #: directives/components/control/category.js:255
@@ -1624,8 +1646,20 @@ msgstr ""
 msgid "With supports for nine data types it's easy to create your prototype. And to better support the MediaTek LinkIt Connect 7681 development platform you've access to data types for GPIO and PWM."
 msgstr ""
 
+#: values/products/ngIntro.js:12
+msgid "You can define notification when certain data channel carries a value that meets the notification condition."
+msgstr ""
+
+#: values/products/ngIntro.js:8
+msgid "You can define one or many data channel for data-store or controller to command your device."
+msgstr ""
+
 #: development/detail/manufacturerinfo.html:5
 msgid "You can edit the information of your prototype that you want your users to see it."
+msgstr ""
+
+#: values/products/ngIntro.js:16
+msgid "You can grant access rights of this prototype to your working peers."
 msgstr ""
 
 #: development/dialogs/finishRelease.html:10
