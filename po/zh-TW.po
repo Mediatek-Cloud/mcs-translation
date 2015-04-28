@@ -252,6 +252,12 @@ msgstr "選擇產業別"
 msgid "Choose the role"
 msgstr "選擇角色"
 
+#: components/control/float.html:9 components/control/hexstring.html:9
+#: components/control/integer.html:9 components/control/pwm.html:9
+#: components/control/string.html:9
+msgid "Clear"
+msgstr "清除"
+
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:47
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:76
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:47
@@ -767,7 +773,7 @@ msgstr "請再輸入一次你的新密碼"
 msgid "Integer"
 msgstr "整數"
 
-#: components/control/pwm.html:14 components/control/pwm.html:5
+#: components/control/pwm.html:15 components/control/pwm.html:5
 #: components/control/pwmSlider.html:8
 msgid "Integer only"
 msgstr "只接受整數"
@@ -949,9 +955,9 @@ msgid "Number of categories"
 msgstr "分類數目"
 
 #: alert.html:23 components/category/selectFromToDate.html:69
-#: components/control/float.html:12 components/control/gps.html:92
-#: components/control/hexstring.html:12 components/control/integer.html:12
-#: components/control/pwm.html:20 components/control/string.html:12
+#: components/control/float.html:13 components/control/gps.html:92
+#: components/control/hexstring.html:13 components/control/integer.html:13
+#: components/control/pwm.html:21 components/control/string.html:13
 #: date.html:5 development/dialogs/createTestDevice.html:52
 #: development/dialogs/deleteConfirm.html:33
 #: development/dialogs/finishRelease.html:21
@@ -996,7 +1002,7 @@ msgstr "PWM"
 msgid "Password"
 msgstr "密碼"
 
-#: components/control/pwm.html:13 components/control/pwmSlider.html:4
+#: components/control/pwm.html:14 components/control/pwmSlider.html:4
 msgid "Period"
 msgstr "期間"
 
@@ -1495,12 +1501,6 @@ msgstr "選擇語言"
 msgid "choose Timezone"
 msgstr "選擇時區"
 
-#: components/control/float.html:8 components/control/hexstring.html:8
-#: components/control/integer.html:8 components/control/pwm.html:8
-#: components/control/string.html:8
-msgid "clear"
-msgstr "清除"
-
 #: mydevices/detail.html:70
 msgid "copy to clipboard"
 msgstr "複製到剪貼簿"
@@ -1537,6 +1537,9 @@ msgstr "升級你所上傳的檔案。"
 #: mydevices/index.html:106
 msgid "version"
 msgstr "版本"
+
+#~ msgid "clear"
+#~ msgstr "清除"
 
 #~ msgid "Device ID"
 #~ msgstr "設備 ID"
