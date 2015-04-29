@@ -333,11 +333,11 @@ msgstr "儀表板"
 
 #: controllers/development/detail.js:277
 msgid "Data Channel Id cannot null"
-msgstr ""
+msgstr "數據通道ID不能為空"
 
 #: controllers/development/detail.js:280
 msgid "Data Channel Id only input a-z, 0-9, and_"
-msgstr ""
+msgstr "數據通道ID只能輸入AZ，0-9，以及_。"
 
 #: development/detail.html:139 mydevices/detail.html:149
 msgid "Data channel"
@@ -350,7 +350,7 @@ msgstr "數據通道 ID"
 
 #: controllers/development/detail.js:360
 msgid "Data channel Id was used!"
-msgstr ""
+msgstr "數據通道ID已被使用！"
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11 mydevices/detail/apihint.html:40
@@ -427,7 +427,7 @@ msgstr "裝置名稱 (初始值)"
 
 #: controllers/development/detail.js:424
 msgid "Device name cannot null."
-msgstr ""
+msgstr "裝置名稱不能為空。"
 
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
