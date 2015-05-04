@@ -115,9 +115,17 @@ msgstr ""
 msgid "Advanced setting"
 msgstr ""
 
+#: values/products/ngIntro.js:28
+msgid "After you are happy with your prototype, you can create a Test Device here."
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
+msgstr ""
+
+#: values/products/ngIntro.js:20
+msgid "Allows you define Firmware(s) for this prototype for created test devices Over-the-Air(OTA) Firmware updates."
 msgstr ""
 
 #: components/control/gps.html:79
@@ -331,15 +339,28 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
+#: controllers/development/detail.js:277
+msgid "Data Channel Id cannot null"
+msgstr ""
+
+#: controllers/development/detail.js:280
+msgid "Data Channel Id only input a-z, 0-9, and_"
+msgstr ""
+
 #: development/detail.html:139
 #: mydevices/detail.html:149
 msgid "Data channel"
 msgstr ""
 
+#: development/detail/components.html:71
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:46
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
+msgstr ""
+
+#: controllers/development/detail.js:360
+msgid "Data channel Id was used!"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:11
@@ -423,6 +444,10 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
+#: controllers/development/detail.js:424
+msgid "Device name cannot null."
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
 msgstr ""
@@ -457,6 +482,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:58
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:86
+#: values/products/ngIntro.js:39
 msgid "Done"
 msgstr ""
 
@@ -534,6 +560,10 @@ msgstr ""
 msgid "Example : Prototype name2"
 msgstr ""
 
+#: values/products/ngIntro.js:38
+msgid "Exit"
+msgstr ""
+
 #: aside.html:111
 #: header.html:103
 #: supports/faq.html:2
@@ -571,10 +601,6 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:120
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
-msgstr ""
-
-#: profile/dialogs/changePassword.html:24
-msgid "Forgot passowrd"
 msgstr ""
 
 #: header.html:118
@@ -696,6 +722,14 @@ msgstr ""
 
 #: profile/dialogs/changePassword.html:47
 msgid "Input the confirm password"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:58
+msgid "Input the data channel description"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:39
+msgid "Input the data channel id"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:21
@@ -867,6 +901,11 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
+#: controllers/development/detail.js:868
+#: controllers/devices/detail.js:64
+msgid "MUST BE A VALID USER E-MAIL!"
+msgstr ""
+
 #: development/dialogs/finishRelease.html:10
 #: management/product-list.html:4
 msgid "Management"
@@ -894,6 +933,10 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
+#: directives/category/selectFromToDate.js:24
+msgid "Minute format incorrect, Hour must be between 0-60"
+msgstr ""
+
 #: aside.html:106
 #: header.html:82
 #: supports/mobile_application.html:2
@@ -903,6 +946,18 @@ msgstr ""
 
 #: dashboard/index.html:19
 msgid "More Data Types"
+msgstr ""
+
+#: directives/components/control/hex.js:44
+msgid "Must Be a Hex String."
+msgstr ""
+
+#: directives/components/control/integer.js:48
+msgid "Must Be a Integer!"
+msgstr ""
+
+#: directives/components/control/float.js:48
+msgid "Must Be a float!"
 msgstr ""
 
 #: header.html:32
@@ -927,6 +982,14 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
+#: controllers/development/index.js:38
+msgid "Name cannot be null."
+msgstr ""
+
+#: controllers/development/detail.js:274
+msgid "Name cannot null"
+msgstr ""
+
 #: profile/dialogs/changePassword.html:30
 msgid "New password"
 msgstr ""
@@ -941,6 +1004,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
+#: values/products/ngIntro.js:36
 msgid "Next"
 msgstr ""
 
@@ -975,6 +1039,10 @@ msgstr ""
 #: development/detail/notification.html:11
 #: mydevices/detail/notification.html:11
 msgid "Notification Rules"
+msgstr ""
+
+#: controllers/development/detail.js:795
+msgid "Notification had error!"
 msgstr ""
 
 #: development/dialogs/notification/create.html:14
@@ -1018,10 +1086,8 @@ msgstr ""
 msgid "ON / OFF"
 msgstr ""
 
-#: profile/dialogs/changePassword.html:11
-msgid "Old password"
-msgstr ""
-
+#: controllers/development/detail.js:775
+#: controllers/development/detail.js:804
 #: development/dialogs/notification/create.html:179
 #: development/dialogs/notification/edit.html:178
 msgid "Only support integer and float data channel types."
@@ -1055,6 +1121,15 @@ msgstr ""
 msgid "Period"
 msgstr ""
 
+#: controllers/development/detail.js:951
+#: directives/category/selectFromToDate.js:64
+msgid "Please Try Again!"
+msgstr ""
+
+#: controllers/development/detail.js:525
+msgid "Please choose a file to upload"
+msgstr ""
+
 #: development/dialogs/release.html:9
 msgid "Please confirm if you want to release this prototype."
 msgstr ""
@@ -1063,8 +1138,24 @@ msgstr ""
 msgid "Please select a template that best meet your data channel"
 msgstr ""
 
+#: controllers/development/index.js:44
+msgid "Please select hardware platform."
+msgstr ""
+
+#: controllers/development/index.js:47
+msgid "Please select industry."
+msgstr ""
+
+#: controllers/development/index.js:60
+msgid "Please try again."
+msgstr ""
+
 #: development/detail/firmware.html:13
 msgid "Prerequisite"
+msgstr ""
+
+#: values/products/ngIntro.js:37
+msgid "Previous"
 msgstr ""
 
 #: mydevices/dialogs/createDevices.html:10
@@ -1244,6 +1335,10 @@ msgstr ""
 msgid "Select the prerequisite firmware that are compatible for this firmware (<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
+#: controllers/profile/index.js:53
+msgid "Send email to {{email}}"
+msgstr ""
+
 #: development/dialogs/addComponent.html:92
 msgid "Send us a message!"
 msgstr ""
@@ -1251,6 +1346,15 @@ msgstr ""
 #: management/device-list.html:76
 #: mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
+msgstr ""
+
+#: directives/components/control/float.js:45
+#: directives/components/control/gpio.js:63
+#: directives/components/control/integer.js:45
+#: directives/components/control/pwm.js:50
+#: directives/components/control/pwmSlider.js:47
+#: directives/components/control/switch.js:63
+msgid "Server Internal Error."
 msgstr ""
 
 #: supports/28_using_notification.html:2
@@ -1373,6 +1477,10 @@ msgstr ""
 msgid "Threshold value"
 msgstr ""
 
+#: directives/category/selectFromToDate.js:21
+msgid "Time format incorrect, Hour must be between 0-24"
+msgstr ""
+
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
 msgid "Time:"
@@ -1388,6 +1496,21 @@ msgstr ""
 
 #: components/category/selectFromToDate.html:105
 msgid "To"
+msgstr ""
+
+#: values/products/ngIntro.js:24
+msgid "To see and manage the list of Test devices being created under this prototype."
+msgstr ""
+
+#: directives/components/control/category.js:142
+#: directives/components/control/category.js:166
+#: directives/components/control/category.js:255
+#: directives/components/control/category.js:280
+#: directives/components/control/category.js:35
+#: directives/components/control/category.js:374
+#: directives/components/control/category.js:400
+#: directives/components/control/category.js:58
+msgid "Try again."
 msgstr ""
 
 #: aside.html:73
@@ -1408,8 +1531,16 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
+#: controllers/development/detail.js:290
+msgid "Unit type format cannot null"
+msgstr ""
+
 #: dashboard/index.html:36
 msgid "Update the latest firmware to your devices using our FOTA feauture."
+msgstr ""
+
+#: controllers/profile/index.js:127
+msgid "Update user Image internal error!"
 msgstr ""
 
 #: mydevices/detail/firmware.html:53
@@ -1497,6 +1628,10 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
+#: controllers/development/index.js:41
+msgid "Version cannot be null."
+msgstr ""
+
 #: dashboard/index.html:14
 msgid ""
 "Welcome to MediaTek Cloud Sandbox 2.0. We've enhanced our platform from the 1.0 closed test environment\n"
@@ -1511,8 +1646,20 @@ msgstr ""
 msgid "With supports for nine data types it's easy to create your prototype. And to better support the MediaTek LinkIt Connect 7681 development platform you've access to data types for GPIO and PWM."
 msgstr ""
 
+#: values/products/ngIntro.js:12
+msgid "You can define notification when certain data channel carries a value that meets the notification condition."
+msgstr ""
+
+#: values/products/ngIntro.js:8
+msgid "You can define one or many data channel for data-store or controller to command your device."
+msgstr ""
+
 #: development/detail/manufacturerinfo.html:5
 msgid "You can edit the information of your prototype that you want your users to see it."
+msgstr ""
+
+#: values/products/ngIntro.js:16
+msgid "You can grant access rights of this prototype to your working peers."
 msgstr ""
 
 #: development/dialogs/finishRelease.html:10
@@ -1527,8 +1674,20 @@ msgstr ""
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
 
+#: controllers/development/detail.js:283
+msgid "You should choose a data channel type!"
+msgstr ""
+
 #: profile/index.html:194
 msgid "Your current timezone"
+msgstr ""
+
+#: controllers/profile/index.js:73
+msgid "Your password length cannot less than 8"
+msgstr ""
+
+#: directives/components/control/gps.js:150
+msgid "altitude must be between -20000 and 20000 meters!"
 msgstr ""
 
 #: mydevices/dialogs/editDevices.html:139
@@ -1543,12 +1702,33 @@ msgstr ""
 msgid "choose Timezone"
 msgstr ""
 
+#: controllers/profile/index.js:66
+msgid "confirm password can not be null"
+msgstr ""
+
 #: mydevices/detail.html:70
 msgid "copy to clipboard"
 msgstr ""
 
+#: controllers/development/detail.js:833
+msgid "delete notification error!"
+msgstr ""
+
+#: controllers/development/detail.js:887
+#: controllers/devices/detail.js:83
+msgid "delete privilege  error!"
+msgstr ""
+
+#: controllers/development/detail.js:474
+msgid "delete test device error"
+msgstr ""
+
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 msgid "device"
+msgstr ""
+
+#: controllers/development/detail.js:583
+msgid "file cannot be null!"
 msgstr ""
 
 #: profile/index.html:194
@@ -1560,6 +1740,26 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
+#: directives/components/control/gps.js:138
+msgid "latitude or longitude cannot be null!"
+msgstr ""
+
+#: directives/components/control/gps.js:147
+msgid "latitude or longitude or altitude should be float/integer!"
+msgstr ""
+
+#: controllers/development/detail.js:577
+msgid "name cannot be null!"
+msgstr ""
+
+#: controllers/profile/index.js:63
+msgid "new password can not be null"
+msgstr ""
+
+#: controllers/profile/index.js:69
+msgid "new password is not as same as confirm password"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:145
 msgid "save"
 msgstr ""
@@ -1568,15 +1768,44 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
+#: controllers/development/detail.js:113
+#: controllers/development/detail.js:139
+#: controllers/development/detail.js:183
+#: controllers/development/detail.js:790
+#: controllers/development/detail.js:97
+#: controllers/development/index.js:123
+#: controllers/development/index.js:143
+#: controllers/devices/detail.js:109
+#: controllers/devices/index.js:66
+msgid "success."
+msgstr ""
+
 #: management/device-list.html:87
 msgid "test"
+msgstr ""
+
+#: controllers/development/detail.js:821
+msgid "update notification error!"
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
 msgstr ""
 
+#: directives/components/control/pwm.js:53
+#: directives/components/control/pwmSlider.js:50
+msgid "value, period must be a Integer."
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/index.html:106
 msgid "version"
+msgstr ""
+
+#: controllers/development/detail.js:580
+msgid "version cannot be null!"
+msgstr ""
+
+#: controllers/development/detail.js:293
+msgid "{{key}} is not {{format}}"
 msgstr ""
