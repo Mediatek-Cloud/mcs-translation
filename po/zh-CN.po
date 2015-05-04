@@ -86,12 +86,12 @@ msgstr "新增"
 
 #: development/detail/components.html:10
 msgid "Add Data channel now!"
-msgstr "马上新增数据通道！"
+msgstr "马上新增资料通道！"
 
 #: development/dialogs/addComponent.html:3
 #: development/dialogs/addComponentContent.html:3
 msgid "Add data channel"
-msgstr "添加数据通道"
+msgstr "添加资料通道"
 
 #: mydevices/dialogs/createDevices.html:3
 msgid "Add devices"
@@ -333,15 +333,15 @@ msgstr "仪表板"
 
 #: controllers/development/detail.js:277
 msgid "Data Channel Id cannot null"
-msgstr ""
+msgstr "资料通道ID不能為空"
 
 #: controllers/development/detail.js:280
 msgid "Data Channel Id only input a-z, 0-9, and_"
-msgstr ""
+msgstr "资料通道ID只能输入AZ，0-9，以及_。"
 
 #: development/detail.html:139 mydevices/detail.html:149
 msgid "Data channel"
-msgstr "数据通道"
+msgstr "资料通道"
 
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
@@ -350,12 +350,12 @@ msgstr "资料频道Id"
 
 #: controllers/development/detail.js:360
 msgid "Data channel Id was used!"
-msgstr ""
+msgstr "资料通道ID已被使用！"
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11 mydevices/detail/apihint.html:40
 msgid "Data channel name"
-msgstr "数据通道名称"
+msgstr "资料通道名称"
 
 #: development/dialogs/addComponentContent.html:69
 msgid "Data type"
@@ -373,7 +373,7 @@ msgstr "删除"
 #: development/dialogs/notification/create.html:162
 #: development/dialogs/notification/edit.html:161
 msgid "Delete data channel"
-msgstr "删除数据通道"
+msgstr "删除资料通道"
 
 #: development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
@@ -427,7 +427,7 @@ msgstr "装置名称（默认值）"
 
 #: controllers/development/detail.js:424
 msgid "Device name cannot null."
-msgstr ""
+msgstr "装置名称不能为空。"
 
 #: mydevices/dialogs/editDevices.html:20
 msgid "Device version"
@@ -480,7 +480,7 @@ msgstr "编辑"
 
 #: development/dialogs/editComponent.html:3
 msgid "Edit data channel"
-msgstr "编辑数据通道"
+msgstr "编辑资料通道"
 
 #: mydevices/dialogs/editDevices.html:3
 msgid "Edit device"
@@ -882,7 +882,7 @@ msgstr "手动输入序列号"
 
 #: directives/category/selectFromToDate.js:24
 msgid "Minute format incorrect, Hour must be between 0-60"
-msgstr ""
+msgstr "时间格式不正确，分钟值必须在0-60 之间"
 
 #: aside.html:106 header.html:82 supports/mobile_application.html:2
 #: supports/mobile_application.html:8
@@ -895,15 +895,15 @@ msgstr "更多种类的资料型态"
 
 #: directives/components/control/hex.js:44
 msgid "Must Be a Hex String."
-msgstr ""
+msgstr "必须是一个十六进位值。"
 
 #: directives/components/control/integer.js:48
 msgid "Must Be a Integer!"
-msgstr ""
+msgstr "必须是一个整数 ！"
 
 #: directives/components/control/float.js:48
 msgid "Must Be a float!"
-msgstr ""
+msgstr "必须是浮点数 ！"
 
 #: header.html:32
 msgid "My Devices"
@@ -925,11 +925,11 @@ msgstr "姓名"
 
 #: controllers/development/index.js:38
 msgid "Name cannot be null."
-msgstr ""
+msgstr "名称不能为空。"
 
 #: controllers/development/detail.js:274
 msgid "Name cannot null"
-msgstr ""
+msgstr "名称不能为空。"
 
 #: profile/dialogs/changePassword.html:30
 msgid "New password"
@@ -981,7 +981,7 @@ msgstr "通知规则"
 
 #: controllers/development/detail.js:795
 msgid "Notification had error!"
-msgstr ""
+msgstr "通知发生错误​​！"
 
 #: development/dialogs/notification/create.html:14
 #: development/dialogs/notification/edit.html:14
@@ -1058,11 +1058,11 @@ msgstr "期间"
 #: controllers/development/detail.js:947
 #: directives/category/selectFromToDate.js:64
 msgid "Please Try Again!"
-msgstr ""
+msgstr "请再试一次！"
 
 #: controllers/development/detail.js:525
 msgid "Please choose a file to upload"
-msgstr ""
+msgstr "请选择要上传的档案"
 
 #: development/dialogs/release.html:9
 msgid "Please confirm if you want to release this prototype."
@@ -1070,19 +1070,19 @@ msgstr "请确认是否要发布这个产品原型。"
 
 #: development/dialogs/addComponentContent.html:366
 msgid "Please select a template that best meet your data channel"
-msgstr "请选择最符合您的数据通道的模板"
+msgstr "请选择最符合您的资料通道的模板"
 
 #: controllers/development/index.js:44
 msgid "Please select hardware platform."
-msgstr ""
+msgstr "请选择硬件平台。"
 
 #: controllers/development/index.js:47
 msgid "Please select industry."
-msgstr ""
+msgstr "请选择产业别"
 
 #: controllers/development/index.js:60
 msgid "Please try again."
-msgstr ""
+msgstr "请再试一次。"
 
 #: development/detail/firmware.html:13
 msgid "Prerequisite"
@@ -1263,7 +1263,7 @@ msgstr ""
 
 #: controllers/profile/index.js:53
 msgid "Send email to {{email}}"
-msgstr ""
+msgstr "请寄至以下电子邮件{{email}}"
 
 #: development/dialogs/addComponent.html:92
 msgid "Send us a message!"
@@ -1280,7 +1280,7 @@ msgstr "编号"
 #: directives/components/control/pwmSlider.js:47
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
-msgstr ""
+msgstr "服务器内部错误。"
 
 #: supports/28_using_notification.html:2 supports/28_using_notification.html:8
 #: supports/tutorial.html:94
@@ -1410,7 +1410,7 @@ msgstr "值"
 
 #: directives/category/selectFromToDate.js:21
 msgid "Time format incorrect, Hour must be between 0-24"
-msgstr ""
+msgstr "时间格式不正确，小时必须在0-24之间。"
 
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
@@ -1438,7 +1438,7 @@ msgstr "到"
 #: directives/components/control/category.js:400
 #: directives/components/control/category.js:58
 msgid "Try again."
-msgstr ""
+msgstr "请再试一次。"
 
 #: aside.html:73 header.html:66 supports/28_using_notification.html:2
 #: supports/connect_device.html:2 supports/getting_started.html:2
@@ -1455,7 +1455,7 @@ msgstr "搜尋結果    Type "
 
 #: controllers/development/detail.js:290
 msgid "Unit type format cannot null"
-msgstr ""
+msgstr "单位类型格式不能为空。"
 
 #: dashboard/index.html:36
 msgid "Update the latest firmware to your devices using our FOTA feauture."
@@ -1463,7 +1463,7 @@ msgstr "使用我们的空中固件更新服务来更新最新的韧体版本。
 
 #: controllers/profile/index.js:130
 msgid "Update user Image internal error!"
-msgstr ""
+msgstr "更新用户图像内部错误！"
 
 #: mydevices/detail/firmware.html:53
 msgid "Upgrade"
@@ -1551,7 +1551,7 @@ msgstr "版本"
 
 #: controllers/development/index.js:41
 msgid "Version cannot be null."
-msgstr ""
+msgstr "版本不能为空。"
 
 #: dashboard/index.html:14
 msgid ""
@@ -1597,7 +1597,7 @@ msgstr "你可以使用这边提供的API来设定你所需要的动作。例如
 
 #: controllers/development/detail.js:283
 msgid "You should choose a data channel type!"
-msgstr ""
+msgstr "请选择一个资料通道类型！"
 
 #: profile/index.html:194
 msgid "Your current timezone"
@@ -1605,11 +1605,11 @@ msgstr "您当前的时区"
 
 #: controllers/profile/index.js:76
 msgid "Your password length cannot less than 8"
-msgstr ""
+msgstr "您的密码长度不得小于8个字元。"
 
 #: directives/components/control/gps.js:150
 msgid "altitude must be between -20000 and 20000 meters!"
-msgstr ""
+msgstr "高度必须在-20000公尺至20000公尺之间！"
 
 #: mydevices/dialogs/editDevices.html:139
 msgid "cancel"
@@ -1625,7 +1625,7 @@ msgstr "选择时区"
 
 #: controllers/profile/index.js:69
 msgid "confirm password can not be null"
-msgstr ""
+msgstr "确认密码不能为空"
 
 #: mydevices/detail.html:70
 msgid "copy to clipboard"
@@ -1633,15 +1633,15 @@ msgstr "复制到剪贴板"
 
 #: controllers/development/detail.js:833
 msgid "delete notification error!"
-msgstr ""
+msgstr "删除通知时发生错误！"
 
 #: controllers/development/detail.js:885 controllers/devices/detail.js:81
 msgid "delete privilege  error!"
-msgstr ""
+msgstr "删除权限时发生错误！"
 
 #: controllers/development/detail.js:474
 msgid "delete test device error"
-msgstr ""
+msgstr "删除测试装置时发生错误"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 msgid "device"
@@ -1649,7 +1649,7 @@ msgstr "装置"
 
 #: controllers/development/detail.js:583
 msgid "file cannot be null!"
-msgstr ""
+msgstr "文件不能为空！"
 
 #: profile/index.html:194
 msgid "is different from your setting."
@@ -1661,27 +1661,27 @@ msgstr "jQuery"
 
 #: directives/components/control/gps.js:138
 msgid "latitude or longitude cannot be null!"
-msgstr ""
+msgstr "纬度或经度不能为空！"
 
 #: directives/components/control/gps.js:147
 msgid "latitude or longitude or altitude should be float/integer!"
-msgstr ""
+msgstr "纬度或经度或高度应该是浮点数或是整数！"
 
 #: controllers/development/detail.js:577
 msgid "name cannot be null!"
-msgstr ""
+msgstr "名称不能为空！"
 
 #: controllers/profile/index.js:66
 msgid "new password can not be null"
-msgstr ""
+msgstr "新密码不能为空"
 
 #: controllers/profile/index.js:72
 msgid "new password is not as same as confirm password"
-msgstr ""
+msgstr "新密码和确认密码不一致"
 
 #: controllers/profile/index.js:63
 msgid "old password can not be null"
-msgstr ""
+msgstr "旧密码不能为空"
 
 #: mydevices/dialogs/editDevices.html:145
 msgid "save"
@@ -1697,7 +1697,7 @@ msgstr "选择角色"
 #: controllers/development/index.js:143 controllers/devices/detail.js:107
 #: controllers/devices/index.js:66
 msgid "success."
-msgstr ""
+msgstr "成功。"
 
 #: management/device-list.html:87
 msgid "test"
@@ -1705,7 +1705,7 @@ msgstr "测试"
 
 #: controllers/development/detail.js:821
 msgid "update notification error!"
-msgstr ""
+msgstr "更新通知时发生错误！"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
@@ -1714,7 +1714,7 @@ msgstr "升级你所上传的档案。"
 #: directives/components/control/pwm.js:53
 #: directives/components/control/pwmSlider.js:50
 msgid "value, period must be a Integer."
-msgstr ""
+msgstr "值和周期必须是整数。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/index.html:106
@@ -1723,11 +1723,11 @@ msgstr "版本"
 
 #: controllers/development/detail.js:580
 msgid "version cannot be null!"
-msgstr ""
+msgstr "版本不能为空！"
 
 #: controllers/development/detail.js:293
 msgid "{{key}} is not {{format}}"
-msgstr ""
+msgstr "{{key}} 不是 {{format}}"
 
 #~ msgid "clear"
 #~ msgstr "清除"
