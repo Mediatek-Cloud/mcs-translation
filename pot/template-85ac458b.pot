@@ -1353,6 +1353,7 @@ msgstr ""
 #: directives/components/control/integer.js:45
 #: directives/components/control/pwm.js:50
 #: directives/components/control/pwmSlider.js:47
+#: directives/components/control/string.js:44
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
 msgstr ""
