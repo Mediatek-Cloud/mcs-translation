@@ -118,10 +118,21 @@ msgstr "马上新增设备!"
 msgid "Advanced setting"
 msgstr "高级设定"
 
+#: values/products/ngIntro.js:28
+msgid ""
+"After you are happy with your prototype, you can create a Test Device here."
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
 msgstr "所有固件（默认值）"
+
+#: values/products/ngIntro.js:20
+msgid ""
+"Allows you define Firmware(s) for this prototype for created test devices "
+"Over-the-Air(OTA) Firmware updates."
+msgstr ""
 
 #: components/control/gps.html:79
 msgid "Altitude:"
@@ -343,6 +354,7 @@ msgstr "资料通道ID只能输入AZ，0-9，以及_。"
 msgid "Data channel"
 msgstr "资料通道"
 
+#: development/detail/components.html:71
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
@@ -462,6 +474,7 @@ msgstr "显示器"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:58
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:86
+#: values/products/ngIntro.js:39
 msgid "Done"
 msgstr "完成"
 
@@ -535,6 +548,10 @@ msgstr "范例：产品原型名称"
 msgid "Example : Prototype name2"
 msgstr "范例：产品原型名称2"
 
+#: values/products/ngIntro.js:38
+msgid "Exit"
+msgstr ""
+
 #: aside.html:111 header.html:103 supports/faq.html:2 supports/faq.html:8
 msgid "FAQ"
 msgstr "问与答"
@@ -568,10 +585,6 @@ msgstr "固件名称"
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
 msgstr "浮点数"
-
-#: profile/dialogs/changePassword.html:24
-msgid "Forgot passowrd"
-msgstr "忘记密码"
 
 #: header.html:118
 msgid "Forum"
@@ -688,6 +701,14 @@ msgstr "输入组件描述"
 #: profile/dialogs/changePassword.html:47
 msgid "Input the confirm password"
 msgstr "输入确认密码"
+
+#: development/dialogs/addComponentContent.html:58
+msgid "Input the data channel description"
+msgstr ""
+
+#: development/dialogs/addComponentContent.html:39
+msgid "Input the data channel id"
+msgstr ""
 
 #: development/dialogs/addComponentContent.html:21
 #: development/dialogs/editComponent.html:21
@@ -945,6 +966,7 @@ msgstr "来自MediaTek Cloud Sandbox的最新消息"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
+#: values/products/ngIntro.js:36
 msgid "Next"
 msgstr "下一步"
 
@@ -1018,10 +1040,6 @@ msgstr "确认"
 msgid "ON / OFF"
 msgstr "开关"
 
-#: profile/dialogs/changePassword.html:11
-msgid "Old password"
-msgstr "旧密码"
-
 #: controllers/development/detail.js:775 controllers/development/detail.js:804
 #: development/dialogs/notification/create.html:179
 #: development/dialogs/notification/edit.html:178
@@ -1055,7 +1073,7 @@ msgstr "密码"
 msgid "Period"
 msgstr "期间"
 
-#: controllers/development/detail.js:947
+#: controllers/development/detail.js:951
 #: directives/category/selectFromToDate.js:64
 msgid "Please Try Again!"
 msgstr "请再试一次！"
@@ -1087,6 +1105,10 @@ msgstr "请再试一次。"
 #: development/detail/firmware.html:13
 msgid "Prerequisite"
 msgstr "条件"
+
+#: values/products/ngIntro.js:37
+msgid "Previous"
+msgstr ""
 
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
@@ -1278,6 +1300,7 @@ msgstr "编号"
 #: directives/components/control/integer.js:45
 #: directives/components/control/pwm.js:50
 #: directives/components/control/pwmSlider.js:47
+#: directives/components/control/string.js:44
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
 msgstr "服务器内部错误。"
@@ -1429,6 +1452,12 @@ msgstr "标题"
 msgid "To"
 msgstr "到"
 
+#: values/products/ngIntro.js:24
+msgid ""
+"To see and manage the list of Test devices being created under this "
+"prototype."
+msgstr ""
+
 #: directives/components/control/category.js:142
 #: directives/components/control/category.js:166
 #: directives/components/control/category.js:255
@@ -1461,7 +1490,7 @@ msgstr "单位类型格式不能为空。"
 msgid "Update the latest firmware to your devices using our FOTA feauture."
 msgstr "使用我们的空中固件更新服务来更新最新的韧体版本。"
 
-#: controllers/profile/index.js:130
+#: controllers/profile/index.js:127
 msgid "Update user Image internal error!"
 msgstr "更新用户图像内部错误！"
 
@@ -1575,11 +1604,27 @@ msgstr ""
 "你可以使用九種提供的預設資料形式來輕鬆建立產品原型。其中的GPIO和PWN資料型態，"
 "能夠更好的支援Mediatek LinkIt Connect7681开发版。"
 
+#: values/products/ngIntro.js:12
+msgid ""
+"You can define notification when certain data channel carries a value that "
+"meets the notification condition."
+msgstr ""
+
+#: values/products/ngIntro.js:8
+msgid ""
+"You can define one or many data channel for data-store or controller to "
+"command your device."
+msgstr ""
+
 #: development/detail/manufacturerinfo.html:5
 msgid ""
 "You can edit the information of your prototype that you want your users to "
 "see it."
 msgstr "你可以编辑你想要使用者看到的产品原型信息。"
+
+#: values/products/ngIntro.js:16
+msgid "You can grant access rights of this prototype to your working peers."
+msgstr ""
 
 #: development/dialogs/finishRelease.html:10
 msgid "You can see its detail in"
@@ -1603,7 +1648,7 @@ msgstr "请选择一个资料通道类型！"
 msgid "Your current timezone"
 msgstr "您当前的时区"
 
-#: controllers/profile/index.js:76
+#: controllers/profile/index.js:73
 msgid "Your password length cannot less than 8"
 msgstr "您的密码长度不得小于8个字元。"
 
@@ -1623,7 +1668,7 @@ msgstr "选择语言"
 msgid "choose Timezone"
 msgstr "选择时区"
 
-#: controllers/profile/index.js:69
+#: controllers/profile/index.js:66
 msgid "confirm password can not be null"
 msgstr "确认密码不能为空"
 
@@ -1635,7 +1680,7 @@ msgstr "复制到剪贴板"
 msgid "delete notification error!"
 msgstr "删除通知时发生错误！"
 
-#: controllers/development/detail.js:885 controllers/devices/detail.js:81
+#: controllers/development/detail.js:887 controllers/devices/detail.js:83
 msgid "delete privilege  error!"
 msgstr "删除权限时发生错误！"
 
@@ -1671,17 +1716,13 @@ msgstr "纬度或经度或高度应该是浮点数或是整数！"
 msgid "name cannot be null!"
 msgstr "名称不能为空！"
 
-#: controllers/profile/index.js:66
+#: controllers/profile/index.js:63
 msgid "new password can not be null"
 msgstr "新密码不能为空"
 
-#: controllers/profile/index.js:72
+#: controllers/profile/index.js:69
 msgid "new password is not as same as confirm password"
 msgstr "新密码和确认密码不一致"
-
-#: controllers/profile/index.js:63
-msgid "old password can not be null"
-msgstr "旧密码不能为空"
 
 #: mydevices/dialogs/editDevices.html:145
 msgid "save"
@@ -1694,7 +1735,7 @@ msgstr "选择角色"
 #: controllers/development/detail.js:113 controllers/development/detail.js:139
 #: controllers/development/detail.js:183 controllers/development/detail.js:790
 #: controllers/development/detail.js:97 controllers/development/index.js:123
-#: controllers/development/index.js:143 controllers/devices/detail.js:107
+#: controllers/development/index.js:143 controllers/devices/detail.js:109
 #: controllers/devices/index.js:66
 msgid "success."
 msgstr "成功。"
@@ -1728,6 +1769,15 @@ msgstr "版本不能为空！"
 #: controllers/development/detail.js:293
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
+
+#~ msgid "Forgot passowrd"
+#~ msgstr "忘记密码"
+
+#~ msgid "Old password"
+#~ msgstr "旧密码"
+
+#~ msgid "old password can not be null"
+#~ msgstr "旧密码不能为空"
 
 #~ msgid "clear"
 #~ msgstr "清除"
