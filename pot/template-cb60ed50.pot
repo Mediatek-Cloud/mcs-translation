@@ -194,11 +194,11 @@ msgstr ""
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/notification/create.html:212
 #: development/dialogs/notification/edit.html:211
-#: development/dialogs/userPrivilege.html:76
+#: development/dialogs/userPrivilege.html:78
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:96
-#: mydevices/dialogs/userPrivilege.html:74
+#: mydevices/dialogs/userPrivilege.html:76
 #: profile/dialogs/changePassword.html:60
 #: profile/dialogs/cropImage.html:24
 msgid "Cancel"
@@ -210,6 +210,7 @@ msgid "Category"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
+#: profile/index.html:82
 msgid "Change password"
 msgstr ""
 
@@ -251,7 +252,7 @@ msgstr ""
 msgid "Choose the industry"
 msgstr ""
 
-#: development/dialogs/userPrivilege.html:44
+#: development/dialogs/userPrivilege.html:46
 msgid "Choose the role"
 msgstr ""
 
@@ -540,6 +541,10 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
+#: services/products/main.js:457
+msgid "Equal to"
+msgstr ""
+
 #: management/device-list.html:79
 msgid "Error"
 msgstr ""
@@ -648,6 +653,10 @@ msgstr ""
 msgid "Go to detail"
 msgstr ""
 
+#: services/products/main.js:451
+msgid "Greater than"
+msgstr ""
+
 #: development/dialogs/createProducts.html:40
 #: development/dialogs/editProducts.html:40
 msgid "Hardware platform"
@@ -679,10 +688,6 @@ msgstr ""
 
 #: supports/tutorial.html:61
 msgid "How to connect device"
-msgstr ""
-
-#: development/dialogs/deleteConfirm.html:17
-msgid "If you delete a prototype, all test devices in it will be deleted as well."
 msgstr ""
 
 #: development/dialogs/createProducts.html:181
@@ -897,6 +902,10 @@ msgstr ""
 msgid "Low"
 msgstr ""
 
+#: services/products/main.js:454
+msgid "Lower than"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:47
 msgid "MT7681"
 msgstr ""
@@ -1018,6 +1027,11 @@ msgstr ""
 msgid "No Data Available"
 msgstr ""
 
+#: development/dialogs/userPrivilege.html:23
+#: mydevices/dialogs/userPrivilege.html:21
+msgid "No results found"
+msgstr ""
+
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
 msgstr ""
@@ -1033,6 +1047,7 @@ msgstr ""
 #: development/detail.html:146
 #: development/detail/notification.html:4
 #: mydevices/detail.html:156
+#: mydevices/detail/notification.html:4
 msgid "Notification"
 msgstr ""
 
@@ -1279,9 +1294,9 @@ msgid "Retrieve datapoint"
 msgstr ""
 
 #: development/detail/userprivileges.html:12
-#: development/dialogs/userPrivilege.html:36
+#: development/dialogs/userPrivilege.html:38
 #: mydevices/detail/userprivileges.html:12
-#: mydevices/dialogs/userPrivilege.html:34
+#: mydevices/dialogs/userPrivilege.html:36
 msgid "Role"
 msgstr ""
 
@@ -1292,9 +1307,9 @@ msgstr ""
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/notification/edit.html:218
-#: development/dialogs/userPrivilege.html:83
+#: development/dialogs/userPrivilege.html:85
 #: mydevices/dialogs/createDevices.html:83
-#: mydevices/dialogs/userPrivilege.html:81
+#: mydevices/dialogs/userPrivilege.html:83
 #: profile/dialogs/changePassword.html:64
 #: profile/dialogs/cropImage.html:31
 msgid "Save"
@@ -1310,6 +1325,11 @@ msgstr ""
 
 #: mydevices/dialogs/userPrivilege.html:19
 msgid "Search User"
+msgstr ""
+
+#: development/dialogs/userPrivilege.html:22
+#: mydevices/dialogs/userPrivilege.html:20
+msgid "Searching..."
 msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
@@ -1335,7 +1355,7 @@ msgstr ""
 msgid "Select the prerequisite firmware that are compatible for this firmware (<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
-#: controllers/profile/index.js:53
+#: controllers/profile/index.js:57
 msgid "Send email to {{email}}"
 msgstr ""
 
@@ -1540,7 +1560,7 @@ msgstr ""
 msgid "Update the latest firmware to your devices using our FOTA feauture."
 msgstr ""
 
-#: controllers/profile/index.js:127
+#: controllers/profile/index.js:131
 msgid "Update user Image internal error!"
 msgstr ""
 
@@ -1683,7 +1703,7 @@ msgstr ""
 msgid "Your current timezone"
 msgstr ""
 
-#: controllers/profile/index.js:73
+#: controllers/profile/index.js:77
 msgid "Your password length cannot less than 8"
 msgstr ""
 
@@ -1703,7 +1723,7 @@ msgstr ""
 msgid "choose Timezone"
 msgstr ""
 
-#: controllers/profile/index.js:66
+#: controllers/profile/index.js:70
 msgid "confirm password can not be null"
 msgstr ""
 
@@ -1753,11 +1773,11 @@ msgstr ""
 msgid "name cannot be null!"
 msgstr ""
 
-#: controllers/profile/index.js:63
+#: controllers/profile/index.js:67
 msgid "new password can not be null"
 msgstr ""
 
-#: controllers/profile/index.js:69
+#: controllers/profile/index.js:73
 msgid "new password is not as same as confirm password"
 msgstr ""
 
@@ -1765,7 +1785,7 @@ msgstr ""
 msgid "save"
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:40
+#: mydevices/dialogs/userPrivilege.html:42
 msgid "select role"
 msgstr ""
 
@@ -1799,6 +1819,7 @@ msgid "value, period must be a Integer."
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
+#: mydevices/detail.html:59
 #: mydevices/index.html:106
 msgid "version"
 msgstr ""
