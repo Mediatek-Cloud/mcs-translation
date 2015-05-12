@@ -121,7 +121,7 @@ msgstr "進階設置"
 #: values/products/ngIntro.js:28
 msgid ""
 "After you are happy with your prototype, you can create a Test Device here."
-msgstr ""
+msgstr "當您完成開發您的產品原型後，您可以為此產品原型新增測試裝置。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
@@ -132,7 +132,7 @@ msgstr "所有韌體(初始值)"
 msgid ""
 "Allows you define Firmware(s) for this prototype for created test devices "
 "Over-the-Air(OTA) Firmware updates."
-msgstr ""
+msgstr "允許您在產品原型中定義韌體，並透過空中更新置裝置。"
 
 #: components/control/gps.html:79
 msgid "Altitude:"
@@ -554,7 +554,7 @@ msgstr "範例: 產品原型名稱2"
 
 #: values/products/ngIntro.js:38
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #: aside.html:111 header.html:103 supports/faq.html:2 supports/faq.html:8
 msgid "FAQ"
@@ -707,11 +707,11 @@ msgstr "輸入確定的密碼"
 
 #: development/dialogs/addComponentContent.html:58
 msgid "Input the data channel description"
-msgstr ""
+msgstr "輸入資料通道描述"
 
 #: development/dialogs/addComponentContent.html:39
 msgid "Input the data channel id"
-msgstr ""
+msgstr "輸入資料通道ID"
 
 #: development/dialogs/addComponentContent.html:21
 #: development/dialogs/editComponent.html:21
@@ -1120,7 +1120,7 @@ msgstr "首要條件"
 
 #: values/products/ngIntro.js:37
 msgid "Previous"
-msgstr ""
+msgstr "前一步"
 
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
@@ -1473,7 +1473,7 @@ msgstr "到"
 msgid ""
 "To see and manage the list of Test devices being created under this "
 "prototype."
-msgstr ""
+msgstr "您能在此查看和管理所有隸屬於此開發原型的測試裝置。"
 
 #: directives/components/control/category.js:142
 #: directives/components/control/category.js:166
@@ -1625,13 +1625,14 @@ msgstr ""
 msgid ""
 "You can define notification when certain data channel carries a value that "
 "meets the notification condition."
-msgstr ""
+msgstr "您可以定義當特定資料通道的值超過您的通知條件時，發出通知。"
 
 #: values/products/ngIntro.js:8
 msgid ""
 "You can define one or many data channel for data-store or controller to "
 "command your device."
 msgstr ""
+"您可以在此定義您的裝置所需要的一個或是多個的儲存或是傳送指令的資料通道。"
 
 #: development/detail/manufacturerinfo.html:5
 msgid ""
@@ -1641,7 +1642,7 @@ msgstr "你可以編輯你想要使用者看到的產品原型資訊。"
 
 #: values/products/ngIntro.js:16
 msgid "You can grant access rights of this prototype to your working peers."
-msgstr ""
+msgstr "您可以在此替其他使用者新增使用者權限。"
 
 #: development/dialogs/finishRelease.html:10
 msgid "You can see its detail in"
