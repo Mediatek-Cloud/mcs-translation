@@ -203,11 +203,11 @@ msgstr "找不到想要的模版嗎？"
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/notification/create.html:212
 #: development/dialogs/notification/edit.html:211
-#: development/dialogs/userPrivilege.html:76
+#: development/dialogs/userPrivilege.html:78
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:96
-#: mydevices/dialogs/userPrivilege.html:74
+#: mydevices/dialogs/userPrivilege.html:76
 #: profile/dialogs/changePassword.html:60 profile/dialogs/cropImage.html:24
 msgid "Cancel"
 msgstr "取消"
@@ -217,7 +217,7 @@ msgstr "取消"
 msgid "Category"
 msgstr "分類"
 
-#: profile/dialogs/changePassword.html:3
+#: profile/dialogs/changePassword.html:3 profile/index.html:82
 msgid "Change password"
 msgstr "更改密碼"
 
@@ -259,7 +259,7 @@ msgstr "選擇硬體平台"
 msgid "Choose the industry"
 msgstr "選擇產業別"
 
-#: development/dialogs/userPrivilege.html:44
+#: development/dialogs/userPrivilege.html:46
 msgid "Choose the role"
 msgstr "選擇角色"
 
@@ -528,6 +528,10 @@ msgstr "輸入裝置名稱"
 msgid "Enter your serials, one per line."
 msgstr "請輸入你的序號，每個序號間請斷行。"
 
+#: services/products/main.js:457
+msgid "Equal to"
+msgstr ""
+
 #: management/device-list.html:79
 msgid "Error"
 msgstr "錯誤"
@@ -629,6 +633,10 @@ msgstr "詳細導覽"
 msgid "Go to detail"
 msgstr "詳細資訊"
 
+#: services/products/main.js:451
+msgid "Greater than"
+msgstr ""
+
 #: development/dialogs/createProducts.html:40
 #: development/dialogs/editProducts.html:40
 msgid "Hardware platform"
@@ -658,11 +666,6 @@ msgstr "高"
 #: supports/tutorial.html:61
 msgid "How to connect device"
 msgstr "如何連接裝置"
-
-#: development/dialogs/deleteConfirm.html:17
-msgid ""
-"If you delete a prototype, all test devices in it will be deleted as well."
-msgstr "如果你刪除了產品原型， 所有包含的測試裝置也會跟著被刪除。"
 
 #: development/dialogs/createProducts.html:181
 #: development/dialogs/editProducts.html:168
@@ -868,6 +871,10 @@ msgstr "經度："
 msgid "Low"
 msgstr "低"
 
+#: services/products/main.js:454
+msgid "Lower than"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:47
 msgid "MT7681"
 msgstr "MT7681"
@@ -979,6 +986,11 @@ msgstr "暱稱"
 msgid "No Data Available"
 msgstr "尚無資料"
 
+#: development/dialogs/userPrivilege.html:23
+#: mydevices/dialogs/userPrivilege.html:21
+msgid "No results found"
+msgstr ""
+
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
 msgstr "先不用"
@@ -992,7 +1004,7 @@ msgid "Notice!"
 msgstr "注意！"
 
 #: development/detail.html:146 development/detail/notification.html:4
-#: mydevices/detail.html:156
+#: mydevices/detail.html:156 mydevices/detail/notification.html:4
 msgid "Notification"
 msgstr "通知"
 
@@ -1221,9 +1233,9 @@ msgid "Retrieve datapoint"
 msgstr "讀取資料點"
 
 #: development/detail/userprivileges.html:12
-#: development/dialogs/userPrivilege.html:36
+#: development/dialogs/userPrivilege.html:38
 #: mydevices/detail/userprivileges.html:12
-#: mydevices/dialogs/userPrivilege.html:34
+#: mydevices/dialogs/userPrivilege.html:36
 msgid "Role"
 msgstr "角色"
 
@@ -1234,9 +1246,9 @@ msgstr "角色"
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/notification/edit.html:218
-#: development/dialogs/userPrivilege.html:83
+#: development/dialogs/userPrivilege.html:85
 #: mydevices/dialogs/createDevices.html:83
-#: mydevices/dialogs/userPrivilege.html:81
+#: mydevices/dialogs/userPrivilege.html:83
 #: profile/dialogs/changePassword.html:64 profile/dialogs/cropImage.html:31
 msgid "Save"
 msgstr "儲存"
@@ -1250,6 +1262,11 @@ msgstr "搜尋"
 #: mydevices/dialogs/userPrivilege.html:19
 msgid "Search User"
 msgstr "搜尋使用者"
+
+#: development/dialogs/userPrivilege.html:22
+#: mydevices/dialogs/userPrivilege.html:20
+msgid "Searching..."
+msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
@@ -1283,7 +1300,7 @@ msgstr ""
 "請為您上傳的韌體更新(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</"
 "b>) ，選擇可以相容的韌體。"
 
-#: controllers/profile/index.js:53
+#: controllers/profile/index.js:57
 msgid "Send email to {{email}}"
 msgstr "請寄至以下電子郵件 {{email}}"
 
@@ -1490,7 +1507,7 @@ msgstr "單位類型格式不能為空。"
 msgid "Update the latest firmware to your devices using our FOTA feauture."
 msgstr "使用我們的空中韌體更新服務來更新最新的韌體版本。"
 
-#: controllers/profile/index.js:127
+#: controllers/profile/index.js:131
 msgid "Update user Image internal error!"
 msgstr "更新用戶圖像內部錯誤！"
 
@@ -1648,7 +1665,7 @@ msgstr "請選擇一個資料通道類型！"
 msgid "Your current timezone"
 msgstr "目前所在地時間"
 
-#: controllers/profile/index.js:73
+#: controllers/profile/index.js:77
 msgid "Your password length cannot less than 8"
 msgstr "您的密碼長度不得小於8個字元。"
 
@@ -1668,7 +1685,7 @@ msgstr "選擇語言"
 msgid "choose Timezone"
 msgstr "選擇時區"
 
-#: controllers/profile/index.js:66
+#: controllers/profile/index.js:70
 msgid "confirm password can not be null"
 msgstr "確認密碼不能為空"
 
@@ -1716,11 +1733,11 @@ msgstr "緯度或經度或高度應該是浮點數或是整數！"
 msgid "name cannot be null!"
 msgstr "名稱不能為空！"
 
-#: controllers/profile/index.js:63
+#: controllers/profile/index.js:67
 msgid "new password can not be null"
 msgstr "新密碼不能為空"
 
-#: controllers/profile/index.js:69
+#: controllers/profile/index.js:73
 msgid "new password is not as same as confirm password"
 msgstr "新密碼和確認密碼不一致"
 
@@ -1728,7 +1745,7 @@ msgstr "新密碼和確認密碼不一致"
 msgid "save"
 msgstr "儲存"
 
-#: mydevices/dialogs/userPrivilege.html:40
+#: mydevices/dialogs/userPrivilege.html:42
 msgid "select role"
 msgstr "選擇腳色"
 
@@ -1758,7 +1775,7 @@ msgid "value, period must be a Integer."
 msgstr "值和週期必須是整數。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/index.html:106
+#: mydevices/detail.html:59 mydevices/index.html:106
 msgid "version"
 msgstr "版本"
 
@@ -1769,6 +1786,10 @@ msgstr "版本不能為空！"
 #: controllers/development/detail.js:293
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
+
+#~ msgid ""
+#~ "If you delete a prototype, all test devices in it will be deleted as well."
+#~ msgstr "如果你刪除了產品原型， 所有包含的測試裝置也會跟著被刪除。"
 
 #~ msgid "Forgot passowrd"
 #~ msgstr "忘記密碼"
