@@ -530,7 +530,7 @@ msgstr "請輸入你的序號，每個序號間請斷行。"
 
 #: services/products/main.js:457
 msgid "Equal to"
-msgstr ""
+msgstr "等于"
 
 #: management/device-list.html:79
 msgid "Error"
@@ -635,7 +635,7 @@ msgstr "详细资讯"
 
 #: services/products/main.js:451
 msgid "Greater than"
-msgstr ""
+msgstr "大于"
 
 #: development/dialogs/createProducts.html:40
 #: development/dialogs/editProducts.html:40
@@ -873,7 +873,7 @@ msgstr "低"
 
 #: services/products/main.js:454
 msgid "Lower than"
-msgstr ""
+msgstr "低于"
 
 #: mydevices/dialogs/editDevices.html:47
 msgid "MT7681"
@@ -989,7 +989,7 @@ msgstr "尚无资料"
 #: development/dialogs/userPrivilege.html:23
 #: mydevices/dialogs/userPrivilege.html:21
 msgid "No results found"
-msgstr ""
+msgstr "没有符合条件的结果。"
 
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
@@ -1266,7 +1266,7 @@ msgstr "搜索用户"
 #: development/dialogs/userPrivilege.html:22
 #: mydevices/dialogs/userPrivilege.html:20
 msgid "Searching..."
-msgstr ""
+msgstr "搜索中..."
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
