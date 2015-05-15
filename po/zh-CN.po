@@ -949,7 +949,7 @@ msgstr "当您关闭后，注记将重新出现。"
 #: development/detail/testdevicelist.html:10 mydevices/detail/firmware.html:17
 #: mydevices/detail/notification.html:10
 msgid "Name"
-msgstr "姓名"
+msgstr "名称"
 
 #: controllers/development/index.js:38
 msgid "Name cannot be null."
@@ -1351,7 +1351,7 @@ msgstr "步骤三"
 #: supports/tutorial.html:14
 msgid "Step by guides to use the MCS service and build your IoT prototype."
 msgstr ""
-"我們提供逐步引導如何使用MCS服務的教程內容，讓您建立自己的物聯網產品原型。"
+"我们提供逐步引导如何使用MCS服务的教程内容，让您建立自己的物联网产品原型。"
 
 #: development/dialogs/addComponentContent.html:142
 #: development/dialogs/addComponentContent.html:242

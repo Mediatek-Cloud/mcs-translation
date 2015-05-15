@@ -949,7 +949,7 @@ msgstr "當您關閉後，註記將重新出現。"
 #: development/detail/testdevicelist.html:10 mydevices/detail/firmware.html:17
 #: mydevices/detail/notification.html:10
 msgid "Name"
-msgstr "姓名"
+msgstr "名稱"
 
 #: controllers/development/index.js:38
 msgid "Name cannot be null."
