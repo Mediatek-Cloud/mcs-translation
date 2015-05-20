@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.7.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: index.html:32
+msgid ""
+"A cloud based time-series data storage service platform for connected "
+"Internet of Things devices."
+msgstr ""
+
+#: index.html:215
+msgid "Administrator"
+msgstr ""
+
+#: index.html:175
+msgid "Firmware update over the air service"
+msgstr ""
+
+#: index.html:246
+msgid "Go get more information, please sign up with us!"
+msgstr ""
+
+#: index.html:144
+msgid ""
+"MCS allows you to directly control the devices from the web console directly "
+"anytime, anywhere. A special designed mobile application enables the "
+"developer to easily control the device or to view the uploaded data points."
+msgstr ""
+
+#: index.html:137
+msgid "MCS core features"
+msgstr ""
+
+#: index.html:194
+msgid ""
+"MCS enable you to set the trigger and the action for the test device. "
+"Whenever the trigger is activated, the corresponding actions will be "
+"triggered. The action includes sending email notification, calling device "
+"API, and GCM service."
+msgstr ""
+
+#: index.html:44
+msgid "MCS facilitates fast prototyping your IoT ideation to real solution."
+msgstr ""
+
+#: index.html:231
+msgid ""
+"MCS provides a rich set of RESTfuls APIs facilitating the developers to "
+"upload and retrieve the data points, get connection, and get device "
+"information."
+msgstr ""
+
+#: index.html:160
+msgid ""
+"MCS provides time series data storage service allows you to view the "
+"visualized data gathered by the connected devices. You can see the current "
+"data and historical data by use the time filter to extract the time period "
+"of data you are interested in. We also have control panel."
+msgstr ""
+
+#: index.html:31
+msgid "MediaTek Cloud SandBox (MCS)"
+msgstr ""
+
+#: index.html:109
+msgid "Notification service"
+msgstr ""
+
+#: index.html:81
+msgid "Over-the-Air (OTA) firmware update"
+msgstr ""
+
+#: index.html:214
+msgid "Owner"
+msgstr ""
+
+#: index.html:127 index.html:247
+msgid "Register now"
+msgstr ""
+
+#: index.html:157
+msgid "Reliable Time series data storage"
+msgstr ""
+
+#: index.html:101
+msgid "Reliable time series data storage"
+msgstr ""
+
+#: index.html:143 index.html:73
+msgid "Remote control service"
+msgstr ""
+
+#: index.html:117
+msgid "Rich set of REST APIs"
+msgstr ""
+
+#: index.html:230
+msgid "Rich set of RESTful APIS"
+msgstr ""
+
+#: index.html:193
+msgid "Trigger and action Service"
+msgstr ""
+
+#: index.html:209 index.html:89
+msgid "User privilege access control"
+msgstr ""
+
+#: index.html:216
+msgid "Viewer"
+msgstr ""
+
+#: index.html:61
+msgid "Why MediaTek Cloud Sandbox?"
+msgstr ""
+
+#: index.html:210
+msgid ""
+"You can manage the access right for your prototype and test device to share "
+"the data to specific users to edit or to view only. The prototype and device "
+"can have separate user privilege access base on your needs."
+msgstr ""
+
+#: index.html:178
+msgid ""
+"You can upload firmware and push firmware to device directly. The developer "
+"can manage all the firmware for a prototype and select which test device is "
+"taking the upgrade."
+msgstr ""
