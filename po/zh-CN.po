@@ -530,7 +530,7 @@ msgstr "請輸入你的序號，每個序號間請斷行。"
 
 #: services/products/main.js:457
 msgid "Equal to"
-msgstr ""
+msgstr "等于"
 
 #: management/device-list.html:79
 msgid "Error"
@@ -635,7 +635,7 @@ msgstr "详细资讯"
 
 #: services/products/main.js:451
 msgid "Greater than"
-msgstr ""
+msgstr "大于"
 
 #: development/dialogs/createProducts.html:40
 #: development/dialogs/editProducts.html:40
@@ -873,7 +873,7 @@ msgstr "低"
 
 #: services/products/main.js:454
 msgid "Lower than"
-msgstr ""
+msgstr "低于"
 
 #: mydevices/dialogs/editDevices.html:47
 msgid "MT7681"
@@ -949,7 +949,7 @@ msgstr "当您关闭后，注记将重新出现。"
 #: development/detail/testdevicelist.html:10 mydevices/detail/firmware.html:17
 #: mydevices/detail/notification.html:10
 msgid "Name"
-msgstr "姓名"
+msgstr "名称"
 
 #: controllers/development/index.js:38
 msgid "Name cannot be null."
@@ -989,7 +989,7 @@ msgstr "尚无资料"
 #: development/dialogs/userPrivilege.html:23
 #: mydevices/dialogs/userPrivilege.html:21
 msgid "No results found"
-msgstr ""
+msgstr "没有符合条件的结果。"
 
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
@@ -1266,7 +1266,7 @@ msgstr "搜索用户"
 #: development/dialogs/userPrivilege.html:22
 #: mydevices/dialogs/userPrivilege.html:20
 msgid "Searching..."
-msgstr ""
+msgstr "搜索中..."
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
@@ -1351,7 +1351,7 @@ msgstr "步骤三"
 #: supports/tutorial.html:14
 msgid "Step by guides to use the MCS service and build your IoT prototype."
 msgstr ""
-"我們提供逐步引導如何使用MCS服務的教程內容，讓您建立自己的物聯網產品原型。"
+"我们提供逐步引导如何使用MCS服务的教程内容，让您建立自己的物联网产品原型。"
 
 #: development/dialogs/addComponentContent.html:142
 #: development/dialogs/addComponentContent.html:242
