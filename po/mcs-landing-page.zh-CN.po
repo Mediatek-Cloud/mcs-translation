@@ -16,19 +16,19 @@ msgstr ""
 msgid ""
 "A cloud based time-series data storage service platform for connected "
 "Internet of Things devices."
-msgstr ""
+msgstr "您能够连接物联网装置的云端资资料服务平台"
 
 #: index.html:215
 msgid "Administrator"
-msgstr ""
+msgstr "系统管理员"
 
 #: index.html:175
 msgid "Firmware update over the air service"
-msgstr ""
+msgstr "固件空中更新"
 
 #: index.html:246
 msgid "Go get more information, please sign up with us!"
-msgstr ""
+msgstr "您可以注册一个免费的帐号来查看更详细的资讯"
 
 #: index.html:144
 msgid ""
@@ -36,10 +36,12 @@ msgid ""
 "anytime, anywhere. A special designed mobile application enables the "
 "developer to easily control the device or to view the uploaded data points."
 msgstr ""
+"您可以随时随地的透过我们的云端平台来控制您的装置。另外，我们亦提供手机应用程"
+"式让您透过手资随时掌控装置最新状态。"
 
 #: index.html:137
 msgid "MCS core features"
-msgstr ""
+msgstr "MCS核心功能"
 
 #: index.html:194
 msgid ""
@@ -48,10 +50,12 @@ msgid ""
 "triggered. The action includes sending email notification, calling device "
 "API, and GCM service."
 msgstr ""
+"使用MCS，您可以为您的装置设定通知条件和动作。当您所设定的条件符合时，系统将会"
+"主动发出通知。通知的类别包括电子邮件和GCM通知。"
 
 #: index.html:44
 msgid "MCS facilitates fast prototyping your IoT ideation to real solution."
-msgstr ""
+msgstr "使用MCS帮助您快速实现您的物联网产品原型。"
 
 #: index.html:231
 msgid ""
@@ -59,6 +63,8 @@ msgid ""
 "upload and retrieve the data points, get connection, and get device "
 "information."
 msgstr ""
+"MCS提供了一系列的RESTful APIs，能使开发者快速的存取资料点，连结装置，和取得装"
+"置讯息。"
 
 #: index.html:160
 msgid ""
@@ -67,62 +73,64 @@ msgid ""
 "data and historical data by use the time filter to extract the time period "
 "of data you are interested in. We also have control panel."
 msgstr ""
+"MCS提供了资料时间序列储存服务让您能够在图型化的介面上读取您的装置所回传得资"
+"料。您可以搜寻任何您感兴趣的特定时间范围内的资料点。"
 
 #: index.html:31
 msgid "MediaTek Cloud SandBox (MCS)"
-msgstr ""
+msgstr "MediaTek Cloud SandBox (MCS)"
 
 #: index.html:109
 msgid "Notification service"
-msgstr ""
+msgstr "条件通知服务"
 
 #: index.html:81
 msgid "Over-the-Air (OTA) firmware update"
-msgstr ""
+msgstr "空中固件更新"
 
 #: index.html:214
 msgid "Owner"
-msgstr ""
+msgstr "拥有者"
 
 #: index.html:127 index.html:247
 msgid "Register now"
-msgstr ""
+msgstr "立即注册"
 
 #: index.html:157
 msgid "Reliable Time series data storage"
-msgstr ""
+msgstr "快速稳定的资料储存"
 
 #: index.html:101
 msgid "Reliable time series data storage"
-msgstr ""
+msgstr "快速稳定的资料储存"
 
 #: index.html:143 index.html:73
 msgid "Remote control service"
-msgstr ""
+msgstr "远端控制服务"
 
 #: index.html:117
 msgid "Rich set of REST APIs"
-msgstr ""
+msgstr "丰富的 RESTful API"
 
 #: index.html:230
 msgid "Rich set of RESTful APIS"
-msgstr ""
+msgstr "丰富的 RESTful API"
 
 #: index.html:193
 msgid "Trigger and action Service"
-msgstr ""
+msgstr "条件通知服务"
 
 #: index.html:209 index.html:89
 msgid "User privilege access control"
-msgstr ""
+msgstr "使用者权限控管"
 
 #: index.html:216
 msgid "Viewer"
-msgstr ""
+msgstr "浏览者"
 
 #: index.html:61
 msgid "Why MediaTek Cloud Sandbox?"
-msgstr ""
+msgstr "选择MediaTek Cloud Sandbox的优势"
 
 #: index.html:210
 msgid ""
@@ -130,6 +138,8 @@ msgid ""
 "the data to specific users to edit or to view only. The prototype and device "
 "can have separate user privilege access base on your needs."
 msgstr ""
+"您可以替您的产品原型或是装置设置不同的使用者权限。产品原型和其测试装置能有不"
+"同的权限设置来因应您的需求。"
 
 #: index.html:178
 msgid ""
@@ -137,3 +147,5 @@ msgid ""
 "can manage all the firmware for a prototype and select which test device is "
 "taking the upgrade."
 msgstr ""
+"您可以上传韧体并直接更新至装置。开发者能在产品原型中管理所有的韧体，并决定哪"
+"些装置需要更新。"
