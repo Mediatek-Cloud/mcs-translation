@@ -20,7 +20,7 @@ msgstr "讓您能夠連接物聯網裝置的雲端資資料服務平台"
 
 #: index.html:215
 msgid "Administrator"
-msgstr "管理員"
+msgstr "系統管理員"
 
 #: index.html:175
 msgid "Firmware update over the air service"

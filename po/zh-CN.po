@@ -12,6 +12,10 @@ msgstr ""
 "X-Generator: Poedit 1.7.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#: mydevices/dialogs/trigger.html:58
+msgid "( default )"
+msgstr "（默认值）"
+
 #: components/control/gps.html:61 components/control/gps.html:73
 msgid "(degree)"
 msgstr "（度）"
@@ -20,12 +24,13 @@ msgstr "（度）"
 msgid "(meter)"
 msgstr "（公尺）"
 
-#: development/detail/notification.html:54
-msgid "+ Add Notification"
-msgstr "+ 新增提醒"
+#: development/dialogs/trigger/add.html:410
+#: development/dialogs/trigger/edit.html:398
+msgid "+ Add action"
+msgstr "+ 新增动作"
 
-#: development/dialogs/notification/create.html:197
-#: development/dialogs/notification/edit.html:196
+#: development/dialogs/trigger/add.html:264
+#: development/dialogs/trigger/edit.html:253
 msgid "+ Add data channel"
 msgstr "+ 新增资料频道"
 
@@ -37,6 +42,10 @@ msgstr "+ 新增固件"
 msgid "+ Add test device"
 msgstr "+ 新增测试装置"
 
+#: development/detail/trigger.html:60
+msgid "+ Add trigger & action"
+msgstr "+ 新增触发条件和动作"
+
 #: development/detail/userprivileges.html:54
 #: mydevices/detail/userprivileges.html:56
 msgid "+ Add user"
@@ -47,8 +56,7 @@ msgstr "+ 新增使用者"
 msgid "A test device is created successfully!"
 msgstr "测试设备已成功产生！"
 
-#: development/detail/notification.html:24
-#: mydevices/detail/notification.html:24
+#: development/detail/trigger.html:24 mydevices/detail/trigger.html:25
 msgid "AND"
 msgstr "和"
 
@@ -60,18 +68,26 @@ msgstr "API 提示"
 msgid "API hint"
 msgstr "API 提示"
 
-#: api_references/index.html:26
-msgid "API reference"
-msgstr "API 参考资料"
-
-#: api_references/index.html:2 api_references/index.html:8 aside.html:39
-#: header.html:75
+#: aside.html:39 header.html:66
 msgid "API references"
 msgstr "API 参考资料集"
 
 #: mydevices/detail/apihint.html:52 mydevices/dialogs/showapihint.html:22
 msgid "API type"
 msgstr "API 类型"
+
+#: development/dialogs/trigger/add.html:303
+#: development/dialogs/trigger/edit.html:291
+msgid "Action type"
+msgstr "动作类型"
+
+#: controllers/development/detail.js:887
+msgid "Action type is required!"
+msgstr "您需输入动作类型！"
+
+#: controllers/development/detail.js:892
+msgid "Action {{field}} is required!"
+msgstr "您必须输入动作栏位 {{field}}"
 
 #: management/device-list.html:78
 msgid "Activated date"
@@ -80,7 +96,6 @@ msgstr "激活日期"
 #: development/detail/components.html:15
 #: development/dialogs/addComponent.html:30
 #: development/dialogs/addComponent.html:56
-#: development/dialogs/notification/create.html:219
 msgid "Add"
 msgstr "新增"
 
@@ -101,9 +116,10 @@ msgstr "新增设备"
 msgid "Add firmware"
 msgstr "新增固件"
 
-#: development/dialogs/notification/create.html:3
-msgid "Add notification"
-msgstr "新增提醒"
+#: development/dialogs/trigger/add.html:3
+#: development/dialogs/trigger/edit.html:3
+msgid "Add trigger & action"
+msgstr "新增触发条件与动作"
 
 #: development/dialogs/userPrivilege.html:3
 #: mydevices/dialogs/userPrivilege.html:3
@@ -113,10 +129,6 @@ msgstr "新增使用者"
 #: mydevices/index.html:56
 msgid "Add your devices now!"
 msgstr "马上新增设备!"
-
-#: supports/tutorial.html:83
-msgid "Advanced setting"
-msgstr "高级设定"
 
 #: values/products/ngIntro.js:28
 msgid ""
@@ -138,8 +150,10 @@ msgstr "允许您在产品原型中定义韧体，并透过空中更新置装置
 msgid "Altitude:"
 msgstr "高度"
 
-#: development/dialogs/notification/create.html:41
-#: development/dialogs/notification/edit.html:41
+#: development/dialogs/trigger/add.html:109
+#: development/dialogs/trigger/add.html:295
+#: development/dialogs/trigger/edit.html:283
+#: development/dialogs/trigger/edit.html:99 mydevices/dialogs/trigger.html:31
 msgid "And"
 msgstr "和"
 
@@ -177,6 +191,10 @@ msgstr "回到产品原型"
 msgid "Before started, here are the quick steps to get you off the ground."
 msgstr "在正式开始之前,，你可以使用快速上手指南来帮助你了解平台。"
 
+#: services/products/main.js:533
+msgid "Between X and Y"
+msgstr "在X值和Y值之间"
+
 #: dashboard/index.html:26
 msgid ""
 "Built around MT7681, a compact chipset with Wi-Fi support and built in TCP/"
@@ -201,12 +219,12 @@ msgstr "找不到想要的模版吗？"
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:60
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
-#: development/dialogs/notification/create.html:212
-#: development/dialogs/notification/edit.html:211
+#: development/dialogs/trigger/add.html:432
+#: development/dialogs/trigger/edit.html:420
 #: development/dialogs/userPrivilege.html:78
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
-#: mydevices/dialogs/showapihint.html:96
+#: mydevices/dialogs/showapihint.html:96 mydevices/dialogs/trigger.html:89
 #: mydevices/dialogs/userPrivilege.html:76
 #: profile/dialogs/changePassword.html:60 profile/dialogs/cropImage.html:24
 msgid "Cancel"
@@ -235,13 +253,18 @@ msgstr "芯片"
 msgid "Choose file"
 msgstr "选择档案"
 
+#: development/dialogs/trigger/add.html:317
+#: development/dialogs/trigger/edit.html:305
+msgid "Choose the action"
+msgstr "选择动作"
+
 #: development/dialogs/createProducts.html:151
 #: development/dialogs/editProducts.html:141
 msgid "Choose the application"
 msgstr "选择应用程序"
 
-#: development/dialogs/notification/create.html:67
-#: development/dialogs/notification/edit.html:67
+#: development/dialogs/trigger/add.html:135
+#: development/dialogs/trigger/edit.html:125
 msgid "Choose the data channel"
 msgstr "选择资料通道"
 
@@ -298,10 +321,6 @@ msgstr "相容的固件"
 msgid "Confirm password"
 msgstr "确认密码"
 
-#: supports/connect_device.html:2 supports/connect_device.html:8
-msgid "Connect device"
-msgstr "连接装置"
-
 #: dashboard/index.html:56
 msgid "Connect to the world"
 msgstr "和世界连结"
@@ -338,19 +357,28 @@ msgstr "建立產品原型建立产品原型"
 msgid "Create your prototype now!"
 msgstr "马上建立产品原型！"
 
+#: controllers/development/detail.js:879
+msgid "Criteria value is required!"
+msgstr "您需要输入条件值！"
+
+#: mydevices/index.html:68
+msgid "Currently there is no test device created,"
+msgstr "目前没有已建立的测试装置"
+
 #: aside.html:12 dashboard/index.html:2
 msgid "Dashboard"
 msgstr "仪表板"
 
-#: controllers/development/detail.js:277
+#: controllers/development/detail.js:279
 msgid "Data Channel Id cannot null"
 msgstr "资料通道ID不能為空"
 
-#: controllers/development/detail.js:280
+#: controllers/development/detail.js:282
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr "资料通道ID只能输入AZ，0-9，以及_。"
 
-#: development/detail.html:139 mydevices/detail.html:149
+#: development/detail.html:139 development/dialogs/trigger/add.html:120
+#: development/dialogs/trigger/edit.html:110 mydevices/detail.html:149
 msgid "Data channel"
 msgstr "资料通道"
 
@@ -360,9 +388,13 @@ msgstr "资料通道"
 msgid "Data channel Id"
 msgstr "资料频道Id"
 
-#: controllers/development/detail.js:360
+#: controllers/development/detail.js:362
 msgid "Data channel Id was used!"
 msgstr "资料通道ID已被使用！"
+
+#: controllers/development/detail.js:876
+msgid "Data channel is required!"
+msgstr "您必须选择资料通道！"
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11 mydevices/detail/apihint.html:40
@@ -373,17 +405,28 @@ msgstr "资料通道名称"
 msgid "Data type"
 msgstr "资料型态"
 
+#: development/dialogs/trigger/add.html:212
+#: development/dialogs/trigger/edit.html:202
+msgid "Default value"
+msgstr "默认值"
+
 #: dashboard/index.html:45
 msgid "Define your prototype and the data you want to collect."
 msgstr "定义你的产品原型以及想要储存的资料型态"
 
 #: development/detail.html:122 development/detail/components.html:123
-#: development/index.html:97 mydevices/detail.html:131 mydevices/index.html:91
+#: development/index.html:97 mydevices/detail.html:131
+#: mydevices/index.html:101
 msgid "Delete"
 msgstr "删除"
 
-#: development/dialogs/notification/create.html:162
-#: development/dialogs/notification/edit.html:161
+#: development/dialogs/trigger/add.html:392
+#: development/dialogs/trigger/edit.html:380
+msgid "Delete action"
+msgstr "删除动作"
+
+#: development/dialogs/trigger/add.html:229
+#: development/dialogs/trigger/edit.html:219
 msgid "Delete data channel"
 msgstr "删除资料通道"
 
@@ -392,13 +435,15 @@ msgstr "删除资料通道"
 #: development/dialogs/createProducts.html:82
 #: development/dialogs/editComponent.html:29
 #: development/dialogs/editProducts.html:79
+#: development/dialogs/trigger/add.html:79
+#: development/dialogs/trigger/edit.html:69
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:59
 msgid "Description"
 msgstr "描述"
 
 #: development/index.html:129 management/device-list.html:105
-#: mydevices/index.html:119
+#: mydevices/index.html:129
 msgid "Detail"
 msgstr "详情"
 
@@ -406,10 +451,6 @@ msgstr "详情"
 #: header.html:24
 msgid "Development"
 msgstr "开发"
-
-#: supports/tutorial.html:33
-msgid "Development cycle"
-msgstr "开发周期"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
@@ -437,7 +478,7 @@ msgstr "装置名称"
 msgid "Device name ( default )"
 msgstr "装置名称（默认值）"
 
-#: controllers/development/detail.js:424
+#: controllers/development/detail.js:426
 msgid "Device name cannot null."
 msgstr "装置名称不能为空。"
 
@@ -503,15 +544,26 @@ msgstr "编辑装置"
 msgid "Edit firmware"
 msgstr "编辑固件"
 
-#: development/dialogs/notification/edit.html:3
-msgid "Edit notification"
-msgstr "编辑通知"
-
 #: development/dialogs/editProducts.html:3
 msgid "Edit prototype"
 msgstr "编辑产品原型"
 
-#: development/detail/firmware.html:15 development/detail/notification.html:12
+#: mydevices/dialogs/trigger.html:3
+msgid "Edit trigger & action"
+msgstr "编辑触发条件与动作"
+
+#: development/dialogs/trigger/add.html:38
+#: development/dialogs/trigger/edit.html:29
+msgid "Edit trigger criteria"
+msgstr "编即触发条件"
+
+#: development/dialogs/trigger/add.html:24
+#: development/dialogs/trigger/edit.html:20
+msgid "Edit trigger information"
+msgstr "编即触发条件资讯"
+
+#: development/detail/firmware.html:15 development/detail/trigger.html:13
+#: mydevices/detail/trigger.html:14
 msgid "Edit&Delete"
 msgstr "编辑＆删除"
 
@@ -528,7 +580,7 @@ msgstr "輸入裝置名稱"
 msgid "Enter your serials, one per line."
 msgstr "請輸入你的序號，每個序號間請斷行。"
 
-#: services/products/main.js:457
+#: services/products/main.js:527
 msgid "Equal to"
 msgstr "等于"
 
@@ -556,11 +608,11 @@ msgstr "范例：产品原型名称2"
 msgid "Exit"
 msgstr "退出"
 
-#: aside.html:111 header.html:103 supports/faq.html:2 supports/faq.html:8
+#: aside.html:111 header.html:101
 msgid "FAQ"
 msgstr "问与答"
 
-#: header.html:123
+#: header.html:114
 msgid "Feedback"
 msgstr "回馈"
 
@@ -590,7 +642,7 @@ msgstr "固件名称"
 msgid "Float"
 msgstr "浮点数"
 
-#: header.html:118
+#: header.html:109
 msgid "Forum"
 msgstr "论坛"
 
@@ -620,20 +672,15 @@ msgstr "产生类别"
 msgid "Get you connected"
 msgstr "让你与世界连结"
 
-#: aside.html:86 supports/getting_started.html:2
-#: supports/getting_started.html:8
+#: aside.html:86
 msgid "Getting started"
 msgstr "入门"
-
-#: supports/tutorial.html:36
-msgid "Getting started step by step"
-msgstr "详细入门导览"
 
 #: development/dialogs/finishCreateTestDevice.html:30
 msgid "Go to detail"
 msgstr "详细资讯"
 
-#: services/products/main.js:451
+#: services/products/main.js:521
 msgid "Greater than"
 msgstr "大于"
 
@@ -642,7 +689,7 @@ msgstr "大于"
 msgid "Hardware platform"
 msgstr "硬件平台"
 
-#: header.html:95 supports/faq.html:2 supports/terms_of_use.html:2
+#: header.html:93
 msgid "Help"
 msgstr "帮助"
 
@@ -663,28 +710,12 @@ msgstr "隐藏历史资料"
 msgid "High"
 msgstr "高"
 
-#: supports/tutorial.html:61
-msgid "How to connect device"
-msgstr "如何连接装置"
-
 #: development/dialogs/createProducts.html:181
 #: development/dialogs/editProducts.html:168
 #: mydevices/dialogs/createDevices.html:52
 #: mydevices/dialogs/editDevices.html:119
 msgid "Image upload"
 msgstr "图片上传"
-
-#: supports/tutorial.html:67
-msgid "Implement with Linkit Connect 7681"
-msgstr "Linkit Connect 7681 实际操作"
-
-#: supports/tutorial.html:64
-msgid "Implement with Linkit One"
-msgstr "Linkit One 实际操作"
-
-#: supports/tutorial.html:52
-msgid "Implement with device"
-msgstr "装置实际操作"
 
 #: development/dialogs/createProducts.html:96
 #: development/dialogs/editProducts.html:93
@@ -697,6 +728,10 @@ msgstr "行业"
 msgid "Input chip name"
 msgstr "输入芯片名称"
 
+#: services/products/main.js:551
+msgid "Input the action title"
+msgstr "输入动作名称"
+
 #: development/dialogs/editComponent.html:39
 msgid "Input the component description"
 msgstr "输入组件描述"
@@ -704,6 +739,21 @@ msgstr "输入组件描述"
 #: profile/dialogs/changePassword.html:47
 msgid "Input the confirm password"
 msgstr "输入确认密码"
+
+#: services/products/main.js:562
+msgid ""
+"Input the content of the GCM notificaton email. When the trigger criteria is "
+"met, the GCM notification will be sent to the speci fied users."
+msgstr ""
+"请输入GCM通知的内容。当触发条件满足时，GCM通知将会被发送到有权限的使用者。"
+
+#: services/products/main.js:556
+msgid ""
+"Input the content of the notificaton email. When the trigger criterla is "
+"met, the email will be sent to the specified users."
+msgstr ""
+"输入电子邮件通知的内容。当触发条件满足时，电子邮件通知将会被发送到有权限的使"
+"用者。"
 
 #: development/dialogs/addComponentContent.html:58
 msgid "Input the data channel description"
@@ -754,11 +804,6 @@ msgstr "输入十六进制值，可接受值为0-9或A- F。"
 msgid "Input the new password"
 msgstr "输入新的密码"
 
-#: development/dialogs/notification/create.html:21
-#: development/dialogs/notification/edit.html:21
-msgid "Input the notification name"
-msgstr "输入通知名称"
-
 #: profile/dialogs/changePassword.html:16
 msgid "Input the old password"
 msgstr "输入旧密码"
@@ -795,6 +840,16 @@ msgstr "输入序列号"
 msgid "Input the string value."
 msgstr "输入字串"
 
+#: development/dialogs/trigger/add.html:88
+#: development/dialogs/trigger/edit.html:78
+msgid "Input the trigger description"
+msgstr "输入触发条件描述"
+
+#: development/dialogs/trigger/add.html:71
+#: development/dialogs/trigger/edit.html:61
+msgid "Input the trigger name"
+msgstr "输入触发条件名称"
+
 #: development/dialogs/userPrivilege.html:21
 msgid "Input the user name or email"
 msgstr "输入用户名或电子邮件"
@@ -818,13 +873,11 @@ msgstr "整数"
 msgid "Integer only"
 msgstr "只接受整数"
 
-#: aside.html:64 header.html:52 supports/introduction.html:2
-#: supports/introduction.html:8
+#: aside.html:64 header.html:52
 msgid "Introduction"
 msgstr "介绍"
 
-#: aside.html:70 header.html:59 supports/key_concept.html:2
-#: supports/key_concept.html:8
+#: aside.html:70 header.html:59
 msgid "Key concepts"
 msgstr "核心概念"
 
@@ -845,23 +898,17 @@ msgstr "特定的固件"
 msgid "LinkIt Connect 7681 Development Board Support"
 msgstr "LinkIt Connect 7681开发版支援"
 
-#: aside.html:100 supports/implementing_using_mt7681_development_board.html:2
-#: supports/implementing_using_mt7681_development_board.html:8
+#: aside.html:100
 msgid "Linkit connect tutorial"
 msgstr "LinkIt Connect 教程"
 
-#: aside.html:93 supports/implementing_using_linkit_one.html:2
-#: supports/implementing_using_linkit_one.html:8
+#: aside.html:93
 msgid "Linkit one tutorial"
 msgstr "LinkIt One教程"
 
 #: mydevices/detail/firmware.html:56
 msgid "Loading..."
 msgstr "加载中..."
-
-#: header.html:153
-msgid "Log Out"
-msgstr "登出"
 
 #: components/control/gps.html:67
 msgid "Longitude:"
@@ -871,7 +918,7 @@ msgstr "经度："
 msgid "Low"
 msgstr "低"
 
-#: services/products/main.js:454
+#: services/products/main.js:524
 msgid "Lower than"
 msgstr "低于"
 
@@ -879,7 +926,7 @@ msgstr "低于"
 msgid "MT7681"
 msgstr "MT7681"
 
-#: controllers/development/detail.js:868 controllers/devices/detail.js:64
+#: controllers/development/detail.js:940 controllers/devices/detail.js:65
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr "必须是一个有效的使用者电子邮件 ！"
 
@@ -895,11 +942,6 @@ msgstr "管理>装置列表"
 msgid "Management list"
 msgstr "管理列表"
 
-#: supports/managing_firmware.html:2 supports/managing_firmware.html:8
-#: supports/tutorial.html:97
-msgid "Managing firmware"
-msgstr "管理固件"
-
 #: management/dialogs/createSerialNumber.html:32
 msgid "Manual"
 msgstr "手动"
@@ -908,12 +950,7 @@ msgstr "手动"
 msgid "Manually enter serial numbers"
 msgstr "手动输入序列号"
 
-#: directives/category/selectFromToDate.js:24
-msgid "Minute format incorrect, Hour must be between 0-60"
-msgstr "时间格式不正确，分钟值必须在0-60 之间"
-
-#: aside.html:106 header.html:82 supports/mobile_application.html:2
-#: supports/mobile_application.html:8
+#: aside.html:106 header.html:80
 msgid "Mobile application"
 msgstr "行动应用"
 
@@ -925,13 +962,13 @@ msgstr "更多种类的资料型态"
 msgid "Must Be a Hex String."
 msgstr "必须是一个十六进位值。"
 
-#: directives/components/control/integer.js:48
-msgid "Must Be a Integer!"
-msgstr "必须是一个整数 ！"
-
 #: directives/components/control/float.js:48
 msgid "Must Be a float!"
 msgstr "必须是浮点数 ！"
+
+#: directives/components/control/integer.js:48
+msgid "Must Be an Integer!"
+msgstr "需要是一个整数！"
 
 #: header.html:32
 msgid "My Devices"
@@ -945,9 +982,10 @@ msgstr "我的装置"
 msgid "My marker will reappear when you close me."
 msgstr "当您关闭后，注记将重新出现。"
 
-#: development/detail/firmware.html:10 development/detail/notification.html:10
-#: development/detail/testdevicelist.html:10 mydevices/detail/firmware.html:17
-#: mydevices/detail/notification.html:10
+#: development/detail/firmware.html:10
+#: development/detail/testdevicelist.html:10
+#: development/detail/trigger.html:10 mydevices/detail/firmware.html:17
+#: mydevices/detail/trigger.html:10
 msgid "Name"
 msgstr "名称"
 
@@ -955,7 +993,7 @@ msgstr "名称"
 msgid "Name cannot be null."
 msgstr "名称不能为空。"
 
-#: controllers/development/detail.js:274
+#: controllers/development/detail.js:276
 msgid "Name cannot null"
 msgstr "名称不能为空。"
 
@@ -973,7 +1011,7 @@ msgstr "来自MediaTek Cloud Sandbox的最新消息"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
-#: values/products/ngIntro.js:36
+#: development/dialogs/trigger/add.html:439 values/products/ngIntro.js:36
 msgid "Next"
 msgstr "下一步"
 
@@ -995,6 +1033,14 @@ msgstr "没有符合条件的结果。"
 msgid "No, thanks"
 msgstr "先不用"
 
+#: services/products/main.js:536
+msgid "Not Between X and Y"
+msgstr "不在X值和Y值之间"
+
+#: services/products/main.js:530
+msgid "Not equal to"
+msgstr "不等于"
+
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:57
 msgid "Not now"
 msgstr "稍等"
@@ -1002,30 +1048,6 @@ msgstr "稍等"
 #: development/dialogs/deleteConfirm.html:5
 msgid "Notice!"
 msgstr "注意！"
-
-#: development/detail.html:146 development/detail/notification.html:4
-#: mydevices/detail.html:156 mydevices/detail/notification.html:4
-msgid "Notification"
-msgstr "通知"
-
-#: development/detail/notification.html:11
-#: mydevices/detail/notification.html:11
-msgid "Notification Rules"
-msgstr "通知规则"
-
-#: controllers/development/detail.js:795
-msgid "Notification had error!"
-msgstr "通知发生错误​​！"
-
-#: development/dialogs/notification/create.html:14
-#: development/dialogs/notification/edit.html:14
-msgid "Notification name"
-msgstr "通知名称"
-
-#: development/dialogs/notification/create.html:53
-#: development/dialogs/notification/edit.html:53
-msgid "Notification rule"
-msgstr "通知规则"
 
 #: mydevices/detail/firmware.html:54
 msgid "Now used"
@@ -1052,15 +1074,10 @@ msgstr "确认"
 msgid "ON / OFF"
 msgstr "开关"
 
-#: controllers/development/detail.js:775 controllers/development/detail.js:804
-#: development/dialogs/notification/create.html:179
-#: development/dialogs/notification/edit.html:178
+#: development/dialogs/trigger/add.html:246
+#: development/dialogs/trigger/edit.html:236
 msgid "Only support integer and float data channel types."
 msgstr "只支持整数和浮点数的资料通道类型。"
-
-#: mydevices/detail/notification.html:12
-msgid "Open/Close"
-msgstr "开/关"
 
 #: development/detail/testdevicelist.html:16
 #: development/detail/userprivileges.html:13
@@ -1085,12 +1102,11 @@ msgstr "密码"
 msgid "Period"
 msgstr "期间"
 
-#: controllers/development/detail.js:951
-#: directives/category/selectFromToDate.js:64
+#: controllers/development/detail.js:1021
 msgid "Please Try Again!"
 msgstr "请再试一次！"
 
-#: controllers/development/detail.js:525
+#: controllers/development/detail.js:527
 msgid "Please choose a file to upload"
 msgstr "请选择要上传的档案"
 
@@ -1126,7 +1142,7 @@ msgstr "前一步"
 msgid "Product ID"
 msgstr "Product ID"
 
-#: header.html:148
+#: header.html:139
 msgid "Profile"
 msgstr "个人档案"
 
@@ -1182,10 +1198,6 @@ msgstr "将固件更新推送至装置"
 msgid "Push&Edit&Delete"
 msgstr "推送与编辑和删除"
 
-#: supports/tutorial.html:24
-msgid "Quick start guide"
-msgstr "快速入门指南"
-
 #: management/product-list.html:65
 msgid "Registered"
 msgstr "注册"
@@ -1217,16 +1229,13 @@ msgstr "发布有编号产生器的产品原型。"
 msgid "Release without serial number generator."
 msgstr "发布没有编号产生器的产品原型。"
 
-#: api_references/index.html:2 header.html:44
-#: supports/28_using_notification.html:2 supports/connect_device.html:2
-#: supports/getting_started.html:2
-#: supports/implementing_using_linkit_one.html:2
-#: supports/implementing_using_mt7681_development_board.html:2
-#: supports/introduction.html:2 supports/key_concept.html:2
-#: supports/managing_firmware.html:2 supports/mobile_application.html:2
-#: supports/setting_notification.html:2 supports/tutorial.html:2
+#: header.html:44
 msgid "Resources"
 msgstr "资源"
+
+#: mydevices/dialogs/trigger.html:68
+msgid "Restore default value"
+msgstr "回覆默认值"
 
 #: mydevices/detail/apihint.html:77 mydevices/dialogs/showapihint.html:45
 msgid "Retrieve datapoint"
@@ -1245,9 +1254,10 @@ msgstr "角色"
 #: development/dialogs/editProducts.html:213
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
-#: development/dialogs/notification/edit.html:218
+#: development/dialogs/trigger/add.html:446
+#: development/dialogs/trigger/edit.html:426
 #: development/dialogs/userPrivilege.html:85
-#: mydevices/dialogs/createDevices.html:83
+#: mydevices/dialogs/createDevices.html:83 mydevices/dialogs/trigger.html:95
 #: mydevices/dialogs/userPrivilege.html:83
 #: profile/dialogs/changePassword.html:64 profile/dialogs/cropImage.html:31
 msgid "Save"
@@ -1300,6 +1310,11 @@ msgstr ""
 "请为您上传的韧体更新(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</"
 "b>)，选择可以相容的韧体。"
 
+#: development/dialogs/trigger/add.html:48
+#: development/dialogs/trigger/edit.html:38
+msgid "Select trigger action"
+msgstr "选择触发动作"
+
 #: controllers/profile/index.js:57
 msgid "Send email to {{email}}"
 msgstr "请寄至以下电子邮件{{email}}"
@@ -1322,36 +1337,33 @@ msgstr "编号"
 msgid "Server Internal Error."
 msgstr "服务器内部错误。"
 
-#: supports/28_using_notification.html:2 supports/28_using_notification.html:8
-#: supports/tutorial.html:94
-msgid "Setting user privilege"
-msgstr "设定使用者权限"
-
 #: development/detail/components.html:109 mydevices/detail/components.html:94
 msgid "Show History"
 msgstr "打开历史资料"
+
+#: header.html:151
+msgid "Sign Out"
+msgstr "登出"
 
 #: dashboard/index.html:29
 msgid "Smart Remote Control Mobile App"
 msgstr "智慧远端控制手机应用程序"
 
 #: development/dialogs/addFirmware.html:26
+#: development/dialogs/trigger/add.html:23
 msgid "Step 1"
 msgstr "步骤一"
 
 #: development/dialogs/addFirmware.html:38
 #: development/dialogs/addFirmware.html:45
+#: development/dialogs/trigger/add.html:37
 msgid "Step 2"
 msgstr "步骤二"
 
 #: development/dialogs/addFirmware.html:55
+#: development/dialogs/trigger/add.html:47
 msgid "Step 3"
 msgstr "步骤三"
-
-#: supports/tutorial.html:14
-msgid "Step by guides to use the MCS service and build your IoT prototype."
-msgstr ""
-"我们提供逐步引导如何使用MCS服务的教程内容，让您建立自己的物联网产品原型。"
 
 #: development/dialogs/addComponentContent.html:142
 #: development/dialogs/addComponentContent.html:242
@@ -1382,11 +1394,11 @@ msgstr "Telnet"
 msgid "Template preview"
 msgstr "模板预览"
 
-#: header.html:110 supports/terms_of_use.html:2 supports/terms_of_use.html:8
+#: header.html:146
 msgid "Terms of use"
 msgstr "使用条款"
 
-#: mydevices/detail.html:116 mydevices/index.html:75
+#: mydevices/detail.html:116 mydevices/index.html:85
 msgid "Test"
 msgstr "测试"
 
@@ -1443,15 +1455,6 @@ msgstr "此功能目前正在开发中，将会很快能够提供服务！"
 msgid "This is my clicked marker!"
 msgstr "这是我的点击标记！"
 
-#: development/dialogs/notification/create.html:144
-#: development/dialogs/notification/edit.html:143
-msgid "Threshold value"
-msgstr "值"
-
-#: directives/category/selectFromToDate.js:21
-msgid "Time format incorrect, Hour must be between 0-24"
-msgstr "时间格式不正确，小时必须在0-24之间。"
-
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
 msgid "Time:"
@@ -1475,6 +1478,38 @@ msgid ""
 "prototype."
 msgstr "您能在此查看和管理所有隶属于此开发原型的测试装置。"
 
+#: development/detail.html:146 development/detail/trigger.html:4
+#: mydevices/detail.html:156 mydevices/detail/trigger.html:4
+msgid "Trigger & Action"
+msgstr "触发条件与动作"
+
+#: development/detail/trigger.html:12 mydevices/detail/trigger.html:12
+msgid "Trigger action"
+msgstr "触发动作"
+
+#: development/detail/trigger.html:11 mydevices/detail/trigger.html:11
+#: mydevices/dialogs/trigger.html:25
+msgid "Trigger criteria"
+msgstr "触发条件"
+
+#: controllers/development/detail.js:851 controllers/development/detail.js:859
+#: controllers/devices/detail.js:279
+msgid "Trigger had error!"
+msgstr "触发条件有错误"
+
+#: development/dialogs/trigger/add.html:64
+#: development/dialogs/trigger/edit.html:54 mydevices/dialogs/trigger.html:14
+msgid "Trigger name"
+msgstr "触发条件名称"
+
+#: controllers/development/detail.js:869
+msgid "Trigger name is required!"
+msgstr "请输入触发条件名称"
+
+#: mydevices/detail/trigger.html:13
+msgid "Trigger switch"
+msgstr "触发条件开关"
+
 #: directives/components/control/category.js:142
 #: directives/components/control/category.js:166
 #: directives/components/control/category.js:255
@@ -1486,12 +1521,7 @@ msgstr "您能在此查看和管理所有隶属于此开发原型的测试装置
 msgid "Try again."
 msgstr "请再试一次。"
 
-#: aside.html:73 header.html:66 supports/28_using_notification.html:2
-#: supports/connect_device.html:2 supports/getting_started.html:2
-#: supports/implementing_using_linkit_one.html:2
-#: supports/implementing_using_mt7681_development_board.html:2
-#: supports/managing_firmware.html:2 supports/setting_notification.html:2
-#: supports/tutorial.html:2 supports/tutorial.html:8
+#: aside.html:73 header.html:73
 msgid "Tutorial"
 msgstr "教程"
 
@@ -1499,7 +1529,7 @@ msgstr "教程"
 msgid "Type"
 msgstr "搜尋結果    Type "
 
-#: controllers/development/detail.js:290
+#: controllers/development/detail.js:292
 msgid "Unit type format cannot null"
 msgstr "单位类型格式不能为空。"
 
@@ -1579,11 +1609,6 @@ msgstr "用户"
 msgid "Users ({{ privileges.length }})"
 msgstr "用户({{ privileges.length }})"
 
-#: supports/setting_notification.html:2 supports/setting_notification.html:8
-#: supports/tutorial.html:91
-msgid "Using notification"
-msgstr "使用通知"
-
 #: components/control/pwm.html:4 components/control/pwmSlider.html:12
 msgid "Value"
 msgstr "值"
@@ -1640,6 +1665,12 @@ msgid ""
 "see it."
 msgstr "你可以编辑你想要使用者看到的产品原型信息。"
 
+#: mydevices/index.html:70
+msgid ""
+"You can follow the quick start guide in the dashboard, or refer to the "
+"tutorial for more detail steps."
+msgstr "您可以登入页的使用快速上手指南或是参考教程来取得更多详细资讯。"
+
 #: values/products/ngIntro.js:16
 msgid "You can grant access rights of this prototype to your working peers."
 msgstr "您可以在此替其他使用者新增使用者权限。"
@@ -1658,7 +1689,7 @@ msgid ""
 "retrieve data."
 msgstr "你可以使用这边提供的API来设定你所需要的动作。例如上传和读取资料点。"
 
-#: controllers/development/detail.js:283
+#: controllers/development/detail.js:285
 msgid "You should choose a data channel type!"
 msgstr "请选择一个资料通道类型！"
 
@@ -1667,12 +1698,16 @@ msgid "Your current timezone"
 msgstr "您当前的时区"
 
 #: controllers/profile/index.js:77
-msgid "Your password length cannot less than 8"
-msgstr "您的密码长度不得小于8个字元。"
+msgid "Your password length cannot be less than 8 characters"
+msgstr "您的密码必须至少为八个字元"
 
 #: directives/components/control/gps.js:150
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr "高度必须在-20000公尺至20000公尺之间！"
+
+#: mydevices/index.html:68
+msgid "and create test device for it."
+msgstr "并且为其建立测试装置。"
 
 #: mydevices/dialogs/editDevices.html:139
 msgid "cancel"
@@ -1690,27 +1725,31 @@ msgstr "选择时区"
 msgid "confirm password can not be null"
 msgstr "确认密码不能为空"
 
+#: services/products/main.js:554 services/products/main.js:560
+msgid "content"
+msgstr "内容"
+
 #: mydevices/detail.html:70
 msgid "copy to clipboard"
 msgstr "复制到剪贴板"
 
-#: controllers/development/detail.js:833
-msgid "delete notification error!"
-msgstr "删除通知时发生错误！"
-
-#: controllers/development/detail.js:887 controllers/devices/detail.js:83
+#: controllers/development/detail.js:959 controllers/devices/detail.js:84
 msgid "delete privilege  error!"
 msgstr "删除权限时发生错误！"
 
-#: controllers/development/detail.js:474
+#: controllers/development/detail.js:476
 msgid "delete test device error"
 msgstr "删除测试装置时发生错误"
+
+#: controllers/development/detail.js:792
+msgid "delete trigger error!"
+msgstr "删除触发条件有错"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 msgid "device"
 msgstr "装置"
 
-#: controllers/development/detail.js:583
+#: controllers/development/detail.js:585
 msgid "file cannot be null!"
 msgstr "文件不能为空！"
 
@@ -1730,7 +1769,7 @@ msgstr "纬度或经度不能为空！"
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr "纬度或经度或高度应该是浮点数或是整数！"
 
-#: controllers/development/detail.js:577
+#: controllers/development/detail.js:579
 msgid "name cannot be null!"
 msgstr "名称不能为空！"
 
@@ -1750,10 +1789,11 @@ msgstr "保存"
 msgid "select role"
 msgstr "选择角色"
 
-#: controllers/development/detail.js:113 controllers/development/detail.js:139
-#: controllers/development/detail.js:183 controllers/development/detail.js:790
-#: controllers/development/detail.js:97 controllers/development/index.js:123
-#: controllers/development/index.js:143 controllers/devices/detail.js:109
+#: controllers/development/detail.js:115 controllers/development/detail.js:141
+#: controllers/development/detail.js:185 controllers/development/detail.js:849
+#: controllers/development/detail.js:857 controllers/development/detail.js:99
+#: controllers/development/index.js:123 controllers/development/index.js:143
+#: controllers/devices/detail.js:110 controllers/devices/detail.js:277
 #: controllers/devices/index.js:66
 msgid "success."
 msgstr "成功。"
@@ -1762,9 +1802,9 @@ msgstr "成功。"
 msgid "test"
 msgstr "测试"
 
-#: controllers/development/detail.js:821
-msgid "update notification error!"
-msgstr "更新通知时发生错误！"
+#: services/products/main.js:549
+msgid "title"
+msgstr "名称"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
@@ -1772,21 +1812,130 @@ msgstr "升级你所上传的档案。"
 
 #: directives/components/control/pwm.js:53
 #: directives/components/control/pwmSlider.js:50
-msgid "value, period must be a Integer."
-msgstr "值和周期必须是整数。"
+msgid "value, period must be an Integer."
+msgstr "值和周期必须是整数"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:59 mydevices/index.html:106
+#: mydevices/detail.html:59 mydevices/index.html:116
 msgid "version"
 msgstr "版本"
 
-#: controllers/development/detail.js:580
+#: controllers/development/detail.js:582
 msgid "version cannot be null!"
 msgstr "版本不能为空！"
 
-#: controllers/development/detail.js:293
+#: mydevices/index.html:68
+msgid "you need to first create a prototype"
+msgstr "您需要先建立产品原型"
+
+#: development/dialogs/trigger/add.html:356
+#: development/dialogs/trigger/edit.html:344
+msgid "{{format.name | capitalize:'first' | translate}}"
+msgstr "{{format.name | capitalize:'first' | translate}}"
+
+#: controllers/development/detail.js:295
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
+
+#~ msgid "+ Add Notification"
+#~ msgstr "+ 新增提醒"
+
+#~ msgid "API reference"
+#~ msgstr "API 参考资料"
+
+#~ msgid "Add notification"
+#~ msgstr "新增提醒"
+
+#~ msgid "Advanced setting"
+#~ msgstr "高级设定"
+
+#~ msgid "Connect device"
+#~ msgstr "连接装置"
+
+#~ msgid "Development cycle"
+#~ msgstr "开发周期"
+
+#~ msgid "Edit notification"
+#~ msgstr "编辑通知"
+
+#~ msgid "Getting started step by step"
+#~ msgstr "详细入门导览"
+
+#~ msgid "How to connect device"
+#~ msgstr "如何连接装置"
+
+#~ msgid "Implement with Linkit Connect 7681"
+#~ msgstr "Linkit Connect 7681 实际操作"
+
+#~ msgid "Implement with Linkit One"
+#~ msgstr "Linkit One 实际操作"
+
+#~ msgid "Implement with device"
+#~ msgstr "装置实际操作"
+
+#~ msgid "Input the notification name"
+#~ msgstr "输入通知名称"
+
+#~ msgid "Log Out"
+#~ msgstr "登出"
+
+#~ msgid "Managing firmware"
+#~ msgstr "管理固件"
+
+#~ msgid "Minute format incorrect, Hour must be between 0-60"
+#~ msgstr "时间格式不正确，分钟值必须在0-60 之间"
+
+#~ msgid "Must Be a Integer!"
+#~ msgstr "必须是一个整数 ！"
+
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+#~ msgid "Notification Rules"
+#~ msgstr "通知规则"
+
+#~ msgid "Notification had error!"
+#~ msgstr "通知发生错误​​！"
+
+#~ msgid "Notification name"
+#~ msgstr "通知名称"
+
+#~ msgid "Notification rule"
+#~ msgstr "通知规则"
+
+#~ msgid "Open/Close"
+#~ msgstr "开/关"
+
+#~ msgid "Quick start guide"
+#~ msgstr "快速入门指南"
+
+#~ msgid "Setting user privilege"
+#~ msgstr "设定使用者权限"
+
+#~ msgid "Step by guides to use the MCS service and build your IoT prototype."
+#~ msgstr ""
+#~ "我们提供逐步引导如何使用MCS服务的教程内容，让您建立自己的物联网产品原型。"
+
+#~ msgid "Threshold value"
+#~ msgstr "值"
+
+#~ msgid "Time format incorrect, Hour must be between 0-24"
+#~ msgstr "时间格式不正确，小时必须在0-24之间。"
+
+#~ msgid "Using notification"
+#~ msgstr "使用通知"
+
+#~ msgid "Your password length cannot less than 8"
+#~ msgstr "您的密码长度不得小于8个字元。"
+
+#~ msgid "delete notification error!"
+#~ msgstr "删除通知时发生错误！"
+
+#~ msgid "update notification error!"
+#~ msgstr "更新通知时发生错误！"
+
+#~ msgid "value, period must be a Integer."
+#~ msgstr "值和周期必须是整数。"
 
 #~ msgid ""
 #~ "If you delete a prototype, all test devices in it will be deleted as well."
