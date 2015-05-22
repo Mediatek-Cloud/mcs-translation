@@ -5,7 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh-CN\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,15 +14,15 @@ msgstr ""
 
 #: index.html:224
 msgid "Administrator"
-msgstr "系统管理员"
+msgstr "系統管理員"
 
 #: index.html:180 index.html:85
 msgid "Firmware Over-the-Air (OTA)"
-msgstr "固件空中下载"
+msgstr "韌體空中下載"
 
 #: index.html:259
 msgid "Go get more information, please sign up with us!"
-msgstr "您可以注册一个免费的帐号来查看更详细的资讯"
+msgstr "您可以註冊一個免費的帳號來查看更詳細的資訊"
 
 #: index.html:148
 msgid ""
@@ -30,12 +30,12 @@ msgid ""
 "anytime, anywhere. A special designed mobile application enables the "
 "developer to easily control the device or to view the uploaded data points."
 msgstr ""
-"您可以随时随地的透过我们的云端平台来控制您的装置。另外，我们亦提供手机应用程"
-"式让您透过手资随时掌控装置最新状态。"
+"您可以隨時隨地的透過我們的雲端平台來控制您的裝置。另外，我們亦提供手機應用程"
+"式讓您透過手資隨時掌控裝置最新狀態。"
 
 #: index.html:141
 msgid "MCS core features"
-msgstr "MCS 核心功能"
+msgstr "MCS核心功能"
 
 #: index.html:201
 msgid ""
@@ -43,12 +43,12 @@ msgid ""
 "Whenever the trigger is activated, the corresponding actions will be "
 "triggered. The action includes sending email notification and GCM service."
 msgstr ""
-"您能透过 MCS 来设定您测试装置的触发条件和动作。当触发条件满足时，相对应的动作"
-"将会被执行。动作包括寄送电子邮件通知或是 GCM 通知。"
+"您能透過MCS來設定您測試裝置的觸發條件和動作。當觸發條件滿足時，相對應的動作將"
+"會被執行。動作包括寄送電子郵件通知或是GCM通知。"
 
 #: index.html:48
 msgid "MCS facilitates fast prototyping your IoT ideation to real solution."
-msgstr "使用 MCS 帮助您快速实现您的物联网产品原型。"
+msgstr "使用 MCS はすぐにあなたのプロトタイプの物事を実現するのに役立ちます"
 
 #: index.html:244
 msgid ""
@@ -56,8 +56,8 @@ msgid ""
 "upload and retrieve the data points, get connection, and get device "
 "information."
 msgstr ""
-"MCS 提供了一系列的 RESTful APIs，能使开发者快速的存取资料点，连结装置，和取得"
-"装置讯息。"
+"MCS提供了一系列的RESTful APIs，能使開發者快速的存取資料點，連結裝置，和取得裝"
+"置訊息。"
 
 #: index.html:165
 msgid ""
@@ -66,8 +66,8 @@ msgid ""
 "data and historical data by use the time filter to extract the time period "
 "of data you are interested in."
 msgstr ""
-"MCS 提供了依照时间序列储存资料的服务，让您能够在图型化的介面检视您装置回传的"
-"资料。您亦可浏览您感兴趣的任何特定时间范围内的历史资料。"
+"MCS提供了依照時間序列儲存資料的服務，讓您能夠在圖型化的介面檢視您裝置回傳的資"
+"料。您亦可瀏覽您感興趣的任何特定時間範圍內的歷史資料。"
 
 #: index.html:35
 msgid "MediaTek Cloud Sandbox"
@@ -78,51 +78,51 @@ msgid ""
 "MediaTek Cloud Sandbox (MCS) is a cloud based data service platform for "
 "Internet of Things devices."
 msgstr ""
-"MediaTek Cloud Sandbox (MCS) 是一个云端资料服务平台，让您能够连结物联网装置。"
+"MediaTek Cloud Sandbox (MCS) は、クラウド·データ·サービス·プラットフォームであるあなたは、ネットワークデバイスをリンクすることができます。"
 
 #: index.html:221
 msgid "Owner"
-msgstr "拥有者"
+msgstr "擁有者"
 
 #: index.html:131 index.html:260
 msgid "Register now"
-msgstr "立即注册"
+msgstr "立即註冊"
 
 #: index.html:162
 msgid "Reliable Time series data storage"
-msgstr "快速稳定的资料储存"
+msgstr "快速穩定的資料儲存"
 
 #: index.html:105
 msgid "Reliable time series data storage"
-msgstr "快速稳定的资料储存"
+msgstr "快速穩定的資料儲存"
 
 #: index.html:147 index.html:77
 msgid "Remote control"
-msgstr "远端控制"
+msgstr "遠端控制"
 
 #: index.html:243
 msgid "Rich set of RESTful APIS"
-msgstr "丰富的 RESTful API"
+msgstr "豐富的 RESTful API"
 
 #: index.html:121
 msgid "Rich set of RESTful APIs"
-msgstr "丰富的 RESTful API"
+msgstr "豐富的 RESTful API"
 
 #: index.html:113 index.html:198
 msgid "Trigger and action"
-msgstr "触发条件和动作"
+msgstr "觸發條件和動作"
 
 #: index.html:216 index.html:93
 msgid "User privilege access control"
-msgstr "使用者权限控管"
+msgstr "使用者權限控管"
 
 #: index.html:227
 msgid "Viewer"
-msgstr "浏览者"
+msgstr "瀏覽者"
 
 #: index.html:65
 msgid "Why MediaTek Cloud Sandbox?"
-msgstr "选择 MediaTek Cloud Sandbox 的优势"
+msgstr "なぜMediaTek Cloud Sandbox?"
 
 #: index.html:217
 msgid ""
@@ -130,8 +130,8 @@ msgid ""
 "the data to specific users to edit or to view only. The prototype and device "
 "can have separate user privilege access base on your needs."
 msgstr ""
-"您可以替您的产品原型或是装置设置不同的使用者权限。产品原型和其测试装置能有不"
-"同的权限设置来因应您的需求。"
+"您可以替您的產品原型或是裝置設置不同的使用者權限。產品原型和其測試裝置能有不"
+"同的權限設置來因應您的需求。"
 
 #: index.html:183
 msgid ""
@@ -139,16 +139,16 @@ msgid ""
 "can manage all the firmware for a prototype and select which test device is "
 "taking the upgrade."
 msgstr ""
-"您可以上传韧体并直接更新至装置。开发者能在产品原型中管理所有的韧体，并决定哪"
-"些装置需要更新。"
+"您可以上傳韌體並直接更新至裝置。開發者能在產品原型中管理所有的韌體，並決定哪"
+"些裝置需要更新。"
 
 #~ msgid ""
 #~ "A cloud based time-series data storage service platform for connected "
 #~ "Internet of Things devices."
-#~ msgstr "您能够连接物联网装置的云端资资料服务平台"
+#~ msgstr "讓您能夠連接物聯網裝置的雲端資資料服務平台"
 
 #~ msgid "Firmware update over the air service"
-#~ msgstr "固件空中更新"
+#~ msgstr "韌體空中更新"
 
 #~ msgid ""
 #~ "MCS enable you to set the trigger and the action for the test device. "
@@ -156,8 +156,8 @@ msgstr ""
 #~ "triggered. The action includes sending email notification, calling device "
 #~ "API, and GCM service."
 #~ msgstr ""
-#~ "使用MCS，您可以为您的装置设定通知条件和动作。当您所设定的条件符合时，系统"
-#~ "将会主动发出通知。通知的类别包括电子邮件和GCM通知。"
+#~ "使用MCS，您可以為您的裝置設定通知條件和動作。當您所設定的條件符合時，系統"
+#~ "將會主動發出通知。通知的類別包括電子郵件和GCM通知。"
 
 #~ msgid ""
 #~ "MCS provides time series data storage service allows you to view the "
@@ -165,23 +165,23 @@ msgstr ""
 #~ "current data and historical data by use the time filter to extract the "
 #~ "time period of data you are interested in. We also have control panel."
 #~ msgstr ""
-#~ "MCS提供了资料时间序列储存服务让您能够在图型化的介面上读取您的装置所回传得"
-#~ "资料。您可以搜寻任何您感兴趣的特定时间范围内的资料点。"
+#~ "MCS提供了資料時間序列儲存服務讓您能夠在圖型化的介面上讀取您的裝置所回傳得"
+#~ "資料。您可以搜尋任何您感興趣的特定時間範圍內的資料點。"
 
 #~ msgid "MediaTek Cloud SandBox (MCS)"
 #~ msgstr "MediaTek Cloud SandBox (MCS)"
 
 #~ msgid "Notification service"
-#~ msgstr "条件通知服务"
+#~ msgstr "條件通知服務"
 
 #~ msgid "Over-the-Air (OTA) firmware update"
-#~ msgstr "空中固件更新"
+#~ msgstr "空中韌體更新"
 
 #~ msgid "Remote control service"
-#~ msgstr "远端控制服务"
+#~ msgstr "遠端控制服務"
 
 #~ msgid "Rich set of REST APIs"
-#~ msgstr "丰富的 RESTful API"
+#~ msgstr "豐富的 RESTful API"
 
 #~ msgid "Trigger and action Service"
-#~ msgstr "条件通知服务"
+#~ msgstr "條件通知服務"
