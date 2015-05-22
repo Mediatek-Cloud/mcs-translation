@@ -5,7 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh-TW\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: index.html:141
 msgid "MCS core features"
-msgstr "MCS核心功能"
+msgstr "MCS 核心功能"
 
 #: index.html:201
 msgid ""
@@ -48,7 +48,7 @@ msgstr ""
 
 #: index.html:48
 msgid "MCS facilitates fast prototyping your IoT ideation to real solution."
-msgstr "使用MCS幫助您快速實現您的物聯網產品原型。"
+msgstr "使用 MCS 幫助您快速實現您的物聯網產品原型。"
 
 #: index.html:244
 msgid ""
@@ -56,8 +56,8 @@ msgid ""
 "upload and retrieve the data points, get connection, and get device "
 "information."
 msgstr ""
-"MCS提供了一系列的RESTful APIs，能使開發者快速的存取資料點，連結裝置，和取得裝"
-"置訊息。"
+"MCS 提供了一系列的 RESTful APIs，能使開發者快速的存取資料點，連結裝置，和取得"
+"裝置訊息。"
 
 #: index.html:165
 msgid ""
@@ -66,8 +66,8 @@ msgid ""
 "data and historical data by use the time filter to extract the time period "
 "of data you are interested in."
 msgstr ""
-"MCS提供了依照時間序列儲存資料的服務，讓您能夠在圖型化的介面檢視您裝置回傳的資"
-"料。您亦可瀏覽您感興趣的任何特定時間範圍內的歷史資料。"
+"MCS 提供了依照時間序列儲存資料的服務，讓您能夠在圖型化的介面檢視您裝置回傳的"
+"資料。您亦可瀏覽您感興趣的任何特定時間範圍內的歷史資料。"
 
 #: index.html:35
 msgid "MediaTek Cloud Sandbox"
@@ -78,7 +78,7 @@ msgid ""
 "MediaTek Cloud Sandbox (MCS) is a cloud based data service platform for "
 "Internet of Things devices."
 msgstr ""
-"MediaTek Cloud Sandbox (MCS)是一個雲端資料服務平台，讓您能夠連結物聯網裝置。"
+"MediaTek Cloud Sandbox (MCS) 是一個雲端資料服務平台，讓您能夠連結物聯網裝置。"
 
 #: index.html:221
 msgid "Owner"
@@ -122,7 +122,7 @@ msgstr "瀏覽者"
 
 #: index.html:65
 msgid "Why MediaTek Cloud Sandbox?"
-msgstr "選擇MediaTek Cloud Sandbox的優勢"
+msgstr "選擇 MediaTek Cloud Sandbox 的優勢"
 
 #: index.html:217
 msgid ""
