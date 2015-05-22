@@ -1342,7 +1342,7 @@ msgid "Show History"
 msgstr "打开历史资料"
 
 #: header.html:151
-msgid "Sign Out"
+msgid "Sign out"
 msgstr "登出"
 
 #: dashboard/index.html:29
@@ -1454,6 +1454,14 @@ msgstr "此功能目前正在开发中，将会很快能够提供服务！"
 #: components/control/gps.html:34
 msgid "This is my clicked marker!"
 msgstr "这是我的点击标记！"
+
+#: directives/category/selectFromToDate.js:21
+msgid "Time format incorrect, Hour must be between 0-24"
+msgstr "时间格式不正确，小时值必须在0-24之间。"
+
+#: directives/category/selectFromToDate.js:24
+msgid "Time format incorrect, minute value must be between 0-60"
+msgstr "时间格式不正确，分钟值必须在0-24之间。"
 
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
@@ -1837,6 +1845,9 @@ msgstr "{{format.name | capitalize:'first' | translate}}"
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
 
+#~ msgid "Sign Out"
+#~ msgstr "登出"
+
 #~ msgid "+ Add Notification"
 #~ msgstr "+ 新增提醒"
 
@@ -1918,9 +1929,6 @@ msgstr "{{key}} 不是 {{format}}"
 
 #~ msgid "Threshold value"
 #~ msgstr "值"
-
-#~ msgid "Time format incorrect, Hour must be between 0-24"
-#~ msgstr "时间格式不正确，小时必须在0-24之间。"
 
 #~ msgid "Using notification"
 #~ msgstr "使用通知"

@@ -67,7 +67,7 @@ msgid ""
 "of data you are interested in."
 msgstr ""
 "MCS提供了依照時間序列儲存資料的服務，讓您能夠在圖型化的介面檢視您裝置回傳的資"
-"料。"
+"料。您亦可瀏覽您感興趣的任何特定時間範圍內的歷史資料。"
 
 #: index.html:35
 msgid "MediaTek Cloud Sandbox"
