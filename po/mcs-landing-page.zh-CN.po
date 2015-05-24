@@ -44,7 +44,7 @@ msgid ""
 "triggered. The action includes sending email notification and GCM service."
 msgstr ""
 "您能透过 MCS 来设定您测试装置的触发条件和动作。当触发条件满足时，相对应的动作"
-"将会被执行。动作包括寄送电子邮件通知或是GCM通知。"
+"将会被执行。动作包括寄送电子邮件通知或是 GCM 通知。"
 
 #: index.html:47
 msgid "MCS facilitates fast prototyping your IoT ideation to real solution."

@@ -43,8 +43,8 @@ msgid ""
 "Whenever the trigger is activated, the corresponding actions will be "
 "triggered. The action includes sending email notification and GCM service."
 msgstr ""
-"您能透過MCS來設定您測試裝置的觸發條件和動作。當觸發條件滿足時，相對應的動作將"
-"會被執行。動作包括寄送電子郵件通知或是GCM通知。"
+"您能透過 MCS 來設定您測試裝置的觸發條件和動作。當觸發條件滿足時，相對應的動作"
+"將會被執行。動作包括寄送電子郵件通知或是 GCM 通知。"
 
 #: index.html:47
 msgid "MCS facilitates fast prototyping your IoT ideation to real solution."
