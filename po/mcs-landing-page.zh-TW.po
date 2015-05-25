@@ -93,6 +93,11 @@ msgid ""
 "smartphone app lets you review collected data and control your devices from "
 "anywhere."
 msgstr ""
+"MediaTek Cloud Sandbox 提供您在開發物聯網害穿戴式裝置的資料儲存和管理服務。您"
+"不需自行建立一套雲端架構，只需要登入平台即可使用。使用我們提供的REST敲API ，"
+"您可以接收來自裝置的訊息，並且我們提供了強而有力的網頁圖形介面，讓您能夠瀏覽"
+"圖型化的資料。您亦可以透過我們的平台控制您的穿戴式或物聯網裝置。此外，您亦可"
+"下載我們的手機應用軟體，讓您隨時隨地接收資料並控制您的裝置。"
 
 #: index.html:220
 msgid "Owner"
