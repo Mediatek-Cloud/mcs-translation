@@ -31,7 +31,7 @@ msgid ""
 "developer to easily control the device or to view the uploaded data points."
 msgstr ""
 "您可以隨時隨地的透過我們的雲端平台來控制您的裝置。另外，我們亦提供手機應用程"
-"式讓您透過手資隨時掌控裝置最新狀態。"
+"式讓您透過手機隨時掌控裝置最新狀態。"
 
 #: index.html:140
 msgid "MCS core features"
