@@ -196,7 +196,7 @@ msgstr "在正式开始之前,，你可以使用快速上手指南来帮助你�
 
 #: services/products/main.js:607
 msgid "Between"
-msgstr ""
+msgstr "之间"
 
 #: dashboard/index.html:26
 msgid ""
@@ -1701,7 +1701,7 @@ msgstr "你可以使用这边提供的API来设定你所需要的动作。例如
 #: controllers/development/index.js:162 controllers/development/index.js:97
 #: controllers/devices/index.js:78
 msgid "You do not have permission"
-msgstr ""
+msgstr "您没有权限"
 
 #: controllers/development/detail.js:287
 msgid "You should choose a data channel type!"
