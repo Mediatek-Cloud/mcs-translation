@@ -32,7 +32,7 @@ msgstr "+ 新增动作"
 #: development/dialogs/trigger/add.html:277
 #: development/dialogs/trigger/edit.html:266
 msgid "+ Add data channel"
-msgstr "+ 新增资料频道"
+msgstr "+ 新增资料通道"
 
 #: development/detail/firmware.html:68
 msgid "+ Add firmware"
@@ -54,7 +54,7 @@ msgstr "+ 新增使用者"
 #: development/dialogs/finishCreateTestDevice.html:15
 #: development/dialogs/finishRelease.html:9
 msgid "A test device is created successfully!"
-msgstr "测试设备已成功产生！"
+msgstr "测试装置已成功产生！"
 
 #: development/detail/trigger.html:24 mydevices/detail/trigger.html:25
 msgid "AND"
@@ -110,7 +110,7 @@ msgstr "添加资料通道"
 
 #: mydevices/dialogs/createDevices.html:3
 msgid "Add devices"
-msgstr "新增设备"
+msgstr "新增装置"
 
 #: development/dialogs/addFirmware.html:3
 msgid "Add firmware"
@@ -144,7 +144,7 @@ msgstr "所有固件（默认值）"
 msgid ""
 "Allows you define Firmware(s) for this prototype for created test devices "
 "Over-the-Air(OTA) Firmware updates."
-msgstr "允许您在产品原型中定义韧体，并透过空中更新置装置。"
+msgstr "允许您在产品原型中定义固件，并透过空中更新置装置。"
 
 #: components/control/gps.html:79
 msgid "Altitude:"
@@ -192,7 +192,7 @@ msgstr "回到产品原型"
 
 #: dashboard/index.html:40
 msgid "Before started, here are the quick steps to get you off the ground."
-msgstr "在正式开始之前,，你可以使用快速上手指南来帮助你了解平台。"
+msgstr "在正式开始之前，你可以使用快速上手指南来帮助您了解平台。"
 
 #: services/products/main.js:607
 msgid "Between"
@@ -205,8 +205,9 @@ msgid ""
 "enable easy embedding into small and simple home appliances such as smart "
 "lighting, and door locks."
 msgstr ""
-"MediaTek LinkIt Connect 7681 开发版内件的MT7681芯片以及支援Wi-Fi和TCP/IP 连接"
-"阜的晶片组， 能够很容易的被嵌入小儿简单的家电设备,，例如智慧照明和门锁。"
+"MediaTek LinkIt Connect 7681 开发版内件的 MT7681 芯片以及支援 Wi-Fi 和 TCP/"
+"IP 连接阜的晶片组， 能够很容易的被嵌入小而简单的家电设备,，例如智慧照明和门"
+"锁。"
 
 #: development/dialogs/addComponent.html:82
 msgid "Can't find your template?"
@@ -378,7 +379,7 @@ msgstr "资料通道ID不能為空"
 
 #: controllers/development/detail.js:284
 msgid "Data Channel Id only input a-z, 0-9, and_"
-msgstr "资料通道ID只能输入AZ，0-9，以及_。"
+msgstr "资料通道ID只能输入A-Z，0-9，以及_。"
 
 #: development/detail.html:139 development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110 mydevices/detail.html:149
@@ -389,11 +390,11 @@ msgstr "资料通道"
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
-msgstr "资料频道Id"
+msgstr "资料通道 ID"
 
 #: controllers/development/detail.js:364
 msgid "Data channel Id was used!"
-msgstr "资料通道ID已被使用！"
+msgstr "资料通道 ID 已被使用！"
 
 #: controllers/development/detail.js:887
 msgid "Data channel is required!"
@@ -530,7 +531,7 @@ msgstr "例如： 0.01 （浮点数）"
 
 #: components/control/integer.html:3
 msgid "EX:100(only input integer)"
-msgstr "例如: 100(只能打整数)"
+msgstr "例如: 100 (整数)"
 
 #: development/detail.html:117 development/detail/components.html:117
 #: development/detail/manufacturerinfo.html:11 development/index.html:94
@@ -700,7 +701,7 @@ msgstr "帮助"
 
 #: mydevices/detail/apihint.html:32
 msgid "Here is the API hint for you."
-msgstr "这里是可能有帮助的API提示"
+msgstr "这里是可能有帮助的 API 提示"
 
 #: development/dialogs/addComponentContent.html:131
 #: development/dialogs/addComponentContent.html:231
@@ -750,7 +751,7 @@ msgid ""
 "Input the content of the GCM notificaton email. When the trigger criteria is "
 "met, the GCM notification will be sent to the speci fied users."
 msgstr ""
-"请输入GCM通知的内容。当触发条件满足时，GCM通知将会被发送到有权限的使用者。"
+"请输入 GCM 通知的内容。当触发条件满足时，GCM 通知将会被发送到有权限的使用者。"
 
 #: services/products/main.js:628
 msgid ""
@@ -766,7 +767,7 @@ msgstr "输入资料通道描述"
 
 #: development/dialogs/addComponentContent.html:39
 msgid "Input the data channel id"
-msgstr "输入资料通道ID"
+msgstr "输入资料通道 ID"
 
 #: development/dialogs/addComponentContent.html:21
 #: development/dialogs/editComponent.html:21
@@ -784,7 +785,7 @@ msgstr "输入装置名称"
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:16
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:16
 msgid "Input the device name or DeviceId"
-msgstr "输入装置名称或是DeviceId"
+msgstr "输入装置名称或是 DeviceId"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:10
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:10
@@ -803,7 +804,7 @@ msgstr "输入固件版本"
 
 #: components/control/hexstring.html:3
 msgid "Input the hexadecimal value, only 0-9 or A-F."
-msgstr "输入十六进制值，可接受值为0-9或A- F。"
+msgstr "输入十六进制值，可接受值为 0-9 或 A- F。"
 
 #: profile/dialogs/changePassword.html:35
 msgid "Input the new password"
@@ -815,7 +816,7 @@ msgstr "输入旧密码"
 
 #: mydevices/dialogs/createDevices.html:15
 msgid "Input the product ID"
-msgstr "输入Product ID"
+msgstr "输入 Product ID"
 
 #: development/dialogs/createProducts.html:91
 #: development/dialogs/editProducts.html:88
@@ -901,7 +902,7 @@ msgstr "特定的固件"
 
 #: dashboard/index.html:24
 msgid "LinkIt Connect 7681 Development Board Support"
-msgstr "LinkIt Connect 7681开发版支援"
+msgstr "LinkIt Connect 7681 开发版支援"
 
 #: aside.html:100
 msgid "Linkit connect tutorial"
@@ -909,7 +910,7 @@ msgstr "LinkIt Connect 教程"
 
 #: aside.html:93
 msgid "Linkit one tutorial"
-msgstr "LinkIt One教程"
+msgstr "LinkIt One 教程"
 
 #: mydevices/detail/firmware.html:56
 msgid "Loading..."
@@ -1012,7 +1013,7 @@ msgstr "有新版本的手机应用软件可以下载！"
 
 #: dashboard/index.html:8
 msgid "News from MediaTek Cloud Sandbox"
-msgstr "来自MediaTek Cloud Sandbox的最新消息"
+msgstr "来自 MediaTek Cloud Sandbox 的最新消息"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
@@ -1161,7 +1162,7 @@ msgstr "产品原型"
 
 #: management/device-list.html:60 management/product-list.html:46
 msgid "Prototype ID"
-msgstr "产品原型ID"
+msgstr "产品原型 ID"
 
 #: development/detail.html:26 development/detail.html:39
 msgid "Prototype detail"
@@ -1296,7 +1297,7 @@ msgid ""
 "(<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) you've uploaded."
 msgstr ""
 "请选择您想要更新此固件 (<b>{{ firmwareData.name }}, {{ firmwareData."
-"version }}</b>)的装置。"
+"version }}</b>) 的装置。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "Select the prerequisite firmware that are compatible for this firmware"
@@ -1318,7 +1319,7 @@ msgstr "选择触发动作"
 
 #: controllers/profile/index.js:57
 msgid "Send email to {{email}}"
-msgstr "请寄至以下电子邮件{{email}}"
+msgstr "请寄至以下电子邮件 {{email}}"
 
 #: development/dialogs/addComponent.html:92
 msgid "Send us a message!"
@@ -1419,24 +1420,24 @@ msgid ""
 "and access their devices,  display the latest device data and its status "
 "putting their world at their fingertips."
 msgstr ""
-"使用智慧遠端控制讓使用者能夠註冊並訪問其設備，無論在世界上任何地方，使用者都"
-"能透過手機應用程式來顯示裝置的最新資料和狀態。"
+"使用智慧远端控制让使用者能够注册并访问其装置，无论在世界上任何地方，使用者都"
+"能透过手机应用程式来显示装置的最新资料和状态。"
 
 #: development/dialogs/addComponent.html:24
 msgid ""
 "The controller data channels allow you to control the status of your "
 "devices. eg, ON/OFF for a switch"
-msgstr "控制器太的行資料通道允許您控制您的設備的狀態。例如，打開或關閉開關。"
+msgstr "控制器型态的资料通道允许您控制您装置的状态。例如，打开或关闭开关。"
 
 #: development/dialogs/addComponent.html:50
 msgid "The display data channels allow you to get the data from your devices."
-msgstr "显示资料通道允许您从您的设备中读取资料。"
+msgstr "显示型態的资料通道允许您从您的装置中读取资料。"
 
 #: dashboard/index.html:25
 msgid ""
 "The new LinkIt Connect 7681 development board is now available for you to "
 "use."
-msgstr "新的LinkIt Connect 7681开发版现已可供您使用。"
+msgstr "新的 LinkIt Connect 7681 开发版现已可供您使用。"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:30
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:30
@@ -1458,11 +1459,11 @@ msgstr "这是我的点击标记！"
 
 #: directives/category/selectFromToDate.js:21
 msgid "Time format incorrect, Hour must be between 0-24"
-msgstr "时间格式不正确，小时值必须在0-24之间。"
+msgstr "时间格式不正确，小时值必须在 0-24 之间。"
 
 #: directives/category/selectFromToDate.js:24
 msgid "Time format incorrect, minute value must be between 0-60"
-msgstr "时间格式不正确，分钟值必须在0-24之间。"
+msgstr "时间格式不正确，分钟值必须在 0-24 之间。"
 
 #: components/category/selectFromToDate.html:16
 #: components/category/selectFromToDate.html:56
@@ -1536,7 +1537,7 @@ msgstr "教程"
 
 #: management/device-list.html:75
 msgid "Type"
-msgstr "搜尋結果    Type "
+msgstr "类型"
 
 #: controllers/development/detail.js:294
 msgid "Unit type format cannot null"
@@ -1544,7 +1545,7 @@ msgstr "单位类型格式不能为空。"
 
 #: dashboard/index.html:36
 msgid "Update the latest firmware to your devices using our FOTA feauture."
-msgstr "使用我们的空中固件更新服务来更新最新的韧体版本。"
+msgstr "使用我们的空中固件更新服务来更新最新的固件版本。"
 
 #: controllers/profile/index.js:131
 msgid "Update user Image internal error!"
@@ -1565,7 +1566,7 @@ msgstr "上传"
 
 #: management/dialogs/createSerialNumber.html:42
 msgid "Upload a CSV file, one serial number per line"
-msgstr "上传CSV档案，每个编号请跳行输入。"
+msgstr "上传 CSV 档案，每个编号请跳行输入。"
 
 #: profile/index.html:54
 msgid "Upload an image"
@@ -1587,14 +1588,15 @@ msgid ""
 "Use the My Devices to easily manage pre-release devices, track device "
 "registration rates, provide FOTA and more."
 msgstr ""
-"使用我的装置页面来轻松管理尚未发布的装置，追踪装置激活比例，提供空中韧体更新"
+"使用我的装置页面来轻松管理尚未发布的装置，追踪装置激活比例，提供空中固件更新"
 "以及其他功能。"
 
 #: dashboard/index.html:49
 msgid ""
 "Use the rich set of RESTful APIs to gather data from any sensor connected to "
 "your devices."
-msgstr "使用丰富的基于REST的API来搜集从感应器传来的资料并且与您的装置连结。"
+msgstr ""
+"使用丰富的基于 RESTful API 来搜集从感应器传来的资料并且与您的装置连结。"
 
 #: development/dialogs/userPrivilege.html:10
 #: mydevices/dialogs/userPrivilege.html:10
@@ -1616,7 +1618,7 @@ msgstr "用户"
 
 #: mydevices/detail/userprivileges.html:4
 msgid "Users ({{ privileges.length }})"
-msgstr "用户({{ privileges.length }})"
+msgstr "用户 ({{ privileges.length }})"
 
 #: components/control/pwm.html:4 components/control/pwmSlider.html:12
 msgid "Value"
@@ -1639,7 +1641,7 @@ msgid ""
 "1.0 closed test environment\n"
 "and added several new features:"
 msgstr ""
-"欢迎到联发科云客栈2.0 。我们基于1.0服务，提升并改善了平台性能\n"
+"欢迎到 MediaTek Cloud Sandbox 2.0 。我们基于 1.0 服务，提升并改善了平台性能\n"
 "并增加了一些新的特点："
 
 #: dashboard/index.html:13
@@ -1652,8 +1654,8 @@ msgid ""
 "better support the MediaTek LinkIt Connect 7681 development platform you've "
 "access to data types for GPIO and PWM."
 msgstr ""
-"你可以使用九種提供的預設資料形式來輕鬆建立產品原型。其中的GPIO和PWN資料型態，"
-"能夠更好的支援Mediatek LinkIt Connect7681开发版。"
+"你可以使用九種提供的預設資料形式來輕鬆建立產品原型。其中的 GPIO 和 PWM 資料型"
+"態，能夠更好的支援 Mediatek LinkIt Connect7681 开发版。"
 
 #: values/products/ngIntro.js:12
 msgid ""
@@ -1696,7 +1698,7 @@ msgstr "你可以在我的裝置頁面看到它的细节"
 msgid ""
 "You can use the APIs listed here to set up the action you need.eg. upload or "
 "retrieve data."
-msgstr "你可以使用这边提供的API来设定你所需要的动作。例如上传和读取资料点。"
+msgstr "你可以使用这边提供的 API 来设定你所需要的动作。例如上传和读取资料点。"
 
 #: controllers/development/index.js:162 controllers/development/index.js:97
 #: controllers/devices/index.js:78
@@ -1717,7 +1719,7 @@ msgstr "您的密码必须至少为八个字元"
 
 #: directives/components/control/gps.js:150
 msgid "altitude must be between -20000 and 20000 meters!"
-msgstr "高度必须在-20000公尺至20000公尺之间！"
+msgstr "高度必须在 -20000 公尺至 20000 公尺之间！"
 
 #: mydevices/index.html:68
 msgid "and create test device for it."
