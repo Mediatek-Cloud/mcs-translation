@@ -1653,14 +1653,14 @@ msgstr ""
 msgid "Trigger switch"
 msgstr ""
 
-#: directives/components/control/category.js:142
-#: directives/components/control/category.js:166
-#: directives/components/control/category.js:255
-#: directives/components/control/category.js:280
-#: directives/components/control/category.js:35
-#: directives/components/control/category.js:374
-#: directives/components/control/category.js:400
-#: directives/components/control/category.js:58
+#: directives/components/control/category.js:153
+#: directives/components/control/category.js:182
+#: directives/components/control/category.js:275
+#: directives/components/control/category.js:305
+#: directives/components/control/category.js:37
+#: directives/components/control/category.js:403
+#: directives/components/control/category.js:434
+#: directives/components/control/category.js:65
 msgid "Try again."
 msgstr ""
 
