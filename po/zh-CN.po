@@ -358,7 +358,7 @@ msgstr "创建测试装置"
 
 #: development/detail.html:136
 msgid "Create test device to collect real data !"
-msgstr "新增测试装置来搜集及时资料吧！"
+msgstr "新增测试装置来搜集即时资料吧！"
 
 #: tutorial.html:74
 msgid "Create the first prototype"
