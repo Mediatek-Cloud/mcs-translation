@@ -53,7 +53,7 @@ msgstr "+ 新增使用者"
 
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
-msgstr "资料通道程载资料流。来新增一个吧。"
+msgstr "资料通道承载资料流。来新增一个吧。"
 
 #: development/index.html:33
 msgid "A prototype is like a project."
