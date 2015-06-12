@@ -53,7 +53,7 @@ msgstr "+ 新增使用者"
 
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
-msgstr "資料通道承載資料流。來新增一個吧。"
+msgstr "資料通道程載資料流。來新增一個吧。"
 
 #: development/index.html:33
 msgid "A prototype is like a project."
@@ -62,7 +62,7 @@ msgstr "產品原型就是您的物連網專案。"
 #: development/dialogs/finishCreateTestDevice.html:15
 #: development/dialogs/finishRelease.html:9
 msgid "A test device is created successfully!"
-msgstr "測試設備已成功產生!"
+msgstr "測試裝置已成功產生!"
 
 #: development/detail/trigger.html:24 mydevices/detail/trigger.html:25
 msgid "AND"
@@ -358,7 +358,7 @@ msgstr "創建測試裝置"
 
 #: development/detail.html:136
 msgid "Create test device to collect real data !"
-msgstr "新增測試裝置來蒐集即時資料吧！"
+msgstr "新增測試裝置來蒐集及時資料吧！"
 
 #: tutorial.html:74
 msgid "Create the first prototype"
