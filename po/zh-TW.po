@@ -1524,7 +1524,7 @@ msgstr "使用者已經有 {{userPrivilege.oldDeviceUserPrivType}} 權限"
 
 #: development/dialogs/userPrivilege.html:84
 msgid "The user already has {{userPrivilege.oldProdUserPrivType}} access"
-msgstr "使用者已經有 {{userPrivilege.oldDeviceUserPrivType}} 權限"
+msgstr "使用者已經有 {{userPrivilege.oldProdUserPrivType}} 權限"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:30
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:30
