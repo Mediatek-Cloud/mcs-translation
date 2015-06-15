@@ -49,7 +49,7 @@ msgstr ""
 msgid "A data channel carries the data stream. Add it now."
 msgstr ""
 
-#: development/index.html:33
+#: development/index.html:38
 msgid "A prototype is like a project."
 msgstr ""
 
@@ -67,7 +67,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:208
+#: mydevices/detail.html:213
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -95,7 +95,7 @@ msgstr ""
 msgid "Action {{field}} is required!"
 msgstr ""
 
-#: management/device-list.html:78
+#: management/device-list.html:81
 msgid "Activated date"
 msgstr ""
 
@@ -136,7 +136,7 @@ msgstr ""
 msgid "Add user"
 msgstr ""
 
-#: mydevices/index.html:71
+#: mydevices/index.html:75
 msgid "Add your devices now!"
 msgstr ""
 
@@ -177,10 +177,10 @@ msgstr ""
 msgid "Angular"
 msgstr ""
 
-#: development/detail.html:123
+#: development/detail.html:126
 #: development/dialogs/createProducts.html:141
 #: development/dialogs/editProducts.html:131
-#: mydevices/detail.html:93
+#: mydevices/detail.html:98
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
 msgstr ""
@@ -198,7 +198,7 @@ msgstr ""
 msgid "At least 8 characters"
 msgstr ""
 
-#: mydevices/detail.html:73
+#: mydevices/detail.html:78
 msgid "Back to prototype"
 msgstr ""
 
@@ -241,7 +241,7 @@ msgid "Category"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
-#: profile/index.html:82
+#: profile/index.html:85
 msgid "Change password"
 msgstr ""
 
@@ -325,11 +325,11 @@ msgstr ""
 msgid "Confirm password"
 msgstr ""
 
-#: mydevices/index.html:35
+#: mydevices/index.html:39
 msgid "Congratulations! You have finished the quick start guide. You can find all test devices in My devices page."
 msgstr ""
 
-#: development/index.html:50
+#: development/index.html:55
 msgid "Congratulations! You have the first prototype. Go into the detail to add data channel."
 msgstr ""
 
@@ -337,12 +337,14 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: mydevices/detail.html:116
-#: mydevices/detail.html:127
+#: mydevices/detail.html:121
+#: mydevices/detail.html:132
+#: mydevices/detail.html:157
+#: mydevices/detail.html:165
 msgid "Copy"
 msgstr ""
 
-#: development/index.html:90
+#: development/index.html:95
 msgid "Create"
 msgstr ""
 
@@ -354,12 +356,12 @@ msgstr ""
 msgid "Create prototype"
 msgstr ""
 
-#: development/detail.html:90
+#: development/detail.html:93
 #: development/dialogs/createTestDevice.html:3
 msgid "Create test device"
 msgstr ""
 
-#: development/detail.html:136
+#: development/detail.html:139
 msgid "Create test device to collect real data !"
 msgstr ""
 
@@ -367,14 +369,14 @@ msgstr ""
 msgid "Create the first prototype"
 msgstr ""
 
-#: development/index.html:86
+#: development/index.html:91
 msgid "Create your prototype now!"
 msgstr ""
 
-#: development/detail.html:42
-#: development/detail.html:50
-#: mydevices/detail.html:42
-#: mydevices/detail.html:49
+#: development/detail.html:45
+#: development/detail.html:53
+#: mydevices/detail.html:47
+#: mydevices/detail.html:54
 msgid "Creator"
 msgstr ""
 
@@ -382,12 +384,12 @@ msgstr ""
 msgid "Criteria value is required!"
 msgstr ""
 
-#: mydevices/index.html:83
+#: mydevices/index.html:87
 msgid "Currently there is no test device created,"
 msgstr ""
 
 #: aside.html:12
-#: dashboard/index.html:25
+#: dashboard/index.html:28
 msgid "Dashboard"
 msgstr ""
 
@@ -399,10 +401,10 @@ msgstr ""
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
-#: development/detail.html:147
+#: development/detail.html:150
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:177
+#: mydevices/detail.html:182
 msgid "Data channel"
 msgstr ""
 
@@ -438,11 +440,11 @@ msgstr ""
 msgid "Default value"
 msgstr ""
 
-#: development/detail.html:64
+#: development/detail.html:67
 #: development/detail/components.html:136
-#: development/index.html:134
-#: mydevices/detail.html:62
-#: mydevices/index.html:122
+#: development/index.html:139
+#: mydevices/detail.html:67
+#: mydevices/index.html:126
 msgid "Delete"
 msgstr ""
 
@@ -456,7 +458,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: development/detail.html:124
+#: development/detail.html:127
 #: development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
 #: development/dialogs/createProducts.html:83
@@ -464,15 +466,15 @@ msgstr ""
 #: development/dialogs/editProducts.html:80
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:94
+#: mydevices/detail.html:99
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:60
 msgid "Description"
 msgstr ""
 
-#: development/index.html:166
-#: management/device-list.html:105
-#: mydevices/index.html:150
+#: development/index.html:171
+#: management/device-list.html:108
+#: mydevices/index.html:154
 msgid "Detail"
 msgstr ""
 
@@ -489,8 +491,8 @@ msgid "Develop with our hardware platform"
 msgstr ""
 
 #: aside.html:21
-#: development/detail.html:25
-#: development/index.html:25
+#: development/detail.html:28
+#: development/index.html:30
 #: header.html:31
 msgid "Development"
 msgstr ""
@@ -503,11 +505,11 @@ msgstr ""
 msgid "Device description ( default )"
 msgstr ""
 
-#: mydevices/detail.html:25
+#: mydevices/detail.html:30
 msgid "Device detail"
 msgstr ""
 
-#: mydevices/index.html:47
+#: mydevices/index.html:51
 msgid "Device list"
 msgstr ""
 
@@ -531,7 +533,7 @@ msgstr ""
 
 #: development/detail/testdevicelist.html:11
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
-#: management/device-list.html:77
+#: management/device-list.html:80
 msgid "DeviceId"
 msgstr ""
 
@@ -540,7 +542,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/device-list.html:61
+#: management/device-list.html:64
 #: management/product-list.html:55
 msgid "Devices"
 msgstr ""
@@ -549,7 +551,7 @@ msgstr ""
 msgid "Devices ({{ devices.length }})"
 msgstr ""
 
-#: management/device-list.html:37
+#: management/device-list.html:40
 msgid "Devices list"
 msgstr ""
 
@@ -571,10 +573,10 @@ msgstr ""
 msgid "EX:100(only input integer)"
 msgstr ""
 
-#: development/detail.html:77
+#: development/detail.html:80
 #: development/detail/components.html:130
 #: development/detail/manufacturerinfo.html:11
-#: development/index.html:131
+#: development/index.html:136
 msgid "Edit"
 msgstr ""
 
@@ -616,7 +618,7 @@ msgstr ""
 
 #: development/detail/userprivileges.html:11
 #: mydevices/detail/userprivileges.html:11
-#: profile/index.html:74
+#: profile/index.html:77
 msgid "Email"
 msgstr ""
 
@@ -633,7 +635,7 @@ msgid "Equal to"
 msgstr ""
 
 #: dashboard/overview.html:44
-#: management/device-list.html:79
+#: management/device-list.html:82
 msgid "Error"
 msgstr ""
 
@@ -671,10 +673,10 @@ msgstr ""
 msgid "File upload"
 msgstr ""
 
-#: development/detail.html:166
+#: development/detail.html:169
 #: development/detail/firmware.html:4
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:198
+#: mydevices/detail.html:203
 #: mydevices/detail/firmware.html:10
 msgid "Firmware"
 msgstr ""
@@ -712,7 +714,7 @@ msgstr ""
 msgid "Generate"
 msgstr ""
 
-#: management/device-list.html:63
+#: management/device-list.html:66
 #: management/dialogs/createSerialNumber.html:3
 msgid "Generate serial numbers"
 msgstr ""
@@ -753,12 +755,12 @@ msgstr ""
 msgid "Hardware Platform"
 msgstr ""
 
-#: development/detail.html:44
-#: development/detail.html:51
+#: development/detail.html:47
+#: development/detail.html:54
 #: development/dialogs/createProducts.html:41
 #: development/dialogs/editProducts.html:41
-#: mydevices/detail.html:44
-#: mydevices/detail.html:50
+#: mydevices/detail.html:49
+#: mydevices/detail.html:55
 msgid "Hardware platform"
 msgstr ""
 
@@ -788,6 +790,10 @@ msgstr ""
 msgid "High"
 msgstr ""
 
+#: development/dialogs/addComponent.html:66
+msgid "Hybrid"
+msgstr ""
+
 #: development/dialogs/createProducts.html:182
 #: development/dialogs/editProducts.html:169
 #: mydevices/dialogs/createDevices.html:52
@@ -795,10 +801,10 @@ msgstr ""
 msgid "Image upload"
 msgstr ""
 
-#: development/detail.html:122
+#: development/detail.html:125
 #: development/dialogs/createProducts.html:97
 #: development/dialogs/editProducts.html:94
-#: mydevices/detail.html:92
+#: mydevices/detail.html:97
 #: mydevices/dialogs/editDevices.html:66
 msgid "Industry"
 msgstr ""
@@ -958,7 +964,7 @@ msgstr ""
 msgid "Key concepts"
 msgstr ""
 
-#: profile/index.html:86
+#: profile/index.html:89
 msgid "Language"
 msgstr ""
 
@@ -1021,7 +1027,7 @@ msgstr ""
 msgid "Management"
 msgstr ""
 
-#: management/device-list.html:31
+#: management/device-list.html:34
 msgid "Management > Devices list"
 msgstr ""
 
@@ -1046,7 +1052,7 @@ msgstr ""
 msgid "Must Be a Hex String."
 msgstr ""
 
-#: directives/components/control/float.js:48
+#: directives/components/control/float.js:54
 msgid "Must Be a float!"
 msgstr ""
 
@@ -1059,8 +1065,8 @@ msgid "My Devices"
 msgstr ""
 
 #: aside.html:30
-#: mydevices/detail.html:25
-#: mydevices/index.html:26
+#: mydevices/detail.html:30
+#: mydevices/index.html:30
 msgid "My devices"
 msgstr ""
 
@@ -1096,7 +1102,7 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
-#: profile/index.html:70
+#: profile/index.html:73
 msgid "Nick name"
 msgstr ""
 
@@ -1128,7 +1134,7 @@ msgstr ""
 msgid "Now used"
 msgstr ""
 
-#: development/detail.html:100
+#: development/detail.html:103
 msgid "Now, you can create test device for the prototype and connect with real device. Try it!"
 msgstr ""
 
@@ -1204,7 +1210,7 @@ msgstr ""
 msgid "PWM"
 msgstr ""
 
-#: profile/index.html:78
+#: profile/index.html:81
 msgid "Password"
 msgstr ""
 
@@ -1262,11 +1268,11 @@ msgstr ""
 msgid "Profile"
 msgstr ""
 
-#: profile/index.html:33
+#: profile/index.html:36
 msgid "Profile detail"
 msgstr ""
 
-#: profile/index.html:27
+#: profile/index.html:30
 msgid "Profile page"
 msgstr ""
 
@@ -1274,7 +1280,7 @@ msgstr ""
 msgid "Prototype"
 msgstr ""
 
-#: management/device-list.html:60
+#: management/device-list.html:63
 #: management/product-list.html:46
 msgid "Prototype ID"
 msgstr ""
@@ -1283,11 +1289,11 @@ msgstr ""
 msgid "Prototype Name"
 msgstr ""
 
-#: development/detail.html:25
+#: development/detail.html:28
 msgid "Prototype detail"
 msgstr ""
 
-#: development/index.html:61
+#: development/index.html:66
 msgid "Prototype list"
 msgstr ""
 
@@ -1296,7 +1302,7 @@ msgstr ""
 msgid "Prototype name"
 msgstr ""
 
-#: development/index.html:152
+#: development/index.html:157
 msgid "Prototype state"
 msgstr ""
 
@@ -1397,10 +1403,10 @@ msgid "Save"
 msgstr ""
 
 #: components/category/selectFromToDate.html:135
-#: development/index.html:72
-#: management/device-list.html:49
+#: development/index.html:77
+#: management/device-list.html:52
 #: management/product-list.html:21
-#: mydevices/index.html:58
+#: mydevices/index.html:62
 msgid "Search"
 msgstr ""
 
@@ -1449,12 +1455,12 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: management/device-list.html:76
+#: management/device-list.html:79
 #: mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
 msgstr ""
 
-#: directives/components/control/float.js:45
+#: directives/components/control/float.js:46
 #: directives/components/control/gpio.js:63
 #: directives/components/control/integer.js:45
 #: directives/components/control/pwm.js:50
@@ -1510,7 +1516,7 @@ msgstr ""
 msgid "Supports"
 msgstr ""
 
-#: management/device-list.html:80
+#: management/device-list.html:83
 msgid "System detail"
 msgstr ""
 
@@ -1531,16 +1537,16 @@ msgstr ""
 msgid "Terms of use"
 msgstr ""
 
-#: mydevices/index.html:102
+#: mydevices/index.html:106
 msgid "Test"
 msgstr ""
 
 #: dashboard/numberofused.html:16
-#: development/detail.html:133
+#: development/detail.html:136
 msgid "Test Device"
 msgstr ""
 
-#: development/detail.html:171
+#: development/detail.html:174
 msgid "Test device"
 msgstr ""
 
@@ -1599,7 +1605,7 @@ msgstr ""
 msgid "Time:"
 msgstr ""
 
-#: profile/index.html:126
+#: profile/index.html:129
 msgid "Timezone"
 msgstr ""
 
@@ -1615,9 +1621,9 @@ msgstr ""
 msgid "To see and manage the list of Test devices being created under this prototype."
 msgstr ""
 
-#: development/detail.html:154
+#: development/detail.html:157
 #: development/detail/trigger.html:4
-#: mydevices/detail.html:184
+#: mydevices/detail.html:189
 #: mydevices/detail/trigger.html:4
 msgid "Trigger & Action"
 msgstr ""
@@ -1664,7 +1670,7 @@ msgstr ""
 msgid "Try again."
 msgstr ""
 
-#: development/index.html:36
+#: development/index.html:41
 msgid "Try to create it now."
 msgstr ""
 
@@ -1673,7 +1679,7 @@ msgstr ""
 msgid "Tutorial"
 msgstr ""
 
-#: management/device-list.html:75
+#: management/device-list.html:78
 msgid "Type"
 msgstr ""
 
@@ -1702,7 +1708,7 @@ msgstr ""
 msgid "Upload a CSV file, one serial number per line"
 msgstr ""
 
-#: profile/index.html:54
+#: profile/index.html:57
 msgid "Upload an image"
 msgstr ""
 
@@ -1715,7 +1721,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:174
 #: mydevices/dialogs/createDevices.html:54
 #: mydevices/dialogs/editDevices.html:122
-#: profile/index.html:45
+#: profile/index.html:48
 msgid "Uploading..."
 msgstr ""
 
@@ -1729,8 +1735,8 @@ msgstr ""
 msgid "User Name"
 msgstr ""
 
-#: development/detail.html:159
-#: mydevices/detail.html:191
+#: development/detail.html:162
+#: mydevices/detail.html:196
 msgid "User privileges"
 msgstr ""
 
@@ -1747,16 +1753,16 @@ msgstr ""
 msgid "Value"
 msgstr ""
 
-#: development/detail.html:43
-#: development/detail.html:50
+#: development/detail.html:46
+#: development/detail.html:53
 #: development/detail/firmware.html:11
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:18
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
-#: development/index.html:150
-#: mydevices/detail.html:43
-#: mydevices/detail.html:49
+#: development/index.html:155
+#: mydevices/detail.html:48
+#: mydevices/detail.html:54
 #: mydevices/detail/firmware.html:18
-#: mydevices/index.html:137
+#: mydevices/index.html:141
 msgid "Version"
 msgstr ""
 
@@ -1780,7 +1786,7 @@ msgstr ""
 msgid "You can edit the information of your prototype that you want your users to see it."
 msgstr ""
 
-#: mydevices/index.html:85
+#: mydevices/index.html:89
 msgid "You can follow the quick start guide in the dashboard, or refer to the tutorial for more detail steps."
 msgstr ""
 
@@ -1814,8 +1820,8 @@ msgstr ""
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: mydevices/detail.html:101
-#: mydevices/detail.html:141
+#: mydevices/detail.html:106
+#: mydevices/detail.html:146
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -1823,7 +1829,7 @@ msgstr ""
 msgid "You will need to restart if you exit the tutorial now."
 msgstr ""
 
-#: profile/index.html:194
+#: profile/index.html:197
 msgid "Your current timezone"
 msgstr ""
 
@@ -1835,7 +1841,7 @@ msgstr ""
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr ""
 
-#: mydevices/index.html:83
+#: mydevices/index.html:87
 msgid "and create test device for it."
 msgstr ""
 
@@ -1843,11 +1849,11 @@ msgstr ""
 msgid "cancel"
 msgstr ""
 
-#: profile/index.html:92
+#: profile/index.html:95
 msgid "choose Language"
 msgstr ""
 
-#: profile/index.html:132
+#: profile/index.html:135
 msgid "choose Timezone"
 msgstr ""
 
@@ -1893,7 +1899,7 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:194
+#: profile/index.html:197
 msgid "is different from your setting."
 msgstr ""
 
@@ -1952,7 +1958,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: management/device-list.html:87
+#: management/device-list.html:90
 msgid "test"
 msgstr ""
 
@@ -1981,7 +1987,7 @@ msgstr ""
 msgid "version cannot be null!"
 msgstr ""
 
-#: mydevices/index.html:83
+#: mydevices/index.html:87
 msgid "you need to first create a prototype"
 msgstr ""
 
