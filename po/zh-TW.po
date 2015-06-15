@@ -387,11 +387,11 @@ msgstr "儀表板"
 
 #: controllers/development/detail.js:281
 msgid "Data Channel Id cannot null"
-msgstr "dataChnId 不能為空"
+msgstr "資料通道 Id 不能為空"
 
 #: controllers/development/detail.js:284
 msgid "Data Channel Id only input a-z, 0-9, and_"
-msgstr "dataChnId 只能輸入 A-Z，0-9，以及_。"
+msgstr "資料通道 Id 只能輸入 A-Z，0-9，以及_。"
 
 #: development/detail.html:147 development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110 mydevices/detail.html:177
@@ -402,11 +402,11 @@ msgstr "資料通道"
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
-msgstr "dataChnId"
+msgstr "資料通道 Id"
 
 #: controllers/development/detail.js:365
 msgid "Data channel Id was used!"
-msgstr "dataChnId 已被使用！"
+msgstr "資料通道 Id 已被使用！"
 
 #: controllers/development/detail.js:892
 msgid "Data channel is required!"
@@ -809,7 +809,7 @@ msgstr "輸入資料通道描述"
 
 #: development/dialogs/addComponentContent.html:39
 msgid "Input the data channel id"
-msgstr "輸入 dataChnId"
+msgstr "輸入資料通道 Id"
 
 #: development/dialogs/addComponentContent.html:21
 #: development/dialogs/editComponent.html:21
