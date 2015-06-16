@@ -311,6 +311,10 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
+#: development/dialogs/addComponent.html:72
+msgid "Coming soon"
+msgstr ""
+
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
 msgstr ""
