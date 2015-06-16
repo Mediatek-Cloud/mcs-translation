@@ -51,11 +51,15 @@ msgstr "+ 新增触发条件和动作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
+#: main.js:307
+msgid "1010"
+msgstr "1010"
+
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
 msgstr "资料通道承载资料流。来新增一个吧。"
 
-#: development/index.html:33
+#: development/index.html:38
 msgid "A prototype is like a project."
 msgstr "产品原型就是您的物连网专案。"
 
@@ -72,7 +76,7 @@ msgstr "和"
 msgid "API Hint"
 msgstr "API 提示"
 
-#: mydevices/detail.html:208 mydevices/dialogs/showapihint.html:3
+#: mydevices/detail.html:213 mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr "API 提示"
 
@@ -97,7 +101,7 @@ msgstr "您需输入动作类型！"
 msgid "Action {{field}} is required!"
 msgstr "您必须输入动作栏位 {{field}}"
 
-#: management/device-list.html:78
+#: management/device-list.html:81
 msgid "Activated date"
 msgstr "激活日期"
 
@@ -138,7 +142,7 @@ msgstr "新增触发条件与动作"
 msgid "Add user"
 msgstr "新增使用者"
 
-#: mydevices/index.html:71
+#: mydevices/index.html:75
 msgid "Add your devices now!"
 msgstr "马上新增设备!"
 
@@ -146,6 +150,10 @@ msgstr "马上新增设备!"
 msgid ""
 "After you are happy with your prototype, you can create a Test Device here."
 msgstr "当您完成开发您的产品原型后，您可以为此产品原型新增测试装置。"
+
+#: development/detail/firmware.html:39
+msgid "All"
+msgstr "全部"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
@@ -180,8 +188,8 @@ msgstr "和"
 msgid "Angular"
 msgstr "Angular"
 
-#: development/detail.html:123 development/dialogs/createProducts.html:141
-#: development/dialogs/editProducts.html:131 mydevices/detail.html:93
+#: development/detail.html:126 development/dialogs/createProducts.html:141
+#: development/dialogs/editProducts.html:131 mydevices/detail.html:98
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
 msgstr "应用程序"
@@ -198,7 +206,7 @@ msgstr "是否确定删除？一但删除将无法复原。"
 msgid "At least 8 characters"
 msgstr "至少8个字元"
 
-#: mydevices/detail.html:73
+#: mydevices/detail.html:78
 msgid "Back to prototype"
 msgstr "回到产品原型"
 
@@ -223,7 +231,7 @@ msgstr "找不到想要的模版吗？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32
+#: dialogs/tutorialCloseConfirm.html:32 main.js:311
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:96 mydevices/dialogs/trigger.html:102
@@ -237,7 +245,7 @@ msgstr "取消"
 msgid "Category"
 msgstr "分类"
 
-#: profile/dialogs/changePassword.html:3 profile/index.html:82
+#: profile/dialogs/changePassword.html:3 profile/index.html:85
 msgid "Change password"
 msgstr "更改密码"
 
@@ -305,6 +313,10 @@ msgstr "清除所选"
 msgid "Click the edit button. Let's start editing !"
 msgstr "点击编辑按钮，开始编辑！"
 
+#: main.js:281
+msgid "Close"
+msgstr "关闭"
+
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
 msgstr "即将推出"
@@ -319,13 +331,13 @@ msgstr "相容的固件"
 msgid "Confirm password"
 msgstr "确认密码"
 
-#: mydevices/index.html:35
+#: mydevices/index.html:39
 msgid ""
 "Congratulations! You have finished the quick start guide. You can find all "
 "test devices in My devices page."
 msgstr "恭喜您！您已完成快速上手指南。您可在我的装置页面中查看所有的测试装置。"
 
-#: development/index.html:50
+#: development/index.html:55
 msgid ""
 "Congratulations! You have the first prototype. Go into the detail to add "
 "data channel."
@@ -336,11 +348,12 @@ msgstr ""
 msgid "Controller"
 msgstr "调节器"
 
-#: mydevices/detail.html:116 mydevices/detail.html:127
+#: mydevices/detail.html:121 mydevices/detail.html:132
+#: mydevices/detail.html:157 mydevices/detail.html:165
 msgid "Copy"
 msgstr "复制"
 
-#: development/index.html:90
+#: development/index.html:95
 msgid "Create"
 msgstr "创建"
 
@@ -352,11 +365,11 @@ msgstr "替产品原型新增一个测试装置"
 msgid "Create prototype"
 msgstr "创建原型"
 
-#: development/detail.html:90 development/dialogs/createTestDevice.html:3
+#: development/detail.html:93 development/dialogs/createTestDevice.html:3
 msgid "Create test device"
 msgstr "创建测试装置"
 
-#: development/detail.html:136
+#: development/detail.html:139
 msgid "Create test device to collect real data !"
 msgstr "新增测试装置来搜集即时资料吧！"
 
@@ -364,12 +377,12 @@ msgstr "新增测试装置来搜集即时资料吧！"
 msgid "Create the first prototype"
 msgstr "建立您的第一个产品原型"
 
-#: development/index.html:86
+#: development/index.html:91
 msgid "Create your prototype now!"
 msgstr "马上建立产品原型！"
 
-#: development/detail.html:42 development/detail.html:50
-#: mydevices/detail.html:42 mydevices/detail.html:49
+#: development/detail.html:45 development/detail.html:53
+#: mydevices/detail.html:47 mydevices/detail.html:54
 msgid "Creator"
 msgstr "建立者"
 
@@ -377,11 +390,11 @@ msgstr "建立者"
 msgid "Criteria value is required!"
 msgstr "您需要输入条件值！"
 
-#: mydevices/index.html:83
+#: mydevices/index.html:87
 msgid "Currently there is no test device created,"
 msgstr "目前没有已建立的测试装置"
 
-#: aside.html:12 dashboard/index.html:25
+#: aside.html:12 dashboard/index.html:28
 msgid "Dashboard"
 msgstr "仪表板"
 
@@ -393,8 +406,8 @@ msgstr "资料通道 Id 不能為空"
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr "资料通道 Id 只能输入A-Z，0-9，以及_。"
 
-#: development/detail.html:147 development/dialogs/trigger/add.html:120
-#: development/dialogs/trigger/edit.html:110 mydevices/detail.html:177
+#: development/detail.html:150 development/dialogs/trigger/add.html:120
+#: development/dialogs/trigger/edit.html:110 mydevices/detail.html:182
 msgid "Data channel"
 msgstr "资料通道"
 
@@ -428,9 +441,9 @@ msgstr "资料型态"
 msgid "Default value"
 msgstr "默认值"
 
-#: development/detail.html:64 development/detail/components.html:136
-#: development/index.html:134 mydevices/detail.html:62
-#: mydevices/index.html:122
+#: development/detail.html:67 development/detail/components.html:136
+#: development/index.html:139 main.js:310 mydevices/detail.html:67
+#: mydevices/index.html:126
 msgid "Delete"
 msgstr "删除"
 
@@ -444,20 +457,26 @@ msgstr "删除动作"
 msgid "Delete data channel"
 msgstr "删除资料通道"
 
-#: development/detail.html:124 development/detail/manufacturerinfo.html:18
+#: main.js:308
+msgid ""
+"Deleting your device and its sensors is irreversible. Enter your device's "
+"name below to confirm you want to permanently delete it:"
+msgstr "若删除您的装置，则无法复原。输入您装置的名称以永远删除此装置。"
+
+#: development/detail.html:127 development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
 #: development/dialogs/createProducts.html:83
 #: development/dialogs/editComponent.html:29
 #: development/dialogs/editProducts.html:80
 #: development/dialogs/trigger/add.html:79
-#: development/dialogs/trigger/edit.html:69 mydevices/detail.html:94
+#: development/dialogs/trigger/edit.html:69 mydevices/detail.html:99
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:60
 msgid "Description"
 msgstr "描述"
 
-#: development/index.html:166 management/device-list.html:105
-#: mydevices/index.html:150
+#: development/index.html:171 management/device-list.html:108
+#: mydevices/index.html:154
 msgid "Detail"
 msgstr "详情"
 
@@ -473,10 +492,14 @@ msgstr "使用 LinkIt One 开发"
 msgid "Develop with our hardware platform"
 msgstr "使用我们的开发版来开发"
 
-#: aside.html:21 development/detail.html:25 development/index.html:25
+#: aside.html:21 development/detail.html:28 development/index.html:30
 #: header.html:31
 msgid "Development"
 msgstr "开发"
+
+#: main.js:309
+msgid "Device Title"
+msgstr "装置名称"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
@@ -486,11 +509,11 @@ msgstr "装置详情"
 msgid "Device description ( default )"
 msgstr "装置详情（默认值）"
 
-#: mydevices/detail.html:25
+#: mydevices/detail.html:30
 msgid "Device detail"
 msgstr "装置详情"
 
-#: mydevices/index.html:47
+#: mydevices/index.html:51
 msgid "Device list"
 msgstr "装置列表"
 
@@ -514,7 +537,7 @@ msgstr "装置版本"
 
 #: development/detail/testdevicelist.html:11
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
-#: management/device-list.html:77
+#: management/device-list.html:80
 msgid "DeviceId"
 msgstr "DeviceId"
 
@@ -523,7 +546,7 @@ msgstr "DeviceId"
 msgid "DeviceKey"
 msgstr "DeviceKey"
 
-#: management/device-list.html:61 management/product-list.html:55
+#: management/device-list.html:64 management/product-list.html:55
 msgid "Devices"
 msgstr "装置"
 
@@ -531,7 +554,7 @@ msgstr "装置"
 msgid "Devices ({{ devices.length }})"
 msgstr "装置 ({{ devices.length }})"
 
-#: management/device-list.html:37
+#: management/device-list.html:40
 msgid "Devices list"
 msgstr "装置列表"
 
@@ -553,8 +576,8 @@ msgstr "例如： 0.01 （浮点数）"
 msgid "EX:100(only input integer)"
 msgstr "例如: 100 (整数)"
 
-#: development/detail.html:77 development/detail/components.html:130
-#: development/detail/manufacturerinfo.html:11 development/index.html:131
+#: development/detail.html:80 development/detail/components.html:130
+#: development/detail/manufacturerinfo.html:11 development/index.html:136
 msgid "Edit"
 msgstr "编辑"
 
@@ -581,12 +604,12 @@ msgstr "编辑触发条件与动作"
 #: development/dialogs/trigger/add.html:38
 #: development/dialogs/trigger/edit.html:29
 msgid "Edit trigger criteria"
-msgstr "编即触发条件"
+msgstr "编辑触发条件"
 
 #: development/dialogs/trigger/add.html:24
 #: development/dialogs/trigger/edit.html:20
 msgid "Edit trigger information"
-msgstr "编即触发条件资讯"
+msgstr "编辑触发条件信息"
 
 #: development/detail/firmware.html:15 development/detail/trigger.html:13
 #: mydevices/detail/trigger.html:14
@@ -594,7 +617,7 @@ msgid "Edit&Delete"
 msgstr "编辑＆删除"
 
 #: development/detail/userprivileges.html:11
-#: mydevices/detail/userprivileges.html:11 profile/index.html:74
+#: mydevices/detail/userprivileges.html:11 profile/index.html:77
 msgid "Email"
 msgstr "电子邮件"
 
@@ -610,7 +633,7 @@ msgstr "請輸入你的序號，每個序號間請斷行。"
 msgid "Equal to"
 msgstr "等于"
 
-#: dashboard/overview.html:44 management/device-list.html:79
+#: dashboard/overview.html:44 management/device-list.html:82
 msgid "Error"
 msgstr "错误"
 
@@ -647,9 +670,9 @@ msgstr "回馈"
 msgid "File upload"
 msgstr "上传文件"
 
-#: development/detail.html:166 development/detail/firmware.html:4
+#: development/detail.html:169 development/detail/firmware.html:4
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:198 mydevices/detail/firmware.html:10
+#: mydevices/detail.html:203 mydevices/detail/firmware.html:10
 msgid "Firmware"
 msgstr "固件"
 
@@ -686,7 +709,7 @@ msgstr "GPS"
 msgid "Generate"
 msgstr "产生"
 
-#: management/device-list.html:63 management/dialogs/createSerialNumber.html:3
+#: management/device-list.html:66 management/dialogs/createSerialNumber.html:3
 msgid "Generate serial numbers"
 msgstr "产生序列号"
 
@@ -712,7 +735,7 @@ msgstr "前往 MediaTek Labs 网站"
 
 #: development/dialogs/finishCreateTestDevice.html:30
 msgid "Go to detail"
-msgstr "详细资讯"
+msgstr "详细信息"
 
 #: dashboard/quickresources.html:20
 msgid "Go to forum"
@@ -726,10 +749,10 @@ msgstr "大于"
 msgid "Hardware Platform"
 msgstr "硬件平台"
 
-#: development/detail.html:44 development/detail.html:51
+#: development/detail.html:47 development/detail.html:54
 #: development/dialogs/createProducts.html:41
-#: development/dialogs/editProducts.html:41 mydevices/detail.html:44
-#: mydevices/detail.html:50
+#: development/dialogs/editProducts.html:41 mydevices/detail.html:49
+#: mydevices/detail.html:55
 msgid "Hardware platform"
 msgstr "硬件平台"
 
@@ -754,9 +777,13 @@ msgstr "十六进位值"
 msgid "Hide History"
 msgstr "隐藏历史资料"
 
-#: components/control/gpio.html:3
+#: components/control/gpio.html:3 components/display/gpio.html:6
 msgid "High"
 msgstr "高"
+
+#: development/dialogs/addComponent.html:66
+msgid "Hybrid"
+msgstr "综合型控制显示器"
 
 #: development/dialogs/createProducts.html:182
 #: development/dialogs/editProducts.html:169
@@ -765,8 +792,8 @@ msgstr "高"
 msgid "Image upload"
 msgstr "图片上传"
 
-#: development/detail.html:122 development/dialogs/createProducts.html:97
-#: development/dialogs/editProducts.html:94 mydevices/detail.html:92
+#: development/detail.html:125 development/dialogs/createProducts.html:97
+#: development/dialogs/editProducts.html:94 mydevices/detail.html:97
 #: mydevices/dialogs/editDevices.html:66
 msgid "Industry"
 msgstr "行业"
@@ -929,7 +956,7 @@ msgstr "介绍"
 msgid "Key concepts"
 msgstr "核心概念"
 
-#: profile/index.html:86
+#: profile/index.html:89
 msgid "Language"
 msgstr "语言"
 
@@ -970,7 +997,7 @@ msgstr "加载中..."
 msgid "Longitude:"
 msgstr "经度："
 
-#: components/control/gpio.html:2
+#: components/control/gpio.html:2 components/display/gpio.html:3
 msgid "Low"
 msgstr "低"
 
@@ -990,7 +1017,7 @@ msgstr "必须是一个有效的使用者电子邮件 ！"
 msgid "Management"
 msgstr "管理"
 
-#: management/device-list.html:31
+#: management/device-list.html:34
 msgid "Management > Devices list"
 msgstr "管理>装置列表"
 
@@ -1014,7 +1041,7 @@ msgstr "行动应用"
 msgid "Must Be a Hex String."
 msgstr "必须是一个十六进位值。"
 
-#: directives/components/control/float.js:48
+#: directives/components/control/float.js:54
 msgid "Must Be a float!"
 msgstr "必须是浮点数 ！"
 
@@ -1026,7 +1053,7 @@ msgstr "需要是一个整数！"
 msgid "My Devices"
 msgstr "我的装置"
 
-#: aside.html:30 mydevices/detail.html:25 mydevices/index.html:26
+#: aside.html:30 mydevices/detail.html:30 mydevices/index.html:30
 msgid "My devices"
 msgstr "我的装置"
 
@@ -1059,7 +1086,7 @@ msgstr "新密码"
 msgid "Next"
 msgstr "下一步"
 
-#: profile/index.html:70
+#: profile/index.html:73
 msgid "Nick name"
 msgstr "绰号"
 
@@ -1090,7 +1117,7 @@ msgstr "注意！"
 msgid "Now used"
 msgstr "现正使用"
 
-#: development/detail.html:100
+#: development/detail.html:103
 msgid ""
 "Now, you can create test device for the prototype and connect with real "
 "device. Try it!"
@@ -1162,7 +1189,7 @@ msgstr "概观"
 msgid "PWM"
 msgstr "PWM"
 
-#: profile/index.html:78
+#: profile/index.html:81
 msgid "Password"
 msgstr "密码"
 
@@ -1198,6 +1225,10 @@ msgstr "请选择硬件平台。"
 msgid "Please select industry."
 msgstr "请选择产业别"
 
+#: main.js:280 main.js:289
+msgid "Please try again!"
+msgstr "请再试一次！"
+
 #: controllers/development/index.js:61
 msgid "Please try again."
 msgstr "请再试一次。"
@@ -1218,11 +1249,11 @@ msgstr "Product ID"
 msgid "Profile"
 msgstr "个人档案"
 
-#: profile/index.html:33
+#: profile/index.html:36
 msgid "Profile detail"
 msgstr "详细个人资料"
 
-#: profile/index.html:27
+#: profile/index.html:30
 msgid "Profile page"
 msgstr "个人资料页"
 
@@ -1230,7 +1261,7 @@ msgstr "个人资料页"
 msgid "Prototype"
 msgstr "产品原型"
 
-#: management/device-list.html:60 management/product-list.html:46
+#: management/device-list.html:63 management/product-list.html:46
 msgid "Prototype ID"
 msgstr "产品原型 ID"
 
@@ -1238,11 +1269,11 @@ msgstr "产品原型 ID"
 msgid "Prototype Name"
 msgstr "产品原型名称"
 
-#: development/detail.html:25
+#: development/detail.html:28
 msgid "Prototype detail"
 msgstr "产品原型细节"
 
-#: development/index.html:61
+#: development/index.html:66
 msgid "Prototype list"
 msgstr "产品原型列表"
 
@@ -1251,7 +1282,7 @@ msgstr "产品原型列表"
 msgid "Prototype name"
 msgstr "产品原型名称"
 
-#: development/index.html:152
+#: development/index.html:157
 msgid "Prototype state"
 msgstr "产品原型状态"
 
@@ -1347,9 +1378,9 @@ msgstr "角色"
 msgid "Save"
 msgstr "保存"
 
-#: components/category/selectFromToDate.html:135 development/index.html:72
-#: management/device-list.html:49 management/product-list.html:21
-#: mydevices/index.html:58
+#: components/category/selectFromToDate.html:135 development/index.html:77
+#: management/device-list.html:52 management/product-list.html:21
+#: mydevices/index.html:62
 msgid "Search"
 msgstr "搜寻"
 
@@ -1407,11 +1438,11 @@ msgstr "请寄至以下电子邮件 {{email}}"
 msgid "Send us a message!"
 msgstr "给我们留言！"
 
-#: management/device-list.html:76 mydevices/dialogs/createDevices.html:21
+#: management/device-list.html:79 mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
 msgstr "编号"
 
-#: directives/components/control/float.js:45
+#: directives/components/control/float.js:46
 #: directives/components/control/gpio.js:63
 #: directives/components/control/integer.js:45
 #: directives/components/control/pwm.js:50
@@ -1466,7 +1497,7 @@ msgstr "成功！"
 msgid "Supports"
 msgstr "支援"
 
-#: management/device-list.html:80
+#: management/device-list.html:83
 msgid "System detail"
 msgstr "系統信息"
 
@@ -1486,15 +1517,15 @@ msgstr "模板预览"
 msgid "Terms of use"
 msgstr "使用条款"
 
-#: mydevices/index.html:102
+#: mydevices/index.html:106
 msgid "Test"
 msgstr "测试"
 
-#: dashboard/numberofused.html:16 development/detail.html:133
+#: dashboard/numberofused.html:16 development/detail.html:136
 msgid "Test Device"
 msgstr "测试装置"
 
-#: development/detail.html:171
+#: development/detail.html:174
 msgid "Test device"
 msgstr "测试装置"
 
@@ -1557,7 +1588,7 @@ msgstr "时间格式不正确，分钟值必须在 0-24 之间。"
 msgid "Time:"
 msgstr "时间："
 
-#: profile/index.html:126
+#: profile/index.html:129
 msgid "Timezone"
 msgstr "时区"
 
@@ -1575,8 +1606,8 @@ msgid ""
 "prototype."
 msgstr "您能在此查看和管理所有隶属于此开发原型的测试装置。"
 
-#: development/detail.html:154 development/detail/trigger.html:4
-#: mydevices/detail.html:184 mydevices/detail/trigger.html:4
+#: development/detail.html:157 development/detail/trigger.html:4
+#: mydevices/detail.html:189 mydevices/detail/trigger.html:4
 msgid "Trigger & Action"
 msgstr "触发条件与动作"
 
@@ -1618,7 +1649,7 @@ msgstr "触发条件开关"
 msgid "Try again."
 msgstr "请再试一次。"
 
-#: development/index.html:36
+#: development/index.html:41
 msgid "Try to create it now."
 msgstr "现在试着建立一个吧。"
 
@@ -1626,7 +1657,7 @@ msgstr "现在试着建立一个吧。"
 msgid "Tutorial"
 msgstr "教程"
 
-#: management/device-list.html:75
+#: management/device-list.html:78
 msgid "Type"
 msgstr "类型"
 
@@ -1655,7 +1686,7 @@ msgstr "上传"
 msgid "Upload a CSV file, one serial number per line"
 msgstr "上传 CSV 档案，每个编号请跳行输入。"
 
-#: profile/index.html:54
+#: profile/index.html:57
 msgid "Upload an image"
 msgstr "上传图片"
 
@@ -1666,7 +1697,7 @@ msgstr "上传资料点"
 #: development/dialogs/createProducts.html:184
 #: development/dialogs/editProducts.html:174
 #: mydevices/dialogs/createDevices.html:54
-#: mydevices/dialogs/editDevices.html:122 profile/index.html:45
+#: mydevices/dialogs/editDevices.html:122 profile/index.html:48
 msgid "Uploading..."
 msgstr "上传中..."
 
@@ -1680,7 +1711,7 @@ msgstr "用户电子邮件"
 msgid "User Name"
 msgstr "用户名"
 
-#: development/detail.html:159 mydevices/detail.html:191
+#: development/detail.html:162 mydevices/detail.html:196
 msgid "User privileges"
 msgstr "用户权限"
 
@@ -1696,13 +1727,13 @@ msgstr "用户 ({{ privileges.length }})"
 msgid "Value"
 msgstr "值"
 
-#: development/detail.html:43 development/detail.html:50
+#: development/detail.html:46 development/detail.html:53
 #: development/detail/firmware.html:11
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:18
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
-#: development/index.html:150 mydevices/detail.html:43
-#: mydevices/detail.html:49 mydevices/detail/firmware.html:18
-#: mydevices/index.html:137
+#: development/index.html:155 mydevices/detail.html:48
+#: mydevices/detail.html:54 mydevices/detail/firmware.html:18
+#: mydevices/index.html:141
 msgid "Version"
 msgstr "版本"
 
@@ -1733,11 +1764,11 @@ msgid ""
 "see it."
 msgstr "你可以编辑你想要使用者看到的产品原型信息。"
 
-#: mydevices/index.html:85
+#: mydevices/index.html:89
 msgid ""
 "You can follow the quick start guide in the dashboard, or refer to the "
 "tutorial for more detail steps."
-msgstr "您可以登入页的使用快速上手指南或是参考教程来取得更多详细资讯。"
+msgstr "您可以登入页的使用快速上手指南或是参考教程来取得更多详细信息。"
 
 #: values/products/ngIntro.js:16
 msgid "You can grant access rights of this prototype to your working peers."
@@ -1749,7 +1780,7 @@ msgstr "你可以在此看到它的细节"
 
 #: development/dialogs/finishCreateTestDevice.html:16
 msgid "You can see its detail in \"My devices\"."
-msgstr "你可以在我的裝置頁面看到它的细节"
+msgstr "您可以在我的装置页面看到它的细节"
 
 #: mydevices/detail/apihint.html:33
 msgid ""
@@ -1770,7 +1801,7 @@ msgstr "您没有权限"
 msgid "You should choose a data channel type!"
 msgstr "请选择一个资料通道类型！"
 
-#: mydevices/detail.html:101 mydevices/detail.html:141
+#: mydevices/detail.html:106 mydevices/detail.html:146
 msgid ""
 "You will need the deviceId and deviceKey when calling our API to access this "
 "device"
@@ -1780,7 +1811,7 @@ msgstr "您在使用 API 呼叫装置时，将会需要 deviceId 和 deviceKey �
 msgid "You will need to restart if you exit the tutorial now."
 msgstr "若现在退出，下次需要重新开始。"
 
-#: profile/index.html:194
+#: profile/index.html:197
 msgid "Your current timezone"
 msgstr "您当前的时区"
 
@@ -1792,7 +1823,7 @@ msgstr "您的密码必须至少为八个字元"
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr "高度必须在 -20000 公尺至 20000 公尺之间！"
 
-#: mydevices/index.html:83
+#: mydevices/index.html:87
 msgid "and create test device for it."
 msgstr "并且为其建立测试装置。"
 
@@ -1800,11 +1831,11 @@ msgstr "并且为其建立测试装置。"
 msgid "cancel"
 msgstr "取消"
 
-#: profile/index.html:92
+#: profile/index.html:95
 msgid "choose Language"
 msgstr "选择语言"
 
-#: profile/index.html:132
+#: profile/index.html:135
 msgid "choose Timezone"
 msgstr "选择时区"
 
@@ -1815,6 +1846,10 @@ msgstr "确认密码不能为空"
 #: services/products/main.js:639 services/products/main.js:646
 msgid "content"
 msgstr "内容"
+
+#: main.js:306
+msgid "danger"
+msgstr "危险"
 
 #: controllers/dashboard/index.js:30
 msgid "days ago"
@@ -1833,6 +1868,7 @@ msgid "delete trigger error!"
 msgstr "删除触发条件有错"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:34
 msgid "device"
 msgstr "装置"
 
@@ -1848,7 +1884,7 @@ msgstr "小时之前"
 msgid "in resources to learn more."
 msgstr "资源来查看更多讯息"
 
-#: profile/index.html:194
+#: profile/index.html:197
 msgid "is different from your setting."
 msgstr "和你目前的设定不符合"
 
@@ -1884,6 +1920,10 @@ msgstr "新密码不能为空"
 msgid "new password is not as same as confirm password"
 msgstr "新密码和确认密码不一致"
 
+#: main.js:287 main.js:299
+msgid "notice"
+msgstr "注意"
+
 #: mydevices/dialogs/editDevices.html:146
 msgid "save"
 msgstr "保存"
@@ -1891,6 +1931,10 @@ msgstr "保存"
 #: mydevices/dialogs/userPrivilege.html:45
 msgid "select role"
 msgstr "选择角色"
+
+#: main.js:278 main.js:293
+msgid "success"
+msgstr "成功"
 
 #: controllers/development/detail.js:101 controllers/development/detail.js:117
 #: controllers/development/detail.js:143 controllers/development/detail.js:187
@@ -1901,7 +1945,7 @@ msgstr "选择角色"
 msgid "success."
 msgstr "成功。"
 
-#: management/device-list.html:87
+#: management/device-list.html:90
 msgid "test"
 msgstr "测试"
 
@@ -1930,7 +1974,7 @@ msgstr "版本"
 msgid "version cannot be null!"
 msgstr "版本不能为空！"
 
-#: mydevices/index.html:83
+#: mydevices/index.html:87
 msgid "you need to first create a prototype"
 msgstr "您需要先建立产品原型"
 
