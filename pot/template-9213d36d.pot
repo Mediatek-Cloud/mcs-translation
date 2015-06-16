@@ -45,6 +45,10 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
+#: main.js:307
+msgid "1010"
+msgstr ""
+
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
 msgstr ""
@@ -144,6 +148,10 @@ msgstr ""
 msgid "After you are happy with your prototype, you can create a Test Device here."
 msgstr ""
 
+#: development/detail/firmware.html:39
+msgid "All"
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
@@ -225,6 +233,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
+#: main.js:311
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:96
@@ -309,6 +318,10 @@ msgstr ""
 
 #: development/detail/manufacturerinfo.html:6
 msgid "Click the edit button. Let's start editing !"
+msgstr ""
+
+#: main.js:281
+msgid "Close"
 msgstr ""
 
 #: dialogs/comingSoon.html:3
@@ -443,6 +456,7 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:136
 #: development/index.html:139
+#: main.js:310
 #: mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
@@ -456,6 +470,10 @@ msgstr ""
 #: development/dialogs/trigger/add.html:242
 #: development/dialogs/trigger/edit.html:232
 msgid "Delete data channel"
+msgstr ""
+
+#: main.js:308
+msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
 #: development/detail.html:127
@@ -495,6 +513,10 @@ msgstr ""
 #: development/index.html:30
 #: header.html:31
 msgid "Development"
+msgstr ""
+
+#: main.js:309
+msgid "Device Title"
 msgstr ""
 
 #: development/dialogs/createTestDevice.html:25
@@ -787,6 +809,7 @@ msgid "Hide History"
 msgstr ""
 
 #: components/control/gpio.html:3
+#: components/display/gpio.html:6
 msgid "High"
 msgstr ""
 
@@ -1006,6 +1029,7 @@ msgid "Longitude:"
 msgstr ""
 
 #: components/control/gpio.html:2
+#: components/display/gpio.html:3
 msgid "Low"
 msgstr ""
 
@@ -1246,6 +1270,11 @@ msgstr ""
 
 #: controllers/development/index.js:47
 msgid "Please select industry."
+msgstr ""
+
+#: main.js:280
+#: main.js:289
+msgid "Please try again!"
 msgstr ""
 
 #: controllers/development/index.js:61
@@ -1866,6 +1895,10 @@ msgstr ""
 msgid "content"
 msgstr ""
 
+#: main.js:306
+msgid "danger"
+msgstr ""
+
 #: controllers/dashboard/index.js:30
 msgid "days ago"
 msgstr ""
@@ -1884,6 +1917,7 @@ msgid "delete trigger error!"
 msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:34
 msgid "device"
 msgstr ""
 
@@ -1936,12 +1970,22 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
+#: main.js:287
+#: main.js:299
+msgid "notice"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:146
 msgid "save"
 msgstr ""
 
 #: mydevices/dialogs/userPrivilege.html:45
 msgid "select role"
+msgstr ""
+
+#: main.js:278
+#: main.js:293
+msgid "success"
 msgstr ""
 
 #: controllers/development/detail.js:101
