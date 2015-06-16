@@ -51,10 +51,6 @@ msgstr "+ 新增触发条件和动作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
-#: main.js:307
-msgid "1010"
-msgstr "1010"
-
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
 msgstr "资料通道承载资料流。来新增一个吧。"
@@ -151,10 +147,6 @@ msgid ""
 "After you are happy with your prototype, you can create a Test Device here."
 msgstr "当您完成开发您的产品原型后，您可以为此产品原型新增测试装置。"
 
-#: development/detail/firmware.html:39
-msgid "All"
-msgstr "全部"
-
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
 msgid "All firmware(default)"
@@ -231,7 +223,7 @@ msgstr "找不到想要的模版吗？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32 main.js:311
+#: dialogs/tutorialCloseConfirm.html:32
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:96 mydevices/dialogs/trigger.html:102
@@ -313,10 +305,6 @@ msgstr "清除所选"
 msgid "Click the edit button. Let's start editing !"
 msgstr "点击编辑按钮，开始编辑！"
 
-#: main.js:281
-msgid "Close"
-msgstr "关闭"
-
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
 msgstr "即将推出"
@@ -361,6 +349,10 @@ msgstr "创建"
 msgid "Create a test device from prototype"
 msgstr "替产品原型新增一个测试装置"
 
+#: mydevices/index.html:143
+msgid "Create from"
+msgstr "创建来源"
+
 #: development/dialogs/createProducts.html:3
 msgid "Create prototype"
 msgstr "创建原型"
@@ -393,6 +385,10 @@ msgstr "您需要输入条件值！"
 #: mydevices/index.html:87
 msgid "Currently there is no test device created,"
 msgstr "目前没有已建立的测试装置"
+
+#: mydevices/detail/firmware.html:8
+msgid "Currently use:"
+msgstr "现正使用："
 
 #: aside.html:12 dashboard/index.html:28
 msgid "Dashboard"
@@ -442,7 +438,7 @@ msgid "Default value"
 msgstr "默认值"
 
 #: development/detail.html:67 development/detail/components.html:136
-#: development/index.html:139 main.js:310 mydevices/detail.html:67
+#: development/index.html:139 mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
 msgstr "删除"
@@ -457,12 +453,6 @@ msgstr "删除动作"
 msgid "Delete data channel"
 msgstr "删除资料通道"
 
-#: main.js:308
-msgid ""
-"Deleting your device and its sensors is irreversible. Enter your device's "
-"name below to confirm you want to permanently delete it:"
-msgstr "若删除您的装置，则无法复原。输入您装置的名称以永远删除此装置。"
-
 #: development/detail.html:127 development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
 #: development/dialogs/createProducts.html:83
@@ -475,7 +465,7 @@ msgstr "若删除您的装置，则无法复原。输入您装置的名称以永
 msgid "Description"
 msgstr "描述"
 
-#: development/index.html:171 management/device-list.html:108
+#: development/index.html:172 management/device-list.html:108
 #: mydevices/index.html:154
 msgid "Detail"
 msgstr "详情"
@@ -496,10 +486,6 @@ msgstr "使用我们的开发版来开发"
 #: header.html:31
 msgid "Development"
 msgstr "开发"
-
-#: main.js:309
-msgid "Device Title"
-msgstr "装置名称"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
@@ -777,7 +763,7 @@ msgstr "十六进位值"
 msgid "Hide History"
 msgstr "隐藏历史资料"
 
-#: components/control/gpio.html:3 components/display/gpio.html:6
+#: components/control/gpio.html:3
 msgid "High"
 msgstr "高"
 
@@ -997,7 +983,7 @@ msgstr "加载中..."
 msgid "Longitude:"
 msgstr "经度："
 
-#: components/control/gpio.html:2 components/display/gpio.html:3
+#: components/control/gpio.html:2
 msgid "Low"
 msgstr "低"
 
@@ -1128,6 +1114,10 @@ msgstr "现在您可以替您的产品原型建立测试装置以连接一个真
 msgid "Number of categories"
 msgstr "分类数目"
 
+#: development/index.html:156
+msgid "Number of test device"
+msgstr "测试装置数量"
+
 #: dashboard/numberofused.html:4
 msgid "Number of used"
 msgstr "使用数量"
@@ -1225,10 +1215,6 @@ msgstr "请选择硬件平台。"
 msgid "Please select industry."
 msgstr "请选择产业别"
 
-#: main.js:280 main.js:289
-msgid "Please try again!"
-msgstr "请再试一次！"
-
 #: controllers/development/index.js:61
 msgid "Please try again."
 msgstr "请再试一次。"
@@ -1282,7 +1268,7 @@ msgstr "产品原型列表"
 msgid "Prototype name"
 msgstr "产品原型名称"
 
-#: development/index.html:157
+#: development/index.html:158
 msgid "Prototype state"
 msgstr "产品原型状态"
 
@@ -1847,10 +1833,6 @@ msgstr "确认密码不能为空"
 msgid "content"
 msgstr "内容"
 
-#: main.js:306
-msgid "danger"
-msgstr "危险"
-
 #: controllers/dashboard/index.js:30
 msgid "days ago"
 msgstr "天之前"
@@ -1868,7 +1850,6 @@ msgid "delete trigger error!"
 msgstr "删除触发条件有错"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
-#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:34
 msgid "device"
 msgstr "装置"
 
@@ -1920,10 +1901,6 @@ msgstr "新密码不能为空"
 msgid "new password is not as same as confirm password"
 msgstr "新密码和确认密码不一致"
 
-#: main.js:287 main.js:299
-msgid "notice"
-msgstr "注意"
-
 #: mydevices/dialogs/editDevices.html:146
 msgid "save"
 msgstr "保存"
@@ -1931,10 +1908,6 @@ msgstr "保存"
 #: mydevices/dialogs/userPrivilege.html:45
 msgid "select role"
 msgstr "选择角色"
-
-#: main.js:278 main.js:293
-msgid "success"
-msgstr "成功"
 
 #: controllers/development/detail.js:101 controllers/development/detail.js:117
 #: controllers/development/detail.js:143 controllers/development/detail.js:187
@@ -1986,6 +1959,35 @@ msgstr "{{format.display | capitalize:'first'}}"
 #: controllers/development/detail.js:297
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
+
+#~ msgid "1010"
+#~ msgstr "1010"
+
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "Close"
+#~ msgstr "关闭"
+
+#~ msgid ""
+#~ "Deleting your device and its sensors is irreversible. Enter your device's "
+#~ "name below to confirm you want to permanently delete it:"
+#~ msgstr "若删除您的装置，则无法复原。输入您装置的名称以永远删除此装置。"
+
+#~ msgid "Device Title"
+#~ msgstr "装置名称"
+
+#~ msgid "Please try again!"
+#~ msgstr "请再试一次！"
+
+#~ msgid "danger"
+#~ msgstr "危险"
+
+#~ msgid "notice"
+#~ msgstr "注意"
+
+#~ msgid "success"
+#~ msgstr "成功"
 
 #~ msgid "And now your prototype is ready to connect to the world."
 #~ msgstr "现在您的产品原型准备好和世界连结了。"
