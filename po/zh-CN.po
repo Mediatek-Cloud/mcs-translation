@@ -305,6 +305,10 @@ msgstr "清除所选"
 msgid "Click the edit button. Let's start editing !"
 msgstr "点击编辑按钮，开始编辑！"
 
+#: development/dialogs/addComponent.html:72
+msgid "Coming soon"
+msgstr "即将推出"
+
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
 msgstr "即将推出"
