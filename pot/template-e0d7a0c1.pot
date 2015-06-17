@@ -716,6 +716,7 @@ msgstr ""
 msgid "Firmware"
 msgstr ""
 
+#: development/dialogs/addFirmware.html:19
 #: development/dialogs/addFirmware.html:27
 #: development/dialogs/editFirmware.html:17
 msgid "Firmware information"
@@ -1537,6 +1538,7 @@ msgstr ""
 msgid "Status"
 msgstr ""
 
+#: development/dialogs/addFirmware.html:18
 #: development/dialogs/addFirmware.html:26
 #: development/dialogs/trigger/add.html:23
 msgid "Step 1"
@@ -1875,7 +1877,7 @@ msgstr ""
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
-#: dialogs/tutorialCloseConfirm.html:20
+#: dialogs/tutorialCloseConfirm.html:21
 msgid "You will need to restart if you exit the tutorial now."
 msgstr ""
 

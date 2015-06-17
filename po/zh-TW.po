@@ -51,6 +51,10 @@ msgstr "+ 新增觸發條件和動作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
+#: main.js:308
+msgid "1010"
+msgstr "1010"
+
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
 msgstr "資料通道程載資料流。來新增一個吧。"
@@ -68,7 +72,7 @@ msgstr "測試裝置已成功產生!"
 msgid "AND"
 msgstr "和"
 
-#: mydevices/detail/components.html:105
+#: mydevices/detail/components.html:109
 msgid "API Hint"
 msgstr "API 提示"
 
@@ -76,7 +80,7 @@ msgstr "API 提示"
 msgid "API hint"
 msgstr "API 提示"
 
-#: aside.html:39 header.html:73
+#: aside.html:39 header.html:77
 msgid "API references"
 msgstr "API 參考資料集"
 
@@ -89,11 +93,11 @@ msgstr "API 類型"
 msgid "Action type"
 msgstr "動作類型"
 
-#: controllers/development/detail.js:903
+#: controllers/development/detail.js:924
 msgid "Action type is required!"
 msgstr "您需輸入動作類型！"
 
-#: controllers/development/detail.js:908
+#: controllers/development/detail.js:929
 msgid "Action {{field}} is required!"
 msgstr "您必須輸入動作欄位 {{field}}"
 
@@ -146,6 +150,10 @@ msgstr "馬上新增裝置！"
 msgid ""
 "After you are happy with your prototype, you can create a Test Device here."
 msgstr "當您完成開發您的產品原型後，您可以為此產品原型新增測試裝置。"
+
+#: development/detail/firmware.html:39
+msgid "All"
+msgstr "全部"
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:13
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:12
@@ -223,7 +231,7 @@ msgstr "找不到想要的模版嗎？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32
+#: dialogs/tutorialCloseConfirm.html:32 main.js:312
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:96 mydevices/dialogs/trigger.html:102
@@ -305,6 +313,10 @@ msgstr "清除所選"
 msgid "Click the edit button. Let's start editing !"
 msgstr "點擊編輯按鈕， 開始編輯！"
 
+#: main.js:282
+msgid "Close"
+msgstr "關閉"
+
 #: development/dialogs/addComponent.html:72
 msgid "Coming soon"
 msgstr "即將推出"
@@ -382,7 +394,7 @@ msgstr "馬上創建原型!"
 msgid "Creator"
 msgstr "建立者"
 
-#: controllers/development/detail.js:895
+#: controllers/development/detail.js:916
 msgid "Criteria value is required!"
 msgstr "您需要輸入條件值！"
 
@@ -398,11 +410,11 @@ msgstr "現正使用："
 msgid "Dashboard"
 msgstr "儀表板"
 
-#: controllers/development/detail.js:281
+#: controllers/development/detail.js:293
 msgid "Data Channel Id cannot null"
 msgstr "資料通道 Id 不能為空"
 
-#: controllers/development/detail.js:284
+#: controllers/development/detail.js:296
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr "資料通道 Id 只能輸入 A-Z，0-9，以及_。"
 
@@ -413,15 +425,16 @@ msgstr "資料通道"
 
 #: development/detail/components.html:84
 #: development/dialogs/addComponentContent.html:29
-#: mydevices/detail/apihint.html:46 mydevices/dialogs/showapihint.html:10
+#: mydevices/detail/apihint.html:46 mydevices/detail/components.html:60
+#: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr "資料通道 Id"
 
-#: controllers/development/detail.js:365
+#: controllers/development/detail.js:377
 msgid "Data channel Id was used!"
 msgstr "資料通道 Id 已被使用！"
 
-#: controllers/development/detail.js:892
+#: controllers/development/detail.js:913
 msgid "Data channel is required!"
 msgstr "您必須選擇資料通道！"
 
@@ -442,7 +455,7 @@ msgid "Default value"
 msgstr "默認值"
 
 #: development/detail.html:67 development/detail/components.html:136
-#: development/index.html:139 mydevices/detail.html:67
+#: development/index.html:139 main.js:311 mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
 msgstr "刪除"
@@ -456,6 +469,12 @@ msgstr "刪除動作"
 #: development/dialogs/trigger/edit.html:232
 msgid "Delete data channel"
 msgstr "刪除資料通道"
+
+#: main.js:309
+msgid ""
+"Deleting your device and its sensors is irreversible. Enter your device's "
+"name below to confirm you want to permanently delete it:"
+msgstr "若刪除您的裝置，則無法復原。輸入您裝置的名稱以永遠刪除此裝置。"
 
 #: development/detail.html:127 development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
@@ -479,17 +498,21 @@ msgid "Develop with LinkIt Connect 7681"
 msgstr "使用 LinkIt Connect 7681 開發"
 
 #: dashboard/quickresources.html:12
-msgid "Develop with LinkIt One"
-msgstr "使用 LinkIt One 開發"
+msgid "Develop with LinkIt ONE"
+msgstr ""
 
 #: dashboard/quickresources.html:9
 msgid "Develop with our hardware platform"
 msgstr "使用我們的開發版來開發"
 
 #: aside.html:21 development/detail.html:28 development/index.html:30
-#: header.html:31
+#: header.html:35
 msgid "Development"
 msgstr "開發"
+
+#: main.js:310
+msgid "Device Title"
+msgstr "裝置名稱"
 
 #: development/dialogs/createTestDevice.html:25
 msgid "Device description"
@@ -517,7 +540,7 @@ msgstr "裝置名稱"
 msgid "Device name ( default )"
 msgstr "裝置名稱 (初始值)"
 
-#: controllers/development/detail.js:429
+#: controllers/development/detail.js:441
 msgid "Device name cannot null."
 msgstr "裝置名稱不能為空。"
 
@@ -647,11 +670,11 @@ msgstr "範例: 產品原型名稱2"
 msgid "Exit"
 msgstr "退出"
 
-#: aside.html:111 header.html:108
+#: aside.html:111 header.html:112
 msgid "FAQ"
 msgstr "問與答"
 
-#: header.html:121
+#: header.html:125
 msgid "Feedback"
 msgstr "反饋"
 
@@ -666,6 +689,7 @@ msgstr "上傳檔案"
 msgid "Firmware"
 msgstr "韌體"
 
+#: development/dialogs/addFirmware.html:19
 #: development/dialogs/addFirmware.html:27
 #: development/dialogs/editFirmware.html:17
 msgid "Firmware information"
@@ -681,7 +705,7 @@ msgstr "韌體名稱"
 msgid "Float"
 msgstr "浮點數"
 
-#: header.html:116
+#: header.html:120
 msgid "Forum"
 msgstr "論壇"
 
@@ -746,7 +770,7 @@ msgstr "硬體平台"
 msgid "Hardware platform"
 msgstr "硬體平台"
 
-#: header.html:100
+#: header.html:104
 msgid "Help"
 msgstr "幫助"
 
@@ -763,11 +787,11 @@ msgstr "這裡是可能有幫助的 API 提示"
 msgid "Hex"
 msgstr "十六進位值"
 
-#: development/detail/components.html:123 mydevices/detail/components.html:98
+#: development/detail/components.html:123 mydevices/detail/components.html:102
 msgid "Hide History"
 msgstr "隱藏歷史資料"
 
-#: components/control/gpio.html:3
+#: components/control/gpio.html:3 components/display/gpio.html:6
 msgid "High"
 msgstr "高"
 
@@ -938,17 +962,21 @@ msgstr "整數"
 msgid "Integer only"
 msgstr "只接受整數"
 
-#: aside.html:64 header.html:59
+#: aside.html:64 header.html:63
 msgid "Introduction"
 msgstr "介紹"
 
-#: aside.html:70 header.html:66
+#: aside.html:70 header.html:70
 msgid "Key concepts"
 msgstr "核心概念"
 
 #: profile/index.html:89
 msgid "Language"
 msgstr "語言"
+
+#: mydevices/detail/components.html:56
+msgid "Last data point time"
+msgstr ""
 
 #: dashboard/overview.html:45
 msgid "Last datapoint time"
@@ -987,7 +1015,7 @@ msgstr "讀取中..."
 msgid "Longitude:"
 msgstr "經度："
 
-#: components/control/gpio.html:2
+#: components/control/gpio.html:2 components/display/gpio.html:3
 msgid "Low"
 msgstr "低"
 
@@ -999,7 +1027,7 @@ msgstr "小於"
 msgid "MT7681"
 msgstr "MT7681"
 
-#: controllers/development/detail.js:971 controllers/devices/detail.js:80
+#: controllers/development/detail.js:992 controllers/devices/detail.js:80
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr "必須是一個有效的使用者電子郵件 ！"
 
@@ -1023,7 +1051,7 @@ msgstr "手動"
 msgid "Manually enter serial numbers"
 msgstr "手動輸入序號"
 
-#: aside.html:106 header.html:87
+#: aside.html:106 header.html:91
 msgid "Mobile application"
 msgstr "行動應用"
 
@@ -1039,7 +1067,7 @@ msgstr "必須是浮點數 ！"
 msgid "Must Be an Integer!"
 msgstr "需要是一個整數！"
 
-#: header.html:39
+#: header.html:43
 msgid "My Devices"
 msgstr "我的裝置"
 
@@ -1062,7 +1090,7 @@ msgstr "名稱"
 msgid "Name cannot be null."
 msgstr "名稱不能為空。"
 
-#: controllers/development/detail.js:278
+#: controllers/development/detail.js:290
 msgid "Name cannot null"
 msgstr "名稱不能為空。"
 
@@ -1191,15 +1219,15 @@ msgstr "密碼"
 msgid "Period"
 msgstr "期間"
 
-#: controllers/development/detail.js:1062
+#: controllers/development/detail.js:1086
 msgid "Please Try Again!"
 msgstr "請再試一次！"
 
-#: controllers/development/detail.js:531
+#: controllers/development/detail.js:546
 msgid "Please choose a file to upload"
 msgstr "請選擇要上傳的檔案"
 
-#: controllers/development/detail.js:974 controllers/devices/detail.js:83
+#: controllers/development/detail.js:995 controllers/devices/detail.js:83
 msgid "Please choose a role for the user."
 msgstr "請選擇使用者權限。"
 
@@ -1219,6 +1247,10 @@ msgstr "請選擇硬體平台。"
 msgid "Please select industry."
 msgstr "請選擇產業別"
 
+#: main.js:281 main.js:290
+msgid "Please try again!"
+msgstr "請再試一次！"
+
 #: controllers/development/index.js:61
 msgid "Please try again."
 msgstr "請再試一次。"
@@ -1235,7 +1267,7 @@ msgstr "前一步"
 msgid "Product ID"
 msgstr "Product ID"
 
-#: header.html:146
+#: header.html:150
 msgid "Profile"
 msgstr "個人檔案"
 
@@ -1334,7 +1366,7 @@ msgstr "發佈有序號產生器的產品原型。"
 msgid "Release without serial number generator."
 msgstr "發佈沒有序號產生器的產品原型。"
 
-#: header.html:51
+#: header.html:55
 msgid "Resources"
 msgstr "資源"
 
@@ -1442,11 +1474,11 @@ msgstr "序號"
 msgid "Server Internal Error."
 msgstr "服務器內部錯誤。"
 
-#: development/detail/components.html:122 mydevices/detail/components.html:97
+#: development/detail/components.html:122 mydevices/detail/components.html:101
 msgid "Show History"
 msgstr "打開歷史資料"
 
-#: header.html:158
+#: header.html:162
 msgid "Sign out"
 msgstr "登出"
 
@@ -1458,6 +1490,7 @@ msgstr "開始"
 msgid "Status"
 msgstr "狀態"
 
+#: development/dialogs/addFirmware.html:18
 #: development/dialogs/addFirmware.html:26
 #: development/dialogs/trigger/add.html:23
 msgid "Step 1"
@@ -1503,7 +1536,7 @@ msgstr "Telnet"
 msgid "Template preview"
 msgstr "模版預覽"
 
-#: header.html:153
+#: header.html:157
 msgid "Terms of use"
 msgstr "使用者條款"
 
@@ -1610,8 +1643,8 @@ msgstr "觸發動作"
 msgid "Trigger criteria"
 msgstr "觸發條件"
 
-#: controllers/development/detail.js:867 controllers/development/detail.js:875
-#: controllers/devices/detail.js:299
+#: controllers/development/detail.js:888 controllers/development/detail.js:896
+#: controllers/devices/detail.js:308
 msgid "Trigger had error!"
 msgstr "觸發條件有錯誤"
 
@@ -1620,7 +1653,7 @@ msgstr "觸發條件有錯誤"
 msgid "Trigger name"
 msgstr "觸發條件名稱"
 
-#: controllers/development/detail.js:885
+#: controllers/development/detail.js:906
 msgid "Trigger name is required!"
 msgstr "請輸入觸發條件名稱"
 
@@ -1643,7 +1676,7 @@ msgstr "請再試一次。"
 msgid "Try to create it now."
 msgstr "現在試著建立一個吧。"
 
-#: aside.html:73 header.html:80
+#: aside.html:73 header.html:84
 msgid "Tutorial"
 msgstr "教程"
 
@@ -1651,7 +1684,7 @@ msgstr "教程"
 msgid "Type"
 msgstr "型態"
 
-#: controllers/development/detail.js:294
+#: controllers/development/detail.js:306
 msgid "Unit type format cannot null"
 msgstr "單位類型格式不能為空。"
 
@@ -1782,12 +1815,12 @@ msgstr "您可以使用這邊提供的 API 來設定你所需要的動作。例�
 msgid "You do not finish the tutorial yet."
 msgstr "您尚未完成快速上手指南。"
 
-#: controllers/development/index.js:163 controllers/development/index.js:98
-#: controllers/devices/index.js:75
+#: controllers/development/index.js:166 controllers/development/index.js:98
+#: controllers/devices/index.js:84
 msgid "You do not have permission"
 msgstr "您沒有權限"
 
-#: controllers/development/detail.js:287
+#: controllers/development/detail.js:299
 msgid "You should choose a data channel type!"
 msgstr "請選擇一個資料通道類型！"
 
@@ -1797,7 +1830,7 @@ msgid ""
 "device"
 msgstr "您在使用 API 呼叫裝置時，將會需要 deviceId 和 deviceKey 。"
 
-#: dialogs/tutorialCloseConfirm.html:20
+#: dialogs/tutorialCloseConfirm.html:21
 msgid "You will need to restart if you exit the tutorial now."
 msgstr "若現在退出，下次需要重新開始。"
 
@@ -1837,27 +1870,32 @@ msgstr "確認密碼不能為空"
 msgid "content"
 msgstr "內容"
 
+#: main.js:307
+msgid "danger"
+msgstr "危險"
+
 #: controllers/dashboard/index.js:30
 msgid "days ago"
 msgstr "天之前"
 
-#: controllers/development/detail.js:993 controllers/devices/detail.js:102
+#: controllers/development/detail.js:1017 controllers/devices/detail.js:105
 msgid "delete privilege  error!"
 msgstr "刪除權限時發生錯誤！"
 
-#: controllers/development/detail.js:480
+#: controllers/development/detail.js:495
 msgid "delete test device error"
 msgstr "刪除測試裝置時發生錯誤"
 
-#: controllers/development/detail.js:801
+#: controllers/development/detail.js:822
 msgid "delete trigger error!"
 msgstr "刪除觸發條件有錯"
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:34
 msgid "device"
 msgstr "裝置"
 
-#: controllers/development/detail.js:592
+#: controllers/development/detail.js:607
 msgid "file cannot be null!"
 msgstr "文件不能為空！"
 
@@ -1893,7 +1931,7 @@ msgstr "緯度或經度或高度應該是浮點數或是整數！"
 msgid "mins ago"
 msgstr "分鐘之前"
 
-#: controllers/development/detail.js:584
+#: controllers/development/detail.js:599
 msgid "name cannot be null!"
 msgstr "名稱不能為空！"
 
@@ -1905,6 +1943,10 @@ msgstr "新密碼不能為空"
 msgid "new password is not as same as confirm password"
 msgstr "新密碼和確認密碼不一致"
 
+#: main.js:288 main.js:300
+msgid "notice"
+msgstr "注意"
+
 #: mydevices/dialogs/editDevices.html:146
 msgid "save"
 msgstr "儲存"
@@ -1913,12 +1955,16 @@ msgstr "儲存"
 msgid "select role"
 msgstr "選擇角色"
 
-#: controllers/development/detail.js:101 controllers/development/detail.js:117
-#: controllers/development/detail.js:143 controllers/development/detail.js:187
-#: controllers/development/detail.js:865 controllers/development/detail.js:873
-#: controllers/development/index.js:131 controllers/development/index.js:155
-#: controllers/devices/detail.js:128 controllers/devices/detail.js:297
-#: controllers/devices/index.js:67
+#: main.js:279 main.js:294
+msgid "success"
+msgstr "成功"
+
+#: controllers/development/detail.js:104 controllers/development/detail.js:123
+#: controllers/development/detail.js:149 controllers/development/detail.js:196
+#: controllers/development/detail.js:886 controllers/development/detail.js:894
+#: controllers/development/index.js:131 controllers/development/index.js:158
+#: controllers/devices/detail.js:137 controllers/devices/detail.js:306
+#: controllers/devices/index.js:76
 msgid "success."
 msgstr "成功。"
 
@@ -1947,7 +1993,7 @@ msgstr "值和周期必須是整數"
 msgid "version"
 msgstr "版本"
 
-#: controllers/development/detail.js:588
+#: controllers/development/detail.js:603
 msgid "version cannot be null!"
 msgstr "版本不能為空！"
 
@@ -1960,38 +2006,12 @@ msgstr "您需要先建立產品原型"
 msgid "{{format.display | capitalize:'first'}}"
 msgstr "{{format.display | capitalize:'first'}}"
 
-#: controllers/development/detail.js:297
+#: controllers/development/detail.js:309
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
 
-#~ msgid "1010"
-#~ msgstr "1010"
-
-#~ msgid "All"
-#~ msgstr "全部"
-
-#~ msgid "Close"
-#~ msgstr "關閉"
-
-#~ msgid ""
-#~ "Deleting your device and its sensors is irreversible. Enter your device's "
-#~ "name below to confirm you want to permanently delete it:"
-#~ msgstr "若刪除您的裝置，則無法復原。輸入您裝置的名稱以永遠刪除此裝置。"
-
-#~ msgid "Device Title"
-#~ msgstr "裝置名稱"
-
-#~ msgid "Please try again!"
-#~ msgstr "請再試一次！"
-
-#~ msgid "danger"
-#~ msgstr "危險"
-
-#~ msgid "notice"
-#~ msgstr "注意"
-
-#~ msgid "success"
-#~ msgstr "成功"
+#~ msgid "Develop with LinkIt One"
+#~ msgstr "使用 LinkIt One 開發"
 
 #~ msgid "And now your prototype is ready to connect to the world."
 #~ msgstr "現在您的產品原型準備好和世界連結了。"
