@@ -499,7 +499,7 @@ msgstr "使用 LinkIt Connect 7681 开发"
 
 #: dashboard/quickresources.html:12
 msgid "Develop with LinkIt ONE"
-msgstr ""
+msgstr "使用 LinkIt ONE 开发"
 
 #: dashboard/quickresources.html:9
 msgid "Develop with our hardware platform"
@@ -976,7 +976,7 @@ msgstr "语言"
 
 #: mydevices/detail/components.html:56
 msgid "Last data point time"
-msgstr ""
+msgstr "最后资料点时间"
 
 #: dashboard/overview.html:45
 msgid "Last datapoint time"
