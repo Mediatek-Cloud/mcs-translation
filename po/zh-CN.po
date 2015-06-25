@@ -1803,7 +1803,7 @@ msgstr "你可以在此看到它的细节"
 
 #: development/dialogs/finishCreateTestDevice.html:16
 msgid "You can see its detail in \"My devices\"."
-msgstr "您可以在我的装置页面看到它的细节"
+msgstr "您可以在「我的装置」页面看到它的细节"
 
 #: mydevices/detail/apihint.html:33
 msgid ""
