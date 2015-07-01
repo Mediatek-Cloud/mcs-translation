@@ -45,7 +45,7 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: main.js:308
+#: main.js:316
 msgid "1010"
 msgstr ""
 
@@ -71,7 +71,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:213
+#: mydevices/detail.html:230
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -91,11 +91,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:924
+#: controllers/development/detail.js:925
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:929
+#: controllers/development/detail.js:930
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -180,8 +180,8 @@ msgstr ""
 msgid "And"
 msgstr ""
 
-#: mydevices/detail/apihint.html:94
-#: mydevices/dialogs/showapihint.html:81
+#: mydevices/detail/apihint.html:98
+#: mydevices/dialogs/showapihint.html:84
 msgid "Angular"
 msgstr ""
 
@@ -193,8 +193,8 @@ msgstr ""
 msgid "Application"
 msgstr ""
 
-#: mydevices/detail/apihint.html:85
-#: mydevices/dialogs/showapihint.html:63
+#: mydevices/detail/apihint.html:89
+#: mydevices/dialogs/showapihint.html:66
 msgid "Arduino"
 msgstr ""
 
@@ -220,12 +220,12 @@ msgstr ""
 
 #: date.html:6
 #: development/dialogs/addComponentContent.html:449
-#: development/dialogs/createProducts.html:220
+#: development/dialogs/createProducts.html:219
 #: development/dialogs/createTestDevice.html:45
 #: development/dialogs/deleteConfirm.html:27
 #: development/dialogs/editComponent.html:53
-#: development/dialogs/editProducts.html:210
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:83
+#: development/dialogs/editProducts.html:209
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:87
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:60
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
@@ -233,10 +233,10 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:312
+#: main.js:320
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
-#: mydevices/dialogs/showapihint.html:96
+#: mydevices/dialogs/showapihint.html:99
 #: mydevices/dialogs/trigger.html:102
 #: mydevices/dialogs/userPrivilege.html:94
 #: profile/dialogs/changePassword.html:60
@@ -254,7 +254,7 @@ msgstr ""
 msgid "Change password"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:66
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:42
 msgid "Check Sum"
 msgstr ""
@@ -263,7 +263,7 @@ msgstr ""
 msgid "Chip"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:55
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:59
 #: management/dialogs/createSerialNumber.html:55
 msgid "Choose file"
 msgstr ""
@@ -320,7 +320,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:282
+#: main.js:287
 msgid "Close"
 msgstr ""
 
@@ -354,10 +354,10 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: mydevices/detail.html:121
-#: mydevices/detail.html:132
-#: mydevices/detail.html:157
-#: mydevices/detail.html:165
+#: mydevices/detail.html:122
+#: mydevices/detail.html:138
+#: mydevices/detail.html:167
+#: mydevices/detail.html:179
 msgid "Copy"
 msgstr ""
 
@@ -401,7 +401,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:916
+#: controllers/development/detail.js:917
 msgid "Criteria value is required!"
 msgstr ""
 
@@ -429,7 +429,7 @@ msgstr ""
 #: development/detail.html:150
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:182
+#: mydevices/detail.html:199
 msgid "Data channel"
 msgstr ""
 
@@ -445,7 +445,7 @@ msgstr ""
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:913
+#: controllers/development/detail.js:914
 msgid "Data channel is required!"
 msgstr ""
 
@@ -469,7 +469,7 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:136
 #: development/index.html:139
-#: main.js:311
+#: main.js:319
 #: mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
@@ -485,7 +485,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:309
+#: main.js:317
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -528,7 +528,7 @@ msgstr ""
 msgid "Development"
 msgstr ""
 
-#: main.js:310
+#: main.js:318
 msgid "Device Title"
 msgstr ""
 
@@ -711,7 +711,7 @@ msgstr ""
 #: development/detail.html:169
 #: development/detail/firmware.html:4
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:203
+#: mydevices/detail.html:220
 #: mydevices/detail/firmware.html:10
 msgid "Firmware"
 msgstr ""
@@ -971,7 +971,7 @@ msgstr ""
 msgid "Input the user name or email"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:71
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:75
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
 msgid "Input your check sum information"
 msgstr ""
@@ -1059,7 +1059,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:992
+#: controllers/development/detail.js:993
 #: controllers/devices/detail.js:80
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1137,7 +1137,7 @@ msgstr ""
 msgid "New password"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:93
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:97
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
 #: development/dialogs/trigger/add.html:452
 #: values/products/ngIntro.js:36
@@ -1206,7 +1206,7 @@ msgstr ""
 #: components/control/pwm.html:20
 #: components/control/string.html:13
 #: date.html:5
-#: development/dialogs/createTestDevice.html:52
+#: development/dialogs/createTestDevice.html:51
 #: development/dialogs/deleteConfirm.html:33
 #: development/dialogs/finishRelease.html:21
 #: development/dialogs/release.html:47
@@ -1265,7 +1265,7 @@ msgstr ""
 msgid "Period"
 msgstr ""
 
-#: controllers/development/detail.js:1086
+#: controllers/development/detail.js:1087
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1273,7 +1273,7 @@ msgstr ""
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:995
+#: controllers/development/detail.js:996
 #: controllers/devices/detail.js:83
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1286,6 +1286,10 @@ msgstr ""
 msgid "Please select a template that best meet your data channel"
 msgstr ""
 
+#: controllers/development/detail.js:538
+msgid "Please select at least one test device"
+msgstr ""
+
 #: controllers/development/index.js:44
 msgid "Please select hardware platform."
 msgstr ""
@@ -1294,8 +1298,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:281
-#: main.js:290
+#: main.js:286
+#: main.js:296
 msgid "Please try again!"
 msgstr ""
 
@@ -1362,8 +1366,8 @@ msgstr ""
 msgid "Prototype version"
 msgstr ""
 
-#: development/dialogs/firmware/add/pushFirmwareToDevice.html:67
-#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:65
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:66
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:64
 msgid "Push"
 msgstr ""
 
@@ -1424,8 +1428,8 @@ msgstr ""
 msgid "Restore default value"
 msgstr ""
 
-#: mydevices/detail/apihint.html:77
-#: mydevices/dialogs/showapihint.html:45
+#: mydevices/detail/apihint.html:81
+#: mydevices/dialogs/showapihint.html:49
 msgid "Retrieve datapoint"
 msgstr ""
 
@@ -1437,17 +1441,17 @@ msgid "Role"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:453
-#: development/dialogs/createProducts.html:226
+#: development/dialogs/createProducts.html:224
 #: development/dialogs/editComponent.html:60
-#: development/dialogs/editProducts.html:214
+#: development/dialogs/editProducts.html:213
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/trigger/add.html:459
 #: development/dialogs/trigger/edit.html:439
-#: development/dialogs/userPrivilege.html:104
+#: development/dialogs/userPrivilege.html:103
 #: mydevices/dialogs/createDevices.html:83
 #: mydevices/dialogs/trigger.html:108
-#: mydevices/dialogs/userPrivilege.html:101
+#: mydevices/dialogs/userPrivilege.html:100
 #: profile/dialogs/changePassword.html:64
 #: profile/dialogs/cropImage.html:31
 msgid "Save"
@@ -1512,10 +1516,10 @@ msgid "Serial number"
 msgstr ""
 
 #: directives/components/control/float.js:46
-#: directives/components/control/gpio.js:63
+#: directives/components/control/gpio.js:57
 #: directives/components/control/integer.js:45
 #: directives/components/control/pwm.js:50
-#: directives/components/control/pwmSlider.js:47
+#: directives/components/control/pwmSlider.js:34
 #: directives/components/control/string.js:44
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
@@ -1561,6 +1565,8 @@ msgid "String"
 msgstr ""
 
 #: development/dialogs/finishCreateTestDevice.html:3
+#: main.js:284
+#: main.js:301
 msgid "Success!"
 msgstr ""
 
@@ -1576,8 +1582,8 @@ msgstr ""
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
-#: mydevices/detail/apihint.html:88
-#: mydevices/dialogs/showapihint.html:69
+#: mydevices/detail/apihint.html:92
+#: mydevices/dialogs/showapihint.html:72
 msgid "Telnet"
 msgstr ""
 
@@ -1675,7 +1681,7 @@ msgstr ""
 
 #: development/detail.html:157
 #: development/detail/trigger.html:4
-#: mydevices/detail.html:189
+#: mydevices/detail.html:206
 #: mydevices/detail/trigger.html:4
 msgid "Trigger & Action"
 msgstr ""
@@ -1691,9 +1697,9 @@ msgstr ""
 msgid "Trigger criteria"
 msgstr ""
 
-#: controllers/development/detail.js:888
-#: controllers/development/detail.js:896
-#: controllers/devices/detail.js:308
+#: controllers/development/detail.js:889
+#: controllers/development/detail.js:897
+#: controllers/devices/detail.js:311
 msgid "Trigger had error!"
 msgstr ""
 
@@ -1703,7 +1709,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:906
+#: controllers/development/detail.js:907
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -1711,14 +1717,14 @@ msgstr ""
 msgid "Trigger switch"
 msgstr ""
 
-#: directives/components/control/category.js:153
-#: directives/components/control/category.js:182
-#: directives/components/control/category.js:275
-#: directives/components/control/category.js:305
-#: directives/components/control/category.js:37
-#: directives/components/control/category.js:403
-#: directives/components/control/category.js:434
-#: directives/components/control/category.js:65
+#: directives/components/control/category.js:126
+#: directives/components/control/category.js:142
+#: directives/components/control/category.js:229
+#: directives/components/control/category.js:245
+#: directives/components/control/category.js:29
+#: directives/components/control/category.js:338
+#: directives/components/control/category.js:355
+#: directives/components/control/category.js:45
 msgid "Try again."
 msgstr ""
 
@@ -1747,9 +1753,9 @@ msgstr ""
 msgid "Upgrade"
 msgstr ""
 
-#: development/dialogs/createProducts.html:203
-#: development/dialogs/editProducts.html:193
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:88
+#: development/dialogs/createProducts.html:202
+#: development/dialogs/editProducts.html:192
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:92
 #: management/dialogs/createSerialNumber.html:24
 #: mydevices/dialogs/createDevices.html:60
 #: mydevices/dialogs/editDevices.html:128
@@ -1764,8 +1770,8 @@ msgstr ""
 msgid "Upload an image"
 msgstr ""
 
-#: mydevices/detail/apihint.html:66
-#: mydevices/dialogs/showapihint.html:34
+#: mydevices/detail/apihint.html:68
+#: mydevices/dialogs/showapihint.html:36
 msgid "Upload datapoint"
 msgstr ""
 
@@ -1788,7 +1794,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:162
-#: mydevices/detail.html:196
+#: mydevices/detail.html:213
 msgid "User privileges"
 msgstr ""
 
@@ -1873,7 +1879,7 @@ msgid "You should choose a data channel type!"
 msgstr ""
 
 #: mydevices/detail.html:106
-#: mydevices/detail.html:146
+#: mydevices/detail.html:155
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -1918,15 +1924,11 @@ msgstr ""
 msgid "content"
 msgstr ""
 
-#: main.js:307
-msgid "danger"
-msgstr ""
-
 #: controllers/dashboard/index.js:30
 msgid "days ago"
 msgstr ""
 
-#: controllers/development/detail.js:1017
+#: controllers/development/detail.js:1018
 #: controllers/devices/detail.js:105
 msgid "delete privilege  error!"
 msgstr ""
@@ -1960,8 +1962,8 @@ msgstr ""
 msgid "is different from your setting."
 msgstr ""
 
-#: mydevices/detail/apihint.html:91
-#: mydevices/dialogs/showapihint.html:75
+#: mydevices/detail/apihint.html:95
+#: mydevices/dialogs/showapihint.html:78
 msgid "jQuery"
 msgstr ""
 
@@ -1993,8 +1995,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:288
-#: main.js:300
+#: main.js:294
+#: main.js:308
 msgid "notice"
 msgstr ""
 
@@ -2006,21 +2008,16 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
-#: main.js:279
-#: main.js:294
-msgid "success"
-msgstr ""
-
 #: controllers/development/detail.js:104
 #: controllers/development/detail.js:123
 #: controllers/development/detail.js:149
 #: controllers/development/detail.js:196
-#: controllers/development/detail.js:886
-#: controllers/development/detail.js:894
+#: controllers/development/detail.js:887
+#: controllers/development/detail.js:895
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
 #: controllers/devices/detail.js:137
-#: controllers/devices/detail.js:306
+#: controllers/devices/detail.js:309
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
@@ -2042,7 +2039,7 @@ msgid "upgrade you've uploaded."
 msgstr ""
 
 #: directives/components/control/pwm.js:53
-#: directives/components/control/pwmSlider.js:50
+#: directives/components/control/pwmSlider.js:37
 msgid "value, period must be an Integer."
 msgstr ""
 
