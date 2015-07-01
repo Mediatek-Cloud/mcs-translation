@@ -51,7 +51,7 @@ msgstr "+ 新增触发条件和动作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
-#: main.js:308
+#: main.js:316
 msgid "1010"
 msgstr "1010"
 
@@ -76,7 +76,7 @@ msgstr "和"
 msgid "API Hint"
 msgstr "API 提示"
 
-#: mydevices/detail.html:213 mydevices/dialogs/showapihint.html:3
+#: mydevices/detail.html:230 mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr "API 提示"
 
@@ -93,11 +93,11 @@ msgstr "API 类型"
 msgid "Action type"
 msgstr "动作类型"
 
-#: controllers/development/detail.js:924
+#: controllers/development/detail.js:925
 msgid "Action type is required!"
 msgstr "您需输入动作类型！"
 
-#: controllers/development/detail.js:929
+#: controllers/development/detail.js:930
 msgid "Action {{field}} is required!"
 msgstr "您必须输入动作栏位 {{field}}"
 
@@ -184,7 +184,7 @@ msgstr "高度"
 msgid "And"
 msgstr "和"
 
-#: mydevices/detail/apihint.html:94 mydevices/dialogs/showapihint.html:81
+#: mydevices/detail/apihint.html:98 mydevices/dialogs/showapihint.html:84
 msgid "Angular"
 msgstr "Angular"
 
@@ -194,7 +194,7 @@ msgstr "Angular"
 msgid "Application"
 msgstr "应用程序"
 
-#: mydevices/detail/apihint.html:85 mydevices/dialogs/showapihint.html:63
+#: mydevices/detail/apihint.html:89 mydevices/dialogs/showapihint.html:66
 msgid "Arduino"
 msgstr "Arduino"
 
@@ -219,22 +219,22 @@ msgid "Can't find your template?"
 msgstr "找不到想要的模版吗？"
 
 #: date.html:6 development/dialogs/addComponentContent.html:449
-#: development/dialogs/createProducts.html:220
+#: development/dialogs/createProducts.html:219
 #: development/dialogs/createTestDevice.html:45
 #: development/dialogs/deleteConfirm.html:27
 #: development/dialogs/editComponent.html:53
-#: development/dialogs/editProducts.html:210
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:83
+#: development/dialogs/editProducts.html:209
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:87
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:60
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32 main.js:312
+#: dialogs/tutorialCloseConfirm.html:32 main.js:320
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
-#: mydevices/dialogs/showapihint.html:96 mydevices/dialogs/trigger.html:102
+#: mydevices/dialogs/showapihint.html:99 mydevices/dialogs/trigger.html:102
 #: mydevices/dialogs/userPrivilege.html:94
 #: profile/dialogs/changePassword.html:60 profile/dialogs/cropImage.html:24
 msgid "Cancel"
@@ -249,7 +249,7 @@ msgstr "分类"
 msgid "Change password"
 msgstr "更改密码"
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:66
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:42
 msgid "Check Sum"
 msgstr "检核码"
@@ -258,7 +258,7 @@ msgstr "检核码"
 msgid "Chip"
 msgstr "芯片"
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:55
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:59
 #: management/dialogs/createSerialNumber.html:55
 msgid "Choose file"
 msgstr "选择档案"
@@ -313,7 +313,7 @@ msgstr "清除所选"
 msgid "Click the edit button. Let's start editing !"
 msgstr "点击编辑按钮，开始编辑！"
 
-#: main.js:282
+#: main.js:287
 msgid "Close"
 msgstr "关闭"
 
@@ -352,8 +352,8 @@ msgstr ""
 msgid "Controller"
 msgstr "调节器"
 
-#: mydevices/detail.html:121 mydevices/detail.html:132
-#: mydevices/detail.html:157 mydevices/detail.html:165
+#: mydevices/detail.html:122 mydevices/detail.html:138
+#: mydevices/detail.html:167 mydevices/detail.html:179
 msgid "Copy"
 msgstr "复制"
 
@@ -394,7 +394,7 @@ msgstr "马上建立产品原型！"
 msgid "Creator"
 msgstr "建立者"
 
-#: controllers/development/detail.js:916
+#: controllers/development/detail.js:917
 msgid "Criteria value is required!"
 msgstr "您需要输入条件值！"
 
@@ -419,7 +419,7 @@ msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr "资料通道 Id 只能输入A-Z，0-9，以及_。"
 
 #: development/detail.html:150 development/dialogs/trigger/add.html:120
-#: development/dialogs/trigger/edit.html:110 mydevices/detail.html:182
+#: development/dialogs/trigger/edit.html:110 mydevices/detail.html:199
 msgid "Data channel"
 msgstr "资料通道"
 
@@ -434,7 +434,7 @@ msgstr "资料通道 Id"
 msgid "Data channel Id was used!"
 msgstr "资料通道 Id 已被使用！"
 
-#: controllers/development/detail.js:913
+#: controllers/development/detail.js:914
 msgid "Data channel is required!"
 msgstr "您必须选择资料通道！"
 
@@ -455,7 +455,7 @@ msgid "Default value"
 msgstr "默认值"
 
 #: development/detail.html:67 development/detail/components.html:136
-#: development/index.html:139 main.js:311 mydevices/detail.html:67
+#: development/index.html:139 main.js:319 mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
 msgstr "删除"
@@ -470,7 +470,7 @@ msgstr "删除动作"
 msgid "Delete data channel"
 msgstr "删除资料通道"
 
-#: main.js:309
+#: main.js:317
 msgid ""
 "Deleting your device and its sensors is irreversible. Enter your device's "
 "name below to confirm you want to permanently delete it:"
@@ -510,7 +510,7 @@ msgstr "使用我们的开发版来开发"
 msgid "Development"
 msgstr "开发"
 
-#: main.js:310
+#: main.js:318
 msgid "Device Title"
 msgstr "装置名称"
 
@@ -685,7 +685,7 @@ msgstr "上传文件"
 
 #: development/detail.html:169 development/detail/firmware.html:4
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:203 mydevices/detail/firmware.html:10
+#: mydevices/detail.html:220 mydevices/detail/firmware.html:10
 msgid "Firmware"
 msgstr "固件"
 
@@ -943,7 +943,7 @@ msgstr "输入触发条件名称"
 msgid "Input the user name or email"
 msgstr "输入用户名或电子邮件"
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:71
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:75
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
 msgid "Input your check sum information"
 msgstr "输入检核码"
@@ -1027,7 +1027,7 @@ msgstr "低于"
 msgid "MT7681"
 msgstr "MT7681"
 
-#: controllers/development/detail.js:992 controllers/devices/detail.js:80
+#: controllers/development/detail.js:993 controllers/devices/detail.js:80
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr "必须是一个有效的使用者电子邮件 ！"
 
@@ -1098,7 +1098,7 @@ msgstr "名称不能为空。"
 msgid "New password"
 msgstr "新密码"
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:93
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:97
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
 #: development/dialogs/trigger/add.html:452 values/products/ngIntro.js:36
 msgid "Next"
@@ -1162,7 +1162,7 @@ msgstr "关"
 #: components/control/float.html:13 components/control/gps.html:92
 #: components/control/hexstring.html:13 components/control/integer.html:13
 #: components/control/pwm.html:20 components/control/string.html:13
-#: date.html:5 development/dialogs/createTestDevice.html:52
+#: date.html:5 development/dialogs/createTestDevice.html:51
 #: development/dialogs/deleteConfirm.html:33
 #: development/dialogs/finishRelease.html:21
 #: development/dialogs/release.html:47 dialogs/comingSoon.html:27
@@ -1219,7 +1219,7 @@ msgstr "密码"
 msgid "Period"
 msgstr "期间"
 
-#: controllers/development/detail.js:1086
+#: controllers/development/detail.js:1087
 msgid "Please Try Again!"
 msgstr "请再试一次！"
 
@@ -1227,7 +1227,7 @@ msgstr "请再试一次！"
 msgid "Please choose a file to upload"
 msgstr "请选择要上传的档案"
 
-#: controllers/development/detail.js:995 controllers/devices/detail.js:83
+#: controllers/development/detail.js:996 controllers/devices/detail.js:83
 msgid "Please choose a role for the user."
 msgstr "请选择使用者权限。"
 
@@ -1239,6 +1239,10 @@ msgstr "请确认是否要发布这个产品原型。"
 msgid "Please select a template that best meet your data channel"
 msgstr "请选择最符合您的资料通道的模板"
 
+#: controllers/development/detail.js:538
+msgid "Please select at least one test device"
+msgstr "请至少选择一个测试装置。"
+
 #: controllers/development/index.js:44
 msgid "Please select hardware platform."
 msgstr "请选择硬件平台。"
@@ -1247,7 +1251,7 @@ msgstr "请选择硬件平台。"
 msgid "Please select industry."
 msgstr "请选择产业别"
 
-#: main.js:281 main.js:290
+#: main.js:286 main.js:296
 msgid "Please try again!"
 msgstr "请再试一次！"
 
@@ -1313,8 +1317,8 @@ msgstr "产品原型状态"
 msgid "Prototype version"
 msgstr "产品原型版本"
 
-#: development/dialogs/firmware/add/pushFirmwareToDevice.html:67
-#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:65
+#: development/dialogs/firmware/add/pushFirmwareToDevice.html:66
+#: development/dialogs/firmware/edit/pushFirmwareToDevice.html:64
 msgid "Push"
 msgstr "推送"
 
@@ -1374,7 +1378,7 @@ msgstr "资源"
 msgid "Restore default value"
 msgstr "回覆默认值"
 
-#: mydevices/detail/apihint.html:77 mydevices/dialogs/showapihint.html:45
+#: mydevices/detail/apihint.html:81 mydevices/dialogs/showapihint.html:49
 msgid "Retrieve datapoint"
 msgstr "读取资料点"
 
@@ -1386,16 +1390,16 @@ msgid "Role"
 msgstr "角色"
 
 #: development/dialogs/addComponentContent.html:453
-#: development/dialogs/createProducts.html:226
+#: development/dialogs/createProducts.html:224
 #: development/dialogs/editComponent.html:60
-#: development/dialogs/editProducts.html:214
+#: development/dialogs/editProducts.html:213
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/trigger/add.html:459
 #: development/dialogs/trigger/edit.html:439
-#: development/dialogs/userPrivilege.html:104
+#: development/dialogs/userPrivilege.html:103
 #: mydevices/dialogs/createDevices.html:83 mydevices/dialogs/trigger.html:108
-#: mydevices/dialogs/userPrivilege.html:101
+#: mydevices/dialogs/userPrivilege.html:100
 #: profile/dialogs/changePassword.html:64 profile/dialogs/cropImage.html:31
 msgid "Save"
 msgstr "保存"
@@ -1465,10 +1469,10 @@ msgid "Serial number"
 msgstr "编号"
 
 #: directives/components/control/float.js:46
-#: directives/components/control/gpio.js:63
+#: directives/components/control/gpio.js:57
 #: directives/components/control/integer.js:45
 #: directives/components/control/pwm.js:50
-#: directives/components/control/pwmSlider.js:47
+#: directives/components/control/pwmSlider.js:34
 #: directives/components/control/string.js:44
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
@@ -1512,7 +1516,7 @@ msgstr "步骤三"
 msgid "String"
 msgstr "字串"
 
-#: development/dialogs/finishCreateTestDevice.html:3
+#: development/dialogs/finishCreateTestDevice.html:3 main.js:284 main.js:301
 msgid "Success!"
 msgstr "成功！"
 
@@ -1528,7 +1532,7 @@ msgstr "系統信息"
 msgid "Tell us what kind of template you want to add!"
 msgstr "将你想要的模版告诉我们！"
 
-#: mydevices/detail/apihint.html:88 mydevices/dialogs/showapihint.html:69
+#: mydevices/detail/apihint.html:92 mydevices/dialogs/showapihint.html:72
 msgid "Telnet"
 msgstr "Telnet"
 
@@ -1630,7 +1634,7 @@ msgid ""
 msgstr "您能在此查看和管理所有隶属于此开发原型的测试装置。"
 
 #: development/detail.html:157 development/detail/trigger.html:4
-#: mydevices/detail.html:189 mydevices/detail/trigger.html:4
+#: mydevices/detail.html:206 mydevices/detail/trigger.html:4
 msgid "Trigger & Action"
 msgstr "触发条件与动作"
 
@@ -1643,8 +1647,8 @@ msgstr "触发动作"
 msgid "Trigger criteria"
 msgstr "触发条件"
 
-#: controllers/development/detail.js:888 controllers/development/detail.js:896
-#: controllers/devices/detail.js:308
+#: controllers/development/detail.js:889 controllers/development/detail.js:897
+#: controllers/devices/detail.js:311
 msgid "Trigger had error!"
 msgstr "触发条件有错误"
 
@@ -1653,7 +1657,7 @@ msgstr "触发条件有错误"
 msgid "Trigger name"
 msgstr "触发条件名称"
 
-#: controllers/development/detail.js:906
+#: controllers/development/detail.js:907
 msgid "Trigger name is required!"
 msgstr "请输入触发条件名称"
 
@@ -1661,14 +1665,14 @@ msgstr "请输入触发条件名称"
 msgid "Trigger switch"
 msgstr "触发条件开关"
 
-#: directives/components/control/category.js:153
-#: directives/components/control/category.js:182
-#: directives/components/control/category.js:275
-#: directives/components/control/category.js:305
-#: directives/components/control/category.js:37
-#: directives/components/control/category.js:403
-#: directives/components/control/category.js:434
-#: directives/components/control/category.js:65
+#: directives/components/control/category.js:126
+#: directives/components/control/category.js:142
+#: directives/components/control/category.js:229
+#: directives/components/control/category.js:245
+#: directives/components/control/category.js:29
+#: directives/components/control/category.js:338
+#: directives/components/control/category.js:355
+#: directives/components/control/category.js:45
 msgid "Try again."
 msgstr "请再试一次。"
 
@@ -1696,9 +1700,9 @@ msgstr "更新用户图像内部错误！"
 msgid "Upgrade"
 msgstr "升级"
 
-#: development/dialogs/createProducts.html:203
-#: development/dialogs/editProducts.html:193
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:88
+#: development/dialogs/createProducts.html:202
+#: development/dialogs/editProducts.html:192
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:92
 #: management/dialogs/createSerialNumber.html:24
 #: mydevices/dialogs/createDevices.html:60
 #: mydevices/dialogs/editDevices.html:128
@@ -1713,7 +1717,7 @@ msgstr "上传 CSV 档案，每个编号请跳行输入。"
 msgid "Upload an image"
 msgstr "上传图片"
 
-#: mydevices/detail/apihint.html:66 mydevices/dialogs/showapihint.html:34
+#: mydevices/detail/apihint.html:68 mydevices/dialogs/showapihint.html:36
 msgid "Upload datapoint"
 msgstr "上传资料点"
 
@@ -1734,7 +1738,7 @@ msgstr "用户电子邮件"
 msgid "User Name"
 msgstr "用户名"
 
-#: development/detail.html:162 mydevices/detail.html:196
+#: development/detail.html:162 mydevices/detail.html:213
 msgid "User privileges"
 msgstr "用户权限"
 
@@ -1824,7 +1828,7 @@ msgstr "您没有权限"
 msgid "You should choose a data channel type!"
 msgstr "请选择一个资料通道类型！"
 
-#: mydevices/detail.html:106 mydevices/detail.html:146
+#: mydevices/detail.html:106 mydevices/detail.html:155
 msgid ""
 "You will need the deviceId and deviceKey when calling our API to access this "
 "device"
@@ -1870,15 +1874,11 @@ msgstr "确认密码不能为空"
 msgid "content"
 msgstr "内容"
 
-#: main.js:307
-msgid "danger"
-msgstr "危险"
-
 #: controllers/dashboard/index.js:30
 msgid "days ago"
 msgstr "天之前"
 
-#: controllers/development/detail.js:1017 controllers/devices/detail.js:105
+#: controllers/development/detail.js:1018 controllers/devices/detail.js:105
 msgid "delete privilege  error!"
 msgstr "删除权限时发生错误！"
 
@@ -1911,7 +1911,7 @@ msgstr "资源来查看更多讯息"
 msgid "is different from your setting."
 msgstr "和你目前的设定不符合"
 
-#: mydevices/detail/apihint.html:91 mydevices/dialogs/showapihint.html:75
+#: mydevices/detail/apihint.html:95 mydevices/dialogs/showapihint.html:78
 msgid "jQuery"
 msgstr "jQuery"
 
@@ -1943,7 +1943,7 @@ msgstr "新密码不能为空"
 msgid "new password is not as same as confirm password"
 msgstr "新密码和确认密码不一致"
 
-#: main.js:288 main.js:300
+#: main.js:294 main.js:308
 msgid "notice"
 msgstr "注意"
 
@@ -1955,15 +1955,11 @@ msgstr "保存"
 msgid "select role"
 msgstr "选择角色"
 
-#: main.js:279 main.js:294
-msgid "success"
-msgstr "成功"
-
 #: controllers/development/detail.js:104 controllers/development/detail.js:123
 #: controllers/development/detail.js:149 controllers/development/detail.js:196
-#: controllers/development/detail.js:886 controllers/development/detail.js:894
+#: controllers/development/detail.js:887 controllers/development/detail.js:895
 #: controllers/development/index.js:131 controllers/development/index.js:158
-#: controllers/devices/detail.js:137 controllers/devices/detail.js:306
+#: controllers/devices/detail.js:137 controllers/devices/detail.js:309
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr "成功。"
@@ -1985,7 +1981,7 @@ msgid "upgrade you've uploaded."
 msgstr "升级你所上传的档案。"
 
 #: directives/components/control/pwm.js:53
-#: directives/components/control/pwmSlider.js:50
+#: directives/components/control/pwmSlider.js:37
 msgid "value, period must be an Integer."
 msgstr "值和周期必须是整数"
 
@@ -2009,6 +2005,12 @@ msgstr "{{format.display | capitalize:'first'}}"
 #: controllers/development/detail.js:309
 msgid "{{key}} is not {{format}}"
 msgstr "{{key}} 不是 {{format}}"
+
+#~ msgid "danger"
+#~ msgstr "危险"
+
+#~ msgid "success"
+#~ msgstr "成功"
 
 #~ msgid "Develop with LinkIt One"
 #~ msgstr "使用 LinkIt One 开发"
