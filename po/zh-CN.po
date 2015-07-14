@@ -51,7 +51,7 @@ msgstr "+ 新增触发条件和动作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
-#: main.js:316
+#: main.js:327
 msgid "1010"
 msgstr "1010"
 
@@ -88,16 +88,20 @@ msgstr "API 参考资料集"
 msgid "API type"
 msgstr "API 类型"
 
+#: mydevices/detail/trigger.html:72
+msgid "Action"
+msgstr "动作"
+
 #: development/dialogs/trigger/add.html:316
 #: development/dialogs/trigger/edit.html:304
 msgid "Action type"
 msgstr "动作类型"
 
-#: controllers/development/detail.js:925
+#: controllers/development/detail.js:912
 msgid "Action type is required!"
 msgstr "您需输入动作类型！"
 
-#: controllers/development/detail.js:930
+#: controllers/development/detail.js:917
 msgid "Action {{field}} is required!"
 msgstr "您必须输入动作栏位 {{field}}"
 
@@ -188,8 +192,8 @@ msgstr "和"
 msgid "Angular"
 msgstr "Angular"
 
-#: development/detail.html:126 development/dialogs/createProducts.html:141
-#: development/dialogs/editProducts.html:131 mydevices/detail.html:98
+#: development/detail.html:126 development/dialogs/createProducts.html:144
+#: development/dialogs/editProducts.html:134 mydevices/detail.html:98
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
 msgstr "应用程序"
@@ -218,12 +222,12 @@ msgstr "之间"
 msgid "Can't find your template?"
 msgstr "找不到想要的模版吗？"
 
-#: date.html:6 development/dialogs/addComponentContent.html:449
-#: development/dialogs/createProducts.html:219
+#: date.html:6 development/dialogs/addComponentContent.html:450
+#: development/dialogs/createProducts.html:245
 #: development/dialogs/createTestDevice.html:45
 #: development/dialogs/deleteConfirm.html:27
 #: development/dialogs/editComponent.html:53
-#: development/dialogs/editProducts.html:209
+#: development/dialogs/editProducts.html:234
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:87
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:60
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
@@ -231,7 +235,7 @@ msgstr "找不到想要的模版吗？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32 main.js:320
+#: dialogs/tutorialCloseConfirm.html:32 main.js:331
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99 mydevices/dialogs/trigger.html:102
@@ -268,8 +272,8 @@ msgstr "选择档案"
 msgid "Choose the action"
 msgstr "选择动作"
 
-#: development/dialogs/createProducts.html:152
-#: development/dialogs/editProducts.html:142
+#: development/dialogs/createProducts.html:155
+#: development/dialogs/editProducts.html:145
 msgid "Choose the application"
 msgstr "选择应用程序"
 
@@ -282,13 +286,13 @@ msgstr "选择资料通道"
 msgid "Choose the dataChannel"
 msgstr "选择资料通道"
 
-#: development/dialogs/createProducts.html:52
-#: development/dialogs/editProducts.html:52
+#: development/dialogs/createProducts.html:55
+#: development/dialogs/editProducts.html:55
 msgid "Choose the hardware platform"
 msgstr "选择硬件平台"
 
-#: development/dialogs/createProducts.html:108
-#: development/dialogs/editProducts.html:105
+#: development/dialogs/createProducts.html:111
+#: development/dialogs/editProducts.html:108
 msgid "Choose the industry"
 msgstr "选择产业别"
 
@@ -313,7 +317,7 @@ msgstr "清除所选"
 msgid "Click the edit button. Let's start editing !"
 msgstr "点击编辑按钮，开始编辑！"
 
-#: main.js:287
+#: main.js:298
 msgid "Close"
 msgstr "关闭"
 
@@ -369,7 +373,7 @@ msgstr "替产品原型新增一个测试装置"
 msgid "Create from"
 msgstr "创建来源"
 
-#: development/dialogs/createProducts.html:3
+#: development/dialogs/createProducts.html:6
 msgid "Create prototype"
 msgstr "创建原型"
 
@@ -394,9 +398,9 @@ msgstr "马上建立产品原型！"
 msgid "Creator"
 msgstr "建立者"
 
-#: controllers/development/detail.js:917
-msgid "Criteria value is required!"
-msgstr "您需要输入条件值！"
+#: controllers/development/detail.js:902
+msgid "Criteria Value should be in numeric format!"
+msgstr "条件值需为数字"
 
 #: mydevices/index.html:87
 msgid "Currently there is no test device created,"
@@ -410,11 +414,11 @@ msgstr "现正使用："
 msgid "Dashboard"
 msgstr "仪表板"
 
-#: controllers/development/detail.js:293
+#: controllers/development/detail.js:292
 msgid "Data Channel Id cannot null"
 msgstr "资料通道 Id 不能為空"
 
-#: controllers/development/detail.js:296
+#: controllers/development/detail.js:295
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr "资料通道 Id 只能输入A-Z，0-9，以及_。"
 
@@ -430,11 +434,11 @@ msgstr "资料通道"
 msgid "Data channel Id"
 msgstr "资料通道 Id"
 
-#: controllers/development/detail.js:377
+#: controllers/development/detail.js:362
 msgid "Data channel Id was used!"
 msgstr "资料通道 Id 已被使用！"
 
-#: controllers/development/detail.js:914
+#: controllers/development/detail.js:900
 msgid "Data channel is required!"
 msgstr "您必须选择资料通道！"
 
@@ -454,8 +458,8 @@ msgstr "资料型态"
 msgid "Default value"
 msgstr "默认值"
 
-#: development/detail.html:67 development/detail/components.html:136
-#: development/index.html:139 main.js:319 mydevices/detail.html:67
+#: development/detail.html:67 development/detail/components.html:126
+#: development/index.html:139 main.js:330 mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
 msgstr "删除"
@@ -470,7 +474,7 @@ msgstr "删除动作"
 msgid "Delete data channel"
 msgstr "删除资料通道"
 
-#: main.js:317
+#: main.js:328
 msgid ""
 "Deleting your device and its sensors is irreversible. Enter your device's "
 "name below to confirm you want to permanently delete it:"
@@ -478,9 +482,9 @@ msgstr "若删除您的装置，则无法复原。输入您装置的名称以永
 
 #: development/detail.html:127 development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:48
-#: development/dialogs/createProducts.html:83
+#: development/dialogs/createProducts.html:86
 #: development/dialogs/editComponent.html:29
-#: development/dialogs/editProducts.html:80
+#: development/dialogs/editProducts.html:83
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69 mydevices/detail.html:99
 #: mydevices/dialogs/createDevices.html:41
@@ -510,7 +514,7 @@ msgstr "使用我们的开发版来开发"
 msgid "Development"
 msgstr "开发"
 
-#: main.js:318
+#: main.js:329
 msgid "Device Title"
 msgstr "装置名称"
 
@@ -540,7 +544,7 @@ msgstr "装置名称"
 msgid "Device name ( default )"
 msgstr "装置名称（默认值）"
 
-#: controllers/development/detail.js:441
+#: controllers/development/detail.js:427
 msgid "Device name cannot null."
 msgstr "装置名称不能为空。"
 
@@ -581,6 +585,11 @@ msgstr "显示器"
 msgid "Done"
 msgstr "完成"
 
+#: development/dialogs/createProducts.html:203
+#: development/dialogs/editProducts.html:192
+msgid "Drop an image here to upload!"
+msgstr "将您想上传的图片拖拉于此"
+
 #: components/control/float.html:3
 msgid "EX:0.01(only input float)"
 msgstr "例如： 0.01 （浮点数）"
@@ -589,7 +598,7 @@ msgstr "例如： 0.01 （浮点数）"
 msgid "EX:100(only input integer)"
 msgstr "例如: 100 (整数)"
 
-#: development/detail.html:80 development/detail/components.html:130
+#: development/detail.html:80 development/detail/components.html:120
 #: development/detail/manufacturerinfo.html:11 development/index.html:136
 msgid "Edit"
 msgstr "编辑"
@@ -606,7 +615,7 @@ msgstr "编辑装置"
 msgid "Edit firmware"
 msgstr "编辑固件"
 
-#: development/dialogs/editProducts.html:3
+#: development/dialogs/editProducts.html:6
 msgid "Edit prototype"
 msgstr "编辑产品原型"
 
@@ -764,8 +773,8 @@ msgid "Hardware Platform"
 msgstr "硬件平台"
 
 #: development/detail.html:47 development/detail.html:54
-#: development/dialogs/createProducts.html:41
-#: development/dialogs/editProducts.html:41 mydevices/detail.html:49
+#: development/dialogs/createProducts.html:44
+#: development/dialogs/editProducts.html:44 mydevices/detail.html:49
 #: mydevices/detail.html:55
 msgid "Hardware platform"
 msgstr "硬件平台"
@@ -787,7 +796,7 @@ msgstr "这里是可能有帮助的 API 提示"
 msgid "Hex"
 msgstr "十六进位值"
 
-#: development/detail/components.html:123 mydevices/detail/components.html:102
+#: mydevices/detail/components.html:102
 msgid "Hide History"
 msgstr "隐藏历史资料"
 
@@ -799,15 +808,15 @@ msgstr "高"
 msgid "Hybrid"
 msgstr "综合型控制显示器"
 
-#: development/dialogs/createProducts.html:182
-#: development/dialogs/editProducts.html:169
+#: development/dialogs/createProducts.html:185
+#: development/dialogs/editProducts.html:172
 #: mydevices/dialogs/createDevices.html:52
 #: mydevices/dialogs/editDevices.html:120
 msgid "Image upload"
 msgstr "图片上传"
 
-#: development/detail.html:125 development/dialogs/createProducts.html:97
-#: development/dialogs/editProducts.html:94 mydevices/detail.html:97
+#: development/detail.html:125 development/dialogs/createProducts.html:100
+#: development/dialogs/editProducts.html:97 mydevices/detail.html:97
 #: mydevices/dialogs/editDevices.html:66
 msgid "Industry"
 msgstr "行业"
@@ -901,18 +910,18 @@ msgstr "输入旧密码"
 msgid "Input the product ID"
 msgstr "输入 Product ID"
 
-#: development/dialogs/createProducts.html:92
-#: development/dialogs/editProducts.html:89
+#: development/dialogs/createProducts.html:95
+#: development/dialogs/editProducts.html:92
 msgid "Input the prototype description"
 msgstr "输入产品原型描述"
 
-#: development/dialogs/createProducts.html:20
-#: development/dialogs/editProducts.html:20
+#: development/dialogs/createProducts.html:23
+#: development/dialogs/editProducts.html:23
 msgid "Input the prototype name"
 msgstr "输入产品原型名称"
 
-#: development/dialogs/createProducts.html:35
-#: development/dialogs/editProducts.html:35
+#: development/dialogs/createProducts.html:38
+#: development/dialogs/editProducts.html:38
 msgid "Input the prototype version"
 msgstr "输入产品原型版本"
 
@@ -1019,6 +1028,10 @@ msgstr "经度："
 msgid "Low"
 msgstr "低"
 
+#: services/validator.js:63
+msgid "Lower bound should be smaller than upper bound."
+msgstr "下限值需小于上限值。"
+
 #: services/products/main.js:610
 msgid "Lower than"
 msgstr "低于"
@@ -1027,9 +1040,13 @@ msgstr "低于"
 msgid "MT7681"
 msgstr "MT7681"
 
-#: controllers/development/detail.js:993 controllers/devices/detail.js:80
+#: controllers/development/detail.js:980 controllers/devices/detail.js:80
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr "必须是一个有效的使用者电子邮件 ！"
+
+#: mydevices/detail/trigger.html:69
+msgid "Manage your action"
+msgstr "管理您的触发动作"
 
 #: development/dialogs/finishRelease.html:10 management/product-list.html:4
 msgid "Management"
@@ -1051,19 +1068,32 @@ msgstr "手动"
 msgid "Manually enter serial numbers"
 msgstr "手动输入序列号"
 
+#: profile/index.html:215
+msgid "Mobile Notification from MCS"
+msgstr "来自MCS的推播通知"
+
+#: mydevices/detail/trigger.html:75
+msgid "Mobile Notification from test device"
+msgstr "来自测试装置的推播通知"
+
 #: aside.html:106 header.html:91
 msgid "Mobile application"
 msgstr "行动应用"
+
+#: mydevices/detail/trigger.html:79 profile/index.html:209
+#: profile/index.html:219
+msgid "Mobile list"
+msgstr "手机列表"
 
 #: directives/components/control/hex.js:44
 msgid "Must Be a Hex String."
 msgstr "必须是一个十六进位值。"
 
-#: directives/components/control/float.js:54
+#: directives/components/control/float.js:59
 msgid "Must Be a float!"
 msgstr "必须是浮点数 ！"
 
-#: directives/components/control/integer.js:48
+#: directives/components/control/integer.js:53
 msgid "Must Be an Integer!"
 msgstr "需要是一个整数！"
 
@@ -1082,7 +1112,8 @@ msgstr "当您关闭后，注记将重新出现。"
 #: dashboard/overview.html:42 development/detail/firmware.html:10
 #: development/detail/testdevicelist.html:10
 #: development/detail/trigger.html:10 mydevices/detail/firmware.html:17
-#: mydevices/detail/trigger.html:10
+#: mydevices/detail/trigger.html:10 mydevices/detail/trigger.html:83
+#: profile/index.html:223
 msgid "Name"
 msgstr "名称"
 
@@ -1090,7 +1121,7 @@ msgstr "名称"
 msgid "Name cannot be null."
 msgstr "名称不能为空。"
 
-#: controllers/development/detail.js:290
+#: controllers/development/detail.js:289
 msgid "Name cannot null"
 msgstr "名称不能为空。"
 
@@ -1154,7 +1185,7 @@ msgstr "测试装置数量"
 msgid "Number of used"
 msgstr "使用数量"
 
-#: mydevices/detail/trigger.html:52
+#: components/display/switch.html:3 mydevices/detail/trigger.html:52
 msgid "OFF"
 msgstr "关"
 
@@ -1170,7 +1201,7 @@ msgstr "关"
 msgid "OK"
 msgstr "确认"
 
-#: mydevices/detail/trigger.html:51
+#: components/display/switch.html:6 mydevices/detail/trigger.html:51
 msgid "ON"
 msgstr "开"
 
@@ -1219,15 +1250,15 @@ msgstr "密码"
 msgid "Period"
 msgstr "期间"
 
-#: controllers/development/detail.js:1087
+#: controllers/development/detail.js:1074
 msgid "Please Try Again!"
 msgstr "请再试一次！"
 
-#: controllers/development/detail.js:546
+#: controllers/development/detail.js:532
 msgid "Please choose a file to upload"
 msgstr "请选择要上传的档案"
 
-#: controllers/development/detail.js:996 controllers/devices/detail.js:83
+#: controllers/development/detail.js:983 controllers/devices/detail.js:83
 msgid "Please choose a role for the user."
 msgstr "请选择使用者权限。"
 
@@ -1235,11 +1266,15 @@ msgstr "请选择使用者权限。"
 msgid "Please confirm if you want to release this prototype."
 msgstr "请确认是否要发布这个产品原型。"
 
+#: services/validator.js:29 services/validator.js:56
+msgid "Please input {{key}}."
+msgstr "请输入  {{key}} 。"
+
 #: development/dialogs/addComponentContent.html:366
 msgid "Please select a template that best meet your data channel"
 msgstr "请选择最符合您的资料通道的模板"
 
-#: controllers/development/detail.js:538
+#: controllers/development/detail.js:524
 msgid "Please select at least one test device"
 msgstr "请至少选择一个测试装置。"
 
@@ -1251,7 +1286,7 @@ msgstr "请选择硬件平台。"
 msgid "Please select industry."
 msgstr "请选择产业别"
 
-#: main.js:286 main.js:296
+#: main.js:297 main.js:307
 msgid "Please try again!"
 msgstr "请再试一次！"
 
@@ -1303,8 +1338,8 @@ msgstr "产品原型细节"
 msgid "Prototype list"
 msgstr "产品原型列表"
 
-#: development/dialogs/createProducts.html:10
-#: development/dialogs/editProducts.html:10
+#: development/dialogs/createProducts.html:13
+#: development/dialogs/editProducts.html:13
 msgid "Prototype name"
 msgstr "产品原型名称"
 
@@ -1312,8 +1347,8 @@ msgstr "产品原型名称"
 msgid "Prototype state"
 msgstr "产品原型状态"
 
-#: development/dialogs/createProducts.html:25
-#: development/dialogs/editProducts.html:25
+#: development/dialogs/createProducts.html:28
+#: development/dialogs/editProducts.html:28
 msgid "Prototype version"
 msgstr "产品原型版本"
 
@@ -1339,6 +1374,11 @@ msgstr "资源快速连结"
 msgid "Recent activity"
 msgstr "最近的活动"
 
+#: development/dialogs/createProducts.html:204
+#: development/dialogs/editProducts.html:193
+msgid "Recommended 300 x 160 pixels."
+msgstr "推荐大小为 300 ×160 像素"
+
 #: management/product-list.html:65
 msgid "Registered"
 msgstr "注册"
@@ -1347,9 +1387,17 @@ msgstr "注册"
 msgid "Registered date"
 msgstr "注册日期"
 
+#: mydevices/detail/trigger.html:84 profile/index.html:224
+msgid "Registered from"
+msgstr "注册来源"
+
 #: management/product-list.html:72
 msgid "Registered rate"
 msgstr "注册比例"
+
+#: mydevices/detail/trigger.html:85 profile/index.html:225
+msgid "Registered time"
+msgstr "注册时间"
 
 #: development/detail/firmware.html:14 mydevices/detail/firmware.html:20
 msgid "Release date"
@@ -1389,10 +1437,10 @@ msgstr "读取资料点"
 msgid "Role"
 msgstr "角色"
 
-#: development/dialogs/addComponentContent.html:453
-#: development/dialogs/createProducts.html:224
+#: development/dialogs/addComponentContent.html:454
+#: development/dialogs/createProducts.html:250
 #: development/dialogs/editComponent.html:60
-#: development/dialogs/editProducts.html:213
+#: development/dialogs/editProducts.html:238
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/trigger/add.html:459
@@ -1468,17 +1516,17 @@ msgstr "给我们留言！"
 msgid "Serial number"
 msgstr "编号"
 
-#: directives/components/control/float.js:46
+#: directives/components/control/float.js:51
 #: directives/components/control/gpio.js:57
-#: directives/components/control/integer.js:45
+#: directives/components/control/integer.js:50
 #: directives/components/control/pwm.js:50
-#: directives/components/control/pwmSlider.js:34
+#: directives/components/control/pwmSlider.js:51
 #: directives/components/control/string.js:44
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
 msgstr "服务器内部错误。"
 
-#: development/detail/components.html:122 mydevices/detail/components.html:101
+#: mydevices/detail/components.html:101
 msgid "Show History"
 msgstr "打开历史资料"
 
@@ -1516,13 +1564,17 @@ msgstr "步骤三"
 msgid "String"
 msgstr "字串"
 
-#: development/dialogs/finishCreateTestDevice.html:3 main.js:284 main.js:301
+#: development/dialogs/finishCreateTestDevice.html:3 main.js:295 main.js:312
 msgid "Success!"
 msgstr "成功！"
 
 #: aside.html:49
 msgid "Supports"
 msgstr "支援"
+
+#: mydevices/detail/trigger.html:86 profile/index.html:226
+msgid "Switch"
+msgstr "开关"
 
 #: management/device-list.html:83
 msgid "System detail"
@@ -1576,6 +1628,19 @@ msgstr "控制器型态的资料通道允许您控制您装置的状态。例如
 msgid "The display data channels allow you to get the data from your devices."
 msgstr "显示型態的资料通道允许您从您的装置中读取资料。"
 
+#: directives/components/control/float.js:35
+#: directives/components/control/integer.js:35
+msgid "The input value is out of the upper bound and lower bound limit."
+msgstr "输入值超出上下限范围。"
+
+#: factories/components.js:265
+msgid "The lower bound and upper bound must be numeric value."
+msgstr "上限与下限的值需为数字。"
+
+#: factories/components.js:269
+msgid "The lower bound and upper bound range is from 0 to 1000."
+msgstr "上限与下限的值需于0-1000之间。"
+
 #: mydevices/dialogs/userPrivilege.html:80
 msgid "The user already has {{userPrivilege.oldDeviceUserPrivType}} access"
 msgstr "使用者已经有{{userPrivilege.oldDeviceUserPrivType}} 权限"
@@ -1627,6 +1692,18 @@ msgstr "标题"
 msgid "To"
 msgstr "到"
 
+#: mydevices/detail/trigger.html:76
+msgid ""
+"To receive specific notification from this device, turn on the mobile push "
+"switch for it."
+msgstr "打开手机推播开关，以收到来自此测试装置的通知。"
+
+#: profile/index.html:216
+msgid ""
+"To receive the notification from MCS, turn on the mobile push switch for "
+"each specific mobile."
+msgstr "打开手机推播开关，以收到所有来自MCS的通知。"
+
 #: values/products/ngIntro.js:24
 msgid ""
 "To see and manage the list of Test devices being created under this "
@@ -1647,8 +1724,8 @@ msgstr "触发动作"
 msgid "Trigger criteria"
 msgstr "触发条件"
 
-#: controllers/development/detail.js:889 controllers/development/detail.js:897
-#: controllers/devices/detail.js:311
+#: controllers/development/detail.js:875 controllers/development/detail.js:883
+#: controllers/devices/detail.js:317
 msgid "Trigger had error!"
 msgstr "触发条件有错误"
 
@@ -1657,7 +1734,7 @@ msgstr "触发条件有错误"
 msgid "Trigger name"
 msgstr "触发条件名称"
 
-#: controllers/development/detail.js:907
+#: controllers/development/detail.js:893
 msgid "Trigger name is required!"
 msgstr "请输入触发条件名称"
 
@@ -1688,11 +1765,7 @@ msgstr "教程"
 msgid "Type"
 msgstr "类型"
 
-#: controllers/development/detail.js:306
-msgid "Unit type format cannot null"
-msgstr "单位类型格式不能为空。"
-
-#: controllers/profile/index.js:131
+#: controllers/profile/index.js:136
 msgid "Update user Image internal error!"
 msgstr "更新用户图像内部错误！"
 
@@ -1700,8 +1773,8 @@ msgstr "更新用户图像内部错误！"
 msgid "Upgrade"
 msgstr "升级"
 
-#: development/dialogs/createProducts.html:202
-#: development/dialogs/editProducts.html:192
+#: development/dialogs/createProducts.html:228
+#: development/dialogs/editProducts.html:217
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:92
 #: management/dialogs/createSerialNumber.html:24
 #: mydevices/dialogs/createDevices.html:60
@@ -1721,8 +1794,8 @@ msgstr "上传图片"
 msgid "Upload datapoint"
 msgstr "上传资料点"
 
-#: development/dialogs/createProducts.html:184
-#: development/dialogs/editProducts.html:174
+#: development/dialogs/createProducts.html:187
+#: development/dialogs/editProducts.html:177
 #: mydevices/dialogs/createDevices.html:54
 #: mydevices/dialogs/editDevices.html:122 profile/index.html:48
 msgid "Uploading..."
@@ -1824,7 +1897,7 @@ msgstr "您尚未完成快速上手指南。"
 msgid "You do not have permission"
 msgstr "您没有权限"
 
-#: controllers/development/detail.js:299
+#: controllers/development/detail.js:298
 msgid "You should choose a data channel type!"
 msgstr "请选择一个资料通道类型！"
 
@@ -1878,15 +1951,15 @@ msgstr "内容"
 msgid "days ago"
 msgstr "天之前"
 
-#: controllers/development/detail.js:1018 controllers/devices/detail.js:105
+#: controllers/development/detail.js:1005 controllers/devices/detail.js:105
 msgid "delete privilege  error!"
 msgstr "删除权限时发生错误！"
 
-#: controllers/development/detail.js:495
+#: controllers/development/detail.js:481
 msgid "delete test device error"
 msgstr "删除测试装置时发生错误"
 
-#: controllers/development/detail.js:822
+#: controllers/development/detail.js:808
 msgid "delete trigger error!"
 msgstr "删除触发条件有错"
 
@@ -1895,7 +1968,7 @@ msgstr "删除触发条件有错"
 msgid "device"
 msgstr "装置"
 
-#: controllers/development/detail.js:607
+#: controllers/development/detail.js:593
 msgid "file cannot be null!"
 msgstr "文件不能为空！"
 
@@ -1919,6 +1992,10 @@ msgstr "jQuery"
 msgid "just now"
 msgstr "刚刚"
 
+#: directives/components/control/gps.js:153
+msgid "latitude must be between -90 and 90 meters!"
+msgstr "纬度值必须在-90至90度之间！"
+
 #: directives/components/control/gps.js:138
 msgid "latitude or longitude cannot be null!"
 msgstr "纬度或经度不能为空！"
@@ -1927,11 +2004,15 @@ msgstr "纬度或经度不能为空！"
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr "纬度或经度或高度应该是浮点数或是整数！"
 
+#: directives/components/control/gps.js:156
+msgid "longitude must be between -180 and 180 meters!"
+msgstr "经度值必须在-180至180度之间！"
+
 #: controllers/dashboard/index.js:36
 msgid "mins ago"
 msgstr "分钟之前"
 
-#: controllers/development/detail.js:599
+#: controllers/development/detail.js:585
 msgid "name cannot be null!"
 msgstr "名称不能为空！"
 
@@ -1943,7 +2024,7 @@ msgstr "新密码不能为空"
 msgid "new password is not as same as confirm password"
 msgstr "新密码和确认密码不一致"
 
-#: main.js:294 main.js:308
+#: main.js:305 main.js:319
 msgid "notice"
 msgstr "注意"
 
@@ -1957,9 +2038,9 @@ msgstr "选择角色"
 
 #: controllers/development/detail.js:104 controllers/development/detail.js:123
 #: controllers/development/detail.js:149 controllers/development/detail.js:196
-#: controllers/development/detail.js:887 controllers/development/detail.js:895
+#: controllers/development/detail.js:873 controllers/development/detail.js:881
 #: controllers/development/index.js:131 controllers/development/index.js:158
-#: controllers/devices/detail.js:137 controllers/devices/detail.js:309
+#: controllers/devices/detail.js:137 controllers/devices/detail.js:315
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr "成功。"
@@ -1981,7 +2062,10 @@ msgid "upgrade you've uploaded."
 msgstr "升级你所上传的档案。"
 
 #: directives/components/control/pwm.js:53
-#: directives/components/control/pwmSlider.js:37
+msgid "value and period must be positive integers!"
+msgstr "值和频率需为正整数！"
+
+#: directives/components/control/pwmSlider.js:54
 msgid "value, period must be an Integer."
 msgstr "值和周期必须是整数"
 
@@ -1989,7 +2073,7 @@ msgstr "值和周期必须是整数"
 msgid "version"
 msgstr "版本"
 
-#: controllers/development/detail.js:603
+#: controllers/development/detail.js:589
 msgid "version cannot be null!"
 msgstr "版本不能为空！"
 
@@ -2002,9 +2086,18 @@ msgstr "您需要先建立产品原型"
 msgid "{{format.display | capitalize:'first'}}"
 msgstr "{{format.display | capitalize:'first'}}"
 
-#: controllers/development/detail.js:309
-msgid "{{key}} is not {{format}}"
-msgstr "{{key}} 不是 {{format}}"
+#: services/validator.js:37
+msgid "{{key1}} and {{key2}} cannot be the same."
+msgstr "{{key1}} 和 {{key2}} 不能相同。"
+
+#~ msgid "Criteria value is required!"
+#~ msgstr "您需要输入条件值！"
+
+#~ msgid "Unit type format cannot null"
+#~ msgstr "单位类型格式不能为空。"
+
+#~ msgid "{{key}} is not {{format}}"
+#~ msgstr "{{key}} 不是 {{format}}"
 
 #~ msgid "danger"
 #~ msgstr "危险"
