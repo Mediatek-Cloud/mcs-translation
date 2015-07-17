@@ -1112,9 +1112,9 @@ msgstr ""
 msgid "Mobile application"
 msgstr ""
 
-#: mydevices/detail/trigger.html:77
+#: mydevices/detail/trigger.html:76
 #: profile/index.html:209
-#: profile/index.html:219
+#: profile/index.html:218
 msgid "Mobile list"
 msgstr ""
 
