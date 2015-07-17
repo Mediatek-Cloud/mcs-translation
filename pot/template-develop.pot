@@ -1675,11 +1675,11 @@ msgstr ""
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
-#: factories/components.js:265
+#: factories/components.js:373
 msgid "The lower bound and upper bound must be numeric value."
 msgstr ""
 
-#: factories/components.js:269
+#: factories/components.js:377
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
@@ -2034,6 +2034,95 @@ msgstr ""
 msgid "just now"
 msgstr ""
 
+#: factories/components.js:537
+msgid "ke1 value"
+msgstr ""
+
+#: factories/components.js:103
+#: factories/components.js:145
+#: factories/components.js:196
+#: factories/components.js:404
+#: factories/components.js:438
+#: factories/components.js:481
+#: factories/components.js:533
+#: factories/components.js:70
+msgid "key1 name"
+msgstr ""
+
+#: factories/components.js:107
+#: factories/components.js:149
+#: factories/components.js:200
+#: factories/components.js:408
+#: factories/components.js:442
+#: factories/components.js:485
+#: factories/components.js:74
+msgid "key1 value"
+msgstr ""
+
+#: factories/components.js:111
+#: factories/components.js:153
+#: factories/components.js:204
+#: factories/components.js:412
+#: factories/components.js:446
+#: factories/components.js:489
+#: factories/components.js:541
+#: factories/components.js:78
+msgid "key2 name"
+msgstr ""
+
+#: factories/components.js:115
+#: factories/components.js:157
+#: factories/components.js:208
+#: factories/components.js:416
+#: factories/components.js:450
+#: factories/components.js:493
+#: factories/components.js:545
+#: factories/components.js:82
+msgid "key2 value"
+msgstr ""
+
+#: factories/components.js:119
+#: factories/components.js:161
+#: factories/components.js:212
+#: factories/components.js:454
+#: factories/components.js:497
+#: factories/components.js:549
+msgid "key3 name"
+msgstr ""
+
+#: factories/components.js:123
+#: factories/components.js:165
+#: factories/components.js:216
+#: factories/components.js:458
+#: factories/components.js:501
+#: factories/components.js:553
+msgid "key3 value"
+msgstr ""
+
+#: factories/components.js:169
+#: factories/components.js:220
+#: factories/components.js:505
+#: factories/components.js:557
+msgid "key4 name"
+msgstr ""
+
+#: factories/components.js:173
+#: factories/components.js:224
+#: factories/components.js:509
+#: factories/components.js:561
+msgid "key4 value"
+msgstr ""
+
+#: factories/components.js:228
+#: factories/components.js:565
+msgid "key5 name"
+msgstr ""
+
+#: factories/components.js:232
+#: factories/components.js:569
+msgid "key5 value"
+msgstr ""
+
 #: directives/components/control/gps.js:153
 msgid "latitude must be between -90 and 90 meters!"
 msgstr ""
@@ -2048,6 +2137,11 @@ msgstr ""
 
 #: directives/components/control/gps.js:156
 msgid "longitude must be between -180 and 180 meters!"
+msgstr ""
+
+#: factories/components.js:255
+#: factories/components.js:361
+msgid "lowerbound"
 msgstr ""
 
 #: controllers/dashboard/index.js:36
@@ -2105,8 +2199,19 @@ msgstr ""
 msgid "tutorials"
 msgstr ""
 
+#: factories/components.js:263
+#: factories/components.js:594
+#: factories/components.js:612
+msgid "unitTypes"
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
+msgstr ""
+
+#: factories/components.js:259
+#: factories/components.js:365
+msgid "upperbound"
 msgstr ""
 
 #: directives/components/control/pwm.js:53
