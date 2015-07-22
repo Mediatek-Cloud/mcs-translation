@@ -45,7 +45,7 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: main.js:327
+#: main.js:336
 msgid "1010"
 msgstr ""
 
@@ -77,7 +77,6 @@ msgid "API hint"
 msgstr ""
 
 #: aside.html:39
-#: header.html:77
 msgid "API references"
 msgstr ""
 
@@ -237,7 +236,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:331
+#: main.js:340
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
@@ -251,10 +250,6 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:198
 #: development/dialogs/addComponentContent.html:98
 msgid "Category"
-msgstr ""
-
-#: header.html:98
-msgid "Change log"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
@@ -328,7 +323,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:298
+#: main.js:307
 msgid "Close"
 msgstr ""
 
@@ -477,7 +472,7 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:126
 #: development/index.html:139
-#: main.js:330
+#: main.js:339
 #: mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
@@ -493,7 +488,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:328
+#: main.js:337
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -532,11 +527,10 @@ msgstr ""
 #: aside.html:21
 #: development/detail.html:28
 #: development/index.html:30
-#: header.html:35
 msgid "Development"
 msgstr ""
 
-#: main.js:329
+#: main.js:338
 msgid "Device Title"
 msgstr ""
 
@@ -702,12 +696,7 @@ msgid "Exit"
 msgstr ""
 
 #: aside.html:111
-#: header.html:119
 msgid "FAQ"
-msgstr ""
-
-#: header.html:132
-msgid "Feedback"
 msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
@@ -737,10 +726,6 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:120
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
-msgstr ""
-
-#: header.html:127
-msgid "Forum"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:164
@@ -805,10 +790,6 @@ msgstr ""
 #: mydevices/detail.html:49
 #: mydevices/detail.html:55
 msgid "Hardware platform"
-msgstr ""
-
-#: header.html:111
-msgid "Help"
 msgstr ""
 
 #: dashboard/tutorial.html:3
@@ -998,12 +979,10 @@ msgid "Integer only"
 msgstr ""
 
 #: aside.html:64
-#: header.html:63
 msgid "Introduction"
 msgstr ""
 
 #: aside.html:70
-#: header.html:70
 msgid "Key concepts"
 msgstr ""
 
@@ -1108,7 +1087,6 @@ msgid "Mobile Notification from test device"
 msgstr ""
 
 #: aside.html:106
-#: header.html:91
 msgid "Mobile application"
 msgstr ""
 
@@ -1128,10 +1106,6 @@ msgstr ""
 
 #: directives/components/control/integer.js:53
 msgid "Must Be an Integer!"
-msgstr ""
-
-#: header.html:43
-msgid "My Devices"
 msgstr ""
 
 #: aside.html:30
@@ -1329,8 +1303,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:297
-#: main.js:307
+#: main.js:306
+#: main.js:316
 msgid "Please try again!"
 msgstr ""
 
@@ -1348,10 +1322,6 @@ msgstr ""
 
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
-msgstr ""
-
-#: header.html:157
-msgid "Profile"
 msgstr ""
 
 #: profile/index.html:36
@@ -1462,10 +1432,6 @@ msgstr ""
 msgid "Release without serial number generator."
 msgstr ""
 
-#: header.html:55
-msgid "Resources"
-msgstr ""
-
 #: mydevices/dialogs/trigger.html:81
 msgid "Restore default value"
 msgstr ""
@@ -1571,10 +1537,6 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
-#: header.html:169
-msgid "Sign out"
-msgstr ""
-
 #: dashboard/tutorial.html:7
 msgid "Start"
 msgstr ""
@@ -1606,8 +1568,8 @@ msgid "String"
 msgstr ""
 
 #: development/dialogs/finishCreateTestDevice.html:3
-#: main.js:295
-#: main.js:312
+#: main.js:304
+#: main.js:321
 msgid "Success!"
 msgstr ""
 
@@ -1635,10 +1597,6 @@ msgstr ""
 
 #: development/dialogs/addComponentContent.html:365
 msgid "Template preview"
-msgstr ""
-
-#: header.html:164
-msgid "Terms of use"
 msgstr ""
 
 #: mydevices/index.html:106
@@ -1800,7 +1758,6 @@ msgid "Try to create it now."
 msgstr ""
 
 #: aside.html:73
-#: header.html:84
 msgid "Tutorial"
 msgstr ""
 
@@ -2160,8 +2117,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:305
-#: main.js:319
+#: main.js:314
+#: main.js:328
 msgid "notice"
 msgstr ""
 
