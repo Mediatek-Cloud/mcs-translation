@@ -1078,7 +1078,7 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: profile/index.html:215
+#: profile/index.html:214
 msgid "Mobile Notification from MCS"
 msgstr ""
 
@@ -1091,8 +1091,8 @@ msgid "Mobile application"
 msgstr ""
 
 #: mydevices/detail/trigger.html:76
-#: profile/index.html:209
-#: profile/index.html:218
+#: profile/index.html:208
+#: profile/index.html:217
 msgid "Mobile list"
 msgstr ""
 
@@ -1125,7 +1125,7 @@ msgstr ""
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
-#: profile/index.html:223
+#: profile/index.html:222
 msgid "Name"
 msgstr ""
 
@@ -1399,7 +1399,7 @@ msgid "Registered date"
 msgstr ""
 
 #: mydevices/detail/trigger.html:82
-#: profile/index.html:224
+#: profile/index.html:223
 msgid "Registered from"
 msgstr ""
 
@@ -1408,7 +1408,7 @@ msgid "Registered rate"
 msgstr ""
 
 #: mydevices/detail/trigger.html:83
-#: profile/index.html:225
+#: profile/index.html:224
 msgid "Registered time"
 msgstr ""
 
@@ -1578,7 +1578,7 @@ msgid "Supports"
 msgstr ""
 
 #: mydevices/detail/trigger.html:84
-#: profile/index.html:226
+#: profile/index.html:225
 msgid "Switch"
 msgstr ""
 
@@ -1680,7 +1680,7 @@ msgstr ""
 msgid "Time:"
 msgstr ""
 
-#: profile/index.html:129
+#: profile/index.html:128
 msgid "Timezone"
 msgstr ""
 
@@ -1696,7 +1696,7 @@ msgstr ""
 msgid "To receive specific notification from this device, turn on the mobile push switch for it."
 msgstr ""
 
-#: profile/index.html:216
+#: profile/index.html:215
 msgid "To receive the notification from MCS, turn on the mobile push switch for each specific mobile."
 msgstr ""
 
@@ -1907,7 +1907,7 @@ msgstr ""
 msgid "You will need to restart if you exit the tutorial now."
 msgstr ""
 
-#: profile/index.html:197
+#: profile/index.html:196
 msgid "Your current timezone"
 msgstr ""
 
@@ -1931,7 +1931,7 @@ msgstr ""
 msgid "choose Language"
 msgstr ""
 
-#: profile/index.html:135
+#: profile/index.html:134
 msgid "choose Timezone"
 msgstr ""
 
@@ -1978,7 +1978,7 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:197
+#: profile/index.html:196
 msgid "is different from your setting."
 msgstr ""
 
