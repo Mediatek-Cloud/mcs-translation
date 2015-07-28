@@ -1915,6 +1915,10 @@ msgstr ""
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
+#: filters/userPrivType.js:6
+msgid "administrator"
+msgstr ""
+
 #: directives/components/control/gps.js:150
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr ""
@@ -2122,6 +2126,10 @@ msgstr ""
 msgid "notice"
 msgstr ""
 
+#: filters/userPrivType.js:5
+msgid "owner"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:146
 msgid "save"
 msgstr ""
@@ -2185,6 +2193,10 @@ msgstr ""
 
 #: controllers/development/detail.js:589
 msgid "version cannot be null!"
+msgstr ""
+
+#: filters/userPrivType.js:7
+msgid "viewer"
 msgstr ""
 
 #: mydevices/index.html:87
