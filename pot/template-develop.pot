@@ -45,7 +45,7 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: main.js:336
+#: main.js:337
 msgid "1010"
 msgstr ""
 
@@ -236,7 +236,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:340
+#: main.js:341
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
@@ -323,7 +323,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:307
+#: main.js:308
 msgid "Close"
 msgstr ""
 
@@ -472,7 +472,7 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:126
 #: development/index.html:139
-#: main.js:339
+#: main.js:340
 #: mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
@@ -488,7 +488,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:337
+#: main.js:338
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -530,7 +530,7 @@ msgstr ""
 msgid "Development"
 msgstr ""
 
-#: main.js:338
+#: main.js:339
 msgid "Device Title"
 msgstr ""
 
@@ -1303,8 +1303,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:306
-#: main.js:316
+#: main.js:307
+#: main.js:317
 msgid "Please try again!"
 msgstr ""
 
@@ -1568,8 +1568,8 @@ msgid "String"
 msgstr ""
 
 #: development/dialogs/finishCreateTestDevice.html:3
-#: main.js:304
-#: main.js:321
+#: main.js:305
+#: main.js:322
 msgid "Success!"
 msgstr ""
 
@@ -2121,8 +2121,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:314
-#: main.js:328
+#: main.js:315
+#: main.js:329
 msgid "notice"
 msgstr ""
 
