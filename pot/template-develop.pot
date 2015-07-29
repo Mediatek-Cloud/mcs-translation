@@ -670,7 +670,7 @@ msgstr ""
 msgid "Equal to"
 msgstr ""
 
-#: dashboard/overview.html:44
+#: dashboard/overview.html:45
 #: management/device-list.html:82
 msgid "Error"
 msgstr ""
@@ -994,7 +994,7 @@ msgstr ""
 msgid "Last data point time"
 msgstr ""
 
-#: dashboard/overview.html:45
+#: dashboard/overview.html:46
 msgid "Last datapoint time"
 msgstr ""
 
@@ -1118,14 +1118,14 @@ msgstr ""
 msgid "My marker will reappear when you close me."
 msgstr ""
 
-#: dashboard/overview.html:42
+#: dashboard/overview.html:43
 #: development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
-#: profile/index.html:222
+#: profile/index.html:224
 msgid "Name"
 msgstr ""
 
@@ -1230,11 +1230,11 @@ msgstr ""
 msgid "ON / OFF"
 msgstr ""
 
-#: dashboard/overview.html:55
+#: dashboard/overview.html:57
 msgid "Off line"
 msgstr ""
 
-#: dashboard/overview.html:54
+#: dashboard/overview.html:56
 msgid "On line"
 msgstr ""
 
@@ -1399,7 +1399,7 @@ msgid "Registered date"
 msgstr ""
 
 #: mydevices/detail/trigger.html:82
-#: profile/index.html:223
+#: profile/index.html:225
 msgid "Registered from"
 msgstr ""
 
@@ -1408,7 +1408,7 @@ msgid "Registered rate"
 msgstr ""
 
 #: mydevices/detail/trigger.html:83
-#: profile/index.html:224
+#: profile/index.html:226
 msgid "Registered time"
 msgstr ""
 
@@ -1541,7 +1541,7 @@ msgstr ""
 msgid "Start"
 msgstr ""
 
-#: dashboard/overview.html:43
+#: dashboard/overview.html:44
 msgid "Status"
 msgstr ""
 
@@ -1578,7 +1578,7 @@ msgid "Supports"
 msgstr ""
 
 #: mydevices/detail/trigger.html:84
-#: profile/index.html:225
+#: profile/index.html:227
 msgid "Switch"
 msgstr ""
 
