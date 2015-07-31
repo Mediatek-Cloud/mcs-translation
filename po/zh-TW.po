@@ -51,7 +51,7 @@ msgstr "+ 新增觸發條件和動作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
-#: main.js:327
+#: main.js:337
 msgid "1010"
 msgstr "1010"
 
@@ -80,7 +80,7 @@ msgstr "API 提示"
 msgid "API hint"
 msgstr "API 提示"
 
-#: aside.html:39 header.html:77
+#: aside.html:39
 msgid "API references"
 msgstr "API 參考資料集"
 
@@ -235,7 +235,7 @@ msgstr "找不到想要的模版嗎？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32 main.js:331
+#: dialogs/tutorialCloseConfirm.html:32 main.js:341
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99 mydevices/dialogs/trigger.html:102
@@ -248,10 +248,6 @@ msgstr "取消"
 #: development/dialogs/addComponentContent.html:98
 msgid "Category"
 msgstr "分類"
-
-#: header.html:98
-msgid "Change log"
-msgstr "更新日誌"
 
 #: profile/dialogs/changePassword.html:3 profile/index.html:85
 msgid "Change password"
@@ -321,7 +317,7 @@ msgstr "清除所選"
 msgid "Click the edit button. Let's start editing !"
 msgstr "點擊編輯按鈕， 開始編輯！"
 
-#: main.js:298
+#: main.js:308
 msgid "Close"
 msgstr "關閉"
 
@@ -463,7 +459,7 @@ msgid "Default value"
 msgstr "默認值"
 
 #: development/detail.html:67 development/detail/components.html:126
-#: development/index.html:139 main.js:330 mydevices/detail.html:67
+#: development/index.html:139 main.js:340 mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
 msgstr "刪除"
@@ -478,7 +474,7 @@ msgstr "刪除動作"
 msgid "Delete data channel"
 msgstr "刪除資料通道"
 
-#: main.js:328
+#: main.js:338
 msgid ""
 "Deleting your device and its sensors is irreversible. Enter your device's "
 "name below to confirm you want to permanently delete it:"
@@ -514,11 +510,10 @@ msgid "Develop with our hardware platform"
 msgstr "使用我們的開發版來開發"
 
 #: aside.html:21 development/detail.html:28 development/index.html:30
-#: header.html:35
 msgid "Development"
 msgstr "開發"
 
-#: main.js:329
+#: main.js:339
 msgid "Device Title"
 msgstr "裝置名稱"
 
@@ -654,7 +649,7 @@ msgstr "請輸入你的序號，每個序號間請斷行。"
 msgid "Equal to"
 msgstr "等於"
 
-#: dashboard/overview.html:44 management/device-list.html:82
+#: dashboard/overview.html:45 management/device-list.html:82
 msgid "Error"
 msgstr "錯誤"
 
@@ -678,13 +673,9 @@ msgstr "範例: 產品原型名稱2"
 msgid "Exit"
 msgstr "退出"
 
-#: aside.html:111 header.html:119
+#: aside.html:111
 msgid "FAQ"
 msgstr "問與答"
-
-#: header.html:132
-msgid "Feedback"
-msgstr "反饋"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
 #: management/dialogs/createSerialNumber.html:45
@@ -712,10 +703,6 @@ msgstr "韌體名稱"
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
 msgstr "浮點數"
-
-#: header.html:127
-msgid "Forum"
-msgstr "論壇"
 
 #: development/dialogs/addComponentContent.html:164
 #: development/dialogs/addComponentContent.html:264
@@ -777,10 +764,6 @@ msgstr "硬體平台"
 #: mydevices/detail.html:55
 msgid "Hardware platform"
 msgstr "硬體平台"
-
-#: header.html:111
-msgid "Help"
-msgstr "幫助"
 
 #: dashboard/tutorial.html:3
 msgid "Here are the quick start guide to help you to get off the ground."
@@ -970,11 +953,11 @@ msgstr "整數"
 msgid "Integer only"
 msgstr "只接受整數"
 
-#: aside.html:64 header.html:63
+#: aside.html:64
 msgid "Introduction"
 msgstr "介紹"
 
-#: aside.html:70 header.html:70
+#: aside.html:70
 msgid "Key concepts"
 msgstr "核心概念"
 
@@ -986,7 +969,7 @@ msgstr "語言"
 msgid "Last data point time"
 msgstr "最後資料點時間"
 
-#: dashboard/overview.html:45
+#: dashboard/overview.html:46
 msgid "Last datapoint time"
 msgstr "最後資料點時間"
 
@@ -1067,7 +1050,7 @@ msgstr "手動"
 msgid "Manually enter serial numbers"
 msgstr "手動輸入序號"
 
-#: profile/index.html:215
+#: profile/index.html:214
 msgid "Mobile Notification from MCS"
 msgstr "來自 MCS 的推播通知"
 
@@ -1075,12 +1058,12 @@ msgstr "來自 MCS 的推播通知"
 msgid "Mobile Notification from test device"
 msgstr "來自測試裝置的推播通知"
 
-#: aside.html:106 header.html:91
+#: aside.html:106
 msgid "Mobile application"
 msgstr "行動應用"
 
-#: mydevices/detail/trigger.html:77 profile/index.html:209
-#: profile/index.html:219
+#: mydevices/detail/trigger.html:76 profile/index.html:208
+#: profile/index.html:217
 msgid "Mobile list"
 msgstr "手機列表"
 
@@ -1096,10 +1079,6 @@ msgstr "必須是浮點數 ！"
 msgid "Must Be an Integer!"
 msgstr "需要是一個整數！"
 
-#: header.html:43
-msgid "My Devices"
-msgstr "我的裝置"
-
 #: aside.html:30 mydevices/detail.html:30 mydevices/index.html:30
 msgid "My devices"
 msgstr "我的裝置"
@@ -1108,10 +1087,10 @@ msgstr "我的裝置"
 msgid "My marker will reappear when you close me."
 msgstr "當您關閉後，註記將重新出現。"
 
-#: dashboard/overview.html:42 development/detail/firmware.html:8
+#: dashboard/overview.html:43 development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8 development/detail/trigger.html:8
 #: mydevices/detail/firmware.html:15 mydevices/detail/trigger.html:8
-#: mydevices/detail/trigger.html:81 profile/index.html:223
+#: mydevices/detail/trigger.html:81 profile/index.html:224
 msgid "Name"
 msgstr "名稱"
 
@@ -1208,11 +1187,11 @@ msgstr "開"
 msgid "ON / OFF"
 msgstr "開關"
 
-#: dashboard/overview.html:55
+#: dashboard/overview.html:57
 msgid "Off line"
 msgstr "離線"
 
-#: dashboard/overview.html:54
+#: dashboard/overview.html:56
 msgid "On line"
 msgstr "在線"
 
@@ -1278,7 +1257,7 @@ msgstr "請選擇硬體平台。"
 msgid "Please select industry."
 msgstr "請選擇產業別"
 
-#: main.js:297 main.js:307
+#: main.js:307 main.js:317
 msgid "Please try again!"
 msgstr "請再試一次！"
 
@@ -1297,10 +1276,6 @@ msgstr "前一步"
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
 msgstr "Product ID"
-
-#: header.html:157
-msgid "Profile"
-msgstr "個人檔案"
 
 #: profile/index.html:36
 msgid "Profile detail"
@@ -1375,7 +1350,7 @@ msgstr "註冊"
 msgid "Registered date"
 msgstr "註冊日期"
 
-#: mydevices/detail/trigger.html:82 profile/index.html:224
+#: mydevices/detail/trigger.html:82 profile/index.html:225
 msgid "Registered from"
 msgstr "註冊來源"
 
@@ -1383,7 +1358,7 @@ msgstr "註冊來源"
 msgid "Registered rate"
 msgstr "註冊比例"
 
-#: mydevices/detail/trigger.html:83 profile/index.html:225
+#: mydevices/detail/trigger.html:83 profile/index.html:226
 msgid "Registered time"
 msgstr "註冊時間"
 
@@ -1405,10 +1380,6 @@ msgstr "發佈有序號產生器的產品原型。"
 #: development/dialogs/release.html:33
 msgid "Release without serial number generator."
 msgstr "發佈沒有序號產生器的產品原型。"
-
-#: header.html:55
-msgid "Resources"
-msgstr "資源"
 
 #: mydevices/dialogs/trigger.html:81
 msgid "Restore default value"
@@ -1518,15 +1489,11 @@ msgstr "服務器內部錯誤。"
 msgid "Show History"
 msgstr "打開歷史資料"
 
-#: header.html:169
-msgid "Sign out"
-msgstr "登出"
-
 #: dashboard/tutorial.html:7
 msgid "Start"
 msgstr "開始"
 
-#: dashboard/overview.html:43
+#: dashboard/overview.html:44
 msgid "Status"
 msgstr "狀態"
 
@@ -1552,7 +1519,7 @@ msgstr "步驟三"
 msgid "String"
 msgstr "字串"
 
-#: development/dialogs/finishCreateTestDevice.html:3 main.js:295 main.js:312
+#: development/dialogs/finishCreateTestDevice.html:3 main.js:305 main.js:322
 msgid "Success!"
 msgstr "成功！"
 
@@ -1560,7 +1527,7 @@ msgstr "成功！"
 msgid "Supports"
 msgstr "支援"
 
-#: mydevices/detail/trigger.html:84 profile/index.html:226
+#: mydevices/detail/trigger.html:84 profile/index.html:227
 msgid "Switch"
 msgstr "開關"
 
@@ -1579,10 +1546,6 @@ msgstr "Telnet"
 #: development/dialogs/addComponentContent.html:365
 msgid "Template preview"
 msgstr "模版預覽"
-
-#: header.html:164
-msgid "Terms of use"
-msgstr "使用者條款"
 
 #: mydevices/index.html:106
 msgid "Test"
@@ -1668,7 +1631,7 @@ msgstr "時間格式不正確，分鐘值必須在 0-60 之間。"
 msgid "Time:"
 msgstr "時間："
 
-#: profile/index.html:129
+#: profile/index.html:128
 msgid "Timezone"
 msgstr "時區"
 
@@ -1686,7 +1649,7 @@ msgid ""
 "switch for it."
 msgstr "打開手機推播開關，以收到來自此測試裝置的通知。"
 
-#: profile/index.html:216
+#: profile/index.html:215
 msgid ""
 "To receive the notification from MCS, turn on the mobile push switch for "
 "each specific mobile."
@@ -1745,7 +1708,7 @@ msgstr "請再試一次。"
 msgid "Try to create it now."
 msgstr "現在試著建立一個吧。"
 
-#: aside.html:73 header.html:84
+#: aside.html:73
 msgid "Tutorial"
 msgstr "教程"
 
@@ -1899,13 +1862,17 @@ msgstr "您在使用 API 呼叫裝置時，將會需要 deviceId 和 deviceKey �
 msgid "You will need to restart if you exit the tutorial now."
 msgstr "若現在退出，下次需要重新開始。"
 
-#: profile/index.html:197
+#: profile/index.html:196
 msgid "Your current timezone"
 msgstr "目前所在地時間"
 
 #: controllers/profile/index.js:77
 msgid "Your password length cannot be less than 8 characters"
 msgstr "您的密碼必須至少為八個字元"
+
+#: filters/userPrivType.js:6
+msgid "administrator"
+msgstr "管理員"
 
 #: directives/components/control/gps.js:150
 msgid "altitude must be between -20000 and 20000 meters!"
@@ -1923,7 +1890,7 @@ msgstr "取消"
 msgid "choose Language"
 msgstr "選擇語言"
 
-#: profile/index.html:135
+#: profile/index.html:134
 msgid "choose Timezone"
 msgstr "選擇時區"
 
@@ -1968,7 +1935,7 @@ msgstr "小時之前"
 msgid "in resources to learn more."
 msgstr "資源來查看更多訊息"
 
-#: profile/index.html:197
+#: profile/index.html:196
 msgid "is different from your setting."
 msgstr "和你目前的設定不符合"
 
@@ -2078,9 +2045,13 @@ msgstr "新密碼不能為空"
 msgid "new password is not as same as confirm password"
 msgstr "新密碼和確認密碼不一致"
 
-#: main.js:305 main.js:319
+#: main.js:315 main.js:329
 msgid "notice"
 msgstr "注意"
+
+#: filters/userPrivType.js:5
+msgid "owner"
+msgstr "擁有者"
 
 #: mydevices/dialogs/editDevices.html:146
 msgid "save"
@@ -2140,6 +2111,10 @@ msgstr "版本"
 msgid "version cannot be null!"
 msgstr "版本不能為空！"
 
+#: filters/userPrivType.js:7
+msgid "viewer"
+msgstr "一般檢視"
+
 #: mydevices/index.html:87
 msgid "you need to first create a prototype"
 msgstr "您需要先建立產品原型"
@@ -2152,6 +2127,33 @@ msgstr "{{format.display | capitalize:'first'}}"
 #: services/validator.js:37
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr "{{key1}} 和 {{key2}} 不能相同。"
+
+#~ msgid "Change log"
+#~ msgstr "更新日誌"
+
+#~ msgid "Feedback"
+#~ msgstr "反饋"
+
+#~ msgid "Forum"
+#~ msgstr "論壇"
+
+#~ msgid "Help"
+#~ msgstr "幫助"
+
+#~ msgid "My Devices"
+#~ msgstr "我的裝置"
+
+#~ msgid "Profile"
+#~ msgstr "個人檔案"
+
+#~ msgid "Resources"
+#~ msgstr "資源"
+
+#~ msgid "Sign out"
+#~ msgstr "登出"
+
+#~ msgid "Terms of use"
+#~ msgstr "使用者條款"
 
 #~ msgid "Edit&Delete"
 #~ msgstr "編輯和刪除"
