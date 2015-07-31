@@ -45,7 +45,7 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: main.js:337
+#: main.js:327
 msgid "1010"
 msgstr ""
 
@@ -77,6 +77,7 @@ msgid "API hint"
 msgstr ""
 
 #: aside.html:39
+#: header.html:77
 msgid "API references"
 msgstr ""
 
@@ -236,7 +237,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:341
+#: main.js:331
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
@@ -250,6 +251,10 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:198
 #: development/dialogs/addComponentContent.html:98
 msgid "Category"
+msgstr ""
+
+#: header.html:98
+msgid "Change log"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
@@ -323,7 +328,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:308
+#: main.js:298
 msgid "Close"
 msgstr ""
 
@@ -472,7 +477,7 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:126
 #: development/index.html:139
-#: main.js:340
+#: main.js:330
 #: mydevices/detail.html:67
 #: mydevices/index.html:126
 msgid "Delete"
@@ -488,7 +493,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:338
+#: main.js:328
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -527,10 +532,11 @@ msgstr ""
 #: aside.html:21
 #: development/detail.html:28
 #: development/index.html:30
+#: header.html:35
 msgid "Development"
 msgstr ""
 
-#: main.js:339
+#: main.js:329
 msgid "Device Title"
 msgstr ""
 
@@ -670,7 +676,7 @@ msgstr ""
 msgid "Equal to"
 msgstr ""
 
-#: dashboard/overview.html:45
+#: dashboard/overview.html:44
 #: management/device-list.html:82
 msgid "Error"
 msgstr ""
@@ -696,7 +702,12 @@ msgid "Exit"
 msgstr ""
 
 #: aside.html:111
+#: header.html:119
 msgid "FAQ"
+msgstr ""
+
+#: header.html:132
+msgid "Feedback"
 msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
@@ -726,6 +737,10 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:120
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
+msgstr ""
+
+#: header.html:127
+msgid "Forum"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:164
@@ -790,6 +805,10 @@ msgstr ""
 #: mydevices/detail.html:49
 #: mydevices/detail.html:55
 msgid "Hardware platform"
+msgstr ""
+
+#: header.html:111
+msgid "Help"
 msgstr ""
 
 #: dashboard/tutorial.html:3
@@ -979,10 +998,12 @@ msgid "Integer only"
 msgstr ""
 
 #: aside.html:64
+#: header.html:63
 msgid "Introduction"
 msgstr ""
 
 #: aside.html:70
+#: header.html:70
 msgid "Key concepts"
 msgstr ""
 
@@ -994,7 +1015,7 @@ msgstr ""
 msgid "Last data point time"
 msgstr ""
 
-#: dashboard/overview.html:46
+#: dashboard/overview.html:45
 msgid "Last datapoint time"
 msgstr ""
 
@@ -1078,7 +1099,7 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: profile/index.html:214
+#: profile/index.html:215
 msgid "Mobile Notification from MCS"
 msgstr ""
 
@@ -1087,12 +1108,13 @@ msgid "Mobile Notification from test device"
 msgstr ""
 
 #: aside.html:106
+#: header.html:91
 msgid "Mobile application"
 msgstr ""
 
 #: mydevices/detail/trigger.html:76
-#: profile/index.html:208
-#: profile/index.html:217
+#: profile/index.html:209
+#: profile/index.html:218
 msgid "Mobile list"
 msgstr ""
 
@@ -1108,6 +1130,10 @@ msgstr ""
 msgid "Must Be an Integer!"
 msgstr ""
 
+#: header.html:43
+msgid "My Devices"
+msgstr ""
+
 #: aside.html:30
 #: mydevices/detail.html:30
 #: mydevices/index.html:30
@@ -1118,14 +1144,14 @@ msgstr ""
 msgid "My marker will reappear when you close me."
 msgstr ""
 
-#: dashboard/overview.html:43
+#: dashboard/overview.html:42
 #: development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
-#: profile/index.html:224
+#: profile/index.html:223
 msgid "Name"
 msgstr ""
 
@@ -1230,11 +1256,11 @@ msgstr ""
 msgid "ON / OFF"
 msgstr ""
 
-#: dashboard/overview.html:57
+#: dashboard/overview.html:55
 msgid "Off line"
 msgstr ""
 
-#: dashboard/overview.html:56
+#: dashboard/overview.html:54
 msgid "On line"
 msgstr ""
 
@@ -1303,8 +1329,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
+#: main.js:297
 #: main.js:307
-#: main.js:317
 msgid "Please try again!"
 msgstr ""
 
@@ -1322,6 +1348,10 @@ msgstr ""
 
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
+msgstr ""
+
+#: header.html:157
+msgid "Profile"
 msgstr ""
 
 #: profile/index.html:36
@@ -1399,7 +1429,7 @@ msgid "Registered date"
 msgstr ""
 
 #: mydevices/detail/trigger.html:82
-#: profile/index.html:225
+#: profile/index.html:224
 msgid "Registered from"
 msgstr ""
 
@@ -1408,7 +1438,7 @@ msgid "Registered rate"
 msgstr ""
 
 #: mydevices/detail/trigger.html:83
-#: profile/index.html:226
+#: profile/index.html:225
 msgid "Registered time"
 msgstr ""
 
@@ -1430,6 +1460,10 @@ msgstr ""
 
 #: development/dialogs/release.html:33
 msgid "Release without serial number generator."
+msgstr ""
+
+#: header.html:55
+msgid "Resources"
 msgstr ""
 
 #: mydevices/dialogs/trigger.html:81
@@ -1537,11 +1571,15 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
+#: header.html:169
+msgid "Sign out"
+msgstr ""
+
 #: dashboard/tutorial.html:7
 msgid "Start"
 msgstr ""
 
-#: dashboard/overview.html:44
+#: dashboard/overview.html:43
 msgid "Status"
 msgstr ""
 
@@ -1568,8 +1606,8 @@ msgid "String"
 msgstr ""
 
 #: development/dialogs/finishCreateTestDevice.html:3
-#: main.js:305
-#: main.js:322
+#: main.js:295
+#: main.js:312
 msgid "Success!"
 msgstr ""
 
@@ -1578,7 +1616,7 @@ msgid "Supports"
 msgstr ""
 
 #: mydevices/detail/trigger.html:84
-#: profile/index.html:227
+#: profile/index.html:226
 msgid "Switch"
 msgstr ""
 
@@ -1597,6 +1635,10 @@ msgstr ""
 
 #: development/dialogs/addComponentContent.html:365
 msgid "Template preview"
+msgstr ""
+
+#: header.html:164
+msgid "Terms of use"
 msgstr ""
 
 #: mydevices/index.html:106
@@ -1633,11 +1675,11 @@ msgstr ""
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
-#: factories/components.js:373
+#: factories/components.js:265
 msgid "The lower bound and upper bound must be numeric value."
 msgstr ""
 
-#: factories/components.js:377
+#: factories/components.js:269
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
@@ -1680,7 +1722,7 @@ msgstr ""
 msgid "Time:"
 msgstr ""
 
-#: profile/index.html:128
+#: profile/index.html:129
 msgid "Timezone"
 msgstr ""
 
@@ -1696,7 +1738,7 @@ msgstr ""
 msgid "To receive specific notification from this device, turn on the mobile push switch for it."
 msgstr ""
 
-#: profile/index.html:215
+#: profile/index.html:216
 msgid "To receive the notification from MCS, turn on the mobile push switch for each specific mobile."
 msgstr ""
 
@@ -1758,6 +1800,7 @@ msgid "Try to create it now."
 msgstr ""
 
 #: aside.html:73
+#: header.html:84
 msgid "Tutorial"
 msgstr ""
 
@@ -1907,16 +1950,12 @@ msgstr ""
 msgid "You will need to restart if you exit the tutorial now."
 msgstr ""
 
-#: profile/index.html:196
+#: profile/index.html:197
 msgid "Your current timezone"
 msgstr ""
 
 #: controllers/profile/index.js:77
 msgid "Your password length cannot be less than 8 characters"
-msgstr ""
-
-#: filters/userPrivType.js:6
-msgid "administrator"
 msgstr ""
 
 #: directives/components/control/gps.js:150
@@ -1935,7 +1974,7 @@ msgstr ""
 msgid "choose Language"
 msgstr ""
 
-#: profile/index.html:134
+#: profile/index.html:135
 msgid "choose Timezone"
 msgstr ""
 
@@ -1982,7 +2021,7 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:196
+#: profile/index.html:197
 msgid "is different from your setting."
 msgstr ""
 
@@ -1993,95 +2032,6 @@ msgstr ""
 
 #: controllers/dashboard/index.js:39
 msgid "just now"
-msgstr ""
-
-#: factories/components.js:537
-msgid "ke1 value"
-msgstr ""
-
-#: factories/components.js:103
-#: factories/components.js:145
-#: factories/components.js:196
-#: factories/components.js:404
-#: factories/components.js:438
-#: factories/components.js:481
-#: factories/components.js:533
-#: factories/components.js:70
-msgid "key1 name"
-msgstr ""
-
-#: factories/components.js:107
-#: factories/components.js:149
-#: factories/components.js:200
-#: factories/components.js:408
-#: factories/components.js:442
-#: factories/components.js:485
-#: factories/components.js:74
-msgid "key1 value"
-msgstr ""
-
-#: factories/components.js:111
-#: factories/components.js:153
-#: factories/components.js:204
-#: factories/components.js:412
-#: factories/components.js:446
-#: factories/components.js:489
-#: factories/components.js:541
-#: factories/components.js:78
-msgid "key2 name"
-msgstr ""
-
-#: factories/components.js:115
-#: factories/components.js:157
-#: factories/components.js:208
-#: factories/components.js:416
-#: factories/components.js:450
-#: factories/components.js:493
-#: factories/components.js:545
-#: factories/components.js:82
-msgid "key2 value"
-msgstr ""
-
-#: factories/components.js:119
-#: factories/components.js:161
-#: factories/components.js:212
-#: factories/components.js:454
-#: factories/components.js:497
-#: factories/components.js:549
-msgid "key3 name"
-msgstr ""
-
-#: factories/components.js:123
-#: factories/components.js:165
-#: factories/components.js:216
-#: factories/components.js:458
-#: factories/components.js:501
-#: factories/components.js:553
-msgid "key3 value"
-msgstr ""
-
-#: factories/components.js:169
-#: factories/components.js:220
-#: factories/components.js:505
-#: factories/components.js:557
-msgid "key4 name"
-msgstr ""
-
-#: factories/components.js:173
-#: factories/components.js:224
-#: factories/components.js:509
-#: factories/components.js:561
-msgid "key4 value"
-msgstr ""
-
-#: factories/components.js:228
-#: factories/components.js:565
-msgid "key5 name"
-msgstr ""
-
-#: factories/components.js:232
-#: factories/components.js:569
-msgid "key5 value"
 msgstr ""
 
 #: directives/components/control/gps.js:153
@@ -2100,11 +2050,6 @@ msgstr ""
 msgid "longitude must be between -180 and 180 meters!"
 msgstr ""
 
-#: factories/components.js:255
-#: factories/components.js:361
-msgid "lowerbound"
-msgstr ""
-
 #: controllers/dashboard/index.js:36
 msgid "mins ago"
 msgstr ""
@@ -2121,13 +2066,9 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:315
-#: main.js:329
+#: main.js:305
+#: main.js:319
 msgid "notice"
-msgstr ""
-
-#: filters/userPrivType.js:5
-msgid "owner"
 msgstr ""
 
 #: mydevices/dialogs/editDevices.html:146
@@ -2164,19 +2105,8 @@ msgstr ""
 msgid "tutorials"
 msgstr ""
 
-#: factories/components.js:263
-#: factories/components.js:594
-#: factories/components.js:612
-msgid "unitTypes"
-msgstr ""
-
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
-msgstr ""
-
-#: factories/components.js:259
-#: factories/components.js:365
-msgid "upperbound"
 msgstr ""
 
 #: directives/components/control/pwm.js:53
@@ -2193,10 +2123,6 @@ msgstr ""
 
 #: controllers/development/detail.js:589
 msgid "version cannot be null!"
-msgstr ""
-
-#: filters/userPrivType.js:7
-msgid "viewer"
 msgstr ""
 
 #: mydevices/index.html:87
