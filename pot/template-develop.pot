@@ -143,10 +143,6 @@ msgstr ""
 msgid "Add user"
 msgstr ""
 
-#: mydevices/index.html:75
-msgid "Add your devices now!"
-msgstr ""
-
 #: values/products/ngIntro.js:28
 msgid "After you are happy with your prototype, you can create a Test Device here."
 msgstr ""
@@ -372,7 +368,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: mydevices/index.html:143
+#: mydevices/index.html:136
 msgid "Create from"
 msgstr ""
 
@@ -408,7 +404,7 @@ msgstr ""
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
-#: mydevices/index.html:87
+#: mydevices/index.html:77
 msgid "Currently there is no test device created,"
 msgstr ""
 
@@ -474,7 +470,7 @@ msgstr ""
 #: development/index.html:139
 #: main.js:340
 #: mydevices/detail.html:67
-#: mydevices/index.html:126
+#: mydevices/index.html:119
 msgid "Delete"
 msgstr ""
 
@@ -508,7 +504,7 @@ msgstr ""
 
 #: development/index.html:172
 #: management/device-list.html:108
-#: mydevices/index.html:154
+#: mydevices/index.html:147
 msgid "Detail"
 msgstr ""
 
@@ -1599,7 +1595,7 @@ msgstr ""
 msgid "Template preview"
 msgstr ""
 
-#: mydevices/index.html:106
+#: mydevices/index.html:99
 msgid "Test"
 msgstr ""
 
@@ -1840,7 +1836,7 @@ msgstr ""
 #: mydevices/detail.html:48
 #: mydevices/detail.html:54
 #: mydevices/detail/firmware.html:16
-#: mydevices/index.html:141
+#: mydevices/index.html:134
 msgid "Version"
 msgstr ""
 
@@ -1864,7 +1860,7 @@ msgstr ""
 msgid "You can edit the information of your prototype that you want your users to see it."
 msgstr ""
 
-#: mydevices/index.html:89
+#: mydevices/index.html:80
 msgid "You can follow the quick start guide in the dashboard, or refer to the tutorial for more detail steps."
 msgstr ""
 
@@ -1923,7 +1919,7 @@ msgstr ""
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr ""
 
-#: mydevices/index.html:87
+#: mydevices/index.html:77
 msgid "and create test device for it."
 msgstr ""
 
@@ -2199,8 +2195,8 @@ msgstr ""
 msgid "viewer"
 msgstr ""
 
-#: mydevices/index.html:87
-msgid "you need to first create a prototype"
+#: mydevices/index.html:77
+msgid "you need to create a prototype"
 msgstr ""
 
 #: development/dialogs/trigger/add.html:369
