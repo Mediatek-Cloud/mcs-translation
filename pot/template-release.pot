@@ -45,8 +45,49 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: main.js:327
+#: limitation/dialogs/limitationDetail.html:12
+#: limitation/index.html:67
+msgid "1. 10 test devices"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:19
+msgid "1. Devices being shared from other user account will not be counted"
+msgstr ""
+
+#: main.js:355
 msgid "1010"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:13
+msgid "2. 100,000 data points per device/month"
+msgstr ""
+
+#: limitation/index.html:68
+msgid "2. 100,000 data points device/month"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:20
+msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
+msgstr ""
+
+#: limitation/index.html:69
+msgid "3. 100 email notification device/day"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:14
+msgid "3. 100 email notification per device/day"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:21
+msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:22
+msgid "4. If you have a need to expand usage quota, please"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:15
+msgid "4. Unlimited number of prototype and GCM notification"
 msgstr ""
 
 #: development/detail/components.html:7
@@ -76,8 +117,12 @@ msgstr ""
 msgid "API hint"
 msgstr ""
 
+#: limitation/index.html:33
+#: limitation/index.html:37
+msgid "API limitation"
+msgstr ""
+
 #: aside.html:39
-#: header.html:77
 msgid "API references"
 msgstr ""
 
@@ -142,10 +187,6 @@ msgstr ""
 #: development/dialogs/userPrivilege.html:3
 #: mydevices/dialogs/userPrivilege.html:3
 msgid "Add user"
-msgstr ""
-
-#: mydevices/index.html:75
-msgid "Add your devices now!"
 msgstr ""
 
 #: values/products/ngIntro.js:28
@@ -237,7 +278,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:331
+#: main.js:359
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
@@ -251,10 +292,6 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:198
 #: development/dialogs/addComponentContent.html:98
 msgid "Category"
-msgstr ""
-
-#: header.html:98
-msgid "Change log"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
@@ -328,7 +365,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:298
+#: main.js:326
 msgid "Close"
 msgstr ""
 
@@ -377,7 +414,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: mydevices/index.html:143
+#: mydevices/index.html:136
 msgid "Create from"
 msgstr ""
 
@@ -413,7 +450,7 @@ msgstr ""
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
-#: mydevices/index.html:87
+#: mydevices/index.html:77
 msgid "Currently there is no test device created,"
 msgstr ""
 
@@ -422,7 +459,8 @@ msgid "Currently use:"
 msgstr ""
 
 #: aside.html:12
-#: dashboard/index.html:28
+#: dashboard/index.html:29
+#: limitation/index.html:33
 msgid "Dashboard"
 msgstr ""
 
@@ -463,6 +501,12 @@ msgstr ""
 msgid "Data channel name"
 msgstr ""
 
+#: dashboard/numberofused.html:31
+#: directives/graphs/datapointusage.js:14
+#: limitation/index.html:123
+msgid "Data points usage"
+msgstr ""
+
 #: development/dialogs/addComponentContent.html:69
 msgid "Data type"
 msgstr ""
@@ -477,9 +521,9 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:126
 #: development/index.html:139
-#: main.js:330
+#: main.js:358
 #: mydevices/detail.html:67
-#: mydevices/index.html:126
+#: mydevices/index.html:119
 msgid "Delete"
 msgstr ""
 
@@ -493,7 +537,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:328
+#: main.js:356
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -511,9 +555,10 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
+#: dashboard/numberofused.html:6
 #: development/index.html:172
 #: management/device-list.html:108
-#: mydevices/index.html:154
+#: mydevices/index.html:147
 msgid "Detail"
 msgstr ""
 
@@ -529,14 +574,21 @@ msgstr ""
 msgid "Develop with our hardware platform"
 msgstr ""
 
+#: limitation/index.html:58
+msgid "Developer Free"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:10
+msgid "Developer Free account allows you to have:"
+msgstr ""
+
 #: aside.html:21
 #: development/detail.html:28
 #: development/index.html:30
-#: header.html:35
 msgid "Development"
 msgstr ""
 
-#: main.js:329
+#: main.js:357
 msgid "Device Title"
 msgstr ""
 
@@ -588,6 +640,10 @@ msgstr ""
 #: management/device-list.html:64
 #: management/product-list.html:55
 msgid "Devices"
+msgstr ""
+
+#: limitation/index.html:108
+msgid "Devices ({{ allDeviceLimitationList.length }})"
 msgstr ""
 
 #: development/detail/testdevicelist.html:3
@@ -664,6 +720,10 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
+#: limitation/index.html:124
+msgid "Email trigger"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:15
 msgid "Enter device name"
 msgstr ""
@@ -676,7 +736,7 @@ msgstr ""
 msgid "Equal to"
 msgstr ""
 
-#: dashboard/overview.html:44
+#: dashboard/overview.html:46
 #: management/device-list.html:82
 msgid "Error"
 msgstr ""
@@ -702,12 +762,7 @@ msgid "Exit"
 msgstr ""
 
 #: aside.html:111
-#: header.html:119
 msgid "FAQ"
-msgstr ""
-
-#: header.html:132
-msgid "Feedback"
 msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:42
@@ -737,10 +792,6 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:120
 #: development/dialogs/addComponentContent.html:220
 msgid "Float"
-msgstr ""
-
-#: header.html:127
-msgid "Forum"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:164
@@ -805,10 +856,6 @@ msgstr ""
 #: mydevices/detail.html:49
 #: mydevices/detail.html:55
 msgid "Hardware platform"
-msgstr ""
-
-#: header.html:111
-msgid "Help"
 msgstr ""
 
 #: dashboard/tutorial.html:3
@@ -998,12 +1045,10 @@ msgid "Integer only"
 msgstr ""
 
 #: aside.html:64
-#: header.html:63
 msgid "Introduction"
 msgstr ""
 
 #: aside.html:70
-#: header.html:70
 msgid "Key concepts"
 msgstr ""
 
@@ -1015,11 +1060,12 @@ msgstr ""
 msgid "Last data point time"
 msgstr ""
 
-#: dashboard/overview.html:45
+#: dashboard/overview.html:47
 msgid "Last datapoint time"
 msgstr ""
 
 #: dashboard/overview.html:21
+#: limitation/index.html:125
 msgid "Last update time"
 msgstr ""
 
@@ -1034,6 +1080,10 @@ msgstr ""
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:29
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:26
 msgid "Limit Firmware"
+msgstr ""
+
+#: directives/graphs/datapointusage.js:19
+msgid "Limitation"
 msgstr ""
 
 #: aside.html:100
@@ -1099,7 +1149,7 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: profile/index.html:215
+#: profile/index.html:214
 msgid "Mobile Notification from MCS"
 msgstr ""
 
@@ -1108,14 +1158,17 @@ msgid "Mobile Notification from test device"
 msgstr ""
 
 #: aside.html:106
-#: header.html:91
 msgid "Mobile application"
 msgstr ""
 
 #: mydevices/detail/trigger.html:76
-#: profile/index.html:209
-#: profile/index.html:218
+#: profile/index.html:208
+#: profile/index.html:217
 msgid "Mobile list"
+msgstr ""
+
+#: dashboard/numberofused.html:33
+msgid "Most utilized device :"
 msgstr ""
 
 #: directives/components/control/hex.js:44
@@ -1130,10 +1183,6 @@ msgstr ""
 msgid "Must Be an Integer!"
 msgstr ""
 
-#: header.html:43
-msgid "My Devices"
-msgstr ""
-
 #: aside.html:30
 #: mydevices/detail.html:30
 #: mydevices/index.html:30
@@ -1144,14 +1193,15 @@ msgstr ""
 msgid "My marker will reappear when you close me."
 msgstr ""
 
-#: dashboard/overview.html:42
+#: dashboard/overview.html:44
 #: development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
+#: limitation/index.html:122
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
-#: profile/index.html:223
+#: profile/index.html:224
 msgid "Name"
 msgstr ""
 
@@ -1219,7 +1269,7 @@ msgstr ""
 msgid "Number of test device"
 msgstr ""
 
-#: dashboard/numberofused.html:4
+#: dashboard/numberofused.html:5
 msgid "Number of used"
 msgstr ""
 
@@ -1256,17 +1306,25 @@ msgstr ""
 msgid "ON / OFF"
 msgstr ""
 
-#: dashboard/overview.html:55
+#: dashboard/overview.html:58
 msgid "Off line"
 msgstr ""
 
-#: dashboard/overview.html:54
+#: limitation/dialogs/limitationDetail.html:30
+msgid "Ok"
+msgstr ""
+
+#: dashboard/overview.html:57
 msgid "On line"
 msgstr ""
 
 #: development/dialogs/trigger/add.html:259
 #: development/dialogs/trigger/edit.html:249
 msgid "Only support integer and float data channel types."
+msgstr ""
+
+#: limitation/index.html:105
+msgid "Only the devices that you have owner access will be listed and counted."
 msgstr ""
 
 #: dashboard/tutorial.html:4
@@ -1293,6 +1351,10 @@ msgstr ""
 
 #: controllers/development/detail.js:1075
 msgid "Please Try Again!"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:17
+msgid "Please be noted:"
 msgstr ""
 
 #: controllers/development/detail.js:532
@@ -1329,8 +1391,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:297
-#: main.js:307
+#: main.js:325
+#: main.js:335
 msgid "Please try again!"
 msgstr ""
 
@@ -1350,20 +1412,12 @@ msgstr ""
 msgid "Product ID"
 msgstr ""
 
-#: header.html:157
-msgid "Profile"
-msgstr ""
-
 #: profile/index.html:36
 msgid "Profile detail"
 msgstr ""
 
 #: profile/index.html:30
 msgid "Profile page"
-msgstr ""
-
-#: dashboard/numberofused.html:12
-msgid "Prototype"
 msgstr ""
 
 #: management/device-list.html:63
@@ -1420,6 +1474,10 @@ msgstr ""
 msgid "Recommended 300 x 160 pixels."
 msgstr ""
 
+#: limitation/index.html:46
+msgid "Refresh"
+msgstr ""
+
 #: management/product-list.html:65
 msgid "Registered"
 msgstr ""
@@ -1429,7 +1487,7 @@ msgid "Registered date"
 msgstr ""
 
 #: mydevices/detail/trigger.html:82
-#: profile/index.html:224
+#: profile/index.html:225
 msgid "Registered from"
 msgstr ""
 
@@ -1438,7 +1496,7 @@ msgid "Registered rate"
 msgstr ""
 
 #: mydevices/detail/trigger.html:83
-#: profile/index.html:225
+#: profile/index.html:226
 msgid "Registered time"
 msgstr ""
 
@@ -1460,10 +1518,6 @@ msgstr ""
 
 #: development/dialogs/release.html:33
 msgid "Release without serial number generator."
-msgstr ""
-
-#: header.html:55
-msgid "Resources"
 msgstr ""
 
 #: mydevices/dialogs/trigger.html:81
@@ -1514,6 +1568,10 @@ msgstr ""
 #: development/dialogs/userPrivilege.html:23
 #: mydevices/dialogs/userPrivilege.html:21
 msgid "Searching..."
+msgstr ""
+
+#: limitation/index.html:71
+msgid "See the usage limitation detail…"
 msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
@@ -1571,15 +1629,15 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
-#: header.html:169
-msgid "Sign out"
-msgstr ""
-
 #: dashboard/tutorial.html:7
 msgid "Start"
 msgstr ""
 
-#: dashboard/overview.html:43
+#: dashboard/numberofused.html:35
+msgid "Statistics up to today,"
+msgstr ""
+
+#: dashboard/overview.html:45
 msgid "Status"
 msgstr ""
 
@@ -1606,8 +1664,8 @@ msgid "String"
 msgstr ""
 
 #: development/dialogs/finishCreateTestDevice.html:3
-#: main.js:295
-#: main.js:312
+#: main.js:323
+#: main.js:340
 msgid "Success!"
 msgstr ""
 
@@ -1616,7 +1674,7 @@ msgid "Supports"
 msgstr ""
 
 #: mydevices/detail/trigger.html:84
-#: profile/index.html:226
+#: profile/index.html:227
 msgid "Switch"
 msgstr ""
 
@@ -1637,15 +1695,10 @@ msgstr ""
 msgid "Template preview"
 msgstr ""
 
-#: header.html:164
-msgid "Terms of use"
-msgstr ""
-
-#: mydevices/index.html:106
+#: mydevices/index.html:99
 msgid "Test"
 msgstr ""
 
-#: dashboard/numberofused.html:16
 #: development/detail.html:137
 msgid "Test Device"
 msgstr ""
@@ -1675,11 +1728,11 @@ msgstr ""
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
-#: factories/components.js:265
+#: factories/components.js:373
 msgid "The lower bound and upper bound must be numeric value."
 msgstr ""
 
-#: factories/components.js:269
+#: factories/components.js:377
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
@@ -1722,7 +1775,7 @@ msgstr ""
 msgid "Time:"
 msgstr ""
 
-#: profile/index.html:129
+#: profile/index.html:128
 msgid "Timezone"
 msgstr ""
 
@@ -1738,12 +1791,17 @@ msgstr ""
 msgid "To receive specific notification from this device, turn on the mobile push switch for it."
 msgstr ""
 
-#: profile/index.html:216
+#: profile/index.html:215
 msgid "To receive the notification from MCS, turn on the mobile push switch for each specific mobile."
 msgstr ""
 
 #: values/products/ngIntro.js:24
 msgid "To see and manage the list of Test devices being created under this prototype."
+msgstr ""
+
+#: limitation/index.html:169
+#: limitation/index.html:175
+msgid "Totals"
 msgstr ""
 
 #: development/detail.html:158
@@ -1800,7 +1858,6 @@ msgid "Try to create it now."
 msgstr ""
 
 #: aside.html:73
-#: header.html:84
 msgid "Tutorial"
 msgstr ""
 
@@ -1814,6 +1871,11 @@ msgstr ""
 
 #: mydevices/detail/firmware.html:56
 msgid "Upgrade"
+msgstr ""
+
+#: limitation/index.html:59
+#: limitation/index.html:76
+msgid "Upgrade now"
 msgstr ""
 
 #: development/dialogs/createProducts.html:228
@@ -1844,6 +1906,14 @@ msgstr ""
 #: mydevices/dialogs/editDevices.html:122
 #: profile/index.html:48
 msgid "Uploading..."
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:3
+msgid "Usage limitation detail"
+msgstr ""
+
+#: limitation/index.html:104
+msgid "Usage of each device"
 msgstr ""
 
 #: development/dialogs/userPrivilege.html:11
@@ -1883,7 +1953,7 @@ msgstr ""
 #: mydevices/detail.html:48
 #: mydevices/detail.html:54
 #: mydevices/detail/firmware.html:16
-#: mydevices/index.html:141
+#: mydevices/index.html:134
 msgid "Version"
 msgstr ""
 
@@ -1907,7 +1977,7 @@ msgstr ""
 msgid "You can edit the information of your prototype that you want your users to see it."
 msgstr ""
 
-#: mydevices/index.html:89
+#: mydevices/index.html:80
 msgid "You can follow the quick start guide in the dashboard, or refer to the tutorial for more detail steps."
 msgstr ""
 
@@ -1925,6 +1995,10 @@ msgstr ""
 
 #: mydevices/detail/apihint.html:33
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
+msgstr ""
+
+#: limitation/index.html:65
+msgid "You can:"
 msgstr ""
 
 #: dialogs/tutorialCloseConfirm.html:17
@@ -1950,19 +2024,31 @@ msgstr ""
 msgid "You will need to restart if you exit the tutorial now."
 msgstr ""
 
-#: profile/index.html:197
+#: limitation/index.html:57
+msgid "Your account"
+msgstr ""
+
+#: profile/index.html:196
 msgid "Your current timezone"
+msgstr ""
+
+#: limitation/index.html:99
+msgid "Your device list"
 msgstr ""
 
 #: controllers/profile/index.js:77
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
+#: filters/userPrivType.js:6
+msgid "administrator"
+msgstr ""
+
 #: directives/components/control/gps.js:150
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr ""
 
-#: mydevices/index.html:87
+#: mydevices/index.html:77
 msgid "and create test device for it."
 msgstr ""
 
@@ -1974,8 +2060,12 @@ msgstr ""
 msgid "choose Language"
 msgstr ""
 
-#: profile/index.html:135
+#: profile/index.html:134
 msgid "choose Timezone"
+msgstr ""
+
+#: limitation/dialogs/limitationDetail.html:22
+msgid "click here"
 msgstr ""
 
 #: controllers/profile/index.js:70
@@ -1987,7 +2077,16 @@ msgstr ""
 msgid "content"
 msgstr ""
 
-#: controllers/dashboard/index.js:30
+#: limitation/index.html:169
+#: limitation/index.html:177
+msgid "data points have been used and still have"
+msgstr ""
+
+#: dashboard/numberofused.html:35
+msgid "data points have been used."
+msgstr ""
+
+#: controllers/dashboard/index.js:31
 msgid "days ago"
 msgstr ""
 
@@ -2013,7 +2112,7 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:33
+#: controllers/dashboard/index.js:34
 msgid "hours ago"
 msgstr ""
 
@@ -2021,7 +2120,7 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:197
+#: profile/index.html:196
 msgid "is different from your setting."
 msgstr ""
 
@@ -2030,8 +2129,97 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:39
+#: controllers/dashboard/index.js:40
 msgid "just now"
+msgstr ""
+
+#: factories/components.js:537
+msgid "ke1 value"
+msgstr ""
+
+#: factories/components.js:103
+#: factories/components.js:145
+#: factories/components.js:196
+#: factories/components.js:404
+#: factories/components.js:438
+#: factories/components.js:481
+#: factories/components.js:533
+#: factories/components.js:70
+msgid "key1 name"
+msgstr ""
+
+#: factories/components.js:107
+#: factories/components.js:149
+#: factories/components.js:200
+#: factories/components.js:408
+#: factories/components.js:442
+#: factories/components.js:485
+#: factories/components.js:74
+msgid "key1 value"
+msgstr ""
+
+#: factories/components.js:111
+#: factories/components.js:153
+#: factories/components.js:204
+#: factories/components.js:412
+#: factories/components.js:446
+#: factories/components.js:489
+#: factories/components.js:541
+#: factories/components.js:78
+msgid "key2 name"
+msgstr ""
+
+#: factories/components.js:115
+#: factories/components.js:157
+#: factories/components.js:208
+#: factories/components.js:416
+#: factories/components.js:450
+#: factories/components.js:493
+#: factories/components.js:545
+#: factories/components.js:82
+msgid "key2 value"
+msgstr ""
+
+#: factories/components.js:119
+#: factories/components.js:161
+#: factories/components.js:212
+#: factories/components.js:454
+#: factories/components.js:497
+#: factories/components.js:549
+msgid "key3 name"
+msgstr ""
+
+#: factories/components.js:123
+#: factories/components.js:165
+#: factories/components.js:216
+#: factories/components.js:458
+#: factories/components.js:501
+#: factories/components.js:553
+msgid "key3 value"
+msgstr ""
+
+#: factories/components.js:169
+#: factories/components.js:220
+#: factories/components.js:505
+#: factories/components.js:557
+msgid "key4 name"
+msgstr ""
+
+#: factories/components.js:173
+#: factories/components.js:224
+#: factories/components.js:509
+#: factories/components.js:561
+msgid "key4 value"
+msgstr ""
+
+#: factories/components.js:228
+#: factories/components.js:565
+msgid "key5 name"
+msgstr ""
+
+#: factories/components.js:232
+#: factories/components.js:569
+msgid "key5 value"
 msgstr ""
 
 #: directives/components/control/gps.js:153
@@ -2050,7 +2238,12 @@ msgstr ""
 msgid "longitude must be between -180 and 180 meters!"
 msgstr ""
 
-#: controllers/dashboard/index.js:36
+#: factories/components.js:255
+#: factories/components.js:361
+msgid "lowerbound"
+msgstr ""
+
+#: controllers/dashboard/index.js:37
 msgid "mins ago"
 msgstr ""
 
@@ -2066,9 +2259,13 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:305
-#: main.js:319
+#: main.js:333
+#: main.js:347
 msgid "notice"
+msgstr ""
+
+#: filters/userPrivType.js:5
+msgid "owner"
 msgstr ""
 
 #: mydevices/dialogs/editDevices.html:146
@@ -2105,8 +2302,19 @@ msgstr ""
 msgid "tutorials"
 msgstr ""
 
+#: factories/components.js:263
+#: factories/components.js:594
+#: factories/components.js:612
+msgid "unitTypes"
+msgstr ""
+
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
+msgstr ""
+
+#: factories/components.js:259
+#: factories/components.js:365
+msgid "upperbound"
 msgstr ""
 
 #: directives/components/control/pwm.js:53
@@ -2125,8 +2333,12 @@ msgstr ""
 msgid "version cannot be null!"
 msgstr ""
 
-#: mydevices/index.html:87
-msgid "you need to first create a prototype"
+#: filters/userPrivType.js:7
+msgid "viewer"
+msgstr ""
+
+#: mydevices/index.html:77
+msgid "you need to create a prototype"
 msgstr ""
 
 #: development/dialogs/trigger/add.html:369

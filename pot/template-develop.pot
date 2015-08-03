@@ -501,7 +501,7 @@ msgstr ""
 msgid "Data channel name"
 msgstr ""
 
-#: dashboard/numberofused.html:29
+#: dashboard/numberofused.html:31
 #: directives/graphs/datapointusage.js:14
 #: limitation/index.html:123
 msgid "Data points usage"
@@ -1167,7 +1167,7 @@ msgstr ""
 msgid "Mobile list"
 msgstr ""
 
-#: dashboard/numberofused.html:31
+#: dashboard/numberofused.html:33
 msgid "Most utilized device :"
 msgstr ""
 
@@ -1633,7 +1633,7 @@ msgstr ""
 msgid "Start"
 msgstr ""
 
-#: dashboard/numberofused.html:33
+#: dashboard/numberofused.html:35
 msgid "Statistics up to today,"
 msgstr ""
 
@@ -2082,7 +2082,7 @@ msgstr ""
 msgid "data points have been used and still have"
 msgstr ""
 
-#: dashboard/numberofused.html:33
+#: dashboard/numberofused.html:35
 msgid "data points have been used."
 msgstr ""
 
