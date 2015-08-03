@@ -51,9 +51,53 @@ msgstr "+ 新增觸發條件和動作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
-#: main.js:337
+#: limitation/dialogs/limitationDetail.html:12 limitation/index.html:67
+msgid "1. 10 test devices"
+msgstr "1. 10 個測試裝置"
+
+#: limitation/dialogs/limitationDetail.html:19
+msgid "1. Devices being shared from other user account will not be counted"
+msgstr "1. 其他使用者分享權限權限給您的測試裝置將不列入計算"
+
+#: main.js:355
 msgid "1010"
 msgstr "1010"
+
+#: limitation/dialogs/limitationDetail.html:13
+msgid "2. 100,000 data points per device/month"
+msgstr "2. 每個裝置每個月能有 100,000 筆資料點"
+
+#: limitation/index.html:68
+msgid "2. 100,000 data points device/month"
+msgstr "2. 每個裝置每個月能有 100,000 筆資料點"
+
+#: limitation/dialogs/limitationDetail.html:20
+msgid ""
+"2. The monthly counting period commences from 1st day to the last day of "
+"each month(UTC time)."
+msgstr "2. 以月計算的週期為每個月的第一天至最後一天 (UTC 時間)。"
+
+#: limitation/index.html:69
+msgid "3. 100 email notification device/day"
+msgstr "3. 每個裝置每天 100 封郵件通知"
+
+#: limitation/dialogs/limitationDetail.html:14
+msgid "3. 100 email notification per device/day"
+msgstr "3. 每個裝置每天 100 封郵件通知"
+
+#: limitation/dialogs/limitationDetail.html:21
+msgid ""
+"3. Existing user have devices created beyond the limitation will not be able "
+"to create new device."
+msgstr "3. 使用者若已超過限制數量，將不能再建立新的裝置。"
+
+#: limitation/dialogs/limitationDetail.html:22
+msgid "4. If you have a need to expand usage quota, please"
+msgstr "4. 若您需要額外的使用量，請"
+
+#: limitation/dialogs/limitationDetail.html:15
+msgid "4. Unlimited number of prototype and GCM notification"
+msgstr "4. 產品原型和 GCM 通知，沒有使用數量限制。"
 
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
@@ -79,6 +123,10 @@ msgstr "API 提示"
 #: mydevices/detail.html:230 mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr "API 提示"
+
+#: limitation/index.html:33 limitation/index.html:37
+msgid "API limitation"
+msgstr "API 使用限制"
 
 #: aside.html:39
 msgid "API references"
@@ -145,10 +193,6 @@ msgstr "新增觸發條件與動作"
 #: mydevices/dialogs/userPrivilege.html:3
 msgid "Add user"
 msgstr "新增使用者"
-
-#: mydevices/index.html:75
-msgid "Add your devices now!"
-msgstr "馬上新增裝置！"
 
 #: values/products/ngIntro.js:28
 msgid ""
@@ -235,7 +279,7 @@ msgstr "找不到想要的模版嗎？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32 main.js:341
+#: dialogs/tutorialCloseConfirm.html:32 main.js:359
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99 mydevices/dialogs/trigger.html:102
@@ -317,7 +361,7 @@ msgstr "清除所選"
 msgid "Click the edit button. Let's start editing !"
 msgstr "點擊編輯按鈕， 開始編輯！"
 
-#: main.js:308
+#: main.js:326
 msgid "Close"
 msgstr "關閉"
 
@@ -369,7 +413,7 @@ msgstr "創建"
 msgid "Create a test device from prototype"
 msgstr "替產品原型新增一個測試裝置"
 
-#: mydevices/index.html:143
+#: mydevices/index.html:136
 msgid "Create from"
 msgstr "創建來源"
 
@@ -402,7 +446,7 @@ msgstr "建立者"
 msgid "Criteria Value should be in numeric format!"
 msgstr "條件值需為數字"
 
-#: mydevices/index.html:87
+#: mydevices/index.html:77
 msgid "Currently there is no test device created,"
 msgstr "目前沒有已建立的測試裝置"
 
@@ -410,7 +454,7 @@ msgstr "目前沒有已建立的測試裝置"
 msgid "Currently use:"
 msgstr "現正使用："
 
-#: aside.html:12 dashboard/index.html:28
+#: aside.html:12 dashboard/index.html:29 limitation/index.html:33
 msgid "Dashboard"
 msgstr "儀表板"
 
@@ -447,6 +491,11 @@ msgstr "您必須選擇資料通道！"
 msgid "Data channel name"
 msgstr "資料通道名稱"
 
+#: dashboard/numberofused.html:29 directives/graphs/datapointusage.js:14
+#: limitation/index.html:123
+msgid "Data points usage"
+msgstr "資料點用量"
+
 #: development/dialogs/addComponentContent.html:69
 msgid "Data type"
 msgstr "資料型態"
@@ -459,8 +508,8 @@ msgid "Default value"
 msgstr "默認值"
 
 #: development/detail.html:67 development/detail/components.html:126
-#: development/index.html:139 main.js:340 mydevices/detail.html:67
-#: mydevices/index.html:126
+#: development/index.html:139 main.js:358 mydevices/detail.html:67
+#: mydevices/index.html:119
 msgid "Delete"
 msgstr "刪除"
 
@@ -474,7 +523,7 @@ msgstr "刪除動作"
 msgid "Delete data channel"
 msgstr "刪除資料通道"
 
-#: main.js:338
+#: main.js:356
 msgid ""
 "Deleting your device and its sensors is irreversible. Enter your device's "
 "name below to confirm you want to permanently delete it:"
@@ -492,8 +541,8 @@ msgstr "若刪除您的裝置，則無法復原。輸入您裝置的名稱以永
 msgid "Description"
 msgstr "描述"
 
-#: development/index.html:172 management/device-list.html:108
-#: mydevices/index.html:154
+#: dashboard/numberofused.html:6 development/index.html:172
+#: management/device-list.html:108 mydevices/index.html:147
 msgid "Detail"
 msgstr "詳情"
 
@@ -509,11 +558,19 @@ msgstr "使用 LinkIt ONE 開發"
 msgid "Develop with our hardware platform"
 msgstr "使用我們的開發版來開發"
 
+#: limitation/index.html:58
+msgid "Developer Free"
+msgstr "免費的使用者帳戶"
+
+#: limitation/dialogs/limitationDetail.html:10
+msgid "Developer Free account allows you to have:"
+msgstr "使用免費的使用者帳戶，您可以有："
+
 #: aside.html:21 development/detail.html:28 development/index.html:30
 msgid "Development"
 msgstr "開發"
 
-#: main.js:339
+#: main.js:357
 msgid "Device Title"
 msgstr "裝置名稱"
 
@@ -565,6 +622,10 @@ msgstr "DeviceKey"
 #: management/device-list.html:64 management/product-list.html:55
 msgid "Devices"
 msgstr "裝置"
+
+#: limitation/index.html:108
+msgid "Devices ({{ allDeviceLimitationList.length }})"
+msgstr "裝置 ({{ allDeviceLimitationList.length }})"
 
 #: development/detail/testdevicelist.html:3
 msgid "Devices ({{ devices.length }})"
@@ -637,6 +698,10 @@ msgstr "編輯觸發條件資訊"
 msgid "Email"
 msgstr "電子郵件帳號"
 
+#: limitation/index.html:124
+msgid "Email trigger"
+msgstr "電子郵件通知"
+
 #: mydevices/dialogs/editDevices.html:15
 msgid "Enter device name"
 msgstr "輸入裝置名稱"
@@ -649,7 +714,7 @@ msgstr "請輸入你的序號，每個序號間請斷行。"
 msgid "Equal to"
 msgstr "等於"
 
-#: dashboard/overview.html:45 management/device-list.html:82
+#: dashboard/overview.html:46 management/device-list.html:82
 msgid "Error"
 msgstr "錯誤"
 
@@ -969,11 +1034,11 @@ msgstr "語言"
 msgid "Last data point time"
 msgstr "最後資料點時間"
 
-#: dashboard/overview.html:46
+#: dashboard/overview.html:47
 msgid "Last datapoint time"
 msgstr "最後資料點時間"
 
-#: dashboard/overview.html:21
+#: dashboard/overview.html:21 limitation/index.html:125
 msgid "Last update time"
 msgstr "最後更新時間"
 
@@ -989,6 +1054,10 @@ msgstr "緯度："
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:26
 msgid "Limit Firmware"
 msgstr "特定的韌體"
+
+#: directives/graphs/datapointusage.js:19
+msgid "Limitation"
+msgstr "限制"
 
 #: aside.html:100
 msgid "Linkit connect tutorial"
@@ -1067,6 +1136,10 @@ msgstr "行動應用"
 msgid "Mobile list"
 msgstr "手機列表"
 
+#: dashboard/numberofused.html:31
+msgid "Most utilized device :"
+msgstr "使用量最高的裝置："
+
 #: directives/components/control/hex.js:44
 msgid "Must Be a Hex String."
 msgstr "必須是一個十六進位值。"
@@ -1087,10 +1160,11 @@ msgstr "我的裝置"
 msgid "My marker will reappear when you close me."
 msgstr "當您關閉後，註記將重新出現。"
 
-#: dashboard/overview.html:43 development/detail/firmware.html:8
+#: dashboard/overview.html:44 development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8 development/detail/trigger.html:8
-#: mydevices/detail/firmware.html:15 mydevices/detail/trigger.html:8
-#: mydevices/detail/trigger.html:81 profile/index.html:224
+#: limitation/index.html:122 mydevices/detail/firmware.html:15
+#: mydevices/detail/trigger.html:8 mydevices/detail/trigger.html:81
+#: profile/index.html:224
 msgid "Name"
 msgstr "名稱"
 
@@ -1158,7 +1232,7 @@ msgstr "分類數目"
 msgid "Number of test device"
 msgstr "測試裝置數量"
 
-#: dashboard/numberofused.html:4
+#: dashboard/numberofused.html:5
 msgid "Number of used"
 msgstr "使用數量"
 
@@ -1187,11 +1261,15 @@ msgstr "開"
 msgid "ON / OFF"
 msgstr "開關"
 
-#: dashboard/overview.html:57
+#: dashboard/overview.html:58
 msgid "Off line"
 msgstr "離線"
 
-#: dashboard/overview.html:56
+#: limitation/dialogs/limitationDetail.html:30
+msgid "Ok"
+msgstr "OK"
+
+#: dashboard/overview.html:57
 msgid "On line"
 msgstr "在線"
 
@@ -1199,6 +1277,10 @@ msgstr "在線"
 #: development/dialogs/trigger/edit.html:249
 msgid "Only support integer and float data channel types."
 msgstr "只支持整數和浮點數的資料通道類型。"
+
+#: limitation/index.html:105
+msgid "Only the devices that you have owner access will be listed and counted."
+msgstr "只有您為擁有者的裝置會被列出並列入計算。"
 
 #: dashboard/tutorial.html:4
 msgid "Or you can check out the"
@@ -1224,6 +1306,10 @@ msgstr "期間"
 #: controllers/development/detail.js:1075
 msgid "Please Try Again!"
 msgstr "請再試一次！"
+
+#: limitation/dialogs/limitationDetail.html:17
+msgid "Please be noted:"
+msgstr "請注意："
 
 #: controllers/development/detail.js:532
 msgid "Please choose a file to upload"
@@ -1257,7 +1343,7 @@ msgstr "請選擇硬體平台。"
 msgid "Please select industry."
 msgstr "請選擇產業別"
 
-#: main.js:307 main.js:317
+#: main.js:325 main.js:335
 msgid "Please try again!"
 msgstr "請再試一次！"
 
@@ -1284,10 +1370,6 @@ msgstr "個人檔案詳細資料"
 #: profile/index.html:30
 msgid "Profile page"
 msgstr "個人檔案頁面"
-
-#: dashboard/numberofused.html:12
-msgid "Prototype"
-msgstr "產品原型"
 
 #: management/device-list.html:63 management/product-list.html:46
 msgid "Prototype ID"
@@ -1341,6 +1423,10 @@ msgstr "最近的活動"
 #: development/dialogs/editProducts.html:193
 msgid "Recommended 300 x 160 pixels."
 msgstr "推薦大小為 300 x 160 像素"
+
+#: limitation/index.html:46
+msgid "Refresh"
+msgstr "更新"
 
 #: management/product-list.html:65
 msgid "Registered"
@@ -1426,6 +1512,10 @@ msgstr "搜尋使用者"
 msgid "Searching..."
 msgstr "搜尋中..."
 
+#: limitation/index.html:71
+msgid "See the usage limitation detail…"
+msgstr "查看用量限制詳情..."
+
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:41
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:41
 msgid "Select all devices"
@@ -1493,7 +1583,11 @@ msgstr "打開歷史資料"
 msgid "Start"
 msgstr "開始"
 
-#: dashboard/overview.html:44
+#: dashboard/numberofused.html:33
+msgid "Statistics up to today,"
+msgstr "截至今日為止的統計數目，"
+
+#: dashboard/overview.html:45
 msgid "Status"
 msgstr "狀態"
 
@@ -1519,7 +1613,7 @@ msgstr "步驟三"
 msgid "String"
 msgstr "字串"
 
-#: development/dialogs/finishCreateTestDevice.html:3 main.js:305 main.js:322
+#: development/dialogs/finishCreateTestDevice.html:3 main.js:323 main.js:340
 msgid "Success!"
 msgstr "成功！"
 
@@ -1547,11 +1641,11 @@ msgstr "Telnet"
 msgid "Template preview"
 msgstr "模版預覽"
 
-#: mydevices/index.html:106
+#: mydevices/index.html:99
 msgid "Test"
 msgstr "測試"
 
-#: dashboard/numberofused.html:16 development/detail.html:137
+#: development/detail.html:137
 msgid "Test Device"
 msgstr "測試裝置"
 
@@ -1661,6 +1755,10 @@ msgid ""
 "prototype."
 msgstr "您能在此查看和管理所有隸屬於此開發原型的測試裝置。"
 
+#: limitation/index.html:169 limitation/index.html:175
+msgid "Totals"
+msgstr "總共"
+
 #: development/detail.html:158 development/detail/trigger.html:3
 #: mydevices/detail.html:206 mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
@@ -1724,6 +1822,10 @@ msgstr "更新用戶圖像內部錯誤！"
 msgid "Upgrade"
 msgstr "升級"
 
+#: limitation/index.html:59 limitation/index.html:76
+msgid "Upgrade now"
+msgstr "現在更新"
+
 #: development/dialogs/createProducts.html:228
 #: development/dialogs/editProducts.html:217
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:92
@@ -1751,6 +1853,14 @@ msgstr "上傳資料點"
 #: mydevices/dialogs/editDevices.html:122 profile/index.html:48
 msgid "Uploading..."
 msgstr "上傳中..."
+
+#: limitation/dialogs/limitationDetail.html:3
+msgid "Usage limitation detail"
+msgstr "使用量限制詳情"
+
+#: limitation/index.html:104
+msgid "Usage of each device"
+msgstr "裝置用量"
 
 #: development/dialogs/userPrivilege.html:11
 #: mydevices/dialogs/userPrivilege.html:11
@@ -1784,7 +1894,7 @@ msgstr "值"
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
 #: development/index.html:155 mydevices/detail.html:48
 #: mydevices/detail.html:54 mydevices/detail/firmware.html:16
-#: mydevices/index.html:141
+#: mydevices/index.html:134
 msgid "Version"
 msgstr "版本"
 
@@ -1815,7 +1925,7 @@ msgid ""
 "see it."
 msgstr "你可以編輯你想要使用者看到的產品原型資訊。"
 
-#: mydevices/index.html:89
+#: mydevices/index.html:80
 msgid ""
 "You can follow the quick start guide in the dashboard, or refer to the "
 "tutorial for more detail steps."
@@ -1838,6 +1948,10 @@ msgid ""
 "You can use the APIs listed here to set up the action you need.eg. upload or "
 "retrieve data."
 msgstr "您可以使用這邊提供的 API 來設定你所需要的動作。例如上傳和讀取資料點。"
+
+#: limitation/index.html:65
+msgid "You can:"
+msgstr "您可以："
 
 #: dialogs/tutorialCloseConfirm.html:17
 msgid "You do not finish the tutorial yet."
@@ -1862,9 +1976,17 @@ msgstr "您在使用 API 呼叫裝置時，將會需要 deviceId 和 deviceKey �
 msgid "You will need to restart if you exit the tutorial now."
 msgstr "若現在退出，下次需要重新開始。"
 
+#: limitation/index.html:57
+msgid "Your account"
+msgstr "您的帳戶"
+
 #: profile/index.html:196
 msgid "Your current timezone"
 msgstr "目前所在地時間"
+
+#: limitation/index.html:99
+msgid "Your device list"
+msgstr "您的裝置清單"
 
 #: controllers/profile/index.js:77
 msgid "Your password length cannot be less than 8 characters"
@@ -1878,7 +2000,7 @@ msgstr "管理員"
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr "高度必須在 -20000 公尺至 20000 公尺之間！"
 
-#: mydevices/index.html:87
+#: mydevices/index.html:77
 msgid "and create test device for it."
 msgstr "並且為其建立測試裝置。"
 
@@ -1894,6 +2016,10 @@ msgstr "選擇語言"
 msgid "choose Timezone"
 msgstr "選擇時區"
 
+#: limitation/dialogs/limitationDetail.html:22
+msgid "click here"
+msgstr "點擊此處"
+
 #: controllers/profile/index.js:70
 msgid "confirm password can not be null"
 msgstr "確認密碼不能為空"
@@ -1902,7 +2028,15 @@ msgstr "確認密碼不能為空"
 msgid "content"
 msgstr "內容"
 
-#: controllers/dashboard/index.js:30
+#: limitation/index.html:169 limitation/index.html:177
+msgid "data points have been used and still have"
+msgstr "個資料點已被使用，並還有"
+
+#: dashboard/numberofused.html:33
+msgid "data points have been used."
+msgstr "個資料點已被使用。"
+
+#: controllers/dashboard/index.js:31
 msgid "days ago"
 msgstr "天之前"
 
@@ -1927,7 +2061,7 @@ msgstr "裝置"
 msgid "file cannot be null!"
 msgstr "文件不能為空！"
 
-#: controllers/dashboard/index.js:33
+#: controllers/dashboard/index.js:34
 msgid "hours ago"
 msgstr "小時之前"
 
@@ -1943,7 +2077,7 @@ msgstr "和你目前的設定不符合"
 msgid "jQuery"
 msgstr "jQuery"
 
-#: controllers/dashboard/index.js:39
+#: controllers/dashboard/index.js:40
 msgid "just now"
 msgstr "剛剛"
 
@@ -2029,7 +2163,7 @@ msgstr "經度值必須在 -180 至 180 度之間！"
 msgid "lowerbound"
 msgstr "下限"
 
-#: controllers/dashboard/index.js:36
+#: controllers/dashboard/index.js:37
 msgid "mins ago"
 msgstr "分鐘之前"
 
@@ -2045,7 +2179,7 @@ msgstr "新密碼不能為空"
 msgid "new password is not as same as confirm password"
 msgstr "新密碼和確認密碼不一致"
 
-#: main.js:315 main.js:329
+#: main.js:333 main.js:347
 msgid "notice"
 msgstr "注意"
 
@@ -2115,9 +2249,9 @@ msgstr "版本不能為空！"
 msgid "viewer"
 msgstr "一般檢視"
 
-#: mydevices/index.html:87
-msgid "you need to first create a prototype"
-msgstr "您需要先建立產品原型"
+#: mydevices/index.html:77
+msgid "you need to create a prototype"
+msgstr "您需要建立一個產品原型"
 
 #: development/dialogs/trigger/add.html:369
 #: development/dialogs/trigger/edit.html:357
@@ -2127,6 +2261,15 @@ msgstr "{{format.display | capitalize:'first'}}"
 #: services/validator.js:37
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr "{{key1}} 和 {{key2}} 不能相同。"
+
+#~ msgid "Add your devices now!"
+#~ msgstr "馬上新增裝置！"
+
+#~ msgid "Prototype"
+#~ msgstr "產品原型"
+
+#~ msgid "you need to first create a prototype"
+#~ msgstr "您需要先建立產品原型"
 
 #~ msgid "Change log"
 #~ msgstr "更新日誌"
