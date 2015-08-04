@@ -45,13 +45,16 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:12
 #: limitation/index.html:67
 msgid "1. 10 test devices"
 msgstr ""
 
+#: limitation/dialogs/limitationDetail.html:12
+msgid "1. 10 test devices."
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:19
-msgid "1. Devices being shared from other user account will not be counted"
+msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
 #: main.js:355
@@ -59,7 +62,7 @@ msgid "1010"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:13
-msgid "2. 100,000 data points per device/month"
+msgid "2. 100,000 data points per device/month."
 msgstr ""
 
 #: limitation/index.html:68
@@ -75,7 +78,7 @@ msgid "3. 100 email notification device/day"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:14
-msgid "3. 100 email notification per device/day"
+msgid "3. 100 email notification per device/day."
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:21
@@ -87,7 +90,7 @@ msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:15
-msgid "4. Unlimited number of prototype and GCM notification"
+msgid "4. Unlimited number of prototype and GCM notification."
 msgstr ""
 
 #: development/detail/components.html:7
