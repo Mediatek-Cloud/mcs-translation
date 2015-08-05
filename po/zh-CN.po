@@ -51,25 +51,29 @@ msgstr "+ 新增触发条件和动作"
 msgid "+ Add user"
 msgstr "+ 新增使用者"
 
-#: limitation/dialogs/limitationDetail.html:12 limitation/index.html:67
+#: limitation/index.html:67
 msgid "1. 10 test devices"
 msgstr "1. 10个测试装置"
 
-#: limitation/dialogs/limitationDetail.html:19
-msgid "1. Devices being shared from other user account will not be counted"
-msgstr "1.其他使用者分享权限权限给您的测试装置将不列入计算"
+#: limitation/dialogs/limitationDetail.html:12
+msgid "1. 10 test devices."
+msgstr "1. 10个测试装置。"
 
-#: main.js:355
+#: limitation/dialogs/limitationDetail.html:19
+msgid "1. Devices being shared from other user account will not be counted."
+msgstr "1.由其他使用者分享给您的装置不会列入计算。"
+
+#: main.js:358
 msgid "1010"
 msgstr "1010"
 
-#: limitation/dialogs/limitationDetail.html:13
-msgid "2. 100,000 data points per device/month"
+#: limitation/index.html:68
+msgid "2. 100,000 data points device/month"
 msgstr "2.每个装置每个月能有10万笔资料点"
 
-#: limitation/index.html:68
-msgid "2. 100,000 data points device/month"
-msgstr "2.每个装置每个月能有10万笔资料点"
+#: limitation/dialogs/limitationDetail.html:13
+msgid "2. 100,000 data points per device/month."
+msgstr "2.每个装置每个月能有10万笔资料点。"
 
 #: limitation/dialogs/limitationDetail.html:20
 msgid ""
@@ -82,8 +86,8 @@ msgid "3. 100 email notification device/day"
 msgstr "3.每个装置每天100封邮件通知"
 
 #: limitation/dialogs/limitationDetail.html:14
-msgid "3. 100 email notification per device/day"
-msgstr "3.每个装置每天100封邮件通知"
+msgid "3. 100 email notification per device/day."
+msgstr "3.每个装置每天100封邮件通知。"
 
 #: limitation/dialogs/limitationDetail.html:21
 msgid ""
@@ -96,8 +100,8 @@ msgid "4. If you have a need to expand usage quota, please"
 msgstr "4.若您需要额外的使用量，请"
 
 #: limitation/dialogs/limitationDetail.html:15
-msgid "4. Unlimited number of prototype and GCM notification"
-msgstr "4.产品原型和GCM通知，没有使用数量限制。"
+msgid "4. Unlimited number of prototype and GCM notification."
+msgstr "4.无限制数量的产品原型和GCM通知数量。"
 
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
@@ -236,11 +240,23 @@ msgstr "和"
 msgid "Angular"
 msgstr "Angular"
 
+#: profile/dialogs/applyApp.html:11 profile/dialogs/editApp.html:11
+msgid "App name"
+msgstr "App 名称"
+
+#: profile/dialogs/applyApp.html:46 profile/dialogs/editApp.html:51
+msgid "App url"
+msgstr "App 网址"
+
 #: development/detail.html:127 development/dialogs/createProducts.html:144
 #: development/dialogs/editProducts.html:134 mydevices/detail.html:98
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
 msgstr "应用程序"
+
+#: profile/detail/serviceprovider.html:9 profile/dialogs/applyApp.html:3
+msgid "Apply for appId and appSecret"
+msgstr "申请 appId 和 appSecret"
 
 #: mydevices/detail/apihint.html:89 mydevices/dialogs/showapihint.html:66
 msgid "Arduino"
@@ -279,12 +295,13 @@ msgstr "找不到想要的模版吗？"
 #: development/dialogs/trigger/add.html:445
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
-#: dialogs/tutorialCloseConfirm.html:32 main.js:359
+#: dialogs/tutorialCloseConfirm.html:32 main.js:362
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99 mydevices/dialogs/trigger.html:102
-#: mydevices/dialogs/userPrivilege.html:94
+#: mydevices/dialogs/userPrivilege.html:94 profile/dialogs/applyApp.html:82
 #: profile/dialogs/changePassword.html:60 profile/dialogs/cropImage.html:24
+#: profile/dialogs/editApp.html:87
 msgid "Cancel"
 msgstr "取消"
 
@@ -305,6 +322,10 @@ msgstr "检核码"
 #: mydevices/dialogs/editDevices.html:30
 msgid "Chip"
 msgstr "芯片"
+
+#: profile/dialogs/applyApp.html:29 profile/dialogs/editApp.html:34
+msgid "Choose app platform."
+msgstr "选择应 app 平台"
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:59
 #: management/dialogs/createSerialNumber.html:55
@@ -361,7 +382,7 @@ msgstr "清除所选"
 msgid "Click the edit button. Let's start editing !"
 msgstr "点击编辑按钮，开始编辑！"
 
-#: main.js:326
+#: main.js:329
 msgid "Close"
 msgstr "关闭"
 
@@ -402,6 +423,8 @@ msgstr "调节器"
 
 #: mydevices/detail.html:122 mydevices/detail.html:138
 #: mydevices/detail.html:167 mydevices/detail.html:179
+#: profile/detail/serviceprovider.html:62
+#: profile/detail/serviceprovider.html:77
 msgid "Copy"
 msgstr "复制"
 
@@ -432,6 +455,13 @@ msgstr "新增测试装置来搜集即时资料吧！"
 #: tutorial.html:74
 msgid "Create the first prototype"
 msgstr "建立您的第一个产品原型"
+
+#: profile/detail/serviceprovider.html:4
+msgid ""
+"Create your own third party service using MCS APIs. Simply apply for the "
+"appId and the appSecret to get started!"
+msgstr ""
+"使用 MCS 的 APIs 来建立您的第三方服务。申请 appId 和 appSecret 来开始吧！"
 
 #: development/index.html:91
 msgid "Create your prototype now!"
@@ -491,10 +521,10 @@ msgstr "您必须选择资料通道！"
 msgid "Data channel name"
 msgstr "资料通道名称"
 
-#: dashboard/numberofused.html:29 directives/graphs/datapointusage.js:14
+#: dashboard/numberofused.html:31 directives/graphs/datapointusage.js:14
 #: limitation/index.html:123
 msgid "Data points usage"
-msgstr "资料点用量"
+msgstr "用量"
 
 #: development/dialogs/addComponentContent.html:69
 msgid "Data type"
@@ -508,8 +538,8 @@ msgid "Default value"
 msgstr "默认值"
 
 #: development/detail.html:67 development/detail/components.html:126
-#: development/index.html:139 main.js:358 mydevices/detail.html:67
-#: mydevices/index.html:119
+#: development/index.html:139 main.js:361 mydevices/detail.html:67
+#: mydevices/index.html:119 profile/detail/serviceprovider.html:21
 msgid "Delete"
 msgstr "删除"
 
@@ -523,7 +553,7 @@ msgstr "删除动作"
 msgid "Delete data channel"
 msgstr "删除资料通道"
 
-#: main.js:356
+#: main.js:359
 msgid ""
 "Deleting your device and its sensors is irreversible. Enter your device's "
 "name below to confirm you want to permanently delete it:"
@@ -538,6 +568,8 @@ msgstr "若删除您的装置，则无法复原。输入您装置的名称以永
 #: development/dialogs/trigger/edit.html:69 mydevices/detail.html:99
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:60
+#: profile/detail/serviceprovider.html:44 profile/dialogs/applyApp.html:61
+#: profile/dialogs/editApp.html:66
 msgid "Description"
 msgstr "描述"
 
@@ -560,17 +592,17 @@ msgstr "使用我们的开发版来开发"
 
 #: limitation/index.html:58
 msgid "Developer Free"
-msgstr "免费的使用者帐户"
+msgstr "免费开发者帐户"
 
 #: limitation/dialogs/limitationDetail.html:10
 msgid "Developer Free account allows you to have:"
-msgstr "使用免费的使用者帐户，您可以有："
+msgstr "使用免费的开发者帐户，您可以有："
 
 #: aside.html:21 development/detail.html:28 development/index.html:30
 msgid "Development"
 msgstr "开发"
 
-#: main.js:357
+#: main.js:360
 msgid "Device Title"
 msgstr "装置名称"
 
@@ -660,8 +692,13 @@ msgstr "例如: 100 (整数)"
 
 #: development/detail.html:80 development/detail/components.html:120
 #: development/detail/manufacturerinfo.html:11 development/index.html:136
+#: profile/detail/serviceprovider.html:29
 msgid "Edit"
 msgstr "编辑"
+
+#: profile/dialogs/editApp.html:3
+msgid "Edit app"
+msgstr "编辑 app"
 
 #: development/dialogs/editComponent.html:3
 msgid "Edit data channel"
@@ -999,6 +1036,14 @@ msgstr "输入触发条件名称"
 msgid "Input the user name or email"
 msgstr "输入用户名或电子邮件"
 
+#: profile/dialogs/applyApp.html:16 profile/dialogs/editApp.html:18
+msgid "Input your App name."
+msgstr "输入您的 app 名称。"
+
+#: profile/dialogs/applyApp.html:54 profile/dialogs/editApp.html:59
+msgid "Input your App url."
+msgstr "输入您的 app 网址。"
+
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:75
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
 msgid "Input your check sum information"
@@ -1079,7 +1124,7 @@ msgstr "经度："
 msgid "Low"
 msgstr "低"
 
-#: services/validator.js:63
+#: services/validator.js:65
 msgid "Lower bound should be smaller than upper bound."
 msgstr "下限值需小于上限值。"
 
@@ -1119,7 +1164,7 @@ msgstr "手动"
 msgid "Manually enter serial numbers"
 msgstr "手动输入序列号"
 
-#: profile/index.html:214
+#: profile/detail/mobilelist.html:2
 msgid "Mobile Notification from MCS"
 msgstr "来自MCS的推播通知"
 
@@ -1131,12 +1176,12 @@ msgstr "来自测试装置的推播通知"
 msgid "Mobile application"
 msgstr "行动应用"
 
-#: mydevices/detail/trigger.html:76 profile/index.html:208
-#: profile/index.html:217
+#: mydevices/detail/trigger.html:76 profile/detail/mobilelist.html:5
+#: profile/index.html:214
 msgid "Mobile list"
 msgstr "手机列表"
 
-#: dashboard/numberofused.html:31
+#: dashboard/numberofused.html:33
 msgid "Most utilized device :"
 msgstr "使用量最高的装置："
 
@@ -1164,7 +1209,7 @@ msgstr "当您关闭后，注记将重新出现。"
 #: development/detail/testdevicelist.html:8 development/detail/trigger.html:8
 #: limitation/index.html:122 mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8 mydevices/detail/trigger.html:81
-#: profile/index.html:224
+#: profile/detail/mobilelist.html:10
 msgid "Name"
 msgstr "名称"
 
@@ -1303,6 +1348,10 @@ msgstr "密码"
 msgid "Period"
 msgstr "期间"
 
+#: profile/dialogs/applyApp.html:23 profile/dialogs/editApp.html:25
+msgid "Platform"
+msgstr "平台"
+
 #: controllers/development/detail.js:1075
 msgid "Please Try Again!"
 msgstr "请再试一次！"
@@ -1323,7 +1372,7 @@ msgstr "请选择使用者权限。"
 msgid "Please confirm if you want to release this prototype."
 msgstr "请确认是否要发布这个产品原型。"
 
-#: services/validator.js:29 services/validator.js:56
+#: services/validator.js:31 services/validator.js:58
 msgid "Please input {{key}}."
 msgstr "请输入  {{key}} 。"
 
@@ -1343,7 +1392,7 @@ msgstr "请选择硬件平台。"
 msgid "Please select industry."
 msgstr "请选择产业别"
 
-#: main.js:325 main.js:335
+#: main.js:328 main.js:338
 msgid "Please try again!"
 msgstr "请再试一次！"
 
@@ -1436,7 +1485,7 @@ msgstr "注册"
 msgid "Registered date"
 msgstr "注册日期"
 
-#: mydevices/detail/trigger.html:82 profile/index.html:225
+#: mydevices/detail/trigger.html:82 profile/detail/mobilelist.html:11
 msgid "Registered from"
 msgstr "注册来源"
 
@@ -1444,7 +1493,7 @@ msgstr "注册来源"
 msgid "Registered rate"
 msgstr "注册比例"
 
-#: mydevices/detail/trigger.html:83 profile/index.html:226
+#: mydevices/detail/trigger.html:83 profile/detail/mobilelist.html:12
 msgid "Registered time"
 msgstr "注册时间"
 
@@ -1492,8 +1541,9 @@ msgstr "角色"
 #: development/dialogs/trigger/edit.html:439
 #: development/dialogs/userPrivilege.html:103
 #: mydevices/dialogs/createDevices.html:83 mydevices/dialogs/trigger.html:108
-#: mydevices/dialogs/userPrivilege.html:100
+#: mydevices/dialogs/userPrivilege.html:100 profile/dialogs/applyApp.html:86
 #: profile/dialogs/changePassword.html:64 profile/dialogs/cropImage.html:31
+#: profile/dialogs/editApp.html:91
 msgid "Save"
 msgstr "保存"
 
@@ -1553,7 +1603,7 @@ msgstr ""
 msgid "Select trigger action"
 msgstr "选择触发动作"
 
-#: controllers/profile/index.js:57
+#: controllers/profile/index.js:173
 msgid "Send email to {{email}}"
 msgstr "请寄至以下电子邮件 {{email}}"
 
@@ -1575,6 +1625,14 @@ msgstr "编号"
 msgid "Server Internal Error."
 msgstr "服务器内部错误。"
 
+#: profile/index.html:221
+msgid "Service Provider"
+msgstr "服务提供者"
+
+#: profile/detail/serviceprovider.html:2
+msgid "Service Provider Section"
+msgstr "服务提供者专区"
+
 #: mydevices/detail/components.html:101
 msgid "Show History"
 msgstr "打开历史资料"
@@ -1583,7 +1641,7 @@ msgstr "打开历史资料"
 msgid "Start"
 msgstr "开始"
 
-#: dashboard/numberofused.html:33
+#: dashboard/numberofused.html:35
 msgid "Statistics up to today,"
 msgstr "截至今日为止的统计数目，"
 
@@ -1613,7 +1671,12 @@ msgstr "步骤三"
 msgid "String"
 msgstr "字串"
 
-#: development/dialogs/finishCreateTestDevice.html:3 main.js:323 main.js:340
+#: controllers/profile/index.js:104 controllers/profile/index.js:53
+#: controllers/profile/index.js:82
+msgid "Success"
+msgstr "成功"
+
+#: development/dialogs/finishCreateTestDevice.html:3 main.js:326 main.js:343
 msgid "Success!"
 msgstr "成功！"
 
@@ -1621,7 +1684,7 @@ msgstr "成功！"
 msgid "Supports"
 msgstr "支援"
 
-#: mydevices/detail/trigger.html:84 profile/index.html:227
+#: mydevices/detail/trigger.html:84 profile/detail/mobilelist.html:13
 msgid "Switch"
 msgstr "开关"
 
@@ -1743,7 +1806,7 @@ msgid ""
 "switch for it."
 msgstr "打开手机推播开关，以收到来自此测试装置的通知。"
 
-#: profile/index.html:215
+#: profile/detail/mobilelist.html:3
 msgid ""
 "To receive the notification from MCS, turn on the mobile push switch for "
 "each specific mobile."
@@ -1758,6 +1821,10 @@ msgstr "您能在此查看和管理所有隶属于此开发原型的测试装置
 #: limitation/index.html:169 limitation/index.html:175
 msgid "Totals"
 msgstr "总共"
+
+#: dashboard/numberofused.html:15 limitation/index.html:82
+msgid "Totals prototype"
+msgstr "个产品原型"
 
 #: development/detail.html:158 development/detail/trigger.html:3
 #: mydevices/detail.html:206 mydevices/detail/trigger.html:3
@@ -1814,7 +1881,7 @@ msgstr "教程"
 msgid "Type"
 msgstr "类型"
 
-#: controllers/profile/index.js:136
+#: controllers/profile/index.js:252
 msgid "Update user Image internal error!"
 msgstr "更新用户图像内部错误！"
 
@@ -1902,6 +1969,10 @@ msgstr "版本"
 msgid "Version cannot be null."
 msgstr "版本不能为空。"
 
+#: profile/detail/serviceprovider.html:41
+msgid "Website"
+msgstr "网站"
+
 #: dashboard/tutorial.html:2
 msgid "Welcome"
 msgstr "欢迎"
@@ -1976,6 +2047,10 @@ msgstr "您在使用 API 呼叫装置时，将会需要 deviceId 和 deviceKey �
 msgid "You will need to restart if you exit the tutorial now."
 msgstr "若现在退出，下次需要重新开始。"
 
+#: profile/detail/serviceprovider.html:12
+msgid "Your App"
+msgstr "您的 app"
+
 #: limitation/index.html:57
 msgid "Your account"
 msgstr "您的帐户"
@@ -1988,7 +2063,7 @@ msgstr "您当前的时区"
 msgid "Your device list"
 msgstr "您的装置清单"
 
-#: controllers/profile/index.js:77
+#: controllers/profile/index.js:193
 msgid "Your password length cannot be less than 8 characters"
 msgstr "您的密码必须至少为八个字元"
 
@@ -2003,6 +2078,14 @@ msgstr "高度必须在 -20000 公尺至 20000 公尺之间！"
 #: mydevices/index.html:77
 msgid "and create test device for it."
 msgstr "并且为其建立测试装置。"
+
+#: profile/detail/serviceprovider.html:52
+msgid "appKey :"
+msgstr "appKey :"
+
+#: profile/detail/serviceprovider.html:67
+msgid "appSecret :"
+msgstr "appSecret :"
 
 #: mydevices/dialogs/editDevices.html:140
 msgid "cancel"
@@ -2020,7 +2103,7 @@ msgstr "选择时区"
 msgid "click here"
 msgstr "点击此处"
 
-#: controllers/profile/index.js:70
+#: controllers/profile/index.js:186
 msgid "confirm password can not be null"
 msgstr "确认密码不能为空"
 
@@ -2032,7 +2115,7 @@ msgstr "内容"
 msgid "data points have been used and still have"
 msgstr "个资料点已被使用，并还有"
 
-#: dashboard/numberofused.html:33
+#: dashboard/numberofused.html:35
 msgid "data points have been used."
 msgstr "个资料点已被使用。"
 
@@ -2171,17 +2254,21 @@ msgstr "分钟之前"
 msgid "name cannot be null!"
 msgstr "名称不能为空！"
 
-#: controllers/profile/index.js:67
+#: controllers/profile/index.js:183
 msgid "new password can not be null"
 msgstr "新密码不能为空"
 
-#: controllers/profile/index.js:73
+#: controllers/profile/index.js:189
 msgid "new password is not as same as confirm password"
 msgstr "新密码和确认密码不一致"
 
-#: main.js:333 main.js:347
+#: main.js:336 main.js:350
 msgid "notice"
 msgstr "注意"
+
+#: dashboard/numberofused.html:22 limitation/index.html:89
+msgid "of 10 Test Devices"
+msgstr "个测试装置"
 
 #: filters/userPrivType.js:5
 msgid "owner"
@@ -2258,9 +2345,24 @@ msgstr "您需要建立一个产品原型"
 msgid "{{format.display | capitalize:'first'}}"
 msgstr "{{format.display | capitalize:'first'}}"
 
-#: services/validator.js:37
+#: services/validator.js:39
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr "{{key1}} 和 {{key2}} 不能相同。"
+
+#~ msgid "2. 100,000 data points device/month"
+#~ msgstr "2.每个装置每个月能有10万笔资料点"
+
+#~ msgid "1. Devices being shared from other user account will not be counted"
+#~ msgstr "1.其他使用者分享权限权限给您的测试装置将不列入计算"
+
+#~ msgid "2. 100,000 data points per device/month"
+#~ msgstr "2.每个装置每个月能有10万笔资料点"
+
+#~ msgid "3. 100 email notification per device/day"
+#~ msgstr "3.每个装置每天100封邮件通知"
+
+#~ msgid "4. Unlimited number of prototype and GCM notification"
+#~ msgstr "4.产品原型和GCM通知，没有使用数量限制。"
 
 #~ msgid "Add your devices now!"
 #~ msgstr "马上新增设备!"
