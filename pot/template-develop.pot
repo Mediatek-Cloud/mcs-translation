@@ -1875,11 +1875,6 @@ msgstr ""
 msgid "Totals"
 msgstr ""
 
-#: dashboard/numberofused.html:15
-#: limitation/index.html:82
-msgid "Totals prototype"
-msgstr ""
-
 #: development/detail.html:158
 #: development/detail/trigger.html:3
 #: mydevices/detail.html:206
@@ -2354,11 +2349,6 @@ msgstr ""
 #: main.js:336
 #: main.js:350
 msgid "notice"
-msgstr ""
-
-#: dashboard/numberofused.html:22
-#: limitation/index.html:89
-msgid "of 10 Test Devices"
 msgstr ""
 
 #: filters/userPrivType.js:5
