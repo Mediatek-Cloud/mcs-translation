@@ -57,16 +57,16 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
-#: main.js:355
+#: main.js:358
 msgid "1010"
+msgstr ""
+
+#: limitation/index.html:68
+msgid "2. 100,000 data points device/month"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:13
 msgid "2. 100,000 data points per device/month."
-msgstr ""
-
-#: limitation/index.html:68
-msgid "2. 100,000 data points device/month"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:20
@@ -233,12 +233,27 @@ msgstr ""
 msgid "Angular"
 msgstr ""
 
+#: profile/dialogs/applyApp.html:11
+#: profile/dialogs/editApp.html:11
+msgid "App name"
+msgstr ""
+
+#: profile/dialogs/applyApp.html:46
+#: profile/dialogs/editApp.html:51
+msgid "App url"
+msgstr ""
+
 #: development/detail.html:127
 #: development/dialogs/createProducts.html:144
 #: development/dialogs/editProducts.html:134
 #: mydevices/detail.html:98
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
+msgstr ""
+
+#: profile/detail/serviceprovider.html:9
+#: profile/dialogs/applyApp.html:3
+msgid "Apply for appId and appSecret"
 msgstr ""
 
 #: mydevices/detail/apihint.html:89
@@ -281,14 +296,16 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:359
+#: main.js:362
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
 #: mydevices/dialogs/trigger.html:102
 #: mydevices/dialogs/userPrivilege.html:94
+#: profile/dialogs/applyApp.html:82
 #: profile/dialogs/changePassword.html:60
 #: profile/dialogs/cropImage.html:24
+#: profile/dialogs/editApp.html:87
 msgid "Cancel"
 msgstr ""
 
@@ -309,6 +326,11 @@ msgstr ""
 
 #: mydevices/dialogs/editDevices.html:30
 msgid "Chip"
+msgstr ""
+
+#: profile/dialogs/applyApp.html:29
+#: profile/dialogs/editApp.html:34
+msgid "Choose app platform."
 msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:59
@@ -368,7 +390,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:326
+#: main.js:329
 msgid "Close"
 msgstr ""
 
@@ -406,6 +428,8 @@ msgstr ""
 #: mydevices/detail.html:138
 #: mydevices/detail.html:167
 #: mydevices/detail.html:179
+#: profile/detail/serviceprovider.html:62
+#: profile/detail/serviceprovider.html:77
 msgid "Copy"
 msgstr ""
 
@@ -436,6 +460,10 @@ msgstr ""
 
 #: tutorial.html:74
 msgid "Create the first prototype"
+msgstr ""
+
+#: profile/detail/serviceprovider.html:4
+msgid "Create your own third party service using MCS APIs. Simply apply for the appId and the appSecret to get started!"
 msgstr ""
 
 #: development/index.html:91
@@ -524,9 +552,10 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:126
 #: development/index.html:139
-#: main.js:358
+#: main.js:361
 #: mydevices/detail.html:67
 #: mydevices/index.html:119
+#: profile/detail/serviceprovider.html:21
 msgid "Delete"
 msgstr ""
 
@@ -540,7 +569,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:356
+#: main.js:359
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -555,6 +584,9 @@ msgstr ""
 #: mydevices/detail.html:99
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:60
+#: profile/detail/serviceprovider.html:44
+#: profile/dialogs/applyApp.html:61
+#: profile/dialogs/editApp.html:66
 msgid "Description"
 msgstr ""
 
@@ -591,7 +623,7 @@ msgstr ""
 msgid "Development"
 msgstr ""
 
-#: main.js:357
+#: main.js:360
 msgid "Device Title"
 msgstr ""
 
@@ -684,7 +716,12 @@ msgstr ""
 #: development/detail/components.html:120
 #: development/detail/manufacturerinfo.html:11
 #: development/index.html:136
+#: profile/detail/serviceprovider.html:29
 msgid "Edit"
+msgstr ""
+
+#: profile/dialogs/editApp.html:3
+msgid "Edit app"
 msgstr ""
 
 #: development/dialogs/editComponent.html:3
@@ -1027,6 +1064,16 @@ msgstr ""
 msgid "Input the user name or email"
 msgstr ""
 
+#: profile/dialogs/applyApp.html:16
+#: profile/dialogs/editApp.html:18
+msgid "Input your App name."
+msgstr ""
+
+#: profile/dialogs/applyApp.html:54
+#: profile/dialogs/editApp.html:59
+msgid "Input your App url."
+msgstr ""
+
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:75
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
 msgid "Input your check sum information"
@@ -1110,7 +1157,7 @@ msgstr ""
 msgid "Low"
 msgstr ""
 
-#: services/validator.js:63
+#: services/validator.js:65
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
@@ -1152,7 +1199,7 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: profile/index.html:214
+#: profile/detail/mobilelist.html:2
 msgid "Mobile Notification from MCS"
 msgstr ""
 
@@ -1165,8 +1212,8 @@ msgid "Mobile application"
 msgstr ""
 
 #: mydevices/detail/trigger.html:76
-#: profile/index.html:208
-#: profile/index.html:217
+#: profile/detail/mobilelist.html:5
+#: profile/index.html:214
 msgid "Mobile list"
 msgstr ""
 
@@ -1204,7 +1251,7 @@ msgstr ""
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
-#: profile/index.html:224
+#: profile/detail/mobilelist.html:10
 msgid "Name"
 msgstr ""
 
@@ -1352,6 +1399,11 @@ msgstr ""
 msgid "Period"
 msgstr ""
 
+#: profile/dialogs/applyApp.html:23
+#: profile/dialogs/editApp.html:25
+msgid "Platform"
+msgstr ""
+
 #: controllers/development/detail.js:1075
 msgid "Please Try Again!"
 msgstr ""
@@ -1373,8 +1425,8 @@ msgstr ""
 msgid "Please confirm if you want to release this prototype."
 msgstr ""
 
-#: services/validator.js:29
-#: services/validator.js:56
+#: services/validator.js:31
+#: services/validator.js:58
 msgid "Please input {{key}}."
 msgstr ""
 
@@ -1394,8 +1446,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:325
-#: main.js:335
+#: main.js:328
+#: main.js:338
 msgid "Please try again!"
 msgstr ""
 
@@ -1490,7 +1542,7 @@ msgid "Registered date"
 msgstr ""
 
 #: mydevices/detail/trigger.html:82
-#: profile/index.html:225
+#: profile/detail/mobilelist.html:11
 msgid "Registered from"
 msgstr ""
 
@@ -1499,7 +1551,7 @@ msgid "Registered rate"
 msgstr ""
 
 #: mydevices/detail/trigger.html:83
-#: profile/index.html:226
+#: profile/detail/mobilelist.html:12
 msgid "Registered time"
 msgstr ""
 
@@ -1551,8 +1603,10 @@ msgstr ""
 #: mydevices/dialogs/createDevices.html:83
 #: mydevices/dialogs/trigger.html:108
 #: mydevices/dialogs/userPrivilege.html:100
+#: profile/dialogs/applyApp.html:86
 #: profile/dialogs/changePassword.html:64
 #: profile/dialogs/cropImage.html:31
+#: profile/dialogs/editApp.html:91
 msgid "Save"
 msgstr ""
 
@@ -1605,7 +1659,7 @@ msgstr ""
 msgid "Select trigger action"
 msgstr ""
 
-#: controllers/profile/index.js:57
+#: controllers/profile/index.js:173
 msgid "Send email to {{email}}"
 msgstr ""
 
@@ -1626,6 +1680,14 @@ msgstr ""
 #: directives/components/control/string.js:44
 #: directives/components/control/switch.js:63
 msgid "Server Internal Error."
+msgstr ""
+
+#: profile/index.html:221
+msgid "Service Provider"
+msgstr ""
+
+#: profile/detail/serviceprovider.html:2
+msgid "Service Provider Section"
 msgstr ""
 
 #: mydevices/detail/components.html:101
@@ -1666,9 +1728,15 @@ msgstr ""
 msgid "String"
 msgstr ""
 
+#: controllers/profile/index.js:104
+#: controllers/profile/index.js:53
+#: controllers/profile/index.js:82
+msgid "Success"
+msgstr ""
+
 #: development/dialogs/finishCreateTestDevice.html:3
-#: main.js:323
-#: main.js:340
+#: main.js:326
+#: main.js:343
 msgid "Success!"
 msgstr ""
 
@@ -1677,7 +1745,7 @@ msgid "Supports"
 msgstr ""
 
 #: mydevices/detail/trigger.html:84
-#: profile/index.html:227
+#: profile/detail/mobilelist.html:13
 msgid "Switch"
 msgstr ""
 
@@ -1794,7 +1862,7 @@ msgstr ""
 msgid "To receive specific notification from this device, turn on the mobile push switch for it."
 msgstr ""
 
-#: profile/index.html:215
+#: profile/detail/mobilelist.html:3
 msgid "To receive the notification from MCS, turn on the mobile push switch for each specific mobile."
 msgstr ""
 
@@ -1805,6 +1873,11 @@ msgstr ""
 #: limitation/index.html:169
 #: limitation/index.html:175
 msgid "Totals"
+msgstr ""
+
+#: dashboard/numberofused.html:15
+#: limitation/index.html:82
+msgid "Totals prototype"
 msgstr ""
 
 #: development/detail.html:158
@@ -1868,7 +1941,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: controllers/profile/index.js:136
+#: controllers/profile/index.js:252
 msgid "Update user Image internal error!"
 msgstr ""
 
@@ -1964,6 +2037,10 @@ msgstr ""
 msgid "Version cannot be null."
 msgstr ""
 
+#: profile/detail/serviceprovider.html:41
+msgid "Website"
+msgstr ""
+
 #: dashboard/tutorial.html:2
 msgid "Welcome"
 msgstr ""
@@ -2027,6 +2104,10 @@ msgstr ""
 msgid "You will need to restart if you exit the tutorial now."
 msgstr ""
 
+#: profile/detail/serviceprovider.html:12
+msgid "Your App"
+msgstr ""
+
 #: limitation/index.html:57
 msgid "Your account"
 msgstr ""
@@ -2039,7 +2120,7 @@ msgstr ""
 msgid "Your device list"
 msgstr ""
 
-#: controllers/profile/index.js:77
+#: controllers/profile/index.js:193
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
@@ -2053,6 +2134,14 @@ msgstr ""
 
 #: mydevices/index.html:77
 msgid "and create test device for it."
+msgstr ""
+
+#: profile/detail/serviceprovider.html:52
+msgid "appKey :"
+msgstr ""
+
+#: profile/detail/serviceprovider.html:67
+msgid "appSecret :"
 msgstr ""
 
 #: mydevices/dialogs/editDevices.html:140
@@ -2071,7 +2160,7 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#: controllers/profile/index.js:70
+#: controllers/profile/index.js:186
 msgid "confirm password can not be null"
 msgstr ""
 
@@ -2254,17 +2343,22 @@ msgstr ""
 msgid "name cannot be null!"
 msgstr ""
 
-#: controllers/profile/index.js:67
+#: controllers/profile/index.js:183
 msgid "new password can not be null"
 msgstr ""
 
-#: controllers/profile/index.js:73
+#: controllers/profile/index.js:189
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:333
-#: main.js:347
+#: main.js:336
+#: main.js:350
 msgid "notice"
+msgstr ""
+
+#: dashboard/numberofused.html:22
+#: limitation/index.html:89
+msgid "of 10 Test Devices"
 msgstr ""
 
 #: filters/userPrivType.js:5
@@ -2349,6 +2443,6 @@ msgstr ""
 msgid "{{format.display | capitalize:'first'}}"
 msgstr ""
 
-#: services/validator.js:37
+#: services/validator.js:39
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
