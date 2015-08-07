@@ -1106,21 +1106,18 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+#: dashboard/overview.html:47
 #: mydevices/detail/components.html:56
 msgid "Last data point time"
 msgstr ""
 
-#: dashboard/overview.html:47
-msgid "Last datapoint time"
+#: dashboard/overview.html:10
+msgid "Last updated prototype"
 msgstr ""
 
 #: dashboard/overview.html:21
 #: limitation/index.html:125
-msgid "Last update time"
-msgstr ""
-
-#: dashboard/overview.html:10
-msgid "Last updated prototype"
+msgid "Last updated time"
 msgstr ""
 
 #: components/control/gps.html:55
@@ -1574,7 +1571,7 @@ msgstr ""
 
 #: mydevices/detail/apihint.html:81
 #: mydevices/dialogs/showapihint.html:49
-msgid "Retrieve datapoint"
+msgid "Retrieve data points"
 msgstr ""
 
 #: development/detail/userprivileges.html:10
@@ -1935,7 +1932,7 @@ msgstr ""
 
 #: mydevices/detail/apihint.html:68
 #: mydevices/dialogs/showapihint.html:36
-msgid "Upload datapoint"
+msgid "Upload data points"
 msgstr ""
 
 #: development/dialogs/createProducts.html:188
