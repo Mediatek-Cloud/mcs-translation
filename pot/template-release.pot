@@ -374,7 +374,7 @@ msgstr ""
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
-#: components/control/pwm.html:9
+#: components/control/pwm.html:14
 #: components/control/string.html:9
 msgid "Clear"
 msgstr ""
@@ -1088,9 +1088,9 @@ msgstr ""
 msgid "Integer"
 msgstr ""
 
-#: components/control/pwm.html:15
-#: components/control/pwm.html:5
-#: components/control/pwmSlider.html:8
+#: components/control/pwm.html:23
+#: components/control/pwm.html:9
+#: components/control/pwmSlider.html:9
 msgid "Integer only"
 msgstr ""
 
@@ -1154,7 +1154,7 @@ msgstr ""
 msgid "Low"
 msgstr ""
 
-#: services/validator.js:65
+#: services/validator.js:68
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
@@ -1328,7 +1328,7 @@ msgstr ""
 #: components/control/gps.html:92
 #: components/control/hexstring.html:13
 #: components/control/integer.html:13
-#: components/control/pwm.html:20
+#: components/control/pwm.html:30
 #: components/control/string.html:13
 #: date.html:5
 #: development/dialogs/createTestDevice.html:52
@@ -1388,7 +1388,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: components/control/pwm.html:14
+#: components/control/pwm.html:19
 #: components/control/pwmSlider.html:4
 msgid "Period"
 msgstr ""
@@ -1420,7 +1420,7 @@ msgid "Please confirm if you want to release this prototype."
 msgstr ""
 
 #: services/validator.js:31
-#: services/validator.js:58
+#: services/validator.js:61
 msgid "Please input {{key}}."
 msgstr ""
 
@@ -1975,7 +1975,7 @@ msgid "Users ({{ privileges.length }})"
 msgstr ""
 
 #: components/control/pwm.html:4
-#: components/control/pwmSlider.html:12
+#: components/control/pwmSlider.html:13
 msgid "Value"
 msgstr ""
 
@@ -2360,10 +2360,6 @@ msgstr ""
 msgid "upperbound"
 msgstr ""
 
-#: directives/components/control/pwm.js:53
-msgid "value and period must be positive integers!"
-msgstr ""
-
 #: directives/components/control/pwmSlider.js:54
 msgid "value, period must be an Integer."
 msgstr ""
@@ -2389,6 +2385,6 @@ msgstr ""
 msgid "{{format.display | capitalize:'first'}}"
 msgstr ""
 
-#: services/validator.js:39
+#: services/validator.js:41
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
