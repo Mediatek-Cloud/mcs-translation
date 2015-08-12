@@ -45,11 +45,7 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:12
-msgid "1. 10 test devices."
-msgstr ""
-
-#: limitation/dialogs/limitationDetail.html:19
+#: limitation/dialogs/limitationDetail.html:16
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
@@ -61,11 +57,7 @@ msgstr ""
 msgid "1010"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:13
-msgid "2. 100,000 data points per device/month."
-msgstr ""
-
-#: limitation/dialogs/limitationDetail.html:20
+#: limitation/dialogs/limitationDetail.html:17
 msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
 msgstr ""
 
@@ -73,11 +65,7 @@ msgstr ""
 msgid "2. {{count}} data points device/month"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:14
-msgid "3. 100 email notification per device/day."
-msgstr ""
-
-#: limitation/dialogs/limitationDetail.html:21
+#: limitation/dialogs/limitationDetail.html:18
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
 msgstr ""
 
@@ -85,12 +73,12 @@ msgstr ""
 msgid "3. {{count}} email notification device/day"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:22
+#: limitation/dialogs/limitationDetail.html:19
 msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:15
-msgid "4. Unlimited number of prototype and GCM notification."
+#: controllers/limitation/index.js:17
+msgid "4. Unlimited number of prototype and GCM notification"
 msgstr ""
 
 #: development/detail/components.html:7
@@ -454,7 +442,7 @@ msgstr ""
 msgid "Create test device"
 msgstr ""
 
-#: development/detail.html:140
+#: development/detail.html:145
 msgid "Create test device to collect real data !"
 msgstr ""
 
@@ -503,7 +491,7 @@ msgstr ""
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
-#: development/detail.html:151
+#: development/detail.html:156
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
 #: mydevices/detail.html:199
@@ -810,7 +798,7 @@ msgstr ""
 msgid "File upload"
 msgstr ""
 
-#: development/detail.html:170
+#: development/detail.html:175
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/detail.html:220
@@ -1354,7 +1342,7 @@ msgstr ""
 msgid "Off line"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:30
+#: limitation/dialogs/limitationDetail.html:27
 msgid "Ok"
 msgstr ""
 
@@ -1402,7 +1390,7 @@ msgstr ""
 msgid "Please Try Again!"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:17
+#: limitation/dialogs/limitationDetail.html:14
 msgid "Please be noted:"
 msgstr ""
 
@@ -1750,11 +1738,11 @@ msgstr ""
 msgid "Test"
 msgstr ""
 
-#: development/detail.html:137
+#: development/detail.html:138
 msgid "Test Device"
 msgstr ""
 
-#: development/detail.html:175
+#: development/detail.html:180
 msgid "Test device"
 msgstr ""
 
@@ -1850,8 +1838,8 @@ msgstr ""
 msgid "To see and manage the list of Test devices being created under this prototype."
 msgstr ""
 
-#: limitation/index.html:167
-#: limitation/index.html:173
+#: limitation/index.html:170
+#: limitation/index.html:176
 msgid "Totals"
 msgstr ""
 
@@ -1860,7 +1848,7 @@ msgstr ""
 msgid "Totals prototype"
 msgstr ""
 
-#: development/detail.html:158
+#: development/detail.html:163
 #: development/detail/trigger.html:3
 #: mydevices/detail.html:206
 #: mydevices/detail/trigger.html:3
@@ -1961,7 +1949,7 @@ msgstr ""
 msgid "User Name"
 msgstr ""
 
-#: development/detail.html:163
+#: development/detail.html:168
 #: mydevices/detail.html:213
 msgid "User privileges"
 msgstr ""
@@ -2115,7 +2103,7 @@ msgstr ""
 msgid "choose Timezone"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:22
+#: limitation/dialogs/limitationDetail.html:19
 msgid "click here"
 msgstr ""
 
@@ -2128,8 +2116,8 @@ msgstr ""
 msgid "content"
 msgstr ""
 
-#: limitation/index.html:167
-#: limitation/index.html:175
+#: limitation/index.html:170
+#: limitation/index.html:178
 msgid "data points have been used and still have"
 msgstr ""
 
