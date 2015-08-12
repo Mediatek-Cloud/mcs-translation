@@ -45,10 +45,6 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
-#: limitation/index.html:67
-msgid "1. 10 test devices"
-msgstr ""
-
 #: limitation/dialogs/limitationDetail.html:12
 msgid "1. 10 test devices."
 msgstr ""
@@ -57,12 +53,12 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
-#: main.js:358
-msgid "1010"
+#: controllers/limitation/index.js:11
+msgid "1. {{count}} test devices"
 msgstr ""
 
-#: limitation/index.html:68
-msgid "2. 100,000 data points device/month"
+#: main.js:359
+msgid "1010"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:13
@@ -73,8 +69,8 @@ msgstr ""
 msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
 msgstr ""
 
-#: limitation/index.html:69
-msgid "3. 100 email notification device/day"
+#: controllers/limitation/index.js:13
+msgid "2. {{count}} data points device/month"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:14
@@ -83,6 +79,10 @@ msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:21
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
+msgstr ""
+
+#: controllers/limitation/index.js:15
+msgid "3. {{count}} email notification device/day"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:22
@@ -296,7 +296,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:362
+#: main.js:363
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
@@ -390,7 +390,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: main.js:329
+#: main.js:330
 msgid "Close"
 msgstr ""
 
@@ -534,7 +534,7 @@ msgstr ""
 
 #: dashboard/numberofused.html:31
 #: directives/graphs/datapointusage.js:14
-#: limitation/index.html:123
+#: limitation/index.html:121
 msgid "Data points usage"
 msgstr ""
 
@@ -552,7 +552,7 @@ msgstr ""
 #: development/detail.html:67
 #: development/detail/components.html:126
 #: development/index.html:139
-#: main.js:361
+#: main.js:362
 #: mydevices/detail.html:67
 #: mydevices/index.html:119
 #: profile/detail/serviceprovider.html:21
@@ -569,7 +569,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:359
+#: main.js:360
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -623,7 +623,7 @@ msgstr ""
 msgid "Development"
 msgstr ""
 
-#: main.js:360
+#: main.js:361
 msgid "Device Title"
 msgstr ""
 
@@ -677,7 +677,7 @@ msgstr ""
 msgid "Devices"
 msgstr ""
 
-#: limitation/index.html:108
+#: limitation/index.html:106
 msgid "Devices ({{ allDeviceLimitationList.length }})"
 msgstr ""
 
@@ -760,7 +760,7 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#: limitation/index.html:124
+#: limitation/index.html:122
 msgid "Email trigger"
 msgstr ""
 
@@ -1116,7 +1116,7 @@ msgid "Last updated prototype"
 msgstr ""
 
 #: dashboard/overview.html:21
-#: limitation/index.html:125
+#: limitation/index.html:123
 msgid "Last updated time"
 msgstr ""
 
@@ -1240,7 +1240,7 @@ msgstr ""
 #: development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
-#: limitation/index.html:122
+#: limitation/index.html:120
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
@@ -1367,7 +1367,7 @@ msgstr ""
 msgid "Only support integer and float data channel types."
 msgstr ""
 
-#: limitation/index.html:105
+#: limitation/index.html:103
 msgid "Only the devices that you have owner access will be listed and counted."
 msgstr ""
 
@@ -1440,8 +1440,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:328
-#: main.js:338
+#: main.js:329
+#: main.js:339
 msgid "Please try again!"
 msgstr ""
 
@@ -1617,7 +1617,7 @@ msgstr ""
 msgid "Searching..."
 msgstr ""
 
-#: limitation/index.html:71
+#: limitation/index.html:69
 msgid "See the usage limitation detail…"
 msgstr ""
 
@@ -1715,8 +1715,8 @@ msgid "Success"
 msgstr ""
 
 #: development/dialogs/finishCreateTestDevice.html:3
-#: main.js:326
-#: main.js:343
+#: main.js:327
+#: main.js:344
 msgid "Success!"
 msgstr ""
 
@@ -1850,13 +1850,13 @@ msgstr ""
 msgid "To see and manage the list of Test devices being created under this prototype."
 msgstr ""
 
-#: limitation/index.html:169
-#: limitation/index.html:175
+#: limitation/index.html:167
+#: limitation/index.html:173
 msgid "Totals"
 msgstr ""
 
 #: dashboard/numberofused.html:15
-#: limitation/index.html:82
+#: limitation/index.html:80
 msgid "Totals prototype"
 msgstr ""
 
@@ -1909,7 +1909,7 @@ msgid "Upgrade"
 msgstr ""
 
 #: limitation/index.html:59
-#: limitation/index.html:76
+#: limitation/index.html:74
 msgid "Upgrade now"
 msgstr ""
 
@@ -1947,7 +1947,7 @@ msgstr ""
 msgid "Usage limitation detail"
 msgstr ""
 
-#: limitation/index.html:104
+#: limitation/index.html:102
 msgid "Usage of each device"
 msgstr ""
 
@@ -2075,7 +2075,7 @@ msgstr ""
 msgid "Your current timezone"
 msgstr ""
 
-#: limitation/index.html:99
+#: limitation/index.html:97
 msgid "Your device list"
 msgstr ""
 
@@ -2128,8 +2128,8 @@ msgstr ""
 msgid "content"
 msgstr ""
 
-#: limitation/index.html:169
-#: limitation/index.html:177
+#: limitation/index.html:167
+#: limitation/index.html:175
 msgid "data points have been used and still have"
 msgstr ""
 
@@ -2137,7 +2137,7 @@ msgstr ""
 msgid "data points have been used."
 msgstr ""
 
-#: controllers/dashboard/index.js:31
+#: controllers/dashboard/index.js:34
 msgid "days ago"
 msgstr ""
 
@@ -2150,7 +2150,7 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:34
+#: controllers/dashboard/index.js:37
 msgid "hours ago"
 msgstr ""
 
@@ -2167,7 +2167,7 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:40
+#: controllers/dashboard/index.js:43
 msgid "just now"
 msgstr ""
 
@@ -2281,7 +2281,7 @@ msgstr ""
 msgid "lowerbound"
 msgstr ""
 
-#: controllers/dashboard/index.js:37
+#: controllers/dashboard/index.js:40
 msgid "mins ago"
 msgstr ""
 
@@ -2297,14 +2297,14 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:336
-#: main.js:350
+#: main.js:337
+#: main.js:351
 msgid "notice"
 msgstr ""
 
-#: dashboard/numberofused.html:22
-#: limitation/index.html:89
-msgid "of 10 Test Devices"
+#: controllers/dashboard/index.js:12
+#: controllers/limitation/index.js:7
+msgid "of {{deviceCount}} Test Devices"
 msgstr ""
 
 #: filters/userPrivType.js:5
