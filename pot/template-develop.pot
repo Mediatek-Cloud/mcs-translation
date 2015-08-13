@@ -1416,7 +1416,7 @@ msgstr ""
 msgid "Please select a template that best meet your data channel"
 msgstr ""
 
-#: services/products/main.js:332
+#: services/products/main.js:331
 msgid "Please select at least one test device"
 msgstr ""
 
@@ -1621,7 +1621,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:6
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:6
-msgid "Select the devices that you would like to upgrade to the firmware (<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) you've uploaded."
+msgid "Select the devices that you would like to upgrade to the firmware (<b class=\"firmwareDialog__name\">{{ firmwareData.name }}</b>, <b class=\"firmwareDialog__name\">{{ firmwareData.version }}</b>) you've uploaded."
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
@@ -1629,7 +1629,7 @@ msgid "Select the prerequisite firmware that are compatible for this firmware"
 msgstr ""
 
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:1
-msgid "Select the prerequisite firmware that are compatible for this firmware (<b>{{ firmwareData.name }}, {{ firmwareData.version }}</b>) upgrade you've uploaded."
+msgid "Select the prerequisite firmware that are compatible for this firmware (<b class=\"firmwareDialog__name\">{{ firmwareData.name }}</b>, <b class=\"firmwareDialog__name\">{{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
 #: development/dialogs/trigger/add.html:48
