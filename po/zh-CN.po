@@ -53,7 +53,7 @@ msgstr "+ 新增使用者"
 
 #: limitation/dialogs/limitationDetail.html:16
 msgid "1. Devices being shared from other user account will not be counted."
-msgstr "1.由其他使用者分享给您的装置不会列入计算。"
+msgstr "1. 由其他使用者分享给您的装置不会列入计算。"
 
 #: controllers/limitation/index.js:11
 msgid "1. {{count}} test devices"
@@ -67,7 +67,7 @@ msgstr "1010"
 msgid ""
 "2. The monthly counting period commences from 1st day to the last day of "
 "each month(UTC time)."
-msgstr "2.以月计算的周期为每个月的第一天至最后一天（UTC时间）。"
+msgstr "2. 以月计算的周期为每个月的第一天至最后一天（UTC时间）。"
 
 #: controllers/limitation/index.js:13
 msgid "2. {{count}} data points device/month"
@@ -77,7 +77,7 @@ msgstr "2. 每月每个装置 {{count}} 个资料点"
 msgid ""
 "3. Existing user have devices created beyond the limitation will not be able "
 "to create new device."
-msgstr "3.使用者若已超过限制数量，将不能再建立新的装置。"
+msgstr "3. 使用者若已超过限制数量，将不能再建立新的装置。"
 
 #: controllers/limitation/index.js:15
 msgid "3. {{count}} email notification device/day"
@@ -85,11 +85,11 @@ msgstr "3. 每天 {{count}} 封电子邮件通知"
 
 #: limitation/dialogs/limitationDetail.html:19
 msgid "4. If you have a need to expand usage quota, please"
-msgstr "4.若您需要额外的使用量，请"
+msgstr "4. 若您需要额外的使用量，请"
 
 #: controllers/limitation/index.js:17
 msgid "4. Unlimited number of prototype and GCM notification"
-msgstr "4.产品原型和GCM通知，没有使用数量限制。"
+msgstr "4. 产品原型和GCM通知，没有使用数量限制。"
 
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
