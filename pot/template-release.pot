@@ -270,7 +270,7 @@ msgid "Can't find your template?"
 msgstr ""
 
 #: date.html:6
-#: development/dialogs/addComponentContent.html:451
+#: development/dialogs/addComponentContent.html:450
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:46
 #: development/dialogs/deleteConfirm.html:27
@@ -1569,7 +1569,7 @@ msgstr ""
 msgid "Role"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:455
+#: development/dialogs/addComponentContent.html:454
 #: development/dialogs/createProducts.html:251
 #: development/dialogs/editComponent.html:60
 #: development/dialogs/editProducts.html:239
