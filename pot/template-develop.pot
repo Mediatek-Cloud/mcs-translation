@@ -1155,7 +1155,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:985
-#: controllers/devices/detail.js:81
+#: controllers/devices/detail.js:89
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1206,11 +1206,11 @@ msgstr ""
 msgid "Most utilized device :"
 msgstr ""
 
-#: directives/components/control/float.js:55
+#: directives/components/control/float.js:56
 msgid "Must Be a float!"
 msgstr ""
 
-#: directives/components/control/integer.js:49
+#: directives/components/control/integer.js:50
 msgid "Must Be an Integer!"
 msgstr ""
 
@@ -1400,7 +1400,7 @@ msgid "Please choose a file to upload"
 msgstr ""
 
 #: controllers/development/detail.js:988
-#: controllers/devices/detail.js:84
+#: controllers/devices/detail.js:92
 msgid "Please choose a role for the user."
 msgstr ""
 
@@ -2334,8 +2334,8 @@ msgstr ""
 #: controllers/development/detail.js:886
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
-#: controllers/devices/detail.js:138
-#: controllers/devices/detail.js:325
+#: controllers/devices/detail.js:146
+#: controllers/devices/detail.js:333
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
@@ -2367,7 +2367,7 @@ msgstr ""
 msgid "upperbound"
 msgstr ""
 
-#: directives/components/control/pwmSlider.js:56
+#: directives/components/control/pwmSlider.js:57
 msgid "value, period must be an Integer."
 msgstr ""
 
