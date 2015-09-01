@@ -4,8 +4,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
-#: mydevices/dialogs/trigger.html:58
-#: mydevices/dialogs/trigger.html:70
+#: mydevices/dialogs/trigger.html:53
+#: mydevices/dialogs/trigger.html:65
 msgid "( default )"
 msgstr ""
 
@@ -99,11 +99,11 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:109
+#: mydevices/detail/components.html:110
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:230
+#: mydevices/detail.html:235
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -180,6 +180,10 @@ msgstr ""
 msgid "Add user"
 msgstr ""
 
+#: development/dialogs/firmware/firmwareSuccess.html:18
+msgid "After the device upgrades to the new firmware, it will show in the"
+msgstr ""
+
 #: values/products/ngIntro.js:28
 msgid "After you are happy with your prototype, you can create a Test Device here."
 msgstr ""
@@ -212,7 +216,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:296
 #: development/dialogs/trigger/edit.html:99
 #: mydevices/dialogs/trigger.html:31
-#: mydevices/dialogs/trigger.html:60
+#: mydevices/dialogs/trigger.html:55
 msgid "And"
 msgstr ""
 
@@ -234,7 +238,7 @@ msgstr ""
 #: development/detail.html:127
 #: development/dialogs/createProducts.html:145
 #: development/dialogs/editProducts.html:135
-#: mydevices/detail.html:98
+#: mydevices/detail.html:103
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
 msgstr ""
@@ -257,7 +261,7 @@ msgstr ""
 msgid "At least 8 characters"
 msgstr ""
 
-#: mydevices/detail.html:78
+#: mydevices/detail.html:83
 msgid "Back to prototype"
 msgstr ""
 
@@ -288,7 +292,7 @@ msgstr ""
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
-#: mydevices/dialogs/trigger.html:102
+#: mydevices/dialogs/trigger.html:97
 #: mydevices/dialogs/userPrivilege.html:94
 #: profile/dialogs/applyApp.html:82
 #: profile/dialogs/changePassword.html:60
@@ -412,10 +416,10 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: mydevices/detail.html:122
-#: mydevices/detail.html:138
-#: mydevices/detail.html:167
-#: mydevices/detail.html:179
+#: mydevices/detail.html:127
+#: mydevices/detail.html:143
+#: mydevices/detail.html:172
+#: mydevices/detail.html:184
 #: profile/detail/serviceprovider.html:62
 #: profile/detail/serviceprovider.html:77
 msgid "Copy"
@@ -460,8 +464,8 @@ msgstr ""
 
 #: development/detail.html:45
 #: development/detail.html:53
-#: mydevices/detail.html:47
-#: mydevices/detail.html:54
+#: mydevices/detail.html:52
+#: mydevices/detail.html:59
 msgid "Creator"
 msgstr ""
 
@@ -494,14 +498,14 @@ msgstr ""
 #: development/detail.html:156
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:199
+#: mydevices/detail.html:204
 msgid "Data channel"
 msgstr ""
 
 #: development/detail/components.html:84
 #: development/dialogs/addComponentContent.html:30
 #: mydevices/detail/apihint.html:46
-#: mydevices/detail/components.html:60
+#: mydevices/detail/components.html:61
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
@@ -541,7 +545,7 @@ msgstr ""
 #: development/detail/components.html:126
 #: development/index.html:139
 #: main.js:359
-#: mydevices/detail.html:67
+#: mydevices/detail.html:72
 #: mydevices/index.html:119
 #: profile/detail/serviceprovider.html:21
 msgid "Delete"
@@ -569,7 +573,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:99
+#: mydevices/detail.html:104
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:60
 #: profile/detail/serviceprovider.html:44
@@ -801,7 +805,7 @@ msgstr ""
 #: development/detail.html:175
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:220
+#: mydevices/detail.html:225
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -881,8 +885,8 @@ msgstr ""
 #: development/detail.html:54
 #: development/dialogs/createProducts.html:45
 #: development/dialogs/editProducts.html:45
-#: mydevices/detail.html:49
-#: mydevices/detail.html:55
+#: mydevices/detail.html:54
+#: mydevices/detail.html:60
 msgid "Hardware platform"
 msgstr ""
 
@@ -899,7 +903,7 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:102
+#: mydevices/detail/components.html:103
 msgid "Hide History"
 msgstr ""
 
@@ -922,7 +926,7 @@ msgstr ""
 #: development/detail.html:126
 #: development/dialogs/createProducts.html:101
 #: development/dialogs/editProducts.html:98
-#: mydevices/detail.html:97
+#: mydevices/detail.html:102
 #: mydevices/dialogs/editDevices.html:66
 msgid "Industry"
 msgstr ""
@@ -1095,7 +1099,7 @@ msgid "Language"
 msgstr ""
 
 #: dashboard/overview.html:47
-#: mydevices/detail/components.html:56
+#: mydevices/detail/components.html:57
 msgid "Last data point time"
 msgstr ""
 
@@ -1129,10 +1133,6 @@ msgstr ""
 msgid "Linkit one tutorial"
 msgstr ""
 
-#: mydevices/detail/firmware.html:59
-msgid "Loading..."
-msgstr ""
-
 #: components/control/gps.html:67
 msgid "Longitude:"
 msgstr ""
@@ -1155,7 +1155,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:985
-#: controllers/devices/detail.js:80
+#: controllers/devices/detail.js:81
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1206,11 +1206,11 @@ msgstr ""
 msgid "Most utilized device :"
 msgstr ""
 
-#: directives/components/control/float.js:59
+#: directives/components/control/float.js:55
 msgid "Must Be a float!"
 msgstr ""
 
-#: directives/components/control/integer.js:53
+#: directives/components/control/integer.js:49
 msgid "Must Be an Integer!"
 msgstr ""
 
@@ -1284,7 +1284,7 @@ msgstr ""
 msgid "Notice!"
 msgstr ""
 
-#: mydevices/detail/firmware.html:57
+#: mydevices/detail/firmware.html:60
 msgid "Now used"
 msgstr ""
 
@@ -1322,6 +1322,7 @@ msgstr ""
 #: development/dialogs/createTestDevice.html:52
 #: development/dialogs/deleteConfirm.html:33
 #: development/dialogs/finishRelease.html:21
+#: development/dialogs/firmware/firmwareSuccess.html:27
 #: development/dialogs/release.html:47
 #: dialogs/comingSoon.html:27
 #: dialogs/tutorialCloseConfirm.html:38
@@ -1399,7 +1400,7 @@ msgid "Please choose a file to upload"
 msgstr ""
 
 #: controllers/development/detail.js:988
-#: controllers/devices/detail.js:83
+#: controllers/devices/detail.js:84
 msgid "Please choose a role for the user."
 msgstr ""
 
@@ -1486,12 +1487,21 @@ msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:66
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:64
+#: mydevices/detail/firmware.html:59
 msgid "Push"
+msgstr ""
+
+#: mydevices/detail/firmware.html:56
+msgid "Push firmware only when device is online"
 msgstr ""
 
 #: development/dialogs/addFirmware.html:55
 #: development/dialogs/editFirmware.html:34
 msgid "Push firmware to device"
+msgstr ""
+
+#: mydevices/detail/firmware.html:63
+msgid "Pushing..."
 msgstr ""
 
 #: dashboard/quickresources.html:4
@@ -1553,7 +1563,7 @@ msgstr ""
 msgid "Release without serial number generator."
 msgstr ""
 
-#: mydevices/dialogs/trigger.html:81
+#: mydevices/dialogs/trigger.html:76
 msgid "Restore default value"
 msgstr ""
 
@@ -1579,7 +1589,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:439
 #: development/dialogs/userPrivilege.html:103
 #: mydevices/dialogs/createDevices.html:83
-#: mydevices/dialogs/trigger.html:108
+#: mydevices/dialogs/trigger.html:103
 #: mydevices/dialogs/userPrivilege.html:100
 #: profile/dialogs/applyApp.html:86
 #: profile/dialogs/changePassword.html:64
@@ -1658,7 +1668,7 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:101
+#: mydevices/detail/components.html:102
 msgid "Show History"
 msgstr ""
 
@@ -1699,6 +1709,7 @@ msgstr ""
 #: controllers/profile/index.js:104
 #: controllers/profile/index.js:53
 #: controllers/profile/index.js:82
+#: development/dialogs/firmware/firmwareSuccess.html:5
 msgid "Success"
 msgstr ""
 
@@ -1762,8 +1773,8 @@ msgstr ""
 msgid "The display data channels allow you to get the data from your devices."
 msgstr ""
 
-#: directives/components/control/float.js:35
-#: directives/components/control/integer.js:35
+#: directives/components/control/float.js:31
+#: directives/components/control/integer.js:31
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
@@ -1850,7 +1861,7 @@ msgstr ""
 
 #: development/detail.html:163
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:206
+#: mydevices/detail.html:211
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -1890,10 +1901,6 @@ msgstr ""
 
 #: management/device-list.html:78
 msgid "Type"
-msgstr ""
-
-#: mydevices/detail/firmware.html:56
-msgid "Upgrade"
 msgstr ""
 
 #: limitation/index.html:59
@@ -1950,7 +1957,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:168
-#: mydevices/detail.html:213
+#: mydevices/detail.html:218
 msgid "User privileges"
 msgstr ""
 
@@ -1973,8 +1980,8 @@ msgstr ""
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:19
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
 #: development/index.html:155
-#: mydevices/detail.html:48
-#: mydevices/detail.html:54
+#: mydevices/detail.html:53
+#: mydevices/detail.html:59
 #: mydevices/detail/firmware.html:16
 #: mydevices/index.html:134
 msgid "Version"
@@ -2038,12 +2045,16 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
+#: development/dialogs/firmware/firmwareSuccess.html:17
+msgid "You have pushed the firmware to device successfully."
+msgstr ""
+
 #: controllers/development/detail.js:301
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: mydevices/detail.html:106
-#: mydevices/detail.html:155
+#: mydevices/detail.html:111
+#: mydevices/detail.html:160
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -2075,7 +2086,7 @@ msgstr ""
 msgid "administrator"
 msgstr ""
 
-#: directives/components/control/gps.js:150
+#: directives/components/control/gps.js:152
 msgid "altitude must be between -20000 and 20000 meters!"
 msgstr ""
 
@@ -2116,6 +2127,10 @@ msgstr ""
 msgid "content"
 msgstr ""
 
+#: development/dialogs/firmware/firmwareSuccess.html:18
+msgid "currently used"
+msgstr ""
+
 #: limitation/index.html:170
 #: limitation/index.html:178
 msgid "data points have been used and still have"
@@ -2132,6 +2147,10 @@ msgstr ""
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:34
 msgid "device"
+msgstr ""
+
+#: development/dialogs/firmware/firmwareSuccess.html:18
+msgid "field."
 msgstr ""
 
 #: controllers/development/detail.js:596
@@ -2248,19 +2267,19 @@ msgstr ""
 msgid "key5 value"
 msgstr ""
 
-#: directives/components/control/gps.js:153
+#: directives/components/control/gps.js:155
 msgid "latitude must be between -90 and 90 meters!"
 msgstr ""
 
-#: directives/components/control/gps.js:138
+#: directives/components/control/gps.js:140
 msgid "latitude or longitude cannot be null!"
 msgstr ""
 
-#: directives/components/control/gps.js:147
+#: directives/components/control/gps.js:149
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr ""
 
-#: directives/components/control/gps.js:156
+#: directives/components/control/gps.js:158
 msgid "longitude must be between -180 and 180 meters!"
 msgstr ""
 
@@ -2315,8 +2334,8 @@ msgstr ""
 #: controllers/development/detail.js:886
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
-#: controllers/devices/detail.js:137
-#: controllers/devices/detail.js:315
+#: controllers/devices/detail.js:138
+#: controllers/devices/detail.js:325
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
@@ -2348,7 +2367,7 @@ msgstr ""
 msgid "upperbound"
 msgstr ""
 
-#: directives/components/control/pwmSlider.js:54
+#: directives/components/control/pwmSlider.js:56
 msgid "value, period must be an Integer."
 msgstr ""
 
