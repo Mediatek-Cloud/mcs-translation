@@ -131,11 +131,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:917
+#: controllers/development/detail.js:927
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:922
+#: controllers/development/detail.js:932
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -469,7 +469,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:907
+#: controllers/development/detail.js:917
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -487,11 +487,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:295
+#: controllers/development/detail.js:305
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:298
+#: controllers/development/detail.js:308
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -510,11 +510,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:365
+#: controllers/development/detail.js:375
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:905
+#: controllers/development/detail.js:915
 msgid "Data channel is required!"
 msgstr ""
 
@@ -645,7 +645,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:430
+#: controllers/development/detail.js:440
 msgid "Device name cannot null."
 msgstr ""
 
@@ -1154,7 +1154,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:985
+#: controllers/development/detail.js:995
 #: controllers/devices/detail.js:89
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1240,7 +1240,7 @@ msgstr ""
 msgid "Name cannot be null."
 msgstr ""
 
-#: controllers/development/detail.js:292
+#: controllers/development/detail.js:302
 #: controllers/development/detail.js:94
 msgid "Name cannot null"
 msgstr ""
@@ -1387,7 +1387,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: controllers/development/detail.js:1079
+#: controllers/development/detail.js:1089
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1395,11 +1395,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:535
+#: controllers/development/detail.js:545
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:988
+#: controllers/development/detail.js:998
 #: controllers/devices/detail.js:92
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1883,7 +1883,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:898
+#: controllers/development/detail.js:908
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2049,7 +2049,7 @@ msgstr ""
 msgid "You have pushed the firmware to device successfully."
 msgstr ""
 
-#: controllers/development/detail.js:301
+#: controllers/development/detail.js:311
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -2153,7 +2153,7 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:596
+#: controllers/development/detail.js:606
 msgid "file cannot be null!"
 msgstr ""
 
@@ -2292,7 +2292,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:588
+#: controllers/development/detail.js:598
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2328,10 +2328,10 @@ msgstr ""
 
 #: controllers/development/detail.js:107
 #: controllers/development/detail.js:126
-#: controllers/development/detail.js:152
-#: controllers/development/detail.js:199
-#: controllers/development/detail.js:877
-#: controllers/development/detail.js:886
+#: controllers/development/detail.js:162
+#: controllers/development/detail.js:209
+#: controllers/development/detail.js:887
+#: controllers/development/detail.js:896
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
 #: controllers/devices/detail.js:146
@@ -2375,7 +2375,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:592
+#: controllers/development/detail.js:602
 msgid "version cannot be null!"
 msgstr ""
 
