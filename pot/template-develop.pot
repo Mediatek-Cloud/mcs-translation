@@ -2284,6 +2284,7 @@ msgid "longitude must be between -180 and 180 meters!"
 msgstr ""
 
 #: factories/components.js:255
+#: factories/components.js:279
 #: factories/components.js:361
 msgid "lowerbound"
 msgstr ""
@@ -2353,6 +2354,7 @@ msgid "tutorials"
 msgstr ""
 
 #: factories/components.js:263
+#: factories/components.js:287
 #: factories/components.js:594
 #: factories/components.js:612
 msgid "unitTypes"
@@ -2363,6 +2365,7 @@ msgid "upgrade you've uploaded."
 msgstr ""
 
 #: factories/components.js:259
+#: factories/components.js:283
 #: factories/components.js:365
 msgid "upperbound"
 msgstr ""
