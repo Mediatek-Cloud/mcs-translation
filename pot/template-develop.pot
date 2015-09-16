@@ -2336,7 +2336,7 @@ msgstr ""
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
 #: controllers/devices/detail.js:146
-#: controllers/devices/detail.js:333
+#: controllers/devices/detail.js:341
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
