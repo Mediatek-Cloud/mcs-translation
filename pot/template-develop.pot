@@ -237,7 +237,7 @@ msgstr ""
 
 #: development/detail.html:127
 #: development/dialogs/createProducts.html:145
-#: development/dialogs/editProducts.html:135
+#: development/dialogs/editProducts.html:137
 #: mydevices/detail.html:103
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
@@ -279,7 +279,7 @@ msgstr ""
 #: development/dialogs/createTestDevice.html:46
 #: development/dialogs/deleteConfirm.html:27
 #: development/dialogs/editComponent.html:53
-#: development/dialogs/editProducts.html:235
+#: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:88
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:60
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
@@ -336,7 +336,7 @@ msgid "Choose the action"
 msgstr ""
 
 #: development/dialogs/createProducts.html:156
-#: development/dialogs/editProducts.html:146
+#: development/dialogs/editProducts.html:148
 msgid "Choose the application"
 msgstr ""
 
@@ -692,7 +692,7 @@ msgid "Done"
 msgstr ""
 
 #: development/dialogs/createProducts.html:204
-#: development/dialogs/editProducts.html:193
+#: development/dialogs/editProducts.html:195
 msgid "Drop an image here to upload!"
 msgstr ""
 
@@ -917,7 +917,7 @@ msgid "Hybrid"
 msgstr ""
 
 #: development/dialogs/createProducts.html:186
-#: development/dialogs/editProducts.html:173
+#: development/dialogs/editProducts.html:175
 #: mydevices/dialogs/createDevices.html:52
 #: mydevices/dialogs/editDevices.html:120
 msgid "Image upload"
@@ -1236,7 +1236,7 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: controllers/development/index.js:38
+#: controllers/development/index.js:37
 msgid "Name cannot be null."
 msgstr ""
 
@@ -1421,11 +1421,11 @@ msgstr ""
 msgid "Please select at least one test device"
 msgstr ""
 
-#: controllers/development/index.js:44
+#: controllers/development/index.js:43
 msgid "Please select hardware platform."
 msgstr ""
 
-#: controllers/development/index.js:47
+#: controllers/development/index.js:46
 msgid "Please select industry."
 msgstr ""
 
@@ -1513,7 +1513,7 @@ msgid "Recent activity"
 msgstr ""
 
 #: development/dialogs/createProducts.html:205
-#: development/dialogs/editProducts.html:194
+#: development/dialogs/editProducts.html:196
 msgid "Recommended 300 x 160 pixels."
 msgstr ""
 
@@ -1582,7 +1582,7 @@ msgstr ""
 #: development/dialogs/addComponentContent.html:454
 #: development/dialogs/createProducts.html:251
 #: development/dialogs/editComponent.html:60
-#: development/dialogs/editProducts.html:239
+#: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/trigger/add.html:459
@@ -1909,7 +1909,7 @@ msgid "Upgrade now"
 msgstr ""
 
 #: development/dialogs/createProducts.html:229
-#: development/dialogs/editProducts.html:218
+#: development/dialogs/editProducts.html:220
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: management/dialogs/createSerialNumber.html:24
 #: mydevices/dialogs/createDevices.html:60
@@ -1931,7 +1931,7 @@ msgid "Upload data points"
 msgstr ""
 
 #: development/dialogs/createProducts.html:188
-#: development/dialogs/editProducts.html:178
+#: development/dialogs/editProducts.html:180
 #: mydevices/dialogs/createDevices.html:54
 #: mydevices/dialogs/editDevices.html:122
 #: profile/index.html:48
@@ -1987,7 +1987,7 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: controllers/development/index.js:41
+#: controllers/development/index.js:40
 msgid "Version cannot be null."
 msgstr ""
 
