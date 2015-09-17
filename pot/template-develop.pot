@@ -49,7 +49,7 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
-#: controllers/limitation/index.js:11
+#: controllers/limitation/index.js:22
 msgid "1. {{count}} test devices"
 msgstr ""
 
@@ -61,7 +61,7 @@ msgstr ""
 msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
 msgstr ""
 
-#: controllers/limitation/index.js:13
+#: controllers/limitation/index.js:24
 msgid "2. {{count}} data points device/month"
 msgstr ""
 
@@ -69,7 +69,7 @@ msgstr ""
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
 msgstr ""
 
-#: controllers/limitation/index.js:15
+#: controllers/limitation/index.js:26
 msgid "3. {{count}} email notification device/day"
 msgstr ""
 
@@ -77,7 +77,7 @@ msgstr ""
 msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
-#: controllers/limitation/index.js:17
+#: controllers/limitation/index.js:28
 msgid "4. Unlimited number of prototype and GCM notification"
 msgstr ""
 
@@ -2144,7 +2144,7 @@ msgstr ""
 msgid "data points have been used."
 msgstr ""
 
-#: controllers/dashboard/index.js:51
+#: controllers/dashboard/index.js:58
 msgid "days ago"
 msgstr ""
 
@@ -2161,7 +2161,7 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:54
+#: controllers/dashboard/index.js:61
 msgid "hours ago"
 msgstr ""
 
@@ -2178,7 +2178,7 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:60
+#: controllers/dashboard/index.js:67
 msgid "just now"
 msgstr ""
 
@@ -2293,7 +2293,7 @@ msgstr ""
 msgid "lowerbound"
 msgstr ""
 
-#: controllers/dashboard/index.js:57
+#: controllers/dashboard/index.js:64
 msgid "mins ago"
 msgstr ""
 
