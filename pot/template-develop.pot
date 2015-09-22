@@ -525,8 +525,8 @@ msgid "Data channel name"
 msgstr ""
 
 #: dashboard/numberofused.html:31
-#: directives/graphs/datapointusage.js:14
-#: limitation/index.html:121
+#: directives/graphs/datapointusage.js:15
+#: limitation/index.html:108
 msgid "Data points usage"
 msgstr ""
 
@@ -601,7 +601,7 @@ msgstr ""
 msgid "Develop with our hardware platform"
 msgstr ""
 
-#: limitation/index.html:58
+#: limitation/index.html:45
 msgid "Developer Free"
 msgstr ""
 
@@ -669,7 +669,7 @@ msgstr ""
 msgid "Devices"
 msgstr ""
 
-#: limitation/index.html:106
+#: limitation/index.html:93
 msgid "Devices ({{ allDeviceLimitationList.length }})"
 msgstr ""
 
@@ -752,7 +752,7 @@ msgstr ""
 msgid "Email"
 msgstr ""
 
-#: limitation/index.html:122
+#: limitation/index.html:109
 msgid "Email trigger"
 msgstr ""
 
@@ -1112,7 +1112,7 @@ msgid "Last updated prototype"
 msgstr ""
 
 #: dashboard/overview.html:21
-#: limitation/index.html:123
+#: limitation/index.html:110
 msgid "Last updated time"
 msgstr ""
 
@@ -1125,7 +1125,7 @@ msgstr ""
 msgid "Limit Firmware"
 msgstr ""
 
-#: directives/graphs/datapointusage.js:19
+#: directives/graphs/datapointusage.js:20
 msgid "Limitation"
 msgstr ""
 
@@ -1232,7 +1232,7 @@ msgstr ""
 #: development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
-#: limitation/index.html:120
+#: limitation/index.html:107
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
@@ -1360,7 +1360,7 @@ msgstr ""
 msgid "Only support integer and float data channel types."
 msgstr ""
 
-#: limitation/index.html:103
+#: limitation/index.html:90
 msgid "Only the devices that you have owner access will be listed and counted."
 msgstr ""
 
@@ -1517,10 +1517,6 @@ msgstr ""
 msgid "Recommended 300 x 160 pixels."
 msgstr ""
 
-#: limitation/index.html:46
-msgid "Refresh"
-msgstr ""
-
 #: management/product-list.html:65
 msgid "Registered"
 msgstr ""
@@ -1615,7 +1611,7 @@ msgstr ""
 msgid "Searching..."
 msgstr ""
 
-#: limitation/index.html:69
+#: limitation/index.html:56
 msgid "See the usage limitation detail…"
 msgstr ""
 
@@ -1853,13 +1849,13 @@ msgstr ""
 msgid "To see and manage the list of Test devices being created under this prototype."
 msgstr ""
 
-#: limitation/index.html:170
-#: limitation/index.html:176
+#: limitation/index.html:157
+#: limitation/index.html:163
 msgid "Totals"
 msgstr ""
 
 #: dashboard/numberofused.html:15
-#: limitation/index.html:80
+#: limitation/index.html:67
 msgid "Totals prototype"
 msgstr ""
 
@@ -1907,8 +1903,8 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: limitation/index.html:59
-#: limitation/index.html:74
+#: limitation/index.html:46
+#: limitation/index.html:61
 msgid "Upgrade now"
 msgstr ""
 
@@ -1946,7 +1942,7 @@ msgstr ""
 msgid "Usage limitation detail"
 msgstr ""
 
-#: limitation/index.html:102
+#: limitation/index.html:89
 msgid "Usage of each device"
 msgstr ""
 
@@ -2035,7 +2031,7 @@ msgstr ""
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
 
-#: limitation/index.html:65
+#: limitation/index.html:52
 msgid "You can:"
 msgstr ""
 
@@ -2070,7 +2066,7 @@ msgstr ""
 msgid "Your App"
 msgstr ""
 
-#: limitation/index.html:57
+#: limitation/index.html:44
 msgid "Your account"
 msgstr ""
 
@@ -2078,7 +2074,7 @@ msgstr ""
 msgid "Your current timezone"
 msgstr ""
 
-#: limitation/index.html:97
+#: limitation/index.html:84
 msgid "Your device list"
 msgstr ""
 
@@ -2135,8 +2131,8 @@ msgstr ""
 msgid "currently used"
 msgstr ""
 
-#: limitation/index.html:170
-#: limitation/index.html:178
+#: limitation/index.html:157
+#: limitation/index.html:165
 msgid "data points have been used and still have"
 msgstr ""
 
@@ -2144,7 +2140,7 @@ msgstr ""
 msgid "data points have been used."
 msgstr ""
 
-#: controllers/dashboard/index.js:58
+#: controllers/dashboard/index.js:57
 msgid "days ago"
 msgstr ""
 
@@ -2161,7 +2157,7 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:61
+#: controllers/dashboard/index.js:60
 msgid "hours ago"
 msgstr ""
 
@@ -2178,7 +2174,7 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:67
+#: controllers/dashboard/index.js:66
 msgid "just now"
 msgstr ""
 
@@ -2293,7 +2289,7 @@ msgstr ""
 msgid "lowerbound"
 msgstr ""
 
-#: controllers/dashboard/index.js:64
+#: controllers/dashboard/index.js:63
 msgid "mins ago"
 msgstr ""
 
