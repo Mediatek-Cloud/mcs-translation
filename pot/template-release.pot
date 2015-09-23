@@ -131,11 +131,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:966
+#: controllers/development/detail.js:982
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:971
+#: controllers/development/detail.js:987
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -280,8 +280,8 @@ msgstr ""
 #: development/dialogs/deleteConfirm.html:27
 #: development/dialogs/editComponent.html:103
 #: development/dialogs/editProducts.html:237
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:88
-#: development/dialogs/firmware/edit/editFirmwareInfomation.html:60
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:93
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/trigger/add.html:445
@@ -311,8 +311,8 @@ msgstr ""
 msgid "Change password"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:71
-#: development/dialogs/firmware/edit/editFirmwareInfomation.html:42
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:76
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
 msgid "Check Sum"
 msgstr ""
 
@@ -325,7 +325,7 @@ msgstr ""
 msgid "Choose app platform."
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:60
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:65
 #: management/dialogs/createSerialNumber.html:55
 msgid "Choose file"
 msgstr ""
@@ -469,7 +469,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:956
+#: controllers/development/detail.js:972
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -514,7 +514,7 @@ msgstr ""
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:954
+#: controllers/development/detail.js:970
 msgid "Data channel is required!"
 msgstr ""
 
@@ -797,7 +797,7 @@ msgstr ""
 msgid "FAQ"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:43
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:48
 #: management/dialogs/createSerialNumber.html:45
 msgid "File upload"
 msgstr ""
@@ -1033,8 +1033,8 @@ msgstr ""
 msgid "Input the prototype version"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:37
-#: development/dialogs/firmware/edit/editFirmwareInfomation.html:36
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:42
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:41
 msgid "Input the release note"
 msgstr ""
 
@@ -1070,8 +1070,8 @@ msgstr ""
 msgid "Input your App url."
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:76
-#: development/dialogs/firmware/edit/editFirmwareInfomation.html:47
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:81
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:52
 msgid "Input your check sum information"
 msgstr ""
 
@@ -1158,8 +1158,8 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1034
-#: controllers/devices/detail.js:89
+#: controllers/development/detail.js:1050
+#: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1253,7 +1253,7 @@ msgstr ""
 msgid "New password"
 msgstr ""
 
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:98
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:103
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
 #: development/dialogs/trigger/add.html:452
 #: values/products/ngIntro.js:36
@@ -1391,7 +1391,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: controllers/development/detail.js:1128
+#: controllers/development/detail.js:1144
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1399,12 +1399,12 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:584
+#: controllers/development/detail.js:597
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1037
-#: controllers/devices/detail.js:92
+#: controllers/development/detail.js:1053
+#: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
 
@@ -1545,8 +1545,8 @@ msgid "Release date"
 msgstr ""
 
 #: development/detail/firmware.html:10
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:35
-#: development/dialogs/firmware/edit/editFirmwareInfomation.html:34
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:40
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:39
 #: mydevices/detail/firmware.html:17
 msgid "Release note"
 msgstr ""
@@ -1579,7 +1579,7 @@ msgstr ""
 #: development/dialogs/createProducts.html:251
 #: development/dialogs/editComponent.html:110
 #: development/dialogs/editProducts.html:241
-#: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/trigger/add.html:459
 #: development/dialogs/trigger/edit.html:439
@@ -1808,6 +1808,11 @@ msgstr ""
 msgid "This feature is under development, will be coming soon!"
 msgstr ""
 
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:33
+#: development/dialogs/firmware/edit/editFirmwareInfomation.html:32
+msgid "This firmware version already exist."
+msgstr ""
+
 #: components/control/gps.html:34
 msgid "This is my clicked marker!"
 msgstr ""
@@ -1883,7 +1888,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:947
+#: controllers/development/detail.js:963
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -1910,7 +1915,7 @@ msgstr ""
 
 #: development/dialogs/createProducts.html:229
 #: development/dialogs/editProducts.html:220
-#: development/dialogs/firmware/add/editFirmwareInfomation.html:93
+#: development/dialogs/firmware/add/editFirmwareInfomation.html:98
 #: management/dialogs/createSerialNumber.html:24
 #: mydevices/dialogs/createDevices.html:60
 #: mydevices/dialogs/editDevices.html:128
@@ -2140,7 +2145,7 @@ msgstr ""
 msgid "data points have been used."
 msgstr ""
 
-#: controllers/dashboard/index.js:57
+#: controllers/dashboard/index.js:64
 msgid "days ago"
 msgstr ""
 
@@ -2153,11 +2158,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:645
+#: controllers/development/detail.js:659
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:60
+#: controllers/dashboard/index.js:67
 msgid "hours ago"
 msgstr ""
 
@@ -2174,7 +2179,7 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:66
+#: controllers/dashboard/index.js:73
 msgid "just now"
 msgstr ""
 
@@ -2289,11 +2294,11 @@ msgstr ""
 msgid "lowerbound"
 msgstr ""
 
-#: controllers/dashboard/index.js:63
+#: controllers/dashboard/index.js:70
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:637
+#: controllers/development/detail.js:651
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2331,12 +2336,12 @@ msgstr ""
 #: controllers/development/detail.js:127
 #: controllers/development/detail.js:201
 #: controllers/development/detail.js:248
-#: controllers/development/detail.js:926
-#: controllers/development/detail.js:935
+#: controllers/development/detail.js:942
+#: controllers/development/detail.js:951
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
-#: controllers/devices/detail.js:146
-#: controllers/devices/detail.js:341
+#: controllers/devices/detail.js:149
+#: controllers/devices/detail.js:344
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
@@ -2378,7 +2383,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:641
+#: controllers/development/detail.js:655
 msgid "version cannot be null!"
 msgstr ""
 
