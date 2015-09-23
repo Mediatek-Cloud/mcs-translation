@@ -1159,7 +1159,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:1050
-#: controllers/devices/detail.js:89
+#: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1404,7 +1404,7 @@ msgid "Please choose a file to upload"
 msgstr ""
 
 #: controllers/development/detail.js:1053
-#: controllers/devices/detail.js:92
+#: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
 
@@ -2145,7 +2145,7 @@ msgstr ""
 msgid "data points have been used."
 msgstr ""
 
-#: controllers/dashboard/index.js:57
+#: controllers/dashboard/index.js:64
 msgid "days ago"
 msgstr ""
 
@@ -2162,7 +2162,7 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:60
+#: controllers/dashboard/index.js:67
 msgid "hours ago"
 msgstr ""
 
@@ -2179,7 +2179,7 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:66
+#: controllers/dashboard/index.js:73
 msgid "just now"
 msgstr ""
 
@@ -2294,7 +2294,7 @@ msgstr ""
 msgid "lowerbound"
 msgstr ""
 
-#: controllers/dashboard/index.js:63
+#: controllers/dashboard/index.js:70
 msgid "mins ago"
 msgstr ""
 
@@ -2340,8 +2340,8 @@ msgstr ""
 #: controllers/development/detail.js:951
 #: controllers/development/index.js:131
 #: controllers/development/index.js:158
-#: controllers/devices/detail.js:146
-#: controllers/devices/detail.js:341
+#: controllers/devices/detail.js:149
+#: controllers/devices/detail.js:344
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
