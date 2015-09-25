@@ -1674,7 +1674,7 @@ msgstr "模板预览"
 
 #: development/dialogs/addComponentContent.html:197
 msgid "Template preview: Select a template that suits your data channel."
-msgstr "模板预览：选择适合您资料通到的模板。"
+msgstr "模板预览：选择适合您资料通道的模板。"
 
 #: mydevices/index.html:99
 msgid "Test"
