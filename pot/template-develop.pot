@@ -2145,7 +2145,7 @@ msgstr ""
 msgid "data points have been used."
 msgstr ""
 
-#: controllers/dashboard/index.js:64
+#: controllers/dashboard/index.js:66
 msgid "days ago"
 msgstr ""
 
@@ -2162,7 +2162,7 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/dashboard/index.js:67
+#: controllers/dashboard/index.js:69
 msgid "hours ago"
 msgstr ""
 
@@ -2179,7 +2179,7 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: controllers/dashboard/index.js:73
+#: controllers/dashboard/index.js:75
 msgid "just now"
 msgstr ""
 
@@ -2294,7 +2294,7 @@ msgstr ""
 msgid "lowerbound"
 msgstr ""
 
-#: controllers/dashboard/index.js:70
+#: controllers/dashboard/index.js:72
 msgid "mins ago"
 msgstr ""
 
