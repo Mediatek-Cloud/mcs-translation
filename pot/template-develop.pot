@@ -78,7 +78,7 @@ msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
 #: controllers/limitation/index.js:29
-msgid "4. Unlimited number of prototype and GCM notification"
+msgid "4. Unlimited number of prototype and Mobile notification"
 msgstr ""
 
 #: development/detail/components.html:7
@@ -950,7 +950,7 @@ msgid "Input the confirm password"
 msgstr ""
 
 #: services/products/main.js:614
-msgid "Input the content of the GCM notificaton email. When the trigger criteria is met, the GCM notification will be sent to the speci fied users."
+msgid "Input the content of the Mobile notificaton email. When the trigger criteria is met, the Mobile notification will be sent to the speci fied users."
 msgstr ""
 
 #: services/products/main.js:607
