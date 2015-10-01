@@ -139,10 +139,6 @@ msgstr ""
 msgid "Action {{field}} is required!"
 msgstr ""
 
-#: management/device-list.html:81
-msgid "Activated date"
-msgstr ""
-
 #: development/detail/components.html:28
 #: development/dialogs/addComponent.html:30
 #: development/dialogs/addComponent.html:56
@@ -584,7 +580,6 @@ msgstr ""
 
 #: dashboard/numberofused.html:6
 #: development/index.html:172
-#: management/device-list.html:108
 #: mydevices/index.html:147
 msgid "Detail"
 msgstr ""
@@ -655,7 +650,6 @@ msgstr ""
 
 #: development/detail/testdevicelist.html:9
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:34
-#: management/device-list.html:80
 msgid "DeviceId"
 msgstr ""
 
@@ -664,7 +658,6 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/device-list.html:64
 #: management/product-list.html:55
 msgid "Devices"
 msgstr ""
@@ -675,10 +668,6 @@ msgstr ""
 
 #: development/detail/testdevicelist.html:3
 msgid "Devices ({{ devices.length }})"
-msgstr ""
-
-#: management/device-list.html:40
-msgid "Devices list"
 msgstr ""
 
 #: development/dialogs/addComponent.html:47
@@ -769,7 +758,6 @@ msgid "Equal to"
 msgstr ""
 
 #: dashboard/overview.html:46
-#: management/device-list.html:82
 msgid "Error"
 msgstr ""
 
@@ -840,7 +828,6 @@ msgstr ""
 msgid "Generate"
 msgstr ""
 
-#: management/device-list.html:66
 #: management/dialogs/createSerialNumber.html:3
 msgid "Generate serial numbers"
 msgstr ""
@@ -1172,10 +1159,6 @@ msgstr ""
 msgid "Management"
 msgstr ""
 
-#: management/device-list.html:34
-msgid "Management > Devices list"
-msgstr ""
-
 #: management/product-list.html:10
 msgid "Management list"
 msgstr ""
@@ -1454,7 +1437,6 @@ msgstr ""
 msgid "Profile page"
 msgstr ""
 
-#: management/device-list.html:63
 #: management/product-list.html:46
 msgid "Prototype ID"
 msgstr ""
@@ -1596,7 +1578,6 @@ msgstr ""
 
 #: components/category/selectFromToDate.html:135
 #: development/index.html:77
-#: management/device-list.html:52
 #: management/product-list.html:21
 #: mydevices/index.html:62
 msgid "Search"
@@ -1651,7 +1632,6 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: management/device-list.html:79
 #: mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
 msgstr ""
@@ -1722,10 +1702,6 @@ msgstr ""
 #: mydevices/detail/trigger.html:84
 #: profile/detail/mobilelist.html:13
 msgid "Switch"
-msgstr ""
-
-#: management/device-list.html:83
-msgid "System detail"
 msgstr ""
 
 #: development/dialogs/addComponent.html:85
@@ -1902,10 +1878,6 @@ msgstr ""
 
 #: aside.html:73
 msgid "Tutorial"
-msgstr ""
-
-#: management/device-list.html:78
-msgid "Type"
 msgstr ""
 
 #: limitation/index.html:46
@@ -2344,10 +2316,6 @@ msgstr ""
 #: controllers/devices/detail.js:344
 #: controllers/devices/index.js:76
 msgid "success."
-msgstr ""
-
-#: management/device-list.html:90
-msgid "test"
 msgstr ""
 
 #: services/products/main.js:599
