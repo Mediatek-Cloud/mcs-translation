@@ -2022,6 +2022,10 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
+#: controllers/management/device-list.js:9
+msgid "You have deleted this item successfully."
+msgstr ""
+
 #: development/dialogs/firmware/firmwareSuccess.html:17
 msgid "You have pushed the firmware to device successfully."
 msgstr ""
