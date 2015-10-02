@@ -630,6 +630,10 @@ msgstr ""
 msgid "Device list"
 msgstr ""
 
+#: controllers/management/prototypeList.js:10
+msgid "Device list filtered by prototype"
+msgstr ""
+
 #: development/dialogs/createTestDevice.html:10
 #: mydevices/dialogs/createDevices.html:31
 #: mydevices/dialogs/editDevices.html:10
@@ -656,10 +660,6 @@ msgstr ""
 #: development/detail/testdevicelist.html:10
 #: mydevices/dialogs/showapihint.html:16
 msgid "DeviceKey"
-msgstr ""
-
-#: management/product-list.html:55
-msgid "Devices"
 msgstr ""
 
 #: limitation/index.html:93
@@ -1155,12 +1155,7 @@ msgid "Manage your action"
 msgstr ""
 
 #: development/dialogs/finishRelease.html:10
-#: management/product-list.html:4
 msgid "Management"
-msgstr ""
-
-#: management/product-list.html:10
-msgid "Management list"
 msgstr ""
 
 #: management/dialogs/createSerialNumber.html:32
@@ -1437,10 +1432,6 @@ msgstr ""
 msgid "Profile page"
 msgstr ""
 
-#: management/product-list.html:46
-msgid "Prototype ID"
-msgstr ""
-
 #: dashboard/overview.html:19
 msgid "Prototype Name"
 msgstr ""
@@ -1499,10 +1490,6 @@ msgstr ""
 msgid "Recommended 300 x 160 pixels."
 msgstr ""
 
-#: management/product-list.html:65
-msgid "Registered"
-msgstr ""
-
 #: development/detail/testdevicelist.html:11
 msgid "Registered date"
 msgstr ""
@@ -1510,10 +1497,6 @@ msgstr ""
 #: mydevices/detail/trigger.html:82
 #: profile/detail/mobilelist.html:11
 msgid "Registered from"
-msgstr ""
-
-#: management/product-list.html:72
-msgid "Registered rate"
 msgstr ""
 
 #: mydevices/detail/trigger.html:83
@@ -1578,7 +1561,6 @@ msgstr ""
 
 #: components/category/selectFromToDate.html:135
 #: development/index.html:77
-#: management/product-list.html:21
 #: mydevices/index.html:62
 msgid "Search"
 msgstr ""
@@ -2022,7 +2004,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/management/device-list.js:9
+#: controllers/management/deviceList.js:9
 msgid "You have deleted this item successfully."
 msgstr ""
 
