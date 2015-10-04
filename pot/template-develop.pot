@@ -381,7 +381,6 @@ msgstr ""
 #: mydevices/detail.html:174
 #: mydevices/detail.html:186
 #: profile/detail/serviceprovider.html:62
-#: profile/detail/serviceprovider.html:77
 msgid "Copy"
 msgstr ""
 
@@ -1792,14 +1791,6 @@ msgstr ""
 msgid "and create test device for it."
 msgstr ""
 
-#: profile/detail/serviceprovider.html:52
-msgid "appKey :"
-msgstr ""
-
-#: profile/detail/serviceprovider.html:67
-msgid "appSecret :"
-msgstr ""
-
 #: mydevices/dialogs/editDevices.html:140
 msgid "cancel"
 msgstr ""
@@ -1814,6 +1805,10 @@ msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:19
 msgid "click here"
+msgstr ""
+
+#: profile/detail/serviceprovider.html:52
+msgid "clientId :"
 msgstr ""
 
 #: development/dialogs/firmware/firmwareSuccess.html:18
