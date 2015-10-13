@@ -1202,7 +1202,7 @@ msgstr ""
 
 #: mydevices/detail/trigger.html:76
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:214
+#: profile/index.html:213
 msgid "Mobile list"
 msgstr ""
 
@@ -1656,7 +1656,7 @@ msgstr ""
 msgid "Serial number"
 msgstr ""
 
-#: profile/index.html:221
+#: profile/index.html:220
 msgid "Service Provider"
 msgstr ""
 
@@ -2075,7 +2075,7 @@ msgstr ""
 msgid "Your account"
 msgstr ""
 
-#: profile/index.html:196
+#: profile/index.html:195
 msgid "Your current timezone"
 msgstr ""
 
@@ -2170,7 +2170,7 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:196
+#: profile/index.html:195
 msgid "is different from your setting."
 msgstr ""
 
