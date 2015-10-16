@@ -270,7 +270,7 @@ msgstr ""
 #: components/DeviceListManagement.js:253
 #: date.html:6
 #: development/dialogs/addComponentContent.html:280
-#: development/dialogs/createDevice.html:159
+#: development/dialogs/createDevice.html:158
 #: development/dialogs/createDeviceFail.html:29
 #: development/dialogs/createDeviceNotice.html:28
 #: development/dialogs/createProducts.html:246
@@ -414,7 +414,7 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-#: development/dialogs/createDevice.html:164
+#: development/dialogs/createDevice.html:163
 #: development/dialogs/createTestDevice.html:54
 #: development/index.html:96
 msgid "Create"
