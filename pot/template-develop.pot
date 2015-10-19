@@ -255,11 +255,11 @@ msgid "Beta Release"
 msgstr ""
 
 #: development/dialogs/createDeviceNotice.html:34
-#: development/index.html:163
 msgid "Beta release"
 msgstr ""
 
 #: development/detail.html:161
+#: development/index.html:163
 msgid "Beta released"
 msgstr ""
 
