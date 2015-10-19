@@ -1872,10 +1872,6 @@ msgstr ""
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
 
-#: limitation/index.html:52
-msgid "You can:"
-msgstr ""
-
 #: development/dialogs/ranOutOfLimitation.html:17
 msgid "You cannot create more device than your account limitation."
 msgstr ""
@@ -1919,6 +1915,10 @@ msgstr ""
 
 #: development/dialogs/createDevice.html:85
 msgid "Your account plan is"
+msgstr ""
+
+#: limitation/index.html:52
+msgid "Your account quota:"
 msgstr ""
 
 #: profile/index.html:195
