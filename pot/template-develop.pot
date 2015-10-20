@@ -112,15 +112,15 @@ msgid "Action type"
 msgstr ""
 
 #: components/DeviceListManagement.js:331
-#: components/PrototypeListManagement.js:221
+#: components/PrototypeListManagement.js:208
 msgid "Activated"
 msgstr ""
 
-#: development/detail.html:184
+#: development/detail.html:186
 msgid "Activated device"
 msgstr ""
 
-#: components/PrototypeListManagement.js:235
+#: components/PrototypeListManagement.js:222
 msgid "Activated rate"
 msgstr ""
 
@@ -212,7 +212,7 @@ msgstr ""
 msgid "App url"
 msgstr ""
 
-#: development/detail.html:163
+#: development/detail.html:165
 #: development/dialogs/createProducts.html:145
 #: development/dialogs/editProducts.html:137
 #: mydevices/detail.html:110
@@ -250,16 +250,16 @@ msgstr ""
 msgid "Back to prototype"
 msgstr ""
 
-#: development/detail.html:124
+#: development/detail.html:126
 msgid "Beta Release"
 msgstr ""
 
 #: development/dialogs/createDeviceNotice.html:34
-#: development/index.html:163
 msgid "Beta release"
 msgstr ""
 
-#: development/detail.html:159
+#: development/detail.html:161
+#: development/index.html:163
 msgid "Beta released"
 msgstr ""
 
@@ -270,7 +270,7 @@ msgstr ""
 #: components/DeviceListManagement.js:253
 #: date.html:6
 #: development/dialogs/addComponentContent.html:280
-#: development/dialogs/createDevice.html:159
+#: development/dialogs/createDevice.html:158
 #: development/dialogs/createDeviceFail.html:29
 #: development/dialogs/createDeviceNotice.html:28
 #: development/dialogs/createProducts.html:246
@@ -414,7 +414,7 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-#: development/dialogs/createDevice.html:164
+#: development/dialogs/createDevice.html:163
 #: development/dialogs/createTestDevice.html:54
 #: development/index.html:96
 msgid "Create"
@@ -424,7 +424,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: development/detail.html:106
+#: development/detail.html:107
 #: development/dialogs/createDevice.html:6
 msgid "Create device"
 msgstr ""
@@ -441,12 +441,12 @@ msgstr ""
 msgid "Create prototype"
 msgstr ""
 
-#: development/detail.html:88
+#: development/detail.html:89
 #: development/dialogs/createTestDevice.html:6
 msgid "Create test device"
 msgstr ""
 
-#: development/detail.html:176
+#: development/detail.html:178
 msgid "Create test device or beta release the prototype to try out and collect real data!"
 msgstr ""
 
@@ -483,7 +483,7 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: development/detail.html:200
+#: development/detail.html:202
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
 #: mydevices/detail.html:211
@@ -504,7 +504,7 @@ msgstr ""
 msgid "Data channel name"
 msgstr ""
 
-#: dashboard/numberofused.html:27
+#: dashboard/numberofused.html:37
 #: limitation/index.html:104
 msgid "Data points usage"
 msgstr ""
@@ -539,7 +539,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: development/detail.html:164
+#: development/detail.html:166
 #: development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:49
 #: development/dialogs/createProducts.html:87
@@ -591,7 +591,7 @@ msgid "Development"
 msgstr ""
 
 #: components/DeviceListManagement.js:301
-#: dashboard/numberofused.html:17
+#: dashboard/numberofused.html:27
 #: development/dialogs/createDevice.html:42
 #: development/index.html:169
 #: limitation/index.html:69
@@ -611,7 +611,7 @@ msgstr ""
 msgid "Device list"
 msgstr ""
 
-#: components/PrototypeListManagement.js:170
+#: components/PrototypeListManagement.js:153
 msgid "Device list filtered by prototype"
 msgstr ""
 
@@ -644,7 +644,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: components/PrototypeListManagement.js:207
+#: components/PrototypeListManagement.js:194
 msgid "Devices"
 msgstr ""
 
@@ -780,7 +780,7 @@ msgstr ""
 msgid "File upload"
 msgstr ""
 
-#: development/detail.html:219
+#: development/detail.html:221
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
 #: mydevices/detail.html:232
@@ -885,7 +885,7 @@ msgstr ""
 msgid "Image upload"
 msgstr ""
 
-#: development/detail.html:162
+#: development/detail.html:164
 #: development/dialogs/createProducts.html:101
 #: development/dialogs/editProducts.html:98
 #: mydevices/detail.html:109
@@ -1104,9 +1104,9 @@ msgstr ""
 
 #: components/DeviceListManagement.js:194
 #: components/DeviceListManagement.js:276
-#: components/PrototypeListManagement.js:147
-#: components/PrototypeListManagement.js:161
-#: development/detail.html:188
+#: components/PrototypeListManagement.js:273
+#: components/PrototypeListManagement.js:287
+#: development/detail.html:190
 #: development/dialogs/finishRelease.html:10
 #: mydevices/detail.html:35
 msgid "Management"
@@ -1142,8 +1142,8 @@ msgstr ""
 msgid "Mobile list"
 msgstr ""
 
-#: dashboard/numberofused.html:29
-msgid "Most utilized device :"
+#: dashboard/numberofused.html:39
+msgid "Most utilized device:"
 msgstr ""
 
 #: aside.html:30
@@ -1198,7 +1198,7 @@ msgstr ""
 msgid "No, thanks"
 msgstr ""
 
-#: development/detail.html:185
+#: development/detail.html:187
 msgid "Non-activated device"
 msgstr ""
 
@@ -1220,7 +1220,7 @@ msgstr ""
 msgid "Now used"
 msgstr ""
 
-#: development/detail.html:134
+#: development/detail.html:136
 msgid "Now, you can create test device for the prototype and connect with real device. Try it!"
 msgstr ""
 
@@ -1471,7 +1471,7 @@ msgstr ""
 msgid "Searching..."
 msgstr ""
 
-#: development/detail.html:188
+#: development/detail.html:190
 msgid "See more device detail in"
 msgstr ""
 
@@ -1537,13 +1537,13 @@ msgstr ""
 msgid "Start"
 msgstr ""
 
-#: dashboard/numberofused.html:31
+#: dashboard/numberofused.html:41
 msgid "Statistics up to today,"
 msgstr ""
 
 #: dashboard/overview.html:45
-#: development/detail.html:159
 #: development/detail.html:161
+#: development/detail.html:163
 #: development/index.html:160
 #: development/index.html:163
 msgid "Status"
@@ -1607,15 +1607,15 @@ msgstr ""
 msgid "Test"
 msgstr ""
 
-#: dashboard/numberofused.html:15
+#: dashboard/numberofused.html:20
 #: limitation/index.html:67
 msgid "Test Device"
 msgstr ""
 
 #: components/CreateDeviceTooltip.js:93
-#: development/detail.html:174
-#: development/detail.html:183
-#: development/detail.html:224
+#: development/detail.html:176
+#: development/detail.html:185
+#: development/detail.html:226
 #: development/dialogs/createDevice.html:31
 #: development/index.html:168
 msgid "Test device"
@@ -1707,7 +1707,7 @@ msgstr ""
 msgid "Totals Prototype"
 msgstr ""
 
-#: development/detail.html:207
+#: development/detail.html:209
 #: development/detail/trigger.html:3
 #: mydevices/detail.html:218
 #: mydevices/detail/trigger.html:3
@@ -1804,7 +1804,7 @@ msgstr ""
 msgid "User Name"
 msgstr ""
 
-#: development/detail.html:212
+#: development/detail.html:214
 #: mydevices/detail.html:225
 msgid "User privileges"
 msgstr ""
@@ -1872,10 +1872,6 @@ msgstr ""
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
 
-#: limitation/index.html:52
-msgid "You can:"
-msgstr ""
-
 #: development/dialogs/ranOutOfLimitation.html:17
 msgid "You cannot create more device than your account limitation."
 msgstr ""
@@ -1888,8 +1884,20 @@ msgstr ""
 msgid "You do not finish the tutorial yet."
 msgstr ""
 
+#: components/PrototypeListManagement.js:252
+msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
+msgstr ""
+
 #: development/dialogs/firmware/firmwareSuccess.html:17
 msgid "You have pushed the firmware to device successfully."
+msgstr ""
+
+#: development/detail.html:125
+msgid "You must have data channel before beta-release the prototype."
+msgstr ""
+
+#: development/detail.html:88
+msgid "You must have data channel before create test device."
 msgstr ""
 
 #: mydevices/detail.html:118
@@ -1911,6 +1919,10 @@ msgstr ""
 
 #: development/dialogs/createDevice.html:85
 msgid "Your account plan is"
+msgstr ""
+
+#: limitation/index.html:52
+msgid "Your account quota:"
 msgstr ""
 
 #: profile/index.html:195
@@ -1962,7 +1974,7 @@ msgstr ""
 msgid "data points have been used and still have"
 msgstr ""
 
-#: dashboard/numberofused.html:31
+#: dashboard/numberofused.html:41
 msgid "data points have been used."
 msgstr ""
 
@@ -2000,13 +2012,13 @@ msgstr ""
 msgid "jQuery"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:82
+#: components/ProgressCircles/TotalsDevice.js:84
 msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
 
-#: development/detail.html:188
+#: development/detail.html:190
 msgid "page"
 msgstr ""
 
@@ -2038,7 +2050,7 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:126
+#: components/ProgressCircles/TotalsDevice.js:128
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] ""
@@ -2049,7 +2061,7 @@ msgstr[1] ""
 msgid "{{format.display | capitalize:'first'}}"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:101
+#: components/ProgressCircles/TotalsDevice.js:103
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] ""
