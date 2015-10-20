@@ -379,6 +379,7 @@ msgstr ""
 
 #: components/DropdownButtons/MoreDropdownButton.js:59
 #: development/detail.html:107
+#: development/dialogs/cloneProduct.html:57
 #: development/index.html:139
 msgid "Clone"
 msgstr ""
@@ -399,10 +400,6 @@ msgstr ""
 #: development/dialogs/addFirmware.html:45
 #: development/dialogs/editFirmware.html:26
 msgid "Compatible firmware"
-msgstr ""
-
-#: development/dialogs/cloneProduct.html:57
-msgid "Cone"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:42
