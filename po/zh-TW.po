@@ -1928,7 +1928,7 @@ msgstr "裝置"
 msgid ""
 "devices before reaching your quota limitation. Over provision will lead to "
 "device creation failure."
-msgstr "個裝置還可以被建立。超額建立將會導致創建失敗。"
+msgstr "個裝置。超額建立將會導致創建失敗。"
 
 #: development/dialogs/firmware/firmwareSuccess.html:18
 msgid "field."
@@ -1989,7 +1989,7 @@ msgstr "版本"
 
 #: development/dialogs/createDevice.html:85
 msgid "you can create"
-msgstr "您可以建立"
+msgstr "您尚有"
 
 #: mydevices/index.html:78
 msgid "you need to create a prototype"

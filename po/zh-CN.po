@@ -1990,7 +1990,7 @@ msgstr "版本"
 
 #: development/dialogs/createDevice.html:85
 msgid "you can create"
-msgstr "您可以建立"
+msgstr "您尚有"
 
 #: mydevices/index.html:78
 msgid "you need to create a prototype"
