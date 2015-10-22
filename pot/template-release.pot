@@ -1722,8 +1722,8 @@ msgstr ""
 msgid "To receive the notification from MCS, turn on the mobile push switch for each specific mobile."
 msgstr ""
 
-#: limitation/index.html:153
-#: limitation/index.html:159
+#: limitation/index.html:161
+#: limitation/index.html:167
 msgid "Totals"
 msgstr ""
 
@@ -1993,8 +1993,8 @@ msgstr ""
 msgid "currently used"
 msgstr ""
 
-#: limitation/index.html:153
 #: limitation/index.html:161
+#: limitation/index.html:169
 msgid "data points have been used and still have"
 msgstr ""
 
