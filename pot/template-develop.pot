@@ -112,7 +112,7 @@ msgid "Action type"
 msgstr ""
 
 #: management/DeviceListManagement.js:331
-#: management/PrototypeListManagement.js:208
+#: management/PrototypeListManagement.js:209
 msgid "Activated"
 msgstr ""
 
@@ -120,7 +120,7 @@ msgstr ""
 msgid "Activated device"
 msgstr ""
 
-#: management/PrototypeListManagement.js:222
+#: management/PrototypeListManagement.js:223
 msgid "Activated rate"
 msgstr ""
 
@@ -625,7 +625,7 @@ msgstr ""
 msgid "Device list"
 msgstr ""
 
-#: management/PrototypeListManagement.js:153
+#: management/PrototypeListManagement.js:154
 msgid "Device list filtered by prototype"
 msgstr ""
 
@@ -659,7 +659,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/PrototypeListManagement.js:194
+#: management/PrototypeListManagement.js:195
 msgid "Devices"
 msgstr ""
 
@@ -1123,8 +1123,8 @@ msgstr ""
 #: development/dialogs/finishRelease.html:10
 #: management/DeviceListManagement.js:194
 #: management/DeviceListManagement.js:276
-#: management/PrototypeListManagement.js:273
-#: management/PrototypeListManagement.js:287
+#: management/PrototypeListManagement.js:274
+#: management/PrototypeListManagement.js:288
 #: mydevices/detail.html:35
 msgid "Management"
 msgstr ""
@@ -1911,7 +1911,7 @@ msgstr ""
 msgid "You do not finish the tutorial yet."
 msgstr ""
 
-#: management/PrototypeListManagement.js:252
+#: management/PrototypeListManagement.js:253
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
