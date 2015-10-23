@@ -377,7 +377,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:59
+#: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail.html:107
 #: development/dialogs/cloneProduct.html:57
 #: development/index.html:139
@@ -532,7 +532,7 @@ msgstr ""
 msgid "Default value"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:59
+#: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:136
 #: development/index.html:142
 #: management/DeviceListManagement.js:261
@@ -706,7 +706,7 @@ msgstr ""
 msgid "EX:100(only input integer)"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:59
+#: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:130
 #: development/detail/manufacturerinfo.html:11
 #: development/index.html:138
