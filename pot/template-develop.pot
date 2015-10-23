@@ -258,7 +258,6 @@ msgstr ""
 msgid "Beta release"
 msgstr ""
 
-#: development/detail.html:161
 #: development/index.html:164
 msgid "Beta released"
 msgstr ""
