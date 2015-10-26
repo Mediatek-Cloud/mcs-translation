@@ -118,7 +118,7 @@ msgid "Action type"
 msgstr "動作類型"
 
 #: management/DeviceListManagement.js:331
-#: management/PrototypeListManagement.js:208
+#: management/PrototypeListManagement.js:209
 msgid "Activated"
 msgstr "已激活"
 
@@ -126,7 +126,7 @@ msgstr "已激活"
 msgid "Activated device"
 msgstr "已激活裝置"
 
-#: management/PrototypeListManagement.js:222
+#: management/PrototypeListManagement.js:223
 msgid "Activated rate"
 msgstr "激活比例"
 
@@ -370,8 +370,9 @@ msgstr "清除所選"
 msgid "Click the edit button. Let's start editing !"
 msgstr "點擊編輯按鈕， 開始編輯！"
 
-#: components/DropdownButtons/MoreDropdownButton.js:59
-#: development/detail.html:107 development/index.html:139
+#: components/DropdownButtons/MoreDropdownButton.js:58
+#: development/detail.html:107 development/dialogs/cloneProduct.html:57
+#: development/index.html:139
 msgid "Clone"
 msgstr "複製"
 
@@ -392,10 +393,6 @@ msgstr "即將推出"
 #: development/dialogs/editFirmware.html:26
 msgid "Compatible firmware"
 msgstr "相容的韌體"
-
-#: development/dialogs/cloneProduct.html:57
-msgid "Cone"
-msgstr "複製"
 
 #: profile/dialogs/changePassword.html:42
 msgid "Confirm password"
@@ -507,7 +504,7 @@ msgstr "資料通道 Id"
 msgid "Data channel name"
 msgstr "資料通道名稱"
 
-#: dashboard/numberofused.html:37 limitation/index.html:104
+#: dashboard/numberofused.html:37 limitation/index.html:115
 msgid "Data points usage"
 msgstr "用量"
 
@@ -522,7 +519,7 @@ msgstr "資料型態"
 msgid "Default value"
 msgstr "默認值"
 
-#: components/DropdownButtons/MoreDropdownButton.js:59
+#: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:136 development/index.html:142
 #: management/DeviceListManagement.js:261 mydevices/detail.html:79
 #: mydevices/index.html:120 profile/detail/serviceprovider.html:21
@@ -585,7 +582,7 @@ msgid "Development"
 msgstr "開發"
 
 #: dashboard/numberofused.html:27 development/dialogs/createDevice.html:42
-#: development/index.html:170 limitation/index.html:69
+#: development/index.html:170 limitation/index.html:79
 #: management/DeviceListManagement.js:301
 msgid "Device"
 msgstr "裝置"
@@ -603,7 +600,7 @@ msgstr "裝置描述 (初始值)"
 msgid "Device list"
 msgstr "裝置列表"
 
-#: management/PrototypeListManagement.js:153
+#: management/PrototypeListManagement.js:154
 msgid "Device list filtered by prototype"
 msgstr "根據產品原型分類的裝置列表"
 
@@ -618,7 +615,7 @@ msgstr "裝置名稱"
 msgid "Device name ( default )"
 msgstr "裝置名稱 (初始值)"
 
-#: development/dialogs/createDevice.html:13
+#: development/dialogs/createDevice.html:13 limitation/index.html:114
 msgid "Device type"
 msgstr "裝置類別"
 
@@ -636,11 +633,11 @@ msgstr "DeviceId"
 msgid "DeviceKey"
 msgstr "DeviceKey"
 
-#: management/PrototypeListManagement.js:194
+#: management/PrototypeListManagement.js:195
 msgid "Devices"
 msgstr "裝置"
 
-#: limitation/index.html:89
+#: limitation/index.html:99
 msgid "Devices ({{ allDeviceLimitationList.length }})"
 msgstr "裝置 ({{ allDeviceLimitationList.length }})"
 
@@ -683,7 +680,7 @@ msgstr "例如: 0.01 (浮點數)"
 msgid "EX:100(only input integer)"
 msgstr "例如: 100 (整數)"
 
-#: components/DropdownButtons/MoreDropdownButton.js:59
+#: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:130
 #: development/detail/manufacturerinfo.html:11 development/index.html:138
 #: profile/detail/serviceprovider.html:29
@@ -724,12 +721,12 @@ msgstr "編輯觸發條件"
 msgid "Edit trigger information"
 msgstr "編輯觸發條件資訊"
 
-#: development/detail/userprivileges.html:9
+#: development/detail/userprivileges.html:9 limitation/index.html:118
 #: mydevices/detail/userprivileges.html:9 profile/index.html:77
 msgid "Email"
 msgstr "電子郵件帳號"
 
-#: limitation/index.html:105
+#: limitation/index.html:117
 msgid "Email trigger"
 msgstr "電子郵件通知"
 
@@ -1043,7 +1040,7 @@ msgstr "最後資料點時間"
 msgid "Last updated prototype"
 msgstr "最後更新的產品原型"
 
-#: dashboard/overview.html:21 limitation/index.html:106
+#: dashboard/overview.html:21 limitation/index.html:120
 msgid "Last updated time"
 msgstr "最後更新時間"
 
@@ -1083,8 +1080,8 @@ msgstr "管理您的觸發動作"
 #: development/detail.html:196 development/dialogs/finishRelease.html:10
 #: management/DeviceListManagement.js:194
 #: management/DeviceListManagement.js:276
-#: management/PrototypeListManagement.js:273
-#: management/PrototypeListManagement.js:287 mydevices/detail.html:35
+#: management/PrototypeListManagement.js:274
+#: management/PrototypeListManagement.js:288 mydevices/detail.html:35
 msgid "Management"
 msgstr "管理"
 
@@ -1135,7 +1132,7 @@ msgstr "當您關閉後，註記將重新出現。"
 
 #: dashboard/overview.html:44 development/detail/firmware.html:8
 #: development/detail/testdevicelist.html:8 development/detail/trigger.html:8
-#: limitation/index.html:103 management/DeviceListManagement.js:316
+#: limitation/index.html:113 management/DeviceListManagement.js:316
 #: mydevices/detail/firmware.html:15 mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81 profile/detail/mobilelist.html:10
 msgid "Name"
@@ -1244,7 +1241,7 @@ msgstr "在線"
 msgid "Only support integer and float data channel types."
 msgstr "只支持整數和浮點數的資料通道類型。"
 
-#: limitation/index.html:86
+#: limitation/index.html:96
 msgid "Only the devices that you have owner access will be listed and counted."
 msgstr "只有您為擁有者的裝置會被列出並列入計算。"
 
@@ -1572,13 +1569,14 @@ msgstr "模板預覽：選擇適合您資料通道的模板。"
 msgid "Test"
 msgstr "測試"
 
-#: dashboard/numberofused.html:20 limitation/index.html:67
+#: dashboard/numberofused.html:20 limitation/index.html:72
 msgid "Test Device"
 msgstr "測試裝置"
 
 #: components/CreateDeviceTooltip.js:93 development/detail.html:182
 #: development/detail.html:191 development/detail.html:232
 #: development/dialogs/createDevice.html:31 development/index.html:169
+#: limitation/index.html:148
 msgid "Test device"
 msgstr "測試裝置"
 
@@ -1672,7 +1670,7 @@ msgid ""
 "each specific mobile."
 msgstr "打開手機推播開關，以收到所有來自 MCS 的通知。"
 
-#: limitation/index.html:153 limitation/index.html:159
+#: limitation/index.html:187 limitation/index.html:193
 msgid "Totals"
 msgstr "總共"
 
@@ -1755,7 +1753,7 @@ msgstr "上傳中..."
 msgid "Usage limitation detail"
 msgstr "使用量限制詳情"
 
-#: limitation/index.html:85
+#: limitation/index.html:95
 msgid "Usage of each device"
 msgstr "裝置用量"
 
@@ -1854,7 +1852,7 @@ msgstr "此動作將無法回復。"
 msgid "You do not finish the tutorial yet."
 msgstr "您尚未完成快速上手指南。"
 
-#: management/PrototypeListManagement.js:252
+#: management/PrototypeListManagement.js:253
 msgid ""
 "You do not have any beta-released prototype and device yet. To see and "
 "manage the distributed devices here in the Management page, you have to "
@@ -1905,7 +1903,7 @@ msgstr "您的帳戶配額："
 msgid "Your current timezone"
 msgstr "目前所在地時間"
 
-#: limitation/index.html:80
+#: limitation/index.html:90
 msgid "Your device list"
 msgstr "您的裝置清單"
 
@@ -1945,7 +1943,11 @@ msgstr "clientId :"
 msgid "currently used"
 msgstr "現正使用"
 
-#: limitation/index.html:153 limitation/index.html:161
+#: limitation/index.html:187 limitation/index.html:195
+msgid "data points"
+msgstr "資料點"
+
+#: limitation/index.html:187 limitation/index.html:195
 msgid "data points have been used and still have"
 msgstr "個資料點已被使用，並還有"
 
@@ -2043,6 +2045,9 @@ msgstr "{{format.display | capitalize:'first'}}"
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] "{{testDeviceNumber}} 個測試裝置"
+
+#~ msgid "Cone"
+#~ msgstr "複製"
 
 #~ msgid "Most utilized device :"
 #~ msgstr "使用量最高的裝置："
