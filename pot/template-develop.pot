@@ -111,7 +111,7 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: management/DeviceListManagement.js:331
+#: management/DeviceListManagement.js:326
 #: management/PrototypeListManagement.js:209
 msgid "Activated"
 msgstr ""
@@ -258,7 +258,7 @@ msgstr ""
 msgid "Beta release"
 msgstr ""
 
-#: development/index.html:164
+#: development/index.html:163
 msgid "Beta released"
 msgstr ""
 
@@ -379,7 +379,7 @@ msgstr ""
 #: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail.html:107
 #: development/dialogs/cloneProduct.html:57
-#: development/index.html:139
+#: development/index.html:138
 msgid "Clone"
 msgstr ""
 
@@ -533,7 +533,7 @@ msgstr ""
 
 #: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:136
-#: development/index.html:142
+#: development/index.html:141
 #: management/DeviceListManagement.js:261
 #: mydevices/detail.html:79
 #: mydevices/index.html:120
@@ -570,7 +570,7 @@ msgid "Description"
 msgstr ""
 
 #: dashboard/numberofused.html:6
-#: development/index.html:179
+#: development/index.html:178
 #: mydevices/index.html:148
 msgid "Detail"
 msgstr ""
@@ -605,7 +605,7 @@ msgstr ""
 
 #: dashboard/numberofused.html:27
 #: development/dialogs/createDevice.html:42
-#: development/index.html:170
+#: development/index.html:169
 #: limitation/index.html:79
 #: management/DeviceListManagement.js:301
 msgid "Device"
@@ -708,7 +708,7 @@ msgstr ""
 #: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:130
 #: development/detail/manufacturerinfo.html:11
-#: development/index.html:138
+#: development/index.html:137
 #: profile/detail/serviceprovider.html:29
 msgid "Edit"
 msgstr ""
@@ -764,11 +764,6 @@ msgstr ""
 
 #: management/dialogs/createSerialNumber.html:71
 msgid "Enter your serials, one per line."
-msgstr ""
-
-#: dashboard/overview.html:46
-#: management/DeviceListManagement.js:326
-msgid "Error"
 msgstr ""
 
 #: development/detail/manufacturerinfo.html:25
@@ -1069,8 +1064,8 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: dashboard/overview.html:47
-#: management/DeviceListManagement.js:336
+#: dashboard/overview.html:46
+#: management/DeviceListManagement.js:331
 #: mydevices/detail/components.html:57
 msgid "Last data point time"
 msgstr ""
@@ -1281,7 +1276,7 @@ msgstr ""
 msgid "ON"
 msgstr ""
 
-#: dashboard/overview.html:58
+#: dashboard/overview.html:57
 msgid "Off line"
 msgstr ""
 
@@ -1289,7 +1284,7 @@ msgstr ""
 msgid "Ok"
 msgstr ""
 
-#: dashboard/overview.html:57
+#: dashboard/overview.html:56
 msgid "On line"
 msgstr ""
 
@@ -1367,7 +1362,7 @@ msgstr ""
 msgid "Prototype name"
 msgstr ""
 
-#: development/index.html:166
+#: development/index.html:165
 msgid "Prototype state"
 msgstr ""
 
@@ -1565,8 +1560,8 @@ msgstr ""
 #: dashboard/overview.html:45
 #: development/detail.html:161
 #: development/detail.html:163
-#: development/index.html:161
-#: development/index.html:164
+#: development/index.html:160
+#: development/index.html:163
 msgid "Status"
 msgstr ""
 
@@ -1638,7 +1633,7 @@ msgstr ""
 #: development/detail.html:191
 #: development/detail.html:232
 #: development/dialogs/createDevice.html:31
-#: development/index.html:169
+#: development/index.html:168
 #: limitation/index.html:148
 msgid "Test device"
 msgstr ""
@@ -1853,7 +1848,7 @@ msgstr ""
 #: development/detail/firmware.html:9
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:19
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
-#: development/index.html:158
+#: development/index.html:157
 #: mydevices/detail.html:60
 #: mydevices/detail.html:66
 #: mydevices/detail/firmware.html:16
