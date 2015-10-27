@@ -484,6 +484,7 @@ msgstr ""
 #: mydevices/detail.html:179
 #: mydevices/detail.html:191
 #: profile/detail/serviceprovider.html:62
+#: profile/detail/serviceprovider.html:77
 msgid "Copy"
 msgstr ""
 
@@ -1763,7 +1764,7 @@ msgstr ""
 msgid "Select trigger action"
 msgstr ""
 
-#: controllers/profile/index.js:179
+#: controllers/profile/index.js:174
 msgid "Send email to {{email}}"
 msgstr ""
 
@@ -1831,9 +1832,9 @@ msgstr ""
 msgid "String"
 msgstr ""
 
-#: controllers/profile/index.js:110
-#: controllers/profile/index.js:59
-#: controllers/profile/index.js:88
+#: controllers/profile/index.js:105
+#: controllers/profile/index.js:54
+#: controllers/profile/index.js:83
 #: development/dialogs/createDeviceSuccess.html:5
 #: development/dialogs/firmware/firmwareSuccess.html:5
 msgid "Success"
@@ -2272,7 +2273,7 @@ msgstr ""
 msgid "Your device list"
 msgstr ""
 
-#: controllers/profile/index.js:199
+#: controllers/profile/index.js:194
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
@@ -2304,6 +2305,14 @@ msgstr ""
 msgid "and create test device for it."
 msgstr ""
 
+#: profile/detail/serviceprovider.html:52
+msgid "appKey :"
+msgstr ""
+
+#: profile/detail/serviceprovider.html:67
+msgid "appSecret :"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:140
 msgid "cancel"
 msgstr ""
@@ -2320,11 +2329,7 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#: profile/detail/serviceprovider.html:52
-msgid "clientId :"
-msgstr ""
-
-#: controllers/profile/index.js:192
+#: controllers/profile/index.js:187
 msgid "confirm password can not be null"
 msgstr ""
 
@@ -2525,11 +2530,11 @@ msgstr ""
 msgid "name cannot be null!"
 msgstr ""
 
-#: controllers/profile/index.js:189
+#: controllers/profile/index.js:184
 msgid "new password can not be null"
 msgstr ""
 
-#: controllers/profile/index.js:195
+#: controllers/profile/index.js:190
 msgid "new password is not as same as confirm password"
 msgstr ""
 
