@@ -142,11 +142,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1124
+#: controllers/development/detail.js:1129
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1129
+#: controllers/development/detail.js:1134
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -550,7 +550,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1114
+#: controllers/development/detail.js:1119
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -599,7 +599,7 @@ msgstr ""
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1112
+#: controllers/development/detail.js:1117
 msgid "Data channel is required!"
 msgstr ""
 
@@ -743,7 +743,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:564
+#: controllers/development/detail.js:567
 msgid "Device name cannot null."
 msgstr ""
 
@@ -1279,7 +1279,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1192
+#: controllers/development/detail.js:1197
 #: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1526,7 +1526,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: controllers/development/detail.js:1286
+#: controllers/development/detail.js:1291
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1534,11 +1534,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:705
+#: controllers/development/detail.js:710
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1195
+#: controllers/development/detail.js:1200
 #: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
@@ -2041,7 +2041,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1105
+#: controllers/development/detail.js:1110
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2224,7 +2224,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:866
+#: controllers/development/detail.js:871
 #: controllers/development/index.js:93
 msgid "You have cloned the"
 msgstr ""
@@ -2382,11 +2382,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:767
+#: controllers/development/detail.js:772
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:866
+#: controllers/development/detail.js:871
 #: controllers/development/index.js:93
 msgid "from"
 msgstr ""
@@ -2535,7 +2535,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:759
+#: controllers/development/detail.js:764
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2579,8 +2579,8 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
-#: controllers/development/detail.js:1085
-#: controllers/development/detail.js:1093
+#: controllers/development/detail.js:1090
+#: controllers/development/detail.js:1098
 #: controllers/development/detail.js:151
 #: controllers/development/detail.js:171
 #: controllers/development/detail.js:245
@@ -2593,7 +2593,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:866
+#: controllers/development/detail.js:871
 #: controllers/development/index.js:93
 msgid "successfully."
 msgstr ""
@@ -2631,7 +2631,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:763
+#: controllers/development/detail.js:768
 msgid "version cannot be null!"
 msgstr ""
 
