@@ -1451,7 +1451,6 @@ msgid "OFF"
 msgstr ""
 
 #: alert.html:23
-#: components/category/selectFromToDate.html:69
 #: components/control/float.html:13
 #: components/control/gps.html:92
 #: components/control/hexstring.html:13
@@ -1718,7 +1717,6 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-#: components/category/selectFromToDate.html:135
 #: development/index.html:78
 #: mydevices/index.html:63
 msgid "Search"
@@ -1967,29 +1965,12 @@ msgstr ""
 msgid "This is my clicked marker!"
 msgstr ""
 
-#: directives/category/selectFromToDate.js:21
-msgid "Time format incorrect, Hour must be between 0-24"
-msgstr ""
-
-#: directives/category/selectFromToDate.js:24
-msgid "Time format incorrect, minute value must be between 0-60"
-msgstr ""
-
-#: components/category/selectFromToDate.html:16
-#: components/category/selectFromToDate.html:56
-msgid "Time:"
-msgstr ""
-
 #: profile/index.html:128
 msgid "Timezone"
 msgstr ""
 
 #: development/detail/manufacturerinfo.html:17
 msgid "Title"
-msgstr ""
-
-#: components/category/selectFromToDate.html:105
-msgid "To"
 msgstr ""
 
 #: development/dialogs/cloneProduct.html:13
