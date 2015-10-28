@@ -55,7 +55,7 @@ msgstr ""
 msgid "1. {{count}} test devices"
 msgstr ""
 
-#: main.js:364
+#: main.js:371
 msgid "1010"
 msgstr ""
 
@@ -273,6 +273,10 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
+#: components/TermsOfUse.js:325
+msgid "Approve"
+msgstr ""
+
 #: mydevices/detail/apihint.html:89
 #: mydevices/dialogs/showapihint.html:66
 msgid "Arduino"
@@ -338,7 +342,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:368
+#: main.js:375
 #: management/DeviceListManagement/index.js:135
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
@@ -449,7 +453,7 @@ msgstr ""
 msgid "Clone from existing prototype"
 msgstr ""
 
-#: main.js:335
+#: main.js:342
 msgid "Close"
 msgstr ""
 
@@ -629,7 +633,7 @@ msgstr ""
 #: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:136
 #: development/index.html:141
-#: main.js:367
+#: main.js:374
 #: management/DeviceListManagement/index.js:143
 #: mydevices/detail.html:79
 #: mydevices/index.html:120
@@ -647,7 +651,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:365
+#: main.js:372
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -711,7 +715,7 @@ msgstr ""
 msgid "Device"
 msgstr ""
 
-#: main.js:366
+#: main.js:373
 msgid "Device Title"
 msgstr ""
 
@@ -1563,8 +1567,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:334
-#: main.js:344
+#: main.js:341
+#: main.js:351
 msgid "Please try again!"
 msgstr ""
 
@@ -1801,6 +1805,10 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
+#: components/TermsOfUse.js:320
+msgid "Sign out"
+msgstr ""
+
 #: dashboard/tutorial.html:7
 msgid "Start"
 msgstr ""
@@ -1850,8 +1858,8 @@ msgstr ""
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
-#: main.js:332
-#: main.js:349
+#: main.js:339
+#: main.js:356
 msgid "Success!"
 msgstr ""
 
@@ -1879,6 +1887,10 @@ msgstr ""
 
 #: development/dialogs/addComponentContent.html:197
 msgid "Template preview: Select a template that suits your data channel."
+msgstr ""
+
+#: components/TermsOfUse.js:303
+msgid "Terms Of Use"
 msgstr ""
 
 #: mydevices/index.html:100
@@ -2528,8 +2540,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:342
-#: main.js:356
+#: main.js:349
+#: main.js:363
 msgid "notice"
 msgstr ""
 
