@@ -55,7 +55,7 @@ msgstr ""
 msgid "1. {{count}} test devices"
 msgstr ""
 
-#: main.js:364
+#: main.js:368
 msgid "1010"
 msgstr ""
 
@@ -338,7 +338,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:433
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:368
+#: main.js:372
 #: management/DeviceListManagement.js:253
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
@@ -445,7 +445,7 @@ msgstr ""
 msgid "Clone from existing prototype"
 msgstr ""
 
-#: main.js:335
+#: main.js:339
 msgid "Close"
 msgstr ""
 
@@ -624,7 +624,7 @@ msgstr ""
 #: components/DropdownButtons/MoreDropdownButton.js:58
 #: development/detail/components.html:136
 #: development/index.html:141
-#: main.js:367
+#: main.js:371
 #: management/DeviceListManagement.js:261
 #: mydevices/detail.html:79
 #: mydevices/index.html:120
@@ -642,7 +642,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:365
+#: main.js:369
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -706,7 +706,7 @@ msgstr ""
 msgid "Device"
 msgstr ""
 
-#: main.js:366
+#: main.js:370
 msgid "Device Title"
 msgstr ""
 
@@ -1559,8 +1559,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:334
-#: main.js:344
+#: main.js:338
+#: main.js:348
 msgid "Please try again!"
 msgstr ""
 
@@ -1843,8 +1843,8 @@ msgstr ""
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
-#: main.js:332
-#: main.js:349
+#: main.js:336
+#: main.js:353
 msgid "Success!"
 msgstr ""
 
@@ -2538,8 +2538,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:342
-#: main.js:356
+#: main.js:346
+#: main.js:360
 msgid "notice"
 msgstr ""
 
