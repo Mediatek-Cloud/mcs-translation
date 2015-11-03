@@ -101,11 +101,11 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:110
+#: mydevices/detail/components.html:118
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:242
+#: mydevices/detail.html:249
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -230,6 +230,10 @@ msgstr ""
 msgid "Allows you define Firmware(s) for this prototype for created test devices Over-the-Air(OTA) Firmware updates."
 msgstr ""
 
+#: components/GoogleMap/MarkerPopover.js:129
+msgid "Altitude"
+msgstr ""
+
 #: components/control/gps.html:79
 msgid "Altitude:"
 msgstr ""
@@ -263,7 +267,7 @@ msgstr ""
 #: development/detail.html:165
 #: development/dialogs/createProducts.html:145
 #: development/dialogs/editProducts.html:137
-#: mydevices/detail.html:110
+#: mydevices/detail.html:117
 #: mydevices/dialogs/editDevices.html:93
 msgid "Application"
 msgstr ""
@@ -298,7 +302,7 @@ msgstr ""
 msgid "At least 8 characters"
 msgstr ""
 
-#: mydevices/detail.html:90
+#: mydevices/detail.html:97
 msgid "Back to prototype"
 msgstr ""
 
@@ -488,10 +492,10 @@ msgid "Controller"
 msgstr ""
 
 #: management/DeviceListManagement/DeviceRow.js:182
-#: mydevices/detail.html:134
-#: mydevices/detail.html:150
-#: mydevices/detail.html:179
-#: mydevices/detail.html:191
+#: mydevices/detail.html:141
+#: mydevices/detail.html:157
+#: mydevices/detail.html:186
+#: mydevices/detail.html:198
 #: profile/detail/serviceprovider.html:62
 #: profile/detail/serviceprovider.html:77
 msgid "Copy"
@@ -549,8 +553,8 @@ msgstr ""
 
 #: development/detail.html:47
 #: development/detail.html:55
-#: mydevices/detail.html:59
 #: mydevices/detail.html:66
+#: mydevices/detail.html:73
 msgid "Creator"
 msgstr ""
 
@@ -587,7 +591,7 @@ msgstr ""
 #: development/detail.html:208
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:211
+#: mydevices/detail.html:218
 msgid "Data channel"
 msgstr ""
 
@@ -635,7 +639,7 @@ msgstr ""
 #: development/index.html:141
 #: main.js:378
 #: management/DeviceListManagement/index.js:143
-#: mydevices/detail.html:79
+#: mydevices/detail.html:86
 #: mydevices/index.html:120
 #: profile/detail/serviceprovider.html:21
 msgid "Delete"
@@ -664,7 +668,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:111
+#: mydevices/detail.html:118
 #: mydevices/dialogs/createDevices.html:41
 #: mydevices/dialogs/editDevices.html:60
 #: profile/detail/serviceprovider.html:44
@@ -702,7 +706,7 @@ msgstr ""
 #: aside.html:21
 #: development/detail.html:28
 #: development/index.html:30
-#: mydevices/detail.html:30
+#: mydevices/detail.html:37
 #: mydevices/index.html:30
 msgid "Development"
 msgstr ""
@@ -915,7 +919,7 @@ msgstr ""
 #: development/detail.html:227
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:232
+#: mydevices/detail.html:239
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1003,8 +1007,8 @@ msgstr ""
 #: development/detail.html:56
 #: development/dialogs/createProducts.html:45
 #: development/dialogs/editProducts.html:45
-#: mydevices/detail.html:61
-#: mydevices/detail.html:67
+#: mydevices/detail.html:68
+#: mydevices/detail.html:74
 msgid "Hardware platform"
 msgstr ""
 
@@ -1021,13 +1025,18 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:103
+#: mydevices/detail/components.html:104
+#: mydevices/detail/components.html:111
 msgid "Hide History"
 msgstr ""
 
 #: components/control/gpio.html:3
 #: components/display/gpio.html:6
 msgid "High"
+msgstr ""
+
+#: development/GPSHistory/Header.js:61
+msgid "Historical GPS location"
 msgstr ""
 
 #: development/dialogs/addComponent.html:66
@@ -1044,7 +1053,7 @@ msgstr ""
 #: development/detail.html:164
 #: development/dialogs/createProducts.html:101
 #: development/dialogs/editProducts.html:98
-#: mydevices/detail.html:109
+#: mydevices/detail.html:116
 #: mydevices/dialogs/editDevices.html:66
 msgid "Industry"
 msgstr ""
@@ -1226,6 +1235,7 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+#: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
 #: management/DeviceListManagement/index.js:212
 #: mydevices/detail/components.html:57
@@ -1239,6 +1249,10 @@ msgstr ""
 #: dashboard/overview.html:21
 #: limitation/index.html:120
 msgid "Last updated time"
+msgstr ""
+
+#: components/GoogleMap/MarkerPopover.js:115
+msgid "Latitude"
 msgstr ""
 
 #: components/control/gps.html:55
@@ -1260,6 +1274,10 @@ msgstr ""
 
 #: aside.html:93
 msgid "Linkit one tutorial"
+msgstr ""
+
+#: components/GoogleMap/MarkerPopover.js:122
+msgid "Longitude"
 msgstr ""
 
 #: components/control/gps.html:67
@@ -1298,7 +1316,7 @@ msgstr ""
 #: management/DeviceListManagement/index.js:75
 #: management/PrototypeListManagement/index.js:176
 #: management/PrototypeListManagement/index.js:190
-#: mydevices/detail.html:35
+#: mydevices/detail.html:42
 msgid "Management"
 msgstr ""
 
@@ -1519,6 +1537,10 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
+#: development/GPSHistory/index.js:393
+msgid "Pause"
+msgstr ""
+
 #: components/control/pwm.html:19
 #: components/control/pwmSlider.html:4
 msgid "Period"
@@ -1527,6 +1549,10 @@ msgstr ""
 #: profile/dialogs/applyApp.html:23
 #: profile/dialogs/editApp.html:25
 msgid "Platform"
+msgstr ""
+
+#: development/GPSHistory/index.js:402
+msgid "Play"
 msgstr ""
 
 #: controllers/development/detail.js:1282
@@ -1801,7 +1827,8 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:102
+#: mydevices/detail/components.html:103
+#: mydevices/detail/components.html:110
 msgid "Show History"
 msgstr ""
 
@@ -1912,7 +1939,7 @@ msgstr ""
 msgid "Test device"
 msgstr ""
 
-#: mydevices/detail.html:31
+#: mydevices/detail.html:38
 #: mydevices/index.html:31
 msgid "Test devices"
 msgstr ""
@@ -2012,7 +2039,7 @@ msgstr ""
 
 #: development/detail.html:215
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:218
+#: mydevices/detail.html:225
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2112,7 +2139,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:220
-#: mydevices/detail.html:225
+#: mydevices/detail.html:232
 msgid "User privileges"
 msgstr ""
 
@@ -2135,8 +2162,8 @@ msgstr ""
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:19
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
 #: development/index.html:157
-#: mydevices/detail.html:60
-#: mydevices/detail.html:66
+#: mydevices/detail.html:67
+#: mydevices/detail.html:73
 #: mydevices/detail/firmware.html:16
 #: mydevices/index.html:135
 msgid "Version"
@@ -2242,8 +2269,8 @@ msgstr ""
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: mydevices/detail.html:118
-#: mydevices/detail.html:167
+#: mydevices/detail.html:125
+#: mydevices/detail.html:174
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
