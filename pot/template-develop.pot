@@ -151,7 +151,7 @@ msgid "Action {{field}} is required!"
 msgstr ""
 
 #: management/DeviceListManagement/index.js:207
-#: management/PrototypeListManagement/index.js:111
+#: management/PrototypeListManagement/index.js:132
 msgid "Activated"
 msgstr ""
 
@@ -159,7 +159,7 @@ msgstr ""
 msgid "Activated device"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:125
+#: management/PrototypeListManagement/index.js:146
 msgid "Activated rate"
 msgstr ""
 
@@ -277,7 +277,7 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
-#: components/TermsOfUse.js:325
+#: components/TermsOfUse.js:373
 msgid "Approve"
 msgstr ""
 
@@ -442,7 +442,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:225
+#: management/DeviceListManagement/DeviceRow.js:263
 msgid "Click to copy the activation code"
 msgstr ""
 
@@ -491,7 +491,7 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:182
+#: management/DeviceListManagement/DeviceRow.js:220
 #: mydevices/detail.html:141
 #: mydevices/detail.html:157
 #: mydevices/detail.html:186
@@ -736,7 +736,7 @@ msgstr ""
 msgid "Device list"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:56
+#: management/PrototypeListManagement/index.js:77
 msgid "Device list filtered by prototype"
 msgstr ""
 
@@ -774,7 +774,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:97
+#: management/PrototypeListManagement/index.js:118
 msgid "Devices"
 msgstr ""
 
@@ -1314,8 +1314,8 @@ msgstr ""
 #: development/dialogs/finishRelease.html:10
 #: management/DeviceListManagement/index.js:157
 #: management/DeviceListManagement/index.js:75
-#: management/PrototypeListManagement/index.js:176
-#: management/PrototypeListManagement/index.js:190
+#: management/PrototypeListManagement/index.js:196
+#: management/PrototypeListManagement/index.js:210
 #: mydevices/detail.html:42
 msgid "Management"
 msgstr ""
@@ -1537,7 +1537,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: development/GPSHistory/index.js:393
+#: development/GPSHistory/index.js:473
 msgid "Pause"
 msgstr ""
 
@@ -1551,7 +1551,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: development/GPSHistory/index.js:402
+#: development/GPSHistory/index.js:482
 msgid "Play"
 msgstr ""
 
@@ -1811,7 +1811,7 @@ msgstr ""
 msgid "Serial number"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:154
+#: management/DeviceListManagement/DeviceRow.js:192
 msgid "Serial number :"
 msgstr ""
 
@@ -1832,7 +1832,7 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
-#: components/TermsOfUse.js:320
+#: components/TermsOfUse.js:368
 msgid "Sign out"
 msgstr ""
 
@@ -1916,7 +1916,7 @@ msgstr ""
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
-#: components/TermsOfUse.js:303
+#: components/TermsOfUse.js:351
 msgid "Terms Of Use"
 msgstr ""
 
@@ -1929,7 +1929,7 @@ msgstr ""
 msgid "Test Device"
 msgstr ""
 
-#: development/CreateDevicePopover.js:106
+#: development/CreateDevicePopover.js:116
 #: development/detail.html:182
 #: development/detail.html:191
 #: development/detail.html:232
@@ -2181,7 +2181,7 @@ msgstr ""
 msgid "Welcome"
 msgstr ""
 
-#: development/CreateDevicePopover.js:114
+#: development/CreateDevicePopover.js:124
 msgid "When you ready to commercialize your prototype, create device with serial number and you can find it in Management page!"
 msgstr ""
 
@@ -2234,7 +2234,7 @@ msgstr ""
 msgid "You do not finish the tutorial yet."
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:155
+#: management/PrototypeListManagement/index.js:176
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
@@ -2427,7 +2427,7 @@ msgstr ""
 msgid "is different from your setting."
 msgstr ""
 
-#: development/CreateDevicePopover.js:109
+#: development/CreateDevicePopover.js:119
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
 msgstr ""
 
@@ -2577,7 +2577,7 @@ msgstr ""
 msgid "of {{deviceCount}} Test Devices"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:106
+#: components/ProgressCircles/TotalsDevice.js:126
 msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
@@ -2667,7 +2667,7 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:156
+#: components/ProgressCircles/TotalsDevice.js:176
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] ""
@@ -2682,7 +2682,7 @@ msgstr ""
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:133
+#: components/ProgressCircles/TotalsDevice.js:153
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] ""
