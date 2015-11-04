@@ -1543,7 +1543,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: development/GPSHistory/index.js:473
+#: development/GPSHistory/index.js:469
 msgid "Pause"
 msgstr ""
 
@@ -1557,7 +1557,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: development/GPSHistory/index.js:482
+#: development/GPSHistory/index.js:478
 msgid "Play"
 msgstr ""
 
