@@ -32,12 +32,12 @@ msgstr ""
 msgid "+ Add firmware"
 msgstr ""
 
-#: controllers/development/detail.js:62
+#: controllers/development/detail.js:66
 #: development/detail/testdevicelist.html:58
 msgid "+ Add test device"
 msgstr ""
 
-#: controllers/development/detail.js:58
+#: controllers/development/detail.js:62
 #: development/detail/trigger.html:61
 msgid "+ Add trigger & action"
 msgstr ""
@@ -124,12 +124,12 @@ msgstr ""
 msgid "API type"
 msgstr ""
 
-#: controllers/development/detail.js:45
+#: controllers/development/detail.js:49
 msgid "Account limitation reached. You cannot create more devices."
 msgstr ""
 
-#: controllers/development/detail.js:49
-#: controllers/development/detail.js:61
+#: controllers/development/detail.js:53
+#: controllers/development/detail.js:65
 msgid "Account limitation reached. You cannot create more test devices."
 msgstr ""
 
@@ -142,11 +142,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1120
+#: controllers/development/detail.js:1138
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1125
+#: controllers/development/detail.js:1143
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -163,7 +163,7 @@ msgstr ""
 msgid "Activated rate"
 msgstr ""
 
-#: controllers/development/detail.js:54
+#: controllers/development/detail.js:58
 #: development/detail/components.html:28
 #: development/dialogs/addComponent.html:30
 #: development/dialogs/addComponent.html:56
@@ -236,6 +236,10 @@ msgstr ""
 
 #: components/control/gps.html:79
 msgid "Altitude:"
+msgstr ""
+
+#: factories/dataChnTypeId.js:96
+msgid "Analog"
 msgstr ""
 
 #: development/dialogs/trigger/add.html:109
@@ -327,7 +331,7 @@ msgid "Can't find your template?"
 msgstr ""
 
 #: date.html:6
-#: development/dialogs/addComponentContent.html:280
+#: development/dialogs/addComponentContent.html:297
 #: development/dialogs/cloneProduct.html:52
 #: development/dialogs/createDevice.html:158
 #: development/dialogs/createDeviceFail.html:29
@@ -335,7 +339,7 @@ msgstr ""
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
 #: development/dialogs/deleteConfirm.html:27
-#: development/dialogs/editComponent.html:103
+#: development/dialogs/editComponent.html:120
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
@@ -511,7 +515,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: controllers/development/detail.js:46
+#: controllers/development/detail.js:50
 #: development/detail.html:90
 #: development/dialogs/createDevice.html:6
 msgid "Create device"
@@ -529,7 +533,7 @@ msgstr ""
 msgid "Create prototype"
 msgstr ""
 
-#: controllers/development/detail.js:50
+#: controllers/development/detail.js:54
 #: development/detail.html:72
 #: development/dialogs/createTestDevice.html:6
 msgid "Create test device"
@@ -558,7 +562,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1110
+#: controllers/development/detail.js:1128
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -580,11 +584,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:388
+#: controllers/development/detail.js:406
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:391
+#: controllers/development/detail.js:409
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -603,11 +607,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:458
+#: controllers/development/detail.js:476
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1108
+#: controllers/development/detail.js:1126
 msgid "Data channel is required!"
 msgstr ""
 
@@ -751,7 +755,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:558
+#: controllers/development/detail.js:576
 msgid "Device name cannot null."
 msgstr ""
 
@@ -1220,6 +1224,8 @@ msgstr ""
 #: components/control/pwm.html:23
 #: components/control/pwm.html:9
 #: components/control/pwmSlider.html:9
+#: factories/components.js:691
+#: factories/components.js:696
 msgid "Integer only"
 msgstr ""
 
@@ -1301,7 +1307,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1188
+#: controllers/development/detail.js:1206
 #: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1395,8 +1401,8 @@ msgstr ""
 msgid "Name cannot be null."
 msgstr ""
 
-#: controllers/development/detail.js:138
-#: controllers/development/detail.js:385
+#: controllers/development/detail.js:145
+#: controllers/development/detail.js:403
 msgid "Name cannot null"
 msgstr ""
 
@@ -1555,7 +1561,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1282
+#: controllers/development/detail.js:1300
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1563,11 +1569,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:701
+#: controllers/development/detail.js:719
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1191
+#: controllers/development/detail.js:1209
 #: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1728,9 +1734,9 @@ msgstr ""
 msgid "Role"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:284
+#: development/dialogs/addComponentContent.html:301
 #: development/dialogs/createProducts.html:251
-#: development/dialogs/editComponent.html:110
+#: development/dialogs/editComponent.html:127
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
@@ -1830,6 +1836,10 @@ msgstr ""
 #: mydevices/detail/components.html:103
 #: mydevices/detail/components.html:110
 msgid "Show History"
+msgstr ""
+
+#: factories/components.js:699
+msgid "Show current value"
 msgstr ""
 
 #: components/TermsOfUse.js:368
@@ -2061,7 +2071,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1101
+#: controllers/development/detail.js:1119
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2244,7 +2254,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:862
+#: controllers/development/detail.js:880
 #: controllers/development/index.js:93
 msgid "You have cloned the"
 msgstr ""
@@ -2265,7 +2275,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:394
+#: controllers/development/detail.js:412
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -2310,11 +2320,11 @@ msgstr ""
 msgid "Your prototype is beta-released."
 msgstr ""
 
-#: controllers/development/detail.js:53
+#: controllers/development/detail.js:57
 msgid "Your prototype is beta-released. You can no longer make change to the data channel."
 msgstr ""
 
-#: controllers/development/detail.js:57
+#: controllers/development/detail.js:61
 msgid "Your prototype is beta-released. You can no longer make change to the trigger and action rules."
 msgstr ""
 
@@ -2402,11 +2412,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:763
+#: controllers/development/detail.js:781
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:862
+#: controllers/development/detail.js:880
 #: controllers/development/index.js:93
 msgid "from"
 msgstr ""
@@ -2548,6 +2558,7 @@ msgstr ""
 #: factories/components.js:255
 #: factories/components.js:279
 #: factories/components.js:361
+#: factories/components.js:689
 msgid "lowerbound"
 msgstr ""
 
@@ -2555,7 +2566,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:755
+#: controllers/development/detail.js:773
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2599,12 +2610,12 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
-#: controllers/development/detail.js:1081
-#: controllers/development/detail.js:1089
-#: controllers/development/detail.js:151
-#: controllers/development/detail.js:171
-#: controllers/development/detail.js:245
-#: controllers/development/detail.js:292
+#: controllers/development/detail.js:1099
+#: controllers/development/detail.js:1107
+#: controllers/development/detail.js:158
+#: controllers/development/detail.js:178
+#: controllers/development/detail.js:256
+#: controllers/development/detail.js:303
 #: controllers/development/index.js:173
 #: controllers/development/index.js:200
 #: controllers/devices/detail.js:149
@@ -2613,7 +2624,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:862
+#: controllers/development/detail.js:880
 #: controllers/development/index.js:93
 msgid "successfully."
 msgstr ""
@@ -2640,6 +2651,7 @@ msgstr ""
 #: factories/components.js:259
 #: factories/components.js:283
 #: factories/components.js:365
+#: factories/components.js:694
 msgid "upperbound"
 msgstr ""
 
@@ -2651,7 +2663,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:759
+#: controllers/development/detail.js:777
 msgid "version cannot be null!"
 msgstr ""
 
