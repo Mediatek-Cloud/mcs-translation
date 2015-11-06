@@ -1081,7 +1081,7 @@ msgid "Input the confirm password"
 msgstr ""
 
 #: services/products/main.js:641
-msgid "Input the content of the Mobile notificaton email. When the trigger criteria is met, the Mobile notification will be sent to the specified users."
+msgid "Input the content of the Mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
 #: services/products/main.js:634
