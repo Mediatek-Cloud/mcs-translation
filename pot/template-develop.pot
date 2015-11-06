@@ -150,7 +150,7 @@ msgstr ""
 msgid "Action {{field}} is required!"
 msgstr ""
 
-#: management/DeviceListManagement/index.js:207
+#: management/DeviceListManagement/index.js:215
 #: management/PrototypeListManagement/index.js:132
 msgid "Activated"
 msgstr ""
@@ -294,7 +294,7 @@ msgstr ""
 msgid "Are you sure you want to beta-release your prototype now?"
 msgstr ""
 
-#: management/DeviceListManagement/index.js:116
+#: management/DeviceListManagement/index.js:71
 msgid "Are you sure you want to delete?"
 msgstr ""
 
@@ -314,7 +314,7 @@ msgstr ""
 msgid "Beta Release"
 msgstr ""
 
-#: development/dialogs/createDeviceNotice.html:34
+#: development/dialogs/createDeviceNotice.html:38
 msgid "Beta release"
 msgstr ""
 
@@ -335,7 +335,7 @@ msgstr ""
 #: development/dialogs/cloneProduct.html:52
 #: development/dialogs/createDevice.html:158
 #: development/dialogs/createDeviceFail.html:29
-#: development/dialogs/createDeviceNotice.html:28
+#: development/dialogs/createDeviceNotice.html:31
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
 #: development/dialogs/deleteConfirm.html:27
@@ -351,7 +351,7 @@ msgstr ""
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:379
-#: management/DeviceListManagement/index.js:135
+#: management/DeviceListManagement/index.js:143
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:76
 #: mydevices/dialogs/showapihint.html:99
@@ -642,7 +642,7 @@ msgstr ""
 #: development/detail/components.html:136
 #: development/index.html:141
 #: main.js:378
-#: management/DeviceListManagement/index.js:143
+#: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:86
 #: mydevices/index.html:120
 #: profile/detail/serviceprovider.html:21
@@ -719,7 +719,7 @@ msgstr ""
 #: development/dialogs/createDevice.html:42
 #: development/index.html:169
 #: limitation/index.html:79
-#: management/DeviceListManagement/index.js:182
+#: management/DeviceListManagement/index.js:190
 msgid "Device"
 msgstr ""
 
@@ -1239,7 +1239,7 @@ msgstr ""
 
 #: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
-#: management/DeviceListManagement/index.js:212
+#: management/DeviceListManagement/index.js:220
 #: mydevices/detail/components.html:57
 msgid "Last data point time"
 msgstr ""
@@ -1314,8 +1314,8 @@ msgstr ""
 
 #: development/detail.html:196
 #: development/dialogs/finishRelease.html:10
-#: management/DeviceListManagement/index.js:157
-#: management/DeviceListManagement/index.js:75
+#: management/DeviceListManagement/index.js:165
+#: management/DeviceListManagement/index.js:92
 #: management/PrototypeListManagement/index.js:196
 #: management/PrototypeListManagement/index.js:210
 #: mydevices/detail.html:42
@@ -1385,7 +1385,7 @@ msgstr ""
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
 #: limitation/index.html:113
-#: management/DeviceListManagement/index.js:197
+#: management/DeviceListManagement/index.js:205
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:81
@@ -1448,7 +1448,7 @@ msgstr ""
 #: development/dialogs/deleteConfirm.html:5
 #: development/dialogs/ranOutOfLimitation.html:5
 #: dialogs/tutorialCloseConfirm.html:5
-#: management/DeviceListManagement/index.js:99
+#: management/DeviceListManagement/index.js:116
 msgid "Notice!"
 msgstr ""
 
@@ -1511,6 +1511,14 @@ msgstr ""
 
 #: dashboard/overview.html:56
 msgid "On line"
+msgstr ""
+
+#: development/dialogs/createDeviceNotice.html:21
+msgid "Only prototype owner can beta-release the prototype, please contact your prototype owner."
+msgstr ""
+
+#: management/DeviceListManagement/index.js:79
+msgid "Only prototype owner can delete device, please contact your prototype owner."
 msgstr ""
 
 #: development/dialogs/trigger/add.html:259
@@ -1808,7 +1816,7 @@ msgid "Send us a message!"
 msgstr ""
 
 #: development/dialogs/createDevice.html:90
-#: management/DeviceListManagement/index.js:202
+#: management/DeviceListManagement/index.js:210
 #: mydevices/dialogs/createDevices.html:21
 msgid "Serial number"
 msgstr ""
@@ -2236,7 +2244,7 @@ msgstr ""
 msgid "You cannot create more device than your account limitation."
 msgstr ""
 
-#: management/DeviceListManagement/index.js:121
+#: management/DeviceListManagement/index.js:73
 msgid "You cannot revert this action."
 msgstr ""
 
