@@ -736,10 +736,6 @@ msgstr ""
 msgid "Device description ( default )"
 msgstr ""
 
-#: mydevices/index.html:52
-msgid "Device list"
-msgstr ""
-
 #: management/PrototypeListManagement/index.js:77
 msgid "Device list filtered by prototype"
 msgstr ""
@@ -1947,6 +1943,10 @@ msgstr ""
 #: development/index.html:168
 #: limitation/index.html:148
 msgid "Test device"
+msgstr ""
+
+#: mydevices/index.html:52
+msgid "Test device list"
 msgstr ""
 
 #: mydevices/detail.html:38
