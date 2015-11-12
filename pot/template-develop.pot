@@ -1073,6 +1073,10 @@ msgstr ""
 msgid "Input device serial numbers. One serial number per line. Please make sure the serial number must be less than 50 characters."
 msgstr ""
 
+#: services/products/main.js:648
+msgid "Input the Url."
+msgstr ""
+
 #: services/products/main.js:628
 msgid "Input the action title"
 msgstr ""
@@ -2675,6 +2679,10 @@ msgstr ""
 #: factories/components.js:365
 #: factories/components.js:694
 msgid "upperbound"
+msgstr ""
+
+#: services/products/main.js:646
+msgid "url"
 msgstr ""
 
 #: directives/components/control/pwmSlider.js:57
