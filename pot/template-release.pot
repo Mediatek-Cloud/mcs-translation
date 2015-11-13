@@ -1551,7 +1551,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: development/GPSHistory/index.js:473
+#: development/GPSHistory/index.js:474
 msgid "Pause"
 msgstr ""
 
@@ -1565,7 +1565,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: development/GPSHistory/index.js:482
+#: development/GPSHistory/index.js:483
 msgid "Play"
 msgstr ""
 
@@ -1995,7 +1995,7 @@ msgstr ""
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
-#: development/GPSHistory/index.js:488
+#: development/GPSHistory/index.js:489
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
