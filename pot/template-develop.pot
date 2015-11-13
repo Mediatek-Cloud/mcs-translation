@@ -1040,6 +1040,11 @@ msgstr ""
 msgid "High"
 msgstr ""
 
+#: services/products/main.js:635
+#: services/products/main.js:645
+msgid "Hint: You can use ${} to use the variable function."
+msgstr ""
+
 #: development/GPSHistory/Header.js:61
 msgid "Historical GPS location"
 msgstr ""
@@ -1073,7 +1078,7 @@ msgstr ""
 msgid "Input device serial numbers. One serial number per line. Please make sure the serial number must be less than 50 characters."
 msgstr ""
 
-#: services/products/main.js:648
+#: services/products/main.js:652
 msgid "Input the Url."
 msgstr ""
 
@@ -1089,7 +1094,7 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:641
+#: services/products/main.js:643
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
@@ -2250,6 +2255,11 @@ msgstr ""
 msgid "You can see its detail in \"My devices\"."
 msgstr ""
 
+#: services/products/main.js:636
+#: services/products/main.js:646
+msgid "You can use ${} to mention the variables you would like to include in your notification content. Variables include Device Id, Device Name, Device Description, Data Channel Name and Data Channel Value. See more detail here."
+msgstr ""
+
 #: mydevices/detail/apihint.html:33
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
@@ -2399,7 +2409,7 @@ msgid "confirm password can not be null"
 msgstr ""
 
 #: services/products/main.js:632
-#: services/products/main.js:639
+#: services/products/main.js:641
 msgid "content"
 msgstr ""
 
@@ -2681,7 +2691,7 @@ msgstr ""
 msgid "upperbound"
 msgstr ""
 
-#: services/products/main.js:646
+#: services/products/main.js:650
 msgid "url"
 msgstr ""
 
