@@ -339,7 +339,7 @@ msgstr ""
 #: development/dialogs/createDeviceNotice.html:31
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
-#: development/dialogs/deleteConfirm.html:27
+#: development/dialogs/deleteConfirm.html:28
 #: development/dialogs/editComponent.html:120
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
@@ -1497,7 +1497,7 @@ msgstr ""
 #: components/control/pwm.html:30
 #: components/control/string.html:13
 #: date.html:5
-#: development/dialogs/deleteConfirm.html:33
+#: development/dialogs/deleteConfirm.html:34
 #: development/dialogs/finishRelease.html:21
 #: development/dialogs/firmware/firmwareSuccess.html:27
 #: development/dialogs/release.html:47
@@ -2051,6 +2051,10 @@ msgstr ""
 
 #: development/dialogs/cloneProduct.html:13
 msgid "To clone from an existing prototype enables you to build a similiar prototype base on the old one."
+msgstr ""
+
+#: development/dialogs/deleteConfirm.html:18
+msgid "To delete the data channel, the trigger & action rules for the data channel will be deleted too."
 msgstr ""
 
 #: mydevices/detail/trigger.html:74
