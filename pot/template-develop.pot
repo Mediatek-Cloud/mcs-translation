@@ -376,7 +376,7 @@ msgid "Category"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
-#: profile/index.html:85
+#: profile/index.html:84
 msgid "Change password"
 msgstr ""
 
@@ -872,7 +872,7 @@ msgstr ""
 #: development/detail/userprivileges.html:9
 #: limitation/index.html:118
 #: mydevices/detail/userprivileges.html:9
-#: profile/index.html:77
+#: profile/index.html:76
 msgid "Email"
 msgstr ""
 
@@ -1265,7 +1265,7 @@ msgstr ""
 msgid "Key concepts"
 msgstr ""
 
-#: profile/index.html:89
+#: profile/index.html:88
 msgid "Language"
 msgstr ""
 
@@ -1380,7 +1380,7 @@ msgstr ""
 
 #: mydevices/detail/trigger.html:76
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:213
+#: profile/index.html:212
 msgid "Mobile list"
 msgstr ""
 
@@ -1445,7 +1445,7 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
-#: profile/index.html:73
+#: profile/index.html:72
 msgid "Nick name"
 msgstr ""
 
@@ -1581,7 +1581,7 @@ msgstr ""
 msgid "PWM"
 msgstr ""
 
-#: profile/index.html:81
+#: profile/index.html:80
 msgid "Password"
 msgstr ""
 
@@ -1872,7 +1872,7 @@ msgstr ""
 msgid "Serial number format error."
 msgstr ""
 
-#: profile/index.html:220
+#: profile/index.html:219
 msgid "Service Provider"
 msgstr ""
 
@@ -2069,7 +2069,7 @@ msgstr ""
 msgid "This is my clicked marker!"
 msgstr ""
 
-#: profile/index.html:128
+#: profile/index.html:127
 msgid "Timezone"
 msgstr ""
 
@@ -2180,7 +2180,7 @@ msgstr ""
 msgid "Upload a CSV file, one serial number per line"
 msgstr ""
 
-#: profile/index.html:57
+#: profile/index.html:56
 msgid "Upload an image"
 msgstr ""
 
@@ -2384,7 +2384,7 @@ msgstr ""
 msgid "Your account quota:"
 msgstr ""
 
-#: profile/index.html:195
+#: profile/index.html:194
 msgid "Your current timezone"
 msgstr ""
 
@@ -2436,11 +2436,11 @@ msgstr ""
 msgid "cancel"
 msgstr ""
 
-#: profile/index.html:95
+#: profile/index.html:94
 msgid "choose Language"
 msgstr ""
 
-#: profile/index.html:134
+#: profile/index.html:133
 msgid "choose Timezone"
 msgstr ""
 
@@ -2513,7 +2513,7 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:195
+#: profile/index.html:194
 msgid "is different from your setting."
 msgstr ""
 
