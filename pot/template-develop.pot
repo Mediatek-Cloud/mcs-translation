@@ -341,7 +341,7 @@ msgstr ""
 msgid "Can't find your template?"
 msgstr ""
 
-#: components/dialogs/commonDialog.js:140
+#: components/Dialogs/CommonDialog.js:140
 #: date.html:6
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
 #: development/dialogs/addComponentContent.html:255
@@ -1523,13 +1523,13 @@ msgid "OFF"
 msgstr ""
 
 #: alert.html:23
+#: components/Dialogs/CommonDialog.js:148
 #: components/control/float.html:13
 #: components/control/gps.html:92
 #: components/control/hexstring.html:13
 #: components/control/integer.html:13
 #: components/control/pwm.html:30
 #: components/control/string.html:13
-#: components/dialogs/commonDialog.js:148
 #: date.html:5
 #: development/dialogs/deleteConfirm.html:34
 #: development/dialogs/finishRelease.html:21
