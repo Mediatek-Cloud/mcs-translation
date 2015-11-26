@@ -158,7 +158,7 @@ msgid "Action {{field}} is required!"
 msgstr ""
 
 #: management/DeviceListManagement/index.js:251
-#: management/PrototypeListManagement/index.js:168
+#: management/PrototypeListManagement/index.js:172
 msgid "Activated"
 msgstr ""
 
@@ -166,7 +166,7 @@ msgstr ""
 msgid "Activated device"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:182
+#: management/PrototypeListManagement/index.js:186
 msgid "Activated rate"
 msgstr ""
 
@@ -292,7 +292,7 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
-#: components/TermsOfUse.js:409
+#: components/TermsOfUse.js:410
 msgid "Approve"
 msgstr ""
 
@@ -748,7 +748,7 @@ msgstr ""
 msgid "Device description ( default )"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:113
+#: management/PrototypeListManagement/index.js:117
 msgid "Device list filtered by prototype"
 msgstr ""
 
@@ -786,7 +786,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:154
+#: management/PrototypeListManagement/index.js:158
 msgid "Devices"
 msgstr ""
 
@@ -1359,8 +1359,8 @@ msgstr ""
 #: development/dialogs/finishRelease.html:10
 #: management/DeviceListManagement/index.js:128
 #: management/DeviceListManagement/index.js:201
-#: management/PrototypeListManagement/index.js:232
-#: management/PrototypeListManagement/index.js:246
+#: management/PrototypeListManagement/index.js:236
+#: management/PrototypeListManagement/index.js:250
 #: mydevices/detail.html:43
 msgid "Management"
 msgstr ""
@@ -1596,7 +1596,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: development/GPSHistory/index.js:511
+#: development/GPSHistory/index.js:520
 msgid "Pause"
 msgstr ""
 
@@ -1610,7 +1610,7 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: development/GPSHistory/index.js:520
+#: development/GPSHistory/index.js:529
 msgid "Play"
 msgstr ""
 
@@ -1904,7 +1904,7 @@ msgstr ""
 msgid "Show current value"
 msgstr ""
 
-#: components/TermsOfUse.js:404
+#: components/TermsOfUse.js:405
 msgid "Sign out"
 msgstr ""
 
@@ -1989,7 +1989,7 @@ msgstr ""
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
-#: components/TermsOfUse.js:387
+#: components/TermsOfUse.js:388
 msgid "Terms Of Use"
 msgstr ""
 
@@ -2050,7 +2050,7 @@ msgstr ""
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
-#: development/GPSHistory/index.js:526
+#: development/GPSHistory/index.js:535
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
@@ -2340,7 +2340,7 @@ msgstr ""
 msgid "You do not finish the tutorial yet."
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:212
+#: management/PrototypeListManagement/index.js:216
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
@@ -2688,7 +2688,7 @@ msgstr ""
 msgid "of {{deviceCount}} Test Devices"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:162
+#: components/ProgressCircles/TotalsDevice.js:164
 msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
@@ -2783,7 +2783,7 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:212
+#: components/ProgressCircles/TotalsDevice.js:214
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] ""
@@ -2793,7 +2793,7 @@ msgstr[1] ""
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:189
+#: components/ProgressCircles/TotalsDevice.js:191
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] ""
