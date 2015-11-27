@@ -4,8 +4,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
-#: mydevices/dialogs/trigger.html:53
-#: mydevices/dialogs/trigger.html:65
+#: mydevices/dialogs/trigger.html:54
+#: mydevices/dialogs/trigger.html:67
 msgid "( default )"
 msgstr ""
 
@@ -43,7 +43,7 @@ msgid "+ Add trigger & action"
 msgstr ""
 
 #: development/detail/userprivileges.html:52
-#: mydevices/detail/userprivileges.html:54
+#: mydevices/detail/userprivileges.html:55
 msgid "+ Add user"
 msgstr ""
 
@@ -108,11 +108,11 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:118
+#: mydevices/detail/components.html:121
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:250
+#: mydevices/detail.html:256
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -126,7 +126,7 @@ msgstr ""
 msgid "API references"
 msgstr ""
 
-#: mydevices/detail/apihint.html:52
+#: mydevices/detail/apihint.html:54
 #: mydevices/dialogs/showapihint.html:22
 msgid "API type"
 msgstr ""
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Account limitation reached. You cannot create more test devices."
 msgstr ""
 
-#: mydevices/detail/trigger.html:70
+#: mydevices/detail/trigger.html:72
 msgid "Action"
 msgstr ""
 
@@ -260,12 +260,12 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:296
 #: development/dialogs/trigger/edit.html:99
 #: mydevices/dialogs/trigger.html:31
-#: mydevices/dialogs/trigger.html:55
+#: mydevices/dialogs/trigger.html:56
 msgid "And"
 msgstr ""
 
-#: mydevices/detail/apihint.html:98
-#: mydevices/dialogs/showapihint.html:84
+#: mydevices/detail/apihint.html:102
+#: mydevices/dialogs/showapihint.html:90
 msgid "Angular"
 msgstr ""
 
@@ -282,8 +282,8 @@ msgstr ""
 #: development/detail.html:154
 #: development/dialogs/createProducts.html:145
 #: development/dialogs/editProducts.html:137
-#: mydevices/detail.html:118
-#: mydevices/dialogs/editDevices.html:93
+#: mydevices/detail.html:120
+#: mydevices/dialogs/editDevices.html:99
 msgid "Application"
 msgstr ""
 
@@ -296,8 +296,8 @@ msgstr ""
 msgid "Approve"
 msgstr ""
 
-#: mydevices/detail/apihint.html:89
-#: mydevices/dialogs/showapihint.html:66
+#: mydevices/detail/apihint.html:93
+#: mydevices/dialogs/showapihint.html:69
 msgid "Arduino"
 msgstr ""
 
@@ -317,7 +317,7 @@ msgstr ""
 msgid "At least 8 characters"
 msgstr ""
 
-#: mydevices/detail.html:98
+#: mydevices/detail.html:100
 msgid "Back to prototype"
 msgstr ""
 
@@ -366,10 +366,10 @@ msgstr ""
 #: main.js:379
 #: management/DeviceListManagement/index.js:179
 #: management/dialogs/createSerialNumber.html:84
-#: mydevices/dialogs/createDevices.html:76
-#: mydevices/dialogs/showapihint.html:99
-#: mydevices/dialogs/trigger.html:97
-#: mydevices/dialogs/userPrivilege.html:94
+#: mydevices/dialogs/createDevices.html:82
+#: mydevices/dialogs/showapihint.html:106
+#: mydevices/dialogs/trigger.html:100
+#: mydevices/dialogs/userPrivilege.html:99
 #: profile/dialogs/applyApp.html:88
 #: profile/dialogs/changePassword.html:63
 #: profile/dialogs/cropImage.html:25
@@ -392,7 +392,7 @@ msgstr ""
 msgid "Check Sum"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:30
+#: mydevices/dialogs/editDevices.html:32
 msgid "Chip"
 msgstr ""
 
@@ -422,7 +422,7 @@ msgstr ""
 msgid "Choose the data channel"
 msgstr ""
 
-#: mydevices/detail/apihint.html:6
+#: mydevices/detail/apihint.html:7
 msgid "Choose the dataChannel"
 msgstr ""
 
@@ -508,10 +508,10 @@ msgid "Controller"
 msgstr ""
 
 #: management/DeviceListManagement/DeviceRow.js:256
-#: mydevices/detail.html:142
-#: mydevices/detail.html:158
-#: mydevices/detail.html:187
-#: mydevices/detail.html:199
+#: mydevices/detail.html:145
+#: mydevices/detail.html:162
+#: mydevices/detail.html:191
+#: mydevices/detail.html:203
 #: profile/detail/serviceprovider.html:66
 #: profile/detail/serviceprovider.html:83
 msgid "Copy"
@@ -607,13 +607,13 @@ msgstr ""
 #: development/detail.html:197
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:219
+#: mydevices/detail.html:223
 msgid "Data channel"
 msgstr ""
 
 #: development/detail/components.html:93
 #: development/dialogs/addComponentContent.html:27
-#: mydevices/detail/apihint.html:46
+#: mydevices/detail/apihint.html:48
 #: mydevices/detail/components.html:61
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
@@ -629,7 +629,7 @@ msgstr ""
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11
-#: mydevices/detail/apihint.html:40
+#: mydevices/detail/apihint.html:42
 msgid "Data channel name"
 msgstr ""
 
@@ -655,7 +655,7 @@ msgstr ""
 #: development/index.html:139
 #: main.js:378
 #: management/DeviceListManagement/index.js:187
-#: mydevices/detail.html:87
+#: mydevices/detail.html:88
 #: mydevices/index.html:120
 #: profile/detail/serviceprovider.html:22
 msgid "Delete"
@@ -684,9 +684,9 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:119
-#: mydevices/dialogs/createDevices.html:41
-#: mydevices/dialogs/editDevices.html:60
+#: mydevices/detail.html:121
+#: mydevices/dialogs/createDevices.html:44
+#: mydevices/dialogs/editDevices.html:64
 #: profile/detail/serviceprovider.html:46
 #: profile/dialogs/applyApp.html:65
 #: profile/dialogs/editApp.html:70
@@ -744,7 +744,7 @@ msgstr ""
 msgid "Device description"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:48
+#: mydevices/dialogs/createDevices.html:52
 msgid "Device description ( default )"
 msgstr ""
 
@@ -754,12 +754,12 @@ msgstr ""
 
 #: development/dialogs/createDevice.html:52
 #: development/dialogs/createTestDevice.html:13
-#: mydevices/dialogs/createDevices.html:31
+#: mydevices/dialogs/createDevices.html:33
 #: mydevices/dialogs/editDevices.html:10
 msgid "Device name"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:36
+#: mydevices/dialogs/createDevices.html:39
 msgid "Device name ( default )"
 msgstr ""
 
@@ -772,7 +772,7 @@ msgstr ""
 msgid "Device type"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:20
+#: mydevices/dialogs/editDevices.html:21
 msgid "Device version"
 msgstr ""
 
@@ -887,7 +887,7 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:15
+#: mydevices/dialogs/editDevices.html:16
 msgid "Enter device name"
 msgstr ""
 
@@ -935,7 +935,7 @@ msgstr ""
 #: development/detail.html:216
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:240
+#: mydevices/detail.html:244
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1037,7 +1037,7 @@ msgstr ""
 msgid "Here are the quick start guide to help you to get off the ground."
 msgstr ""
 
-#: mydevices/detail/apihint.html:32
+#: mydevices/detail/apihint.html:34
 msgid "Here is the API hint for you."
 msgstr ""
 
@@ -1046,8 +1046,8 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:104
-#: mydevices/detail/components.html:111
+#: mydevices/detail/components.html:105
+#: mydevices/detail/components.html:113
 msgid "Hide History"
 msgstr ""
 
@@ -1071,22 +1071,22 @@ msgstr ""
 
 #: development/dialogs/createProducts.html:186
 #: development/dialogs/editProducts.html:175
-#: mydevices/dialogs/createDevices.html:52
-#: mydevices/dialogs/editDevices.html:120
+#: mydevices/dialogs/createDevices.html:56
+#: mydevices/dialogs/editDevices.html:128
 msgid "Image upload"
 msgstr ""
 
 #: development/detail.html:153
 #: development/dialogs/createProducts.html:101
 #: development/dialogs/editProducts.html:98
-#: mydevices/detail.html:117
-#: mydevices/dialogs/editDevices.html:66
+#: mydevices/detail.html:119
+#: mydevices/dialogs/editDevices.html:70
 msgid "Industry"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:36
-#: mydevices/dialogs/editDevices.html:72
-#: mydevices/dialogs/editDevices.html:99
+#: mydevices/dialogs/editDevices.html:106
+#: mydevices/dialogs/editDevices.html:39
+#: mydevices/dialogs/editDevices.html:77
 msgid "Input chip name"
 msgstr ""
 
@@ -1186,7 +1186,7 @@ msgstr ""
 msgid "Input the old password"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:15
+#: mydevices/dialogs/createDevices.html:16
 msgid "Input the product ID"
 msgstr ""
 
@@ -1210,7 +1210,7 @@ msgstr ""
 msgid "Input the release note"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:26
+#: mydevices/dialogs/createDevices.html:28
 msgid "Input the serial number"
 msgstr ""
 
@@ -1342,7 +1342,7 @@ msgstr ""
 msgid "Lower than"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:48
+#: mydevices/dialogs/editDevices.html:52
 msgid "MT7681"
 msgstr ""
 
@@ -1351,7 +1351,7 @@ msgstr ""
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
-#: mydevices/detail/trigger.html:67
+#: mydevices/detail/trigger.html:69
 msgid "Manage your action"
 msgstr ""
 
@@ -1381,7 +1381,7 @@ msgstr ""
 msgid "Mobile Notification from MCS"
 msgstr ""
 
-#: mydevices/detail/trigger.html:73
+#: mydevices/detail/trigger.html:75
 msgid "Mobile Notification from test device"
 msgstr ""
 
@@ -1389,7 +1389,7 @@ msgstr ""
 msgid "Mobile application"
 msgstr ""
 
-#: mydevices/detail/trigger.html:76
+#: mydevices/detail/trigger.html:78
 #: profile/detail/mobilelist.html:5
 #: profile/index.html:220
 msgid "Mobile list"
@@ -1431,7 +1431,7 @@ msgstr ""
 #: management/DeviceListManagement/index.js:241
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
-#: mydevices/detail/trigger.html:81
+#: mydevices/detail/trigger.html:83
 #: profile/detail/mobilelist.html:10
 msgid "Name"
 msgstr ""
@@ -1467,7 +1467,7 @@ msgid "No Data Available"
 msgstr ""
 
 #: development/dialogs/userPrivilege.html:24
-#: mydevices/dialogs/userPrivilege.html:22
+#: mydevices/dialogs/userPrivilege.html:23
 msgid "No results found"
 msgstr ""
 
@@ -1518,7 +1518,7 @@ msgid "Number of used"
 msgstr ""
 
 #: components/display/switch.html:3
-#: mydevices/detail/trigger.html:50
+#: mydevices/detail/trigger.html:51
 msgid "OFF"
 msgstr ""
 
@@ -1541,7 +1541,7 @@ msgid "OK"
 msgstr ""
 
 #: components/display/switch.html:6
-#: mydevices/detail/trigger.html:49
+#: mydevices/detail/trigger.html:50
 msgid "ON"
 msgstr ""
 
@@ -1741,12 +1741,12 @@ msgstr ""
 msgid "Registered date"
 msgstr ""
 
-#: mydevices/detail/trigger.html:82
+#: mydevices/detail/trigger.html:84
 #: profile/detail/mobilelist.html:11
 msgid "Registered from"
 msgstr ""
 
-#: mydevices/detail/trigger.html:83
+#: mydevices/detail/trigger.html:85
 #: profile/detail/mobilelist.html:12
 msgid "Registered time"
 msgstr ""
@@ -1771,19 +1771,19 @@ msgstr ""
 msgid "Release without serial number generator."
 msgstr ""
 
-#: mydevices/dialogs/trigger.html:76
+#: mydevices/dialogs/trigger.html:78
 msgid "Restore default value"
 msgstr ""
 
-#: mydevices/detail/apihint.html:81
-#: mydevices/dialogs/showapihint.html:49
+#: mydevices/detail/apihint.html:85
+#: mydevices/dialogs/showapihint.html:51
 msgid "Retrieve data points"
 msgstr ""
 
 #: development/detail/userprivileges.html:10
 #: development/dialogs/userPrivilege.html:41
 #: mydevices/detail/userprivileges.html:10
-#: mydevices/dialogs/userPrivilege.html:39
+#: mydevices/dialogs/userPrivilege.html:40
 msgid "Role"
 msgstr ""
 
@@ -1797,9 +1797,9 @@ msgstr ""
 #: development/dialogs/trigger/add.html:461
 #: development/dialogs/trigger/edit.html:441
 #: development/dialogs/userPrivilege.html:103
-#: mydevices/dialogs/createDevices.html:83
-#: mydevices/dialogs/trigger.html:103
-#: mydevices/dialogs/userPrivilege.html:100
+#: mydevices/dialogs/createDevices.html:90
+#: mydevices/dialogs/trigger.html:107
+#: mydevices/dialogs/userPrivilege.html:106
 #: profile/dialogs/applyApp.html:93
 #: profile/dialogs/changePassword.html:68
 #: profile/dialogs/cropImage.html:33
@@ -1812,12 +1812,12 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:20
+#: mydevices/dialogs/userPrivilege.html:21
 msgid "Search User"
 msgstr ""
 
 #: development/dialogs/userPrivilege.html:23
-#: mydevices/dialogs/userPrivilege.html:21
+#: mydevices/dialogs/userPrivilege.html:22
 msgid "Searching..."
 msgstr ""
 
@@ -1875,7 +1875,7 @@ msgstr ""
 
 #: development/dialogs/createDevice.html:90
 #: management/DeviceListManagement/index.js:246
-#: mydevices/dialogs/createDevices.html:21
+#: mydevices/dialogs/createDevices.html:22
 msgid "Serial number"
 msgstr ""
 
@@ -1895,8 +1895,8 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:103
-#: mydevices/detail/components.html:110
+#: mydevices/detail/components.html:104
+#: mydevices/detail/components.html:112
 msgid "Show History"
 msgstr ""
 
@@ -1967,7 +1967,7 @@ msgstr ""
 msgid "Supports"
 msgstr ""
 
-#: mydevices/detail/trigger.html:84
+#: mydevices/detail/trigger.html:86
 #: profile/detail/mobilelist.html:13
 msgid "Switch"
 msgstr ""
@@ -1976,8 +1976,8 @@ msgstr ""
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
-#: mydevices/detail/apihint.html:92
-#: mydevices/dialogs/showapihint.html:72
+#: mydevices/detail/apihint.html:96
+#: mydevices/dialogs/showapihint.html:76
 msgid "Telnet"
 msgstr ""
 
@@ -2058,7 +2058,7 @@ msgstr ""
 msgid "The url has to start with http://"
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:80
+#: mydevices/dialogs/userPrivilege.html:84
 msgid "The user already has {{userPrivilege.oldDeviceUserPrivType}} access"
 msgstr ""
 
@@ -2105,7 +2105,7 @@ msgstr ""
 msgid "To delete the data channel, the trigger & action rules for the data channel will be deleted too."
 msgstr ""
 
-#: mydevices/detail/trigger.html:74
+#: mydevices/detail/trigger.html:76
 msgid "To receive specific notification from this device, turn on the mobile push switch for it."
 msgstr ""
 
@@ -2128,7 +2128,7 @@ msgstr ""
 
 #: development/detail.html:204
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:226
+#: mydevices/detail.html:230
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2187,8 +2187,8 @@ msgstr ""
 #: development/dialogs/editProducts.html:220
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:98
 #: management/dialogs/createSerialNumber.html:24
-#: mydevices/dialogs/createDevices.html:60
-#: mydevices/dialogs/editDevices.html:128
+#: mydevices/dialogs/createDevices.html:64
+#: mydevices/dialogs/editDevices.html:136
 msgid "Upload"
 msgstr ""
 
@@ -2204,15 +2204,15 @@ msgstr ""
 msgid "Upload an image"
 msgstr ""
 
-#: mydevices/detail/apihint.html:68
-#: mydevices/dialogs/showapihint.html:36
+#: mydevices/detail/apihint.html:71
+#: mydevices/dialogs/showapihint.html:37
 msgid "Upload data points"
 msgstr ""
 
 #: development/dialogs/createProducts.html:188
 #: development/dialogs/editProducts.html:180
-#: mydevices/dialogs/createDevices.html:54
-#: mydevices/dialogs/editDevices.html:122
+#: mydevices/dialogs/createDevices.html:58
+#: mydevices/dialogs/editDevices.html:130
 #: profile/index.html:48
 msgid "Uploading..."
 msgstr ""
@@ -2236,7 +2236,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:209
-#: mydevices/detail.html:233
+#: mydevices/detail.html:237
 msgid "User privileges"
 msgstr ""
 
@@ -2320,7 +2320,7 @@ msgstr ""
 msgid "You can use ${} to mention the variables you would like to include in your notification content. Variables include Device Id, Device Name, Device Description, Data Channel Name and Data Channel Value. See more detail here."
 msgstr ""
 
-#: mydevices/detail/apihint.html:33
+#: mydevices/detail/apihint.html:35
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
 
@@ -2379,8 +2379,8 @@ msgstr ""
 msgid "You should input the Unit name."
 msgstr ""
 
-#: mydevices/detail.html:126
-#: mydevices/detail.html:175
+#: mydevices/detail.html:128
+#: mydevices/detail.html:179
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -2452,7 +2452,7 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:140
+#: mydevices/dialogs/editDevices.html:149
 msgid "cancel"
 msgstr ""
 
@@ -2541,8 +2541,8 @@ msgstr ""
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
 msgstr ""
 
-#: mydevices/detail/apihint.html:95
-#: mydevices/dialogs/showapihint.html:78
+#: mydevices/detail/apihint.html:99
+#: mydevices/dialogs/showapihint.html:83
 msgid "jQuery"
 msgstr ""
 
@@ -2702,11 +2702,11 @@ msgstr ""
 msgid "page"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:146
+#: mydevices/dialogs/editDevices.html:156
 msgid "save"
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:45
+#: mydevices/dialogs/userPrivilege.html:47
 msgid "select role"
 msgstr ""
 
