@@ -4,8 +4,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: \n"
 
-#: mydevices/dialogs/trigger.html:53
-#: mydevices/dialogs/trigger.html:65
+#: mydevices/dialogs/trigger.html:54
+#: mydevices/dialogs/trigger.html:67
 msgid "( default )"
 msgstr ""
 
@@ -18,8 +18,8 @@ msgstr ""
 msgid "(meter)"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:423
-#: development/dialogs/trigger/edit.html:411
+#: development/dialogs/trigger/add.html:425
+#: development/dialogs/trigger/edit.html:413
 msgid "+ Add action"
 msgstr ""
 
@@ -32,18 +32,18 @@ msgstr ""
 msgid "+ Add firmware"
 msgstr ""
 
-#: controllers/development/detail.js:69
+#: controllers/development/detail.js:102
 #: development/detail/testdevicelist.html:58
 msgid "+ Add test device"
 msgstr ""
 
-#: controllers/development/detail.js:65
+#: controllers/development/detail.js:98
 #: development/detail/trigger.html:61
 msgid "+ Add trigger & action"
 msgstr ""
 
 #: development/detail/userprivileges.html:52
-#: mydevices/detail/userprivileges.html:54
+#: mydevices/detail/userprivileges.html:55
 msgid "+ Add user"
 msgstr ""
 
@@ -83,6 +83,13 @@ msgstr ""
 msgid "4. Unlimited number of prototype and Mobile notification"
 msgstr ""
 
+#: development/dialogs/trigger/edit.html:357
+msgid ""
+"<span ng-show=\"format.type!='button'\">\n"
+"                {{ format.display | capitalize:'first' }}\n"
+"              </span>"
+msgstr ""
+
 #: development/detail/components.html:7
 msgid "A data channel carries the data stream. Add it now."
 msgstr ""
@@ -101,11 +108,11 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:118
+#: mydevices/detail/components.html:121
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:250
+#: mydevices/detail.html:256
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -119,21 +126,21 @@ msgstr ""
 msgid "API references"
 msgstr ""
 
-#: mydevices/detail/apihint.html:52
+#: mydevices/detail/apihint.html:54
 #: mydevices/dialogs/showapihint.html:22
 msgid "API type"
 msgstr ""
 
-#: controllers/development/detail.js:52
+#: controllers/development/detail.js:85
 msgid "Account limitation reached. You cannot create more devices."
 msgstr ""
 
-#: controllers/development/detail.js:56
-#: controllers/development/detail.js:68
+#: controllers/development/detail.js:101
+#: controllers/development/detail.js:89
 msgid "Account limitation reached. You cannot create more test devices."
 msgstr ""
 
-#: mydevices/detail/trigger.html:70
+#: mydevices/detail/trigger.html:72
 msgid "Action"
 msgstr ""
 
@@ -142,28 +149,32 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1141
+#: controllers/development/detail.js:1214
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1146
+#: controllers/development/detail.js:1219
 msgid "Action {{field}} is required!"
 msgstr ""
 
-#: management/DeviceListManagement/index.js:215
-#: management/PrototypeListManagement/index.js:132
+#: management/DeviceListManagement/index.js:251
+#: management/PrototypeListManagement/index.js:172
 msgid "Activated"
 msgstr ""
 
-#: development/detail.html:192
+#: development/detail.html:181
 msgid "Activated device"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:146
+#: management/PrototypeListManagement/index.js:186
 msgid "Activated rate"
 msgstr ""
 
-#: controllers/development/detail.js:61
+#: components/UnitSelect/UnitSelect.js:243
+msgid "Active"
+msgstr ""
+
+#: controllers/development/detail.js:94
 #: development/detail/components.html:28
 #: development/dialogs/addComponent.html:30
 #: development/dialogs/addComponent.html:56
@@ -179,7 +190,7 @@ msgstr ""
 msgid "Add data channel"
 msgstr ""
 
-#: tutorial.html:77
+#: tutorial.html:78
 msgid "Add data channel in prototype"
 msgstr ""
 
@@ -230,7 +241,7 @@ msgstr ""
 msgid "Allows you define Firmware(s) for this prototype for created test devices Over-the-Air(OTA) Firmware updates."
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:129
+#: components/GoogleMap/MarkerPopover.js:165
 msgid "Altitude"
 msgstr ""
 
@@ -249,12 +260,12 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:296
 #: development/dialogs/trigger/edit.html:99
 #: mydevices/dialogs/trigger.html:31
-#: mydevices/dialogs/trigger.html:55
+#: mydevices/dialogs/trigger.html:56
 msgid "And"
 msgstr ""
 
-#: mydevices/detail/apihint.html:98
-#: mydevices/dialogs/showapihint.html:84
+#: mydevices/detail/apihint.html:102
+#: mydevices/dialogs/showapihint.html:90
 msgid "Angular"
 msgstr ""
 
@@ -263,16 +274,16 @@ msgstr ""
 msgid "App name"
 msgstr ""
 
-#: profile/dialogs/applyApp.html:46
-#: profile/dialogs/editApp.html:51
+#: profile/dialogs/applyApp.html:49
+#: profile/dialogs/editApp.html:54
 msgid "App url"
 msgstr ""
 
-#: development/detail.html:165
+#: development/detail.html:154
 #: development/dialogs/createProducts.html:145
 #: development/dialogs/editProducts.html:137
-#: mydevices/detail.html:118
-#: mydevices/dialogs/editDevices.html:93
+#: mydevices/detail.html:120
+#: mydevices/dialogs/editDevices.html:99
 msgid "Application"
 msgstr ""
 
@@ -281,12 +292,12 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
-#: components/TermsOfUse.js:373
+#: components/TermsOfUse.js:410
 msgid "Approve"
 msgstr ""
 
-#: mydevices/detail/apihint.html:89
-#: mydevices/dialogs/showapihint.html:66
+#: mydevices/detail/apihint.html:93
+#: mydevices/dialogs/showapihint.html:69
 msgid "Arduino"
 msgstr ""
 
@@ -294,7 +305,7 @@ msgstr ""
 msgid "Are you sure you want to beta-release your prototype now?"
 msgstr ""
 
-#: management/DeviceListManagement/index.js:71
+#: management/DeviceListManagement/index.js:107
 msgid "Are you sure you want to delete?"
 msgstr ""
 
@@ -302,15 +313,15 @@ msgstr ""
 msgid "Are you sure you want to delete? You cannot revert this action."
 msgstr ""
 
-#: profile/dialogs/changePassword.html:101
+#: profile/dialogs/changePassword.html:105
 msgid "At least 8 characters"
 msgstr ""
 
-#: mydevices/detail.html:98
+#: mydevices/detail.html:100
 msgid "Back to prototype"
 msgstr ""
 
-#: development/detail.html:120
+#: development/detail.html:109
 msgid "Beta Release"
 msgstr ""
 
@@ -318,11 +329,11 @@ msgstr ""
 msgid "Beta release"
 msgstr ""
 
-#: development/index.html:163
+#: development/index.html:160
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:611
+#: services/products/main.js:625
 msgid "Between"
 msgstr ""
 
@@ -330,15 +341,17 @@ msgstr ""
 msgid "Can't find your template?"
 msgstr ""
 
+#: components/Dialogs/CommonDialog.js:140
 #: date.html:6
-#: development/dialogs/addComponentContent.html:297
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
+#: development/dialogs/addComponentContent.html:255
 #: development/dialogs/cloneProduct.html:54
 #: development/dialogs/createDevice.html:158
 #: development/dialogs/createDeviceFail.html:29
 #: development/dialogs/createDeviceNotice.html:31
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
-#: development/dialogs/deleteConfirm.html:27
+#: development/dialogs/deleteConfirm.html:28
 #: development/dialogs/editComponent.html:120
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
@@ -346,21 +359,21 @@ msgstr ""
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/ranOutOfLimitation.html:27
-#: development/dialogs/trigger/add.html:445
-#: development/dialogs/trigger/edit.html:433
+#: development/dialogs/trigger/add.html:447
+#: development/dialogs/trigger/edit.html:435
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:379
-#: management/DeviceListManagement/index.js:143
+#: management/DeviceListManagement/index.js:179
 #: management/dialogs/createSerialNumber.html:84
-#: mydevices/dialogs/createDevices.html:76
-#: mydevices/dialogs/showapihint.html:99
-#: mydevices/dialogs/trigger.html:97
-#: mydevices/dialogs/userPrivilege.html:94
-#: profile/dialogs/applyApp.html:82
-#: profile/dialogs/changePassword.html:60
-#: profile/dialogs/cropImage.html:24
-#: profile/dialogs/editApp.html:87
+#: mydevices/dialogs/createDevices.html:82
+#: mydevices/dialogs/showapihint.html:106
+#: mydevices/dialogs/trigger.html:100
+#: mydevices/dialogs/userPrivilege.html:99
+#: profile/dialogs/applyApp.html:88
+#: profile/dialogs/changePassword.html:63
+#: profile/dialogs/cropImage.html:25
+#: profile/dialogs/editApp.html:93
 msgid "Cancel"
 msgstr ""
 
@@ -379,12 +392,12 @@ msgstr ""
 msgid "Check Sum"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:30
+#: mydevices/dialogs/editDevices.html:32
 msgid "Chip"
 msgstr ""
 
-#: profile/dialogs/applyApp.html:29
-#: profile/dialogs/editApp.html:34
+#: profile/dialogs/applyApp.html:31
+#: profile/dialogs/editApp.html:36
 msgid "Choose app platform."
 msgstr ""
 
@@ -409,7 +422,7 @@ msgstr ""
 msgid "Choose the data channel"
 msgstr ""
 
-#: mydevices/detail/apihint.html:6
+#: mydevices/detail/apihint.html:7
 msgid "Choose the dataChannel"
 msgstr ""
 
@@ -446,12 +459,11 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:263
+#: management/DeviceListManagement/DeviceRow.js:299
 msgid "Click to copy the activation code"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:58
-#: development/detail.html:107
+#: controllers/development/detail.js:109
 #: development/dialogs/cloneProduct.html:59
 #: development/index.html:138
 msgid "Clone"
@@ -479,7 +491,7 @@ msgstr ""
 msgid "Compatible firmware"
 msgstr ""
 
-#: profile/dialogs/changePassword.html:42
+#: profile/dialogs/changePassword.html:43
 msgid "Confirm password"
 msgstr ""
 
@@ -495,13 +507,13 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:220
-#: mydevices/detail.html:142
-#: mydevices/detail.html:158
-#: mydevices/detail.html:187
-#: mydevices/detail.html:199
-#: profile/detail/serviceprovider.html:62
-#: profile/detail/serviceprovider.html:77
+#: management/DeviceListManagement/DeviceRow.js:256
+#: mydevices/detail.html:145
+#: mydevices/detail.html:162
+#: mydevices/detail.html:191
+#: mydevices/detail.html:203
+#: profile/detail/serviceprovider.html:66
+#: profile/detail/serviceprovider.html:83
 msgid "Copy"
 msgstr ""
 
@@ -511,11 +523,11 @@ msgstr ""
 msgid "Create"
 msgstr ""
 
-#: tutorial.html:80
+#: tutorial.html:81
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: controllers/development/detail.js:53
+#: controllers/development/detail.js:86
 #: development/detail.html:90
 #: development/dialogs/createDevice.html:6
 msgid "Create device"
@@ -533,17 +545,17 @@ msgstr ""
 msgid "Create prototype"
 msgstr ""
 
-#: controllers/development/detail.js:57
+#: controllers/development/detail.js:90
 #: development/detail.html:72
 #: development/dialogs/createTestDevice.html:6
 msgid "Create test device"
 msgstr ""
 
-#: development/detail.html:184
+#: development/detail.html:173
 msgid "Create test device or beta release the prototype to try out and collect real data!"
 msgstr ""
 
-#: tutorial.html:74
+#: tutorial.html:75
 msgid "Create the first prototype"
 msgstr ""
 
@@ -562,7 +574,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1131
+#: controllers/development/detail.js:1204
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -584,40 +596,40 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:409
+#: controllers/development/detail.js:476
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:412
+#: controllers/development/detail.js:479
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
-#: development/detail.html:208
+#: development/detail.html:197
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:219
+#: mydevices/detail.html:223
 msgid "Data channel"
 msgstr ""
 
 #: development/detail/components.html:93
-#: development/dialogs/addComponentContent.html:30
-#: mydevices/detail/apihint.html:46
+#: development/dialogs/addComponentContent.html:27
+#: mydevices/detail/apihint.html:48
 #: mydevices/detail/components.html:61
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:479
+#: controllers/development/detail.js:546
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1129
+#: controllers/development/detail.js:1202
 msgid "Data channel is required!"
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:11
 #: development/dialogs/editComponent.html:11
-#: mydevices/detail/apihint.html:40
+#: mydevices/detail/apihint.html:42
 msgid "Data channel name"
 msgstr ""
 
@@ -627,7 +639,7 @@ msgstr ""
 msgid "Data points usage"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:70
+#: development/dialogs/addComponentContent.html:60
 msgid "Data type"
 msgstr ""
 
@@ -638,19 +650,19 @@ msgstr ""
 msgid "Default value"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:58
+#: controllers/development/detail.js:112
 #: development/detail/components.html:136
-#: development/index.html:141
+#: development/index.html:139
 #: main.js:378
-#: management/DeviceListManagement/index.js:151
-#: mydevices/detail.html:87
+#: management/DeviceListManagement/index.js:187
+#: mydevices/detail.html:88
 #: mydevices/index.html:120
-#: profile/detail/serviceprovider.html:21
+#: profile/detail/serviceprovider.html:22
 msgid "Delete"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:405
-#: development/dialogs/trigger/edit.html:393
+#: development/dialogs/trigger/add.html:407
+#: development/dialogs/trigger/edit.html:395
 msgid "Delete action"
 msgstr ""
 
@@ -663,26 +675,26 @@ msgstr ""
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
-#: development/detail.html:169
+#: development/detail.html:158
 #: development/detail/manufacturerinfo.html:18
-#: development/dialogs/addComponentContent.html:49
+#: development/dialogs/addComponentContent.html:43
 #: development/dialogs/cloneProduct.html:35
 #: development/dialogs/createProducts.html:87
 #: development/dialogs/editComponent.html:29
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:119
-#: mydevices/dialogs/createDevices.html:41
-#: mydevices/dialogs/editDevices.html:60
-#: profile/detail/serviceprovider.html:44
-#: profile/dialogs/applyApp.html:61
-#: profile/dialogs/editApp.html:66
+#: mydevices/detail.html:121
+#: mydevices/dialogs/createDevices.html:44
+#: mydevices/dialogs/editDevices.html:64
+#: profile/detail/serviceprovider.html:46
+#: profile/dialogs/applyApp.html:65
+#: profile/dialogs/editApp.html:70
 msgid "Description"
 msgstr ""
 
 #: dashboard/numberofused.html:6
-#: development/index.html:178
+#: development/index.html:175
 #: mydevices/index.html:148
 msgid "Detail"
 msgstr ""
@@ -717,9 +729,9 @@ msgstr ""
 
 #: dashboard/numberofused.html:27
 #: development/dialogs/createDevice.html:42
-#: development/index.html:169
+#: development/index.html:166
 #: limitation/index.html:79
-#: management/DeviceListManagement/index.js:190
+#: management/DeviceListManagement/index.js:226
 msgid "Device"
 msgstr ""
 
@@ -732,26 +744,26 @@ msgstr ""
 msgid "Device description"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:48
+#: mydevices/dialogs/createDevices.html:52
 msgid "Device description ( default )"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:77
+#: management/PrototypeListManagement/index.js:117
 msgid "Device list filtered by prototype"
 msgstr ""
 
 #: development/dialogs/createDevice.html:52
 #: development/dialogs/createTestDevice.html:13
-#: mydevices/dialogs/createDevices.html:31
+#: mydevices/dialogs/createDevices.html:33
 #: mydevices/dialogs/editDevices.html:10
 msgid "Device name"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:36
+#: mydevices/dialogs/createDevices.html:39
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:579
+#: controllers/development/detail.js:647
 msgid "Device name cannot null."
 msgstr ""
 
@@ -760,7 +772,7 @@ msgstr ""
 msgid "Device type"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:20
+#: mydevices/dialogs/editDevices.html:21
 msgid "Device version"
 msgstr ""
 
@@ -774,7 +786,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:118
+#: management/PrototypeListManagement/index.js:158
 msgid "Devices"
 msgstr ""
 
@@ -822,11 +834,11 @@ msgstr ""
 msgid "EX:100(only input integer)"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:58
+#: controllers/development/detail.js:133
 #: development/detail/components.html:130
 #: development/detail/manufacturerinfo.html:11
 #: development/index.html:137
-#: profile/detail/serviceprovider.html:29
+#: profile/detail/serviceprovider.html:31
 msgid "Edit"
 msgstr ""
 
@@ -867,7 +879,7 @@ msgstr ""
 #: development/detail/userprivileges.html:9
 #: limitation/index.html:118
 #: mydevices/detail/userprivileges.html:9
-#: profile/index.html:77
+#: profile/index.html:76
 msgid "Email"
 msgstr ""
 
@@ -875,7 +887,7 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:15
+#: mydevices/dialogs/editDevices.html:16
 msgid "Enter device name"
 msgstr ""
 
@@ -883,7 +895,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:607
+#: services/products/main.js:621
 msgid "Equal to"
 msgstr ""
 
@@ -911,15 +923,19 @@ msgstr ""
 msgid "FAQ"
 msgstr ""
 
+#: controllers/development/detail.js:45
+msgid "Failure!"
+msgstr ""
+
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:48
 #: management/dialogs/createSerialNumber.html:45
 msgid "File upload"
 msgstr ""
 
-#: development/detail.html:227
+#: development/detail.html:216
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:240
+#: mydevices/detail.html:244
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -940,7 +956,7 @@ msgstr ""
 msgid "Float"
 msgstr ""
 
-#: development/CloneDevicePopover.js:46
+#: development/CloneDevicePopover.js:82
 msgid "For beta-release prototype, you can use the clone function to make modification for the frozen prototype and continue your development. The Clone function will only copy the data channels and trigger & action rules."
 msgstr ""
 
@@ -952,6 +968,10 @@ msgstr ""
 #: factories/dataChnTypeId.js:42
 #: factories/dataChnTypeId.js:83
 msgid "GPS"
+msgstr ""
+
+#: factories/dataChnTypeId.js:100
+msgid "GamePad"
 msgstr ""
 
 #: management/dialogs/createSerialNumber.html:88
@@ -966,7 +986,7 @@ msgstr ""
 msgid "Generate type"
 msgstr ""
 
-#: tutorial.html:36
+#: tutorial.html:37
 msgid "Get started now"
 msgstr ""
 
@@ -994,12 +1014,13 @@ msgstr ""
 msgid "Go to limitation"
 msgstr ""
 
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:139
 #: development/dialogs/createDeviceSuccess.html:34
 #: development/dialogs/finishCreateDevice.html:30
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:599
+#: services/products/main.js:613
 msgid "Greater than"
 msgstr ""
 
@@ -1020,7 +1041,7 @@ msgstr ""
 msgid "Here are the quick start guide to help you to get off the ground."
 msgstr ""
 
-#: mydevices/detail/apihint.html:32
+#: mydevices/detail/apihint.html:34
 msgid "Here is the API hint for you."
 msgstr ""
 
@@ -1029,8 +1050,8 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:104
-#: mydevices/detail/components.html:111
+#: mydevices/detail/components.html:105
+#: mydevices/detail/components.html:113
 msgid "Hide History"
 msgstr ""
 
@@ -1039,7 +1060,12 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: development/GPSHistory/Header.js:61
+#: services/products/main.js:649
+#: services/products/main.js:658
+msgid "Hint: You can use ${} to use the variable function."
+msgstr ""
+
+#: development/GPSHistory/Header.js:97
 msgid "Historical GPS location"
 msgstr ""
 
@@ -1049,22 +1075,22 @@ msgstr ""
 
 #: development/dialogs/createProducts.html:186
 #: development/dialogs/editProducts.html:175
-#: mydevices/dialogs/createDevices.html:52
-#: mydevices/dialogs/editDevices.html:120
+#: mydevices/dialogs/createDevices.html:56
+#: mydevices/dialogs/editDevices.html:128
 msgid "Image upload"
 msgstr ""
 
-#: development/detail.html:164
+#: development/detail.html:153
 #: development/dialogs/createProducts.html:101
 #: development/dialogs/editProducts.html:98
-#: mydevices/detail.html:117
-#: mydevices/dialogs/editDevices.html:66
+#: mydevices/detail.html:119
+#: mydevices/dialogs/editDevices.html:70
 msgid "Industry"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:36
-#: mydevices/dialogs/editDevices.html:72
-#: mydevices/dialogs/editDevices.html:99
+#: mydevices/dialogs/editDevices.html:106
+#: mydevices/dialogs/editDevices.html:39
+#: mydevices/dialogs/editDevices.html:77
 msgid "Input chip name"
 msgstr ""
 
@@ -1072,7 +1098,20 @@ msgstr ""
 msgid "Input device serial numbers. One serial number per line. Please make sure the serial number must be less than 50 characters."
 msgstr ""
 
-#: services/products/main.js:628
+#: components/UnitSelect/UnitSelect.js:210
+#: components/UnitSelect/UnitSelect.js:228
+msgid "Input hint"
+msgstr ""
+
+#: services/products/main.js:667
+msgid "Input the Url."
+msgstr ""
+
+#: components/UnitSelect/UnitSelect.js:234
+msgid "Input the abbreviation or symbol"
+msgstr ""
+
+#: services/products/main.js:642
 msgid "Input the action title"
 msgstr ""
 
@@ -1080,32 +1119,32 @@ msgstr ""
 msgid "Input the component description"
 msgstr ""
 
-#: profile/dialogs/changePassword.html:47
+#: profile/dialogs/changePassword.html:49
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:641
+#: services/products/main.js:657
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:634
+#: services/products/main.js:648
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:59
+#: controllers/development/detail.js:1440
 msgid "Input the data channel description"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:40
+#: controllers/development/detail.js:1431
 msgid "Input the data channel id"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:21
+#: controllers/development/detail.js:1422
 #: development/dialogs/editComponent.html:21
 msgid "Input the data channel name"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:81
+#: controllers/development/detail.js:1452
 msgid "Input the data type"
 msgstr ""
 
@@ -1143,7 +1182,7 @@ msgstr ""
 msgid "Input the hexadecimal value, only 0-9 or A-F."
 msgstr ""
 
-#: profile/dialogs/changePassword.html:35
+#: profile/dialogs/changePassword.html:36
 msgid "Input the new password"
 msgstr ""
 
@@ -1151,7 +1190,7 @@ msgstr ""
 msgid "Input the old password"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:15
+#: mydevices/dialogs/createDevices.html:16
 msgid "Input the product ID"
 msgstr ""
 
@@ -1175,7 +1214,7 @@ msgstr ""
 msgid "Input the release note"
 msgstr ""
 
-#: mydevices/dialogs/createDevices.html:26
+#: mydevices/dialogs/createDevices.html:28
 msgid "Input the serial number"
 msgstr ""
 
@@ -1193,17 +1232,21 @@ msgstr ""
 msgid "Input the trigger name"
 msgstr ""
 
+#: components/UnitSelect/UnitSelect.js:217
+msgid "Input the unit name"
+msgstr ""
+
 #: development/dialogs/userPrivilege.html:22
 msgid "Input the user name or email"
 msgstr ""
 
-#: profile/dialogs/applyApp.html:16
-#: profile/dialogs/editApp.html:18
+#: profile/dialogs/applyApp.html:17
+#: profile/dialogs/editApp.html:19
 msgid "Input your App name."
 msgstr ""
 
-#: profile/dialogs/applyApp.html:54
-#: profile/dialogs/editApp.html:59
+#: profile/dialogs/applyApp.html:58
+#: profile/dialogs/editApp.html:63
 msgid "Input your App url."
 msgstr ""
 
@@ -1212,7 +1255,7 @@ msgstr ""
 msgid "Input your check sum information"
 msgstr ""
 
-#: profile/dialogs/changePassword.html:111
+#: profile/dialogs/changePassword.html:115
 msgid "Input your new password again"
 msgstr ""
 
@@ -1224,8 +1267,8 @@ msgstr ""
 #: components/control/pwm.html:23
 #: components/control/pwm.html:9
 #: components/control/pwmSlider.html:9
-#: factories/components.js:691
-#: factories/components.js:696
+#: factories/components.js:765
+#: factories/components.js:771
 msgid "Integer only"
 msgstr ""
 
@@ -1241,9 +1284,9 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:136
+#: components/GoogleMap/MarkerPopover.js:172
 #: dashboard/overview.html:46
-#: management/DeviceListManagement/index.js:220
+#: management/DeviceListManagement/index.js:256
 #: mydevices/detail/components.html:57
 msgid "Last data point time"
 msgstr ""
@@ -1257,7 +1300,7 @@ msgstr ""
 msgid "Last updated time"
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:115
+#: components/GoogleMap/MarkerPopover.js:151
 msgid "Latitude"
 msgstr ""
 
@@ -1282,7 +1325,7 @@ msgstr ""
 msgid "Linkit one tutorial"
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:122
+#: components/GoogleMap/MarkerPopover.js:158
 msgid "Longitude"
 msgstr ""
 
@@ -1299,29 +1342,29 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:603
+#: services/products/main.js:617
 msgid "Lower than"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:48
+#: mydevices/dialogs/editDevices.html:52
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1209
+#: controllers/development/detail.js:1282
 #: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
-#: mydevices/detail/trigger.html:67
+#: mydevices/detail/trigger.html:69
 msgid "Manage your action"
 msgstr ""
 
-#: development/detail.html:196
+#: development/detail.html:185
 #: development/dialogs/finishRelease.html:10
-#: management/DeviceListManagement/index.js:165
-#: management/DeviceListManagement/index.js:92
-#: management/PrototypeListManagement/index.js:196
-#: management/PrototypeListManagement/index.js:210
+#: management/DeviceListManagement/index.js:128
+#: management/DeviceListManagement/index.js:201
+#: management/PrototypeListManagement/index.js:236
+#: management/PrototypeListManagement/index.js:250
 #: mydevices/detail.html:43
 msgid "Management"
 msgstr ""
@@ -1342,7 +1385,7 @@ msgstr ""
 msgid "Mobile Notification from MCS"
 msgstr ""
 
-#: mydevices/detail/trigger.html:73
+#: mydevices/detail/trigger.html:75
 msgid "Mobile Notification from test device"
 msgstr ""
 
@@ -1350,9 +1393,9 @@ msgstr ""
 msgid "Mobile application"
 msgstr ""
 
-#: mydevices/detail/trigger.html:76
+#: mydevices/detail/trigger.html:78
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:213
+#: profile/index.html:220
 msgid "Mobile list"
 msgstr ""
 
@@ -1360,7 +1403,7 @@ msgstr ""
 msgid "Monthly accumulation"
 msgstr ""
 
-#: components/DropdownButtons/MoreDropdownButton.js:54
+#: development/MoreDropdownButton.js:91
 msgid "More"
 msgstr ""
 
@@ -1389,10 +1432,10 @@ msgstr ""
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
 #: limitation/index.html:113
-#: management/DeviceListManagement/index.js:205
+#: management/DeviceListManagement/index.js:241
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
-#: mydevices/detail/trigger.html:81
+#: mydevices/detail/trigger.html:83
 #: profile/detail/mobilelist.html:10
 msgid "Name"
 msgstr ""
@@ -1401,8 +1444,8 @@ msgstr ""
 msgid "Name cannot be null."
 msgstr ""
 
-#: controllers/development/detail.js:148
-#: controllers/development/detail.js:406
+#: controllers/development/detail.js:210
+#: controllers/development/detail.js:473
 msgid "Name cannot null"
 msgstr ""
 
@@ -1412,12 +1455,12 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:103
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
-#: development/dialogs/trigger/add.html:452
+#: development/dialogs/trigger/add.html:454
 #: values/products/ngIntro.js:36
 msgid "Next"
 msgstr ""
 
-#: profile/index.html:73
+#: profile/index.html:72
 msgid "Nick name"
 msgstr ""
 
@@ -1428,8 +1471,12 @@ msgid "No Data Available"
 msgstr ""
 
 #: development/dialogs/userPrivilege.html:24
-#: mydevices/dialogs/userPrivilege.html:22
+#: mydevices/dialogs/userPrivilege.html:23
 msgid "No results found"
+msgstr ""
+
+#: components/UnitSelect/UnitSelect.js:190
+msgid "No results found. Create your custom unit!"
 msgstr ""
 
 #: development/dialogs/createDeviceSuccess.html:28
@@ -1438,7 +1485,7 @@ msgstr ""
 msgid "No, thanks"
 msgstr ""
 
-#: development/detail.html:193
+#: development/detail.html:182
 msgid "Non-activated device"
 msgstr ""
 
@@ -1447,12 +1494,13 @@ msgstr ""
 msgid "Not now"
 msgstr ""
 
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:99
 #: development/dialogs/createDeviceFail.html:5
 #: development/dialogs/createDeviceNotice.html:5
 #: development/dialogs/deleteConfirm.html:5
 #: development/dialogs/ranOutOfLimitation.html:5
 #: dialogs/tutorialCloseConfirm.html:5
-#: management/DeviceListManagement/index.js:116
+#: management/DeviceListManagement/index.js:152
 msgid "Notice!"
 msgstr ""
 
@@ -1460,12 +1508,12 @@ msgstr ""
 msgid "Now used"
 msgstr ""
 
-#: development/detail.html:136
+#: development/detail.html:125
 msgid "Now, you can create test device for the prototype and connect with real device. Try it!"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:124
-#: development/dialogs/addComponentContent.html:164
+#: development/dialogs/addComponentContent.html:104
+#: development/dialogs/addComponentContent.html:85
 msgid "Number of categories"
 msgstr ""
 
@@ -1474,11 +1522,12 @@ msgid "Number of used"
 msgstr ""
 
 #: components/display/switch.html:3
-#: mydevices/detail/trigger.html:50
+#: mydevices/detail/trigger.html:51
 msgid "OFF"
 msgstr ""
 
-#: alert.html:23
+#: alert.html:24
+#: components/Dialogs/CommonDialog.js:148
 #: components/control/float.html:13
 #: components/control/gps.html:92
 #: components/control/hexstring.html:13
@@ -1486,7 +1535,7 @@ msgstr ""
 #: components/control/pwm.html:30
 #: components/control/string.html:13
 #: date.html:5
-#: development/dialogs/deleteConfirm.html:33
+#: development/dialogs/deleteConfirm.html:34
 #: development/dialogs/finishRelease.html:21
 #: development/dialogs/firmware/firmwareSuccess.html:27
 #: development/dialogs/release.html:47
@@ -1496,7 +1545,7 @@ msgid "OK"
 msgstr ""
 
 #: components/display/switch.html:6
-#: mydevices/detail/trigger.html:49
+#: mydevices/detail/trigger.html:50
 msgid "ON"
 msgstr ""
 
@@ -1521,7 +1570,7 @@ msgstr ""
 msgid "Only prototype owner can beta-release the prototype, please contact your prototype owner."
 msgstr ""
 
-#: management/DeviceListManagement/index.js:79
+#: management/DeviceListManagement/index.js:115
 msgid "Only prototype owner can delete device, please contact your prototype owner."
 msgstr ""
 
@@ -1547,11 +1596,11 @@ msgstr ""
 msgid "PWM"
 msgstr ""
 
-#: profile/index.html:81
+#: profile/index.html:80
 msgid "Password"
 msgstr ""
 
-#: development/GPSHistory/index.js:474
+#: development/GPSHistory/index.js:520
 msgid "Pause"
 msgstr ""
 
@@ -1560,16 +1609,16 @@ msgstr ""
 msgid "Period"
 msgstr ""
 
-#: profile/dialogs/applyApp.html:23
-#: profile/dialogs/editApp.html:25
+#: profile/dialogs/applyApp.html:24
+#: profile/dialogs/editApp.html:26
 msgid "Platform"
 msgstr ""
 
-#: development/GPSHistory/index.js:483
+#: development/GPSHistory/index.js:529
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1303
+#: controllers/development/detail.js:1376
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1577,11 +1626,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:722
+#: controllers/development/detail.js:795
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1212
+#: controllers/development/detail.js:1285
 #: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1590,6 +1639,8 @@ msgstr ""
 msgid "Please confirm if you want to release this prototype."
 msgstr ""
 
+#: factories/components.js:849
+#: factories/components.js:910
 #: services/validator.js:31
 #: services/validator.js:61
 msgid "Please input {{key}}."
@@ -1651,7 +1702,7 @@ msgstr ""
 msgid "Prototype name"
 msgstr ""
 
-#: development/index.html:165
+#: development/index.html:162
 msgid "Prototype state"
 msgstr ""
 
@@ -1696,12 +1747,12 @@ msgstr ""
 msgid "Registered date"
 msgstr ""
 
-#: mydevices/detail/trigger.html:82
+#: mydevices/detail/trigger.html:84
 #: profile/detail/mobilelist.html:11
 msgid "Registered from"
 msgstr ""
 
-#: mydevices/detail/trigger.html:83
+#: mydevices/detail/trigger.html:85
 #: profile/detail/mobilelist.html:12
 msgid "Registered time"
 msgstr ""
@@ -1726,38 +1777,39 @@ msgstr ""
 msgid "Release without serial number generator."
 msgstr ""
 
-#: mydevices/dialogs/trigger.html:76
+#: mydevices/dialogs/trigger.html:78
 msgid "Restore default value"
 msgstr ""
 
-#: mydevices/detail/apihint.html:81
-#: mydevices/dialogs/showapihint.html:49
+#: mydevices/detail/apihint.html:85
+#: mydevices/dialogs/showapihint.html:51
 msgid "Retrieve data points"
 msgstr ""
 
 #: development/detail/userprivileges.html:10
 #: development/dialogs/userPrivilege.html:41
 #: mydevices/detail/userprivileges.html:10
-#: mydevices/dialogs/userPrivilege.html:39
+#: mydevices/dialogs/userPrivilege.html:40
 msgid "Role"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:301
+#: components/UnitSelect/UnitSelect.js:248
+#: development/dialogs/addComponentContent.html:259
 #: development/dialogs/createProducts.html:251
 #: development/dialogs/editComponent.html:127
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
-#: development/dialogs/trigger/add.html:459
-#: development/dialogs/trigger/edit.html:439
+#: development/dialogs/trigger/add.html:461
+#: development/dialogs/trigger/edit.html:441
 #: development/dialogs/userPrivilege.html:103
-#: mydevices/dialogs/createDevices.html:83
-#: mydevices/dialogs/trigger.html:103
-#: mydevices/dialogs/userPrivilege.html:100
-#: profile/dialogs/applyApp.html:86
-#: profile/dialogs/changePassword.html:64
-#: profile/dialogs/cropImage.html:31
-#: profile/dialogs/editApp.html:91
+#: mydevices/dialogs/createDevices.html:90
+#: mydevices/dialogs/trigger.html:107
+#: mydevices/dialogs/userPrivilege.html:106
+#: profile/dialogs/applyApp.html:93
+#: profile/dialogs/changePassword.html:68
+#: profile/dialogs/cropImage.html:33
+#: profile/dialogs/editApp.html:98
 msgid "Save"
 msgstr ""
 
@@ -1766,16 +1818,16 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:20
+#: mydevices/dialogs/userPrivilege.html:21
 msgid "Search User"
 msgstr ""
 
 #: development/dialogs/userPrivilege.html:23
-#: mydevices/dialogs/userPrivilege.html:21
+#: mydevices/dialogs/userPrivilege.html:22
 msgid "Searching..."
 msgstr ""
 
-#: development/detail.html:196
+#: development/detail.html:185
 msgid "See more device detail in"
 msgstr ""
 
@@ -1806,6 +1858,10 @@ msgstr ""
 msgid "Select the prerequisite firmware that are compatible for this firmware (<b class=\"firmwareDialog__name\">{{ firmwareData.name }}</b>, <b class=\"firmwareDialog__name\">{{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
+#: components/UnitSelect/UnitSelect.js:267
+msgid "Select the unit"
+msgstr ""
+
 #: development/dialogs/trigger/add.html:48
 #: development/dialogs/trigger/edit.html:38
 msgid "Select trigger action"
@@ -1819,13 +1875,17 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
+#: services/products/main.js:674
+msgid "Send webhook"
+msgstr ""
+
 #: development/dialogs/createDevice.html:90
-#: management/DeviceListManagement/index.js:210
-#: mydevices/dialogs/createDevices.html:21
+#: management/DeviceListManagement/index.js:246
+#: mydevices/dialogs/createDevices.html:22
 msgid "Serial number"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:192
+#: management/DeviceListManagement/DeviceRow.js:228
 msgid "Serial number :"
 msgstr ""
 
@@ -1833,7 +1893,7 @@ msgstr ""
 msgid "Serial number format error."
 msgstr ""
 
-#: profile/index.html:220
+#: profile/index.html:228
 msgid "Service Provider"
 msgstr ""
 
@@ -1841,16 +1901,21 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:103
-#: mydevices/detail/components.html:110
+#: mydevices/detail/components.html:104
+#: mydevices/detail/components.html:112
 msgid "Show History"
 msgstr ""
 
-#: factories/components.js:699
+#: factories/components.js:831
+#: factories/components.js:892
+msgid "Show current"
+msgstr ""
+
+#: factories/components.js:775
 msgid "Show current value"
 msgstr ""
 
-#: components/TermsOfUse.js:368
+#: components/TermsOfUse.js:405
 msgid "Sign out"
 msgstr ""
 
@@ -1863,10 +1928,10 @@ msgid "Statistics up to today,"
 msgstr ""
 
 #: dashboard/overview.html:45
-#: development/detail.html:161
-#: development/detail.html:163
+#: development/detail.html:150
+#: development/detail.html:152
+#: development/index.html:157
 #: development/index.html:160
-#: development/index.html:163
 msgid "Status"
 msgstr ""
 
@@ -1900,6 +1965,7 @@ msgstr ""
 msgid "Success"
 msgstr ""
 
+#: controllers/development/detail.js:44
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
@@ -1912,7 +1978,7 @@ msgstr ""
 msgid "Supports"
 msgstr ""
 
-#: mydevices/detail/trigger.html:84
+#: mydevices/detail/trigger.html:86
 #: profile/detail/mobilelist.html:13
 msgid "Switch"
 msgstr ""
@@ -1921,8 +1987,8 @@ msgstr ""
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
-#: mydevices/detail/apihint.html:92
-#: mydevices/dialogs/showapihint.html:72
+#: mydevices/detail/apihint.html:96
+#: mydevices/dialogs/showapihint.html:76
 msgid "Telnet"
 msgstr ""
 
@@ -1930,11 +1996,11 @@ msgstr ""
 msgid "Template preview"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:197
+#: development/dialogs/addComponentContent.html:137
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
-#: components/TermsOfUse.js:351
+#: components/TermsOfUse.js:388
 msgid "Terms Of Use"
 msgstr ""
 
@@ -1947,12 +2013,12 @@ msgstr ""
 msgid "Test Device"
 msgstr ""
 
-#: development/CreateDevicePopover.js:52
-#: development/detail.html:182
-#: development/detail.html:191
-#: development/detail.html:232
+#: development/CreateDevicePopover.js:88
+#: development/detail.html:171
+#: development/detail.html:180
+#: development/detail.html:221
 #: development/dialogs/createDevice.html:31
-#: development/index.html:168
+#: development/index.html:165
 #: limitation/index.html:148
 msgid "Test device"
 msgstr ""
@@ -1987,19 +2053,23 @@ msgstr ""
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
-#: factories/components.js:373
+#: factories/components.js:417
 msgid "The lower bound and upper bound must be numeric value."
 msgstr ""
 
-#: factories/components.js:377
+#: factories/components.js:421
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
-#: development/GPSHistory/index.js:489
+#: development/GPSHistory/index.js:535
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:80
+#: services/products/main.js:668
+msgid "The url has to start with http://"
+msgstr ""
+
+#: mydevices/dialogs/userPrivilege.html:84
 msgid "The user already has {{userPrivilege.oldDeviceUserPrivType}} access"
 msgstr ""
 
@@ -2030,7 +2100,7 @@ msgstr ""
 msgid "This is my clicked marker!"
 msgstr ""
 
-#: profile/index.html:128
+#: profile/index.html:130
 msgid "Timezone"
 msgstr ""
 
@@ -2042,7 +2112,11 @@ msgstr ""
 msgid "To clone from an existing prototype enables you to build a similiar prototype base on the old one."
 msgstr ""
 
-#: mydevices/detail/trigger.html:74
+#: development/dialogs/deleteConfirm.html:18
+msgid "To delete the data channel, the trigger & action rules for the data channel will be deleted too."
+msgstr ""
+
+#: mydevices/detail/trigger.html:76
 msgid "To receive specific notification from this device, turn on the mobile push switch for it."
 msgstr ""
 
@@ -2059,13 +2133,13 @@ msgstr ""
 msgid "Totals"
 msgstr ""
 
-#: components/ProgressCircles/TotalsPrototype.js:72
+#: components/ProgressCircles/TotalsPrototype.js:108
 msgid "Totals Prototype"
 msgstr ""
 
-#: development/detail.html:215
+#: development/detail.html:204
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:226
+#: mydevices/detail.html:230
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2087,7 +2161,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1122
+#: controllers/development/detail.js:1195
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2107,6 +2181,14 @@ msgstr ""
 msgid "Tutorial"
 msgstr ""
 
+#: components/UnitSelect/UnitSelect.js:201
+msgid "Unit name"
+msgstr ""
+
+#: components/UnitSelect/UnitSelect.js:225
+msgid "Unit symbol"
+msgstr ""
+
 #: limitation/index.html:46
 #: limitation/index.html:61
 msgid "Upgrade now"
@@ -2116,8 +2198,8 @@ msgstr ""
 #: development/dialogs/editProducts.html:220
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:98
 #: management/dialogs/createSerialNumber.html:24
-#: mydevices/dialogs/createDevices.html:60
-#: mydevices/dialogs/editDevices.html:128
+#: mydevices/dialogs/createDevices.html:64
+#: mydevices/dialogs/editDevices.html:136
 msgid "Upload"
 msgstr ""
 
@@ -2129,19 +2211,19 @@ msgstr ""
 msgid "Upload a CSV file, one serial number per line"
 msgstr ""
 
-#: profile/index.html:57
+#: profile/index.html:56
 msgid "Upload an image"
 msgstr ""
 
-#: mydevices/detail/apihint.html:68
-#: mydevices/dialogs/showapihint.html:36
+#: mydevices/detail/apihint.html:71
+#: mydevices/dialogs/showapihint.html:37
 msgid "Upload data points"
 msgstr ""
 
 #: development/dialogs/createProducts.html:188
 #: development/dialogs/editProducts.html:180
-#: mydevices/dialogs/createDevices.html:54
-#: mydevices/dialogs/editDevices.html:122
+#: mydevices/dialogs/createDevices.html:58
+#: mydevices/dialogs/editDevices.html:130
 #: profile/index.html:48
 msgid "Uploading..."
 msgstr ""
@@ -2164,8 +2246,8 @@ msgstr ""
 msgid "User Name"
 msgstr ""
 
-#: development/detail.html:220
-#: mydevices/detail.html:233
+#: development/detail.html:209
+#: mydevices/detail.html:237
 msgid "User privileges"
 msgstr ""
 
@@ -2187,7 +2269,7 @@ msgstr ""
 #: development/detail/firmware.html:9
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:19
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
-#: development/index.html:157
+#: development/index.html:154
 #: mydevices/detail.html:68
 #: mydevices/detail.html:74
 #: mydevices/detail/firmware.html:16
@@ -2199,7 +2281,7 @@ msgstr ""
 msgid "Version cannot be null."
 msgstr ""
 
-#: profile/detail/serviceprovider.html:41
+#: profile/detail/serviceprovider.html:43
 msgid "Website"
 msgstr ""
 
@@ -2207,7 +2289,7 @@ msgstr ""
 msgid "Welcome"
 msgstr ""
 
-#: development/CreateDevicePopover.js:60
+#: development/CreateDevicePopover.js:96
 msgid "When you ready to commercialize your prototype, create device with serial number and you can find it in Management page!"
 msgstr ""
 
@@ -2244,7 +2326,12 @@ msgstr ""
 msgid "You can see its detail in \"My devices\"."
 msgstr ""
 
-#: mydevices/detail/apihint.html:33
+#: services/products/main.js:650
+#: services/products/main.js:659
+msgid "You can use ${} to reference the pre-defined variables you would like to included in your notification. The variables include ${deviceId}, ${deviceName}, ${deviceKey} and ${value}."
+msgstr ""
+
+#: mydevices/detail/apihint.html:35
 msgid "You can use the APIs listed here to set up the action you need.eg. upload or retrieve data."
 msgstr ""
 
@@ -2252,7 +2339,11 @@ msgstr ""
 msgid "You cannot create more device than your account limitation."
 msgstr ""
 
-#: management/DeviceListManagement/index.js:73
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:116
+msgid "You cannot delete prototype with non-zero devices."
+msgstr ""
+
+#: management/DeviceListManagement/index.js:109
 msgid "You cannot revert this action."
 msgstr ""
 
@@ -2260,17 +2351,17 @@ msgstr ""
 msgid "You do not finish the tutorial yet."
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:176
+#: management/PrototypeListManagement/index.js:216
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
 #: controllers/development/index.js:143
-#: controllers/development/index.js:212
+#: controllers/development/index.js:218
 #: controllers/devices/index.js:85
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:883
+#: controllers/development/detail.js:956
 #: controllers/development/index.js:96
 msgid "You have cloned the"
 msgstr ""
@@ -2283,7 +2374,7 @@ msgstr ""
 msgid "You have pushed the firmware to device successfully."
 msgstr ""
 
-#: development/detail.html:119
+#: development/detail.html:108
 msgid "You must have data channel before beta-release the prototype."
 msgstr ""
 
@@ -2291,12 +2382,16 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:415
+#: controllers/development/detail.js:482
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: mydevices/detail.html:126
-#: mydevices/detail.html:175
+#: components/UnitSelect/UnitSelect.js:106
+msgid "You should input the Unit name."
+msgstr ""
+
+#: mydevices/detail.html:128
+#: mydevices/detail.html:179
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -2320,7 +2415,7 @@ msgstr ""
 msgid "Your account quota:"
 msgstr ""
 
-#: profile/index.html:195
+#: profile/index.html:201
 msgid "Your current timezone"
 msgstr ""
 
@@ -2336,11 +2431,11 @@ msgstr ""
 msgid "Your prototype is beta-released."
 msgstr ""
 
-#: controllers/development/detail.js:60
+#: controllers/development/detail.js:93
 msgid "Your prototype is beta-released. You can no longer make change to the data channel."
 msgstr ""
 
-#: controllers/development/detail.js:64
+#: controllers/development/detail.js:97
 msgid "Your prototype is beta-released. You can no longer make change to the trigger and action rules."
 msgstr ""
 
@@ -2360,15 +2455,23 @@ msgstr ""
 msgid "and create test device for it."
 msgstr ""
 
-#: profile/detail/serviceprovider.html:52
+#: profile/detail/serviceprovider.html:54
 msgid "appId :"
 msgstr ""
 
-#: profile/detail/serviceprovider.html:67
+#: profile/detail/serviceprovider.html:71
 msgid "appSecret :"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:140
+#: factories/components.js:821
+msgid "button A"
+msgstr ""
+
+#: factories/components.js:826
+msgid "button B"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:149
 msgid "cancel"
 msgstr ""
 
@@ -2376,7 +2479,7 @@ msgstr ""
 msgid "choose Language"
 msgstr ""
 
-#: profile/index.html:134
+#: profile/index.html:136
 msgid "choose Timezone"
 msgstr ""
 
@@ -2388,8 +2491,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:632
-#: services/products/main.js:639
+#: services/products/main.js:647
+#: services/products/main.js:656
 msgid "content"
 msgstr ""
 
@@ -2424,15 +2527,22 @@ msgstr ""
 msgid "devices before reaching your quota limitation. Over provision will lead to device creation failure."
 msgstr ""
 
+#: factories/components.js:803
+#: factories/components.js:842
+#: factories/components.js:874
+#: factories/components.js:903
+msgid "down"
+msgstr ""
+
 #: development/dialogs/firmware/firmwareSuccess.html:18
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:784
+#: controllers/development/detail.js:857
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:883
+#: controllers/development/detail.js:956
 #: controllers/development/index.js:96
 msgid "from"
 msgstr ""
@@ -2449,16 +2559,16 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
-#: profile/index.html:195
+#: profile/index.html:201
 msgid "is different from your setting."
 msgstr ""
 
-#: development/CreateDevicePopover.js:55
+#: development/CreateDevicePopover.js:91
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
 msgstr ""
 
-#: mydevices/detail/apihint.html:95
-#: mydevices/dialogs/showapihint.html:78
+#: mydevices/detail/apihint.html:99
+#: mydevices/dialogs/showapihint.html:83
 msgid "jQuery"
 msgstr ""
 
@@ -2466,92 +2576,92 @@ msgstr ""
 msgid "just now"
 msgstr ""
 
-#: factories/components.js:537
+#: factories/components.js:600
 msgid "ke1 value"
 msgstr ""
 
-#: factories/components.js:103
-#: factories/components.js:145
-#: factories/components.js:196
-#: factories/components.js:404
-#: factories/components.js:438
-#: factories/components.js:481
-#: factories/components.js:533
-#: factories/components.js:70
+#: factories/components.js:115
+#: factories/components.js:163
+#: factories/components.js:222
+#: factories/components.js:448
+#: factories/components.js:486
+#: factories/components.js:535
+#: factories/components.js:595
+#: factories/components.js:78
 msgid "key1 name"
 msgstr ""
 
-#: factories/components.js:107
-#: factories/components.js:149
-#: factories/components.js:200
-#: factories/components.js:408
-#: factories/components.js:442
-#: factories/components.js:485
-#: factories/components.js:74
+#: factories/components.js:120
+#: factories/components.js:168
+#: factories/components.js:227
+#: factories/components.js:453
+#: factories/components.js:491
+#: factories/components.js:540
+#: factories/components.js:83
 msgid "key1 value"
 msgstr ""
 
-#: factories/components.js:111
-#: factories/components.js:153
-#: factories/components.js:204
-#: factories/components.js:412
-#: factories/components.js:446
-#: factories/components.js:489
-#: factories/components.js:541
-#: factories/components.js:78
+#: factories/components.js:125
+#: factories/components.js:173
+#: factories/components.js:232
+#: factories/components.js:458
+#: factories/components.js:496
+#: factories/components.js:545
+#: factories/components.js:605
+#: factories/components.js:88
 msgid "key2 name"
 msgstr ""
 
-#: factories/components.js:115
-#: factories/components.js:157
-#: factories/components.js:208
-#: factories/components.js:416
-#: factories/components.js:450
-#: factories/components.js:493
-#: factories/components.js:545
-#: factories/components.js:82
+#: factories/components.js:130
+#: factories/components.js:178
+#: factories/components.js:237
+#: factories/components.js:463
+#: factories/components.js:501
+#: factories/components.js:550
+#: factories/components.js:610
+#: factories/components.js:93
 msgid "key2 value"
 msgstr ""
 
-#: factories/components.js:119
-#: factories/components.js:161
-#: factories/components.js:212
-#: factories/components.js:454
-#: factories/components.js:497
-#: factories/components.js:549
+#: factories/components.js:135
+#: factories/components.js:183
+#: factories/components.js:242
+#: factories/components.js:506
+#: factories/components.js:555
+#: factories/components.js:615
 msgid "key3 name"
 msgstr ""
 
-#: factories/components.js:123
-#: factories/components.js:165
-#: factories/components.js:216
-#: factories/components.js:458
-#: factories/components.js:501
-#: factories/components.js:553
+#: factories/components.js:140
+#: factories/components.js:188
+#: factories/components.js:247
+#: factories/components.js:511
+#: factories/components.js:560
+#: factories/components.js:620
 msgid "key3 value"
 msgstr ""
 
-#: factories/components.js:169
-#: factories/components.js:220
-#: factories/components.js:505
-#: factories/components.js:557
+#: factories/components.js:193
+#: factories/components.js:252
+#: factories/components.js:565
+#: factories/components.js:625
 msgid "key4 name"
 msgstr ""
 
-#: factories/components.js:173
-#: factories/components.js:224
-#: factories/components.js:509
-#: factories/components.js:561
+#: factories/components.js:198
+#: factories/components.js:257
+#: factories/components.js:570
+#: factories/components.js:630
 msgid "key4 value"
 msgstr ""
 
-#: factories/components.js:228
-#: factories/components.js:565
+#: factories/components.js:262
+#: factories/components.js:635
 msgid "key5 name"
 msgstr ""
 
-#: factories/components.js:232
-#: factories/components.js:569
+#: factories/components.js:267
+#: factories/components.js:640
 msgid "key5 value"
 msgstr ""
 
@@ -2567,14 +2677,21 @@ msgstr ""
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr ""
 
+#: factories/components.js:809
+#: factories/components.js:843
+#: factories/components.js:880
+#: factories/components.js:904
+msgid "left"
+msgstr ""
+
 #: directives/components/control/gps.js:158
 msgid "longitude must be between -180 and 180 meters!"
 msgstr ""
 
-#: factories/components.js:255
-#: factories/components.js:279
-#: factories/components.js:361
-#: factories/components.js:689
+#: factories/components.js:291
+#: factories/components.js:318
+#: factories/components.js:403
+#: factories/components.js:763
 msgid "lowerbound"
 msgstr ""
 
@@ -2582,7 +2699,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:776
+#: controllers/development/detail.js:849
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2604,7 +2721,7 @@ msgstr ""
 msgid "of {{deviceCount}} Test Devices"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:126
+#: components/ProgressCircles/TotalsDevice.js:164
 msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
@@ -2614,38 +2731,45 @@ msgstr[1] ""
 msgid "owner"
 msgstr ""
 
-#: development/detail.html:196
+#: development/detail.html:185
 msgid "page"
 msgstr ""
 
-#: mydevices/dialogs/editDevices.html:146
+#: factories/components.js:815
+#: factories/components.js:844
+#: factories/components.js:886
+#: factories/components.js:905
+msgid "right"
+msgstr ""
+
+#: mydevices/dialogs/editDevices.html:156
 msgid "save"
 msgstr ""
 
-#: mydevices/dialogs/userPrivilege.html:45
+#: mydevices/dialogs/userPrivilege.html:47
 msgid "select role"
 msgstr ""
 
-#: controllers/development/detail.js:1102
-#: controllers/development/detail.js:1110
-#: controllers/development/detail.js:161
-#: controllers/development/detail.js:181
-#: controllers/development/detail.js:259
-#: controllers/development/detail.js:306
+#: controllers/development/detail.js:1175
+#: controllers/development/detail.js:1183
+#: controllers/development/detail.js:223
+#: controllers/development/detail.js:243
+#: controllers/development/detail.js:321
+#: controllers/development/detail.js:368
 #: controllers/development/index.js:176
-#: controllers/development/index.js:203
+#: controllers/development/index.js:209
 #: controllers/devices/detail.js:149
 #: controllers/devices/detail.js:345
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:883
+#: controllers/development/detail.js:956
 #: controllers/development/index.js:96
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:626
+#: services/products/main.js:641
 msgid "title"
 msgstr ""
 
@@ -2653,22 +2777,33 @@ msgstr ""
 msgid "tutorials"
 msgstr ""
 
-#: factories/components.js:263
-#: factories/components.js:287
-#: factories/components.js:594
-#: factories/components.js:612
+#: factories/components.js:301
+#: factories/components.js:328
+#: factories/components.js:666
+#: factories/components.js:685
 msgid "unitTypes"
+msgstr ""
+
+#: factories/components.js:797
+#: factories/components.js:841
+#: factories/components.js:868
+#: factories/components.js:902
+msgid "up"
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: factories/components.js:259
-#: factories/components.js:283
-#: factories/components.js:365
-#: factories/components.js:694
+#: factories/components.js:296
+#: factories/components.js:323
+#: factories/components.js:408
+#: factories/components.js:769
 msgid "upperbound"
+msgstr ""
+
+#: services/products/main.js:666
+msgid "url"
 msgstr ""
 
 #: directives/components/control/pwmSlider.js:57
@@ -2679,7 +2814,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:780
+#: controllers/development/detail.js:853
 msgid "version cannot be null!"
 msgstr ""
 
@@ -2695,22 +2830,17 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:176
+#: components/ProgressCircles/TotalsDevice.js:214
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] ""
 msgstr[1] ""
 
-#: development/dialogs/trigger/add.html:369
-#: development/dialogs/trigger/edit.html:357
-msgid "{{format.display | capitalize:'first'}}"
-msgstr ""
-
 #: services/validator.js:41
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:153
+#: components/ProgressCircles/TotalsDevice.js:191
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] ""
