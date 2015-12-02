@@ -970,6 +970,10 @@ msgstr ""
 msgid "GPS"
 msgstr ""
 
+#: factories/dataChnTypeId.js:100
+msgid "GamePad"
+msgstr ""
+
 #: management/dialogs/createSerialNumber.html:88
 msgid "Generate"
 msgstr ""
@@ -1263,8 +1267,8 @@ msgstr ""
 #: components/control/pwm.html:23
 #: components/control/pwm.html:9
 #: components/control/pwmSlider.html:9
-#: factories/components.js:699
-#: factories/components.js:704
+#: factories/components.js:765
+#: factories/components.js:771
 msgid "Integer only"
 msgstr ""
 
@@ -1635,6 +1639,8 @@ msgstr ""
 msgid "Please confirm if you want to release this prototype."
 msgstr ""
 
+#: factories/components.js:849
+#: factories/components.js:910
 #: services/validator.js:31
 #: services/validator.js:61
 msgid "Please input {{key}}."
@@ -1900,7 +1906,12 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
-#: factories/components.js:707
+#: factories/components.js:831
+#: factories/components.js:892
+msgid "Show current"
+msgstr ""
+
+#: factories/components.js:775
 msgid "Show current value"
 msgstr ""
 
@@ -2042,11 +2053,11 @@ msgstr ""
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
-#: factories/components.js:381
+#: factories/components.js:417
 msgid "The lower bound and upper bound must be numeric value."
 msgstr ""
 
-#: factories/components.js:385
+#: factories/components.js:421
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
@@ -2317,7 +2328,7 @@ msgstr ""
 
 #: services/products/main.js:650
 #: services/products/main.js:659
-msgid "You can use ${} to mention the variables you would like to include in your notification content. Variables include Device Id, Device Name, Device Description, Data Channel Name and Data Channel Value. See more detail here."
+msgid "You can use ${} to reference the pre-defined variables you would like to included in your notification. The variables include ${deviceId}, ${deviceName}, ${deviceKey} and ${value}."
 msgstr ""
 
 #: mydevices/detail/apihint.html:35
@@ -2452,6 +2463,14 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
+#: factories/components.js:821
+msgid "button A"
+msgstr ""
+
+#: factories/components.js:826
+msgid "button B"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:149
 msgid "cancel"
 msgstr ""
@@ -2508,6 +2527,13 @@ msgstr ""
 msgid "devices before reaching your quota limitation. Over provision will lead to device creation failure."
 msgstr ""
 
+#: factories/components.js:803
+#: factories/components.js:842
+#: factories/components.js:874
+#: factories/components.js:903
+msgid "down"
+msgstr ""
+
 #: development/dialogs/firmware/firmwareSuccess.html:18
 msgid "field."
 msgstr ""
@@ -2550,92 +2576,92 @@ msgstr ""
 msgid "just now"
 msgstr ""
 
-#: factories/components.js:545
+#: factories/components.js:600
 msgid "ke1 value"
 msgstr ""
 
-#: factories/components.js:111
-#: factories/components.js:153
-#: factories/components.js:204
-#: factories/components.js:412
-#: factories/components.js:446
-#: factories/components.js:489
-#: factories/components.js:541
+#: factories/components.js:115
+#: factories/components.js:163
+#: factories/components.js:222
+#: factories/components.js:448
+#: factories/components.js:486
+#: factories/components.js:535
+#: factories/components.js:595
 #: factories/components.js:78
 msgid "key1 name"
 msgstr ""
 
-#: factories/components.js:115
-#: factories/components.js:157
-#: factories/components.js:208
-#: factories/components.js:416
-#: factories/components.js:450
-#: factories/components.js:493
-#: factories/components.js:82
+#: factories/components.js:120
+#: factories/components.js:168
+#: factories/components.js:227
+#: factories/components.js:453
+#: factories/components.js:491
+#: factories/components.js:540
+#: factories/components.js:83
 msgid "key1 value"
 msgstr ""
 
-#: factories/components.js:119
-#: factories/components.js:161
-#: factories/components.js:212
-#: factories/components.js:420
-#: factories/components.js:454
-#: factories/components.js:497
-#: factories/components.js:549
-#: factories/components.js:86
+#: factories/components.js:125
+#: factories/components.js:173
+#: factories/components.js:232
+#: factories/components.js:458
+#: factories/components.js:496
+#: factories/components.js:545
+#: factories/components.js:605
+#: factories/components.js:88
 msgid "key2 name"
 msgstr ""
 
-#: factories/components.js:123
-#: factories/components.js:165
-#: factories/components.js:216
-#: factories/components.js:424
-#: factories/components.js:458
+#: factories/components.js:130
+#: factories/components.js:178
+#: factories/components.js:237
+#: factories/components.js:463
 #: factories/components.js:501
-#: factories/components.js:553
-#: factories/components.js:90
+#: factories/components.js:550
+#: factories/components.js:610
+#: factories/components.js:93
 msgid "key2 value"
 msgstr ""
 
-#: factories/components.js:127
-#: factories/components.js:169
-#: factories/components.js:220
-#: factories/components.js:462
-#: factories/components.js:505
-#: factories/components.js:557
+#: factories/components.js:135
+#: factories/components.js:183
+#: factories/components.js:242
+#: factories/components.js:506
+#: factories/components.js:555
+#: factories/components.js:615
 msgid "key3 name"
 msgstr ""
 
-#: factories/components.js:131
-#: factories/components.js:173
-#: factories/components.js:224
-#: factories/components.js:466
-#: factories/components.js:509
-#: factories/components.js:561
+#: factories/components.js:140
+#: factories/components.js:188
+#: factories/components.js:247
+#: factories/components.js:511
+#: factories/components.js:560
+#: factories/components.js:620
 msgid "key3 value"
 msgstr ""
 
-#: factories/components.js:177
-#: factories/components.js:228
-#: factories/components.js:513
+#: factories/components.js:193
+#: factories/components.js:252
 #: factories/components.js:565
+#: factories/components.js:625
 msgid "key4 name"
 msgstr ""
 
-#: factories/components.js:181
-#: factories/components.js:232
-#: factories/components.js:517
-#: factories/components.js:569
+#: factories/components.js:198
+#: factories/components.js:257
+#: factories/components.js:570
+#: factories/components.js:630
 msgid "key4 value"
 msgstr ""
 
-#: factories/components.js:236
-#: factories/components.js:573
+#: factories/components.js:262
+#: factories/components.js:635
 msgid "key5 name"
 msgstr ""
 
-#: factories/components.js:240
-#: factories/components.js:577
+#: factories/components.js:267
+#: factories/components.js:640
 msgid "key5 value"
 msgstr ""
 
@@ -2651,14 +2677,21 @@ msgstr ""
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr ""
 
+#: factories/components.js:809
+#: factories/components.js:843
+#: factories/components.js:880
+#: factories/components.js:904
+msgid "left"
+msgstr ""
+
 #: directives/components/control/gps.js:158
 msgid "longitude must be between -180 and 180 meters!"
 msgstr ""
 
-#: factories/components.js:263
-#: factories/components.js:287
-#: factories/components.js:369
-#: factories/components.js:697
+#: factories/components.js:291
+#: factories/components.js:318
+#: factories/components.js:403
+#: factories/components.js:763
 msgid "lowerbound"
 msgstr ""
 
@@ -2702,6 +2735,13 @@ msgstr ""
 msgid "page"
 msgstr ""
 
+#: factories/components.js:815
+#: factories/components.js:844
+#: factories/components.js:886
+#: factories/components.js:905
+msgid "right"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:156
 msgid "save"
 msgstr ""
@@ -2737,21 +2777,28 @@ msgstr ""
 msgid "tutorials"
 msgstr ""
 
-#: factories/components.js:271
-#: factories/components.js:295
-#: factories/components.js:602
-#: factories/components.js:620
+#: factories/components.js:301
+#: factories/components.js:328
+#: factories/components.js:666
+#: factories/components.js:685
 msgid "unitTypes"
+msgstr ""
+
+#: factories/components.js:797
+#: factories/components.js:841
+#: factories/components.js:868
+#: factories/components.js:902
+msgid "up"
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: factories/components.js:267
-#: factories/components.js:291
-#: factories/components.js:373
-#: factories/components.js:702
+#: factories/components.js:296
+#: factories/components.js:323
+#: factories/components.js:408
+#: factories/components.js:769
 msgid "upperbound"
 msgstr ""
 
