@@ -2355,14 +2355,14 @@ msgstr ""
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
-#: controllers/development/index.js:143
-#: controllers/development/index.js:218
+#: controllers/development/index.js:147
+#: controllers/development/index.js:222
 #: controllers/devices/index.js:85
 msgid "You do not have permission"
 msgstr ""
 
 #: controllers/development/detail.js:956
-#: controllers/development/index.js:96
+#: controllers/development/index.js:100
 msgid "You have cloned the"
 msgstr ""
 
@@ -2543,7 +2543,7 @@ msgid "file cannot be null!"
 msgstr ""
 
 #: controllers/development/detail.js:956
-#: controllers/development/index.js:96
+#: controllers/development/index.js:100
 msgid "from"
 msgstr ""
 
@@ -2756,8 +2756,8 @@ msgstr ""
 #: controllers/development/detail.js:243
 #: controllers/development/detail.js:321
 #: controllers/development/detail.js:368
-#: controllers/development/index.js:176
-#: controllers/development/index.js:209
+#: controllers/development/index.js:180
+#: controllers/development/index.js:213
 #: controllers/devices/detail.js:149
 #: controllers/devices/detail.js:345
 #: controllers/devices/index.js:76
@@ -2765,7 +2765,7 @@ msgid "success."
 msgstr ""
 
 #: controllers/development/detail.js:956
-#: controllers/development/index.js:96
+#: controllers/development/index.js:100
 msgid "successfully."
 msgstr ""
 
