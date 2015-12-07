@@ -153,11 +153,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1215
+#: controllers/development/detail.js:1221
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1220
+#: controllers/development/detail.js:1226
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -336,7 +336,7 @@ msgid "Can't find your template?"
 msgstr ""
 
 #: components/Dialogs/CommonDialog.js:140
-#: components/UnitSelect/UnitSelect.js:244
+#: components/UnitSelect/UnitSelect.js:251
 #: date.html:6
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
 #: development/dialogs/addComponentContent.html:258
@@ -347,7 +347,7 @@ msgstr ""
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
 #: development/dialogs/deleteConfirm.html:28
-#: development/dialogs/editComponent.html:140
+#: development/dialogs/editComponent.html:150
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
@@ -569,7 +569,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1205
+#: controllers/development/detail.js:1211
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -590,11 +590,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:476
+#: controllers/development/detail.js:482
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:479
+#: controllers/development/detail.js:485
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -611,11 +611,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:542
+#: controllers/development/detail.js:548
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1203
+#: controllers/development/detail.js:1209
 msgid "Data channel is required!"
 msgstr ""
 
@@ -753,7 +753,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:643
+#: controllers/development/detail.js:649
 msgid "Device name cannot null."
 msgstr ""
 
@@ -1086,8 +1086,8 @@ msgstr ""
 msgid "Input device serial numbers. One serial number per line. Please make sure the serial number must be less than 50 characters."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:211
-#: components/UnitSelect/UnitSelect.js:229
+#: components/UnitSelect/UnitSelect.js:218
+#: components/UnitSelect/UnitSelect.js:236
 msgid "Input hint"
 msgstr ""
 
@@ -1095,7 +1095,7 @@ msgstr ""
 msgid "Input the Url."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:235
+#: components/UnitSelect/UnitSelect.js:242
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
@@ -1119,20 +1119,20 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1437
+#: controllers/development/detail.js:1443
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1430
+#: controllers/development/detail.js:1436
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1423
+#: controllers/development/detail.js:1429
 #: development/dialogs/editComponent.html:21
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1447
+#: controllers/development/detail.js:1453
 msgid "Input the data type"
 msgstr ""
 
@@ -1220,7 +1220,7 @@ msgstr ""
 msgid "Input the trigger name"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:218
+#: components/UnitSelect/UnitSelect.js:225
 msgid "Input the unit name"
 msgstr ""
 
@@ -1338,7 +1338,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1283
+#: controllers/development/detail.js:1289
 #: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1512,7 +1512,7 @@ msgid "Name cannot be null."
 msgstr ""
 
 #: controllers/development/detail.js:210
-#: controllers/development/detail.js:473
+#: controllers/development/detail.js:479
 msgid "Name cannot null"
 msgstr ""
 
@@ -1542,7 +1542,7 @@ msgstr ""
 msgid "No results found"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:191
+#: components/UnitSelect/UnitSelect.js:198
 msgid "No results found. Create your custom unit!"
 msgstr ""
 
@@ -1685,7 +1685,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1377
+#: controllers/development/detail.js:1383
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1693,11 +1693,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:791
+#: controllers/development/detail.js:797
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1286
+#: controllers/development/detail.js:1292
 #: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1859,10 +1859,10 @@ msgstr ""
 msgid "Role"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:249
+#: components/UnitSelect/UnitSelect.js:256
 #: development/dialogs/addComponentContent.html:262
 #: development/dialogs/createProducts.html:251
-#: development/dialogs/editComponent.html:147
+#: development/dialogs/editComponent.html:157
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
@@ -1924,7 +1924,7 @@ msgstr ""
 msgid "Select the prerequisite firmware that are compatible for this firmware (<b class=\"firmwareDialog__name\">{{ firmwareData.name }}</b>, <b class=\"firmwareDialog__name\">{{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:268
+#: components/UnitSelect/UnitSelect.js:275
 msgid "Select the unit"
 msgstr ""
 
@@ -2214,7 +2214,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1196
+#: controllers/development/detail.js:1202
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2234,11 +2234,16 @@ msgstr ""
 msgid "Tutorial"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:202
+#: development/dialogs/addComponentContent.html:185
+#: development/dialogs/editComponent.html:75
+msgid "Unit"
+msgstr ""
+
+#: components/UnitSelect/UnitSelect.js:209
 msgid "Unit name"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:226
+#: components/UnitSelect/UnitSelect.js:233
 msgid "Unit symbol"
 msgstr ""
 
@@ -2409,7 +2414,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:952
+#: controllers/development/detail.js:958
 #: controllers/development/index.js:100
 msgid "You have cloned the"
 msgstr ""
@@ -2430,11 +2435,11 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:482
+#: controllers/development/detail.js:488
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:115
+#: components/UnitSelect/UnitSelect.js:122
 msgid "You should input the Unit name."
 msgstr ""
 
@@ -2582,11 +2587,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:853
+#: controllers/development/detail.js:859
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:952
+#: controllers/development/detail.js:958
 #: controllers/development/index.js:100
 msgid "from"
 msgstr ""
@@ -2738,7 +2743,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:845
+#: controllers/development/detail.js:851
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2801,12 +2806,12 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
-#: controllers/development/detail.js:1176
-#: controllers/development/detail.js:1184
+#: controllers/development/detail.js:1182
+#: controllers/development/detail.js:1190
 #: controllers/development/detail.js:223
 #: controllers/development/detail.js:243
-#: controllers/development/detail.js:321
-#: controllers/development/detail.js:364
+#: controllers/development/detail.js:327
+#: controllers/development/detail.js:370
 #: controllers/development/index.js:180
 #: controllers/development/index.js:213
 #: controllers/devices/detail.js:149
@@ -2815,7 +2820,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:952
+#: controllers/development/detail.js:958
 #: controllers/development/index.js:100
 msgid "successfully."
 msgstr ""
@@ -2865,7 +2870,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:849
+#: controllers/development/detail.js:855
 msgid "version cannot be null!"
 msgstr ""
 
