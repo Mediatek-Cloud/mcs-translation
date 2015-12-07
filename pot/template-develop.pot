@@ -153,11 +153,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1218
+#: controllers/development/detail.js:1215
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1223
+#: controllers/development/detail.js:1220
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -327,7 +327,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:625
+#: services/products/main.js:622
 msgid "Between"
 msgstr ""
 
@@ -569,7 +569,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1208
+#: controllers/development/detail.js:1205
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -590,11 +590,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:480
+#: controllers/development/detail.js:476
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:483
+#: controllers/development/detail.js:479
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -611,11 +611,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:550
+#: controllers/development/detail.js:542
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1206
+#: controllers/development/detail.js:1203
 msgid "Data channel is required!"
 msgstr ""
 
@@ -753,7 +753,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:651
+#: controllers/development/detail.js:643
 msgid "Device name cannot null."
 msgstr ""
 
@@ -885,7 +885,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:621
+#: services/products/main.js:618
 msgid "Equal to"
 msgstr ""
 
@@ -1008,7 +1008,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:613
+#: services/products/main.js:610
 msgid "Greater than"
 msgstr ""
 
@@ -1048,8 +1048,8 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:649
-#: services/products/main.js:658
+#: services/products/main.js:646
+#: services/products/main.js:655
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
@@ -1091,7 +1091,7 @@ msgstr ""
 msgid "Input hint"
 msgstr ""
 
-#: services/products/main.js:667
+#: services/products/main.js:664
 msgid "Input the Url."
 msgstr ""
 
@@ -1099,7 +1099,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:642
+#: services/products/main.js:639
 msgid "Input the action title"
 msgstr ""
 
@@ -1111,28 +1111,28 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:657
+#: services/products/main.js:654
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:648
+#: services/products/main.js:645
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1440
+#: controllers/development/detail.js:1437
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1433
+#: controllers/development/detail.js:1430
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1426
+#: controllers/development/detail.js:1423
 #: development/dialogs/editComponent.html:21
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1450
+#: controllers/development/detail.js:1447
 msgid "Input the data type"
 msgstr ""
 
@@ -1330,7 +1330,7 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:617
+#: services/products/main.js:614
 msgid "Lower than"
 msgstr ""
 
@@ -1338,7 +1338,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1286
+#: controllers/development/detail.js:1283
 #: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1512,7 +1512,7 @@ msgid "Name cannot be null."
 msgstr ""
 
 #: controllers/development/detail.js:210
-#: controllers/development/detail.js:477
+#: controllers/development/detail.js:473
 msgid "Name cannot null"
 msgstr ""
 
@@ -1685,7 +1685,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1380
+#: controllers/development/detail.js:1377
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1693,11 +1693,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:799
+#: controllers/development/detail.js:791
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1289
+#: controllers/development/detail.js:1286
 #: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1713,7 +1713,7 @@ msgstr ""
 msgid "Please input {{key}}."
 msgstr ""
 
-#: services/products/main.js:358
+#: services/products/main.js:355
 msgid "Please select at least one test device"
 msgstr ""
 
@@ -1941,7 +1941,7 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:674
+#: services/products/main.js:671
 msgid "Send webhook"
 msgstr ""
 
@@ -2120,7 +2120,7 @@ msgstr ""
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
-#: services/products/main.js:668
+#: services/products/main.js:665
 msgid "The url has to start with http://"
 msgstr ""
 
@@ -2214,7 +2214,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1199
+#: controllers/development/detail.js:1196
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2374,8 +2374,8 @@ msgstr ""
 msgid "You can see its detail in \"My devices\"."
 msgstr ""
 
-#: services/products/main.js:650
-#: services/products/main.js:659
+#: services/products/main.js:647
+#: services/products/main.js:656
 msgid "You can use ${} to reference the pre-defined variables you would like to included in your notification. The variables include ${deviceId}, ${deviceName}, ${deviceKey} and ${value}."
 msgstr ""
 
@@ -2409,7 +2409,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:960
+#: controllers/development/detail.js:952
 #: controllers/development/index.js:100
 msgid "You have cloned the"
 msgstr ""
@@ -2430,7 +2430,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:486
+#: controllers/development/detail.js:482
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -2539,8 +2539,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:647
-#: services/products/main.js:656
+#: services/products/main.js:644
+#: services/products/main.js:653
 msgid "content"
 msgstr ""
 
@@ -2582,11 +2582,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:861
+#: controllers/development/detail.js:853
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:960
+#: controllers/development/detail.js:952
 #: controllers/development/index.js:100
 msgid "from"
 msgstr ""
@@ -2738,7 +2738,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:853
+#: controllers/development/detail.js:845
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2801,12 +2801,12 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
-#: controllers/development/detail.js:1179
-#: controllers/development/detail.js:1187
+#: controllers/development/detail.js:1176
+#: controllers/development/detail.js:1184
 #: controllers/development/detail.js:223
 #: controllers/development/detail.js:243
 #: controllers/development/detail.js:321
-#: controllers/development/detail.js:368
+#: controllers/development/detail.js:364
 #: controllers/development/index.js:180
 #: controllers/development/index.js:213
 #: controllers/devices/detail.js:149
@@ -2815,12 +2815,12 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:960
+#: controllers/development/detail.js:952
 #: controllers/development/index.js:100
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:641
+#: services/products/main.js:638
 msgid "title"
 msgstr ""
 
@@ -2853,7 +2853,7 @@ msgstr ""
 msgid "upperbound"
 msgstr ""
 
-#: services/products/main.js:666
+#: services/products/main.js:663
 msgid "url"
 msgstr ""
 
@@ -2865,7 +2865,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:857
+#: controllers/development/detail.js:849
 msgid "version cannot be null!"
 msgstr ""
 
