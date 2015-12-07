@@ -47,6 +47,10 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
+#: dashboard/numberofused.html:41
+msgid "0'}}</span> {{ 'data points have been used."
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:16
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
@@ -170,10 +174,6 @@ msgstr ""
 msgid "Activated rate"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:243
-msgid "Active"
-msgstr ""
-
 #: controllers/development/detail.js:94
 #: development/detail/components.html:28
 #: development/dialogs/addComponent.html:30
@@ -264,11 +264,6 @@ msgstr ""
 msgid "And"
 msgstr ""
 
-#: mydevices/detail/apihint.html:102
-#: mydevices/dialogs/showapihint.html:90
-msgid "Angular"
-msgstr ""
-
 #: profile/dialogs/applyApp.html:11
 #: profile/dialogs/editApp.html:11
 msgid "App name"
@@ -296,7 +291,6 @@ msgstr ""
 msgid "Approve"
 msgstr ""
 
-#: mydevices/detail/apihint.html:93
 #: mydevices/dialogs/showapihint.html:69
 msgid "Arduino"
 msgstr ""
@@ -342,9 +336,10 @@ msgid "Can't find your template?"
 msgstr ""
 
 #: components/Dialogs/CommonDialog.js:140
+#: components/UnitSelect/UnitSelect.js:243
 #: date.html:6
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
-#: development/dialogs/addComponentContent.html:255
+#: development/dialogs/addComponentContent.html:258
 #: development/dialogs/cloneProduct.html:54
 #: development/dialogs/createDevice.html:158
 #: development/dialogs/createDeviceFail.html:29
@@ -352,7 +347,7 @@ msgstr ""
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
 #: development/dialogs/deleteConfirm.html:28
-#: development/dialogs/editComponent.html:120
+#: development/dialogs/editComponent.html:140
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
@@ -592,7 +587,6 @@ msgstr ""
 
 #: aside.html:12
 #: dashboard/index.html:29
-#: limitation/index.html:33
 msgid "Dashboard"
 msgstr ""
 
@@ -604,15 +598,13 @@ msgstr ""
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
-#: development/detail.html:197
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:223
 msgid "Data channel"
 msgstr ""
 
 #: development/detail/components.html:93
-#: development/dialogs/addComponentContent.html:27
+#: development/dialogs/addComponentContent.html:28
 #: mydevices/detail/apihint.html:48
 #: mydevices/detail/components.html:61
 #: mydevices/dialogs/showapihint.html:10
@@ -639,7 +631,7 @@ msgstr ""
 msgid "Data points usage"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:60
+#: development/dialogs/addComponentContent.html:63
 msgid "Data type"
 msgstr ""
 
@@ -656,7 +648,6 @@ msgstr ""
 #: main.js:379
 #: management/DeviceListManagement/index.js:187
 #: mydevices/detail.html:88
-#: mydevices/index.html:120
 #: profile/detail/serviceprovider.html:22
 msgid "Delete"
 msgstr ""
@@ -677,7 +668,7 @@ msgstr ""
 
 #: development/detail.html:158
 #: development/detail/manufacturerinfo.html:18
-#: development/dialogs/addComponentContent.html:43
+#: development/dialogs/addComponentContent.html:45
 #: development/dialogs/cloneProduct.html:35
 #: development/dialogs/createProducts.html:87
 #: development/dialogs/editComponent.html:29
@@ -694,7 +685,6 @@ msgid "Description"
 msgstr ""
 
 #: dashboard/numberofused.html:6
-#: development/index.html:175
 #: mydevices/index.html:148
 msgid "Detail"
 msgstr ""
@@ -932,10 +922,8 @@ msgstr ""
 msgid "File upload"
 msgstr ""
 
-#: development/detail.html:216
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:244
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1131,11 +1119,11 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1444
+#: controllers/development/detail.js:1440
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1435
+#: controllers/development/detail.js:1433
 msgid "Input the data channel id"
 msgstr ""
 
@@ -1144,7 +1132,7 @@ msgstr ""
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1456
+#: controllers/development/detail.js:1450
 msgid "Input the data type"
 msgstr ""
 
@@ -1355,6 +1343,86 @@ msgstr ""
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
+#: development/index.html:175
+msgid "MainPage', {category: 'Development', label: 'productDetail'});\">{{ 'Detail"
+msgstr ""
+
+#: development/detail.html:197
+msgid "MainPage', {category: 'Developmentdetail', label: 'datachannel'});\">{{ 'Data channel"
+msgstr ""
+
+#: development/detail.html:216
+msgid "MainPage', {category: 'Developmentdetail', label: 'firmware'});\">{{ 'Firmware"
+msgstr ""
+
+#: development/detail.html:221
+msgid "MainPage', {category: 'Developmentdetail', label: 'testdevicelist'});\">{{ 'Test device"
+msgstr ""
+
+#: development/detail.html:204
+msgid "MainPage', {category: 'Developmentdetail', label: 'trigger'});\">{{ 'Trigger & Action"
+msgstr ""
+
+#: development/detail.html:209
+msgid "MainPage', {category: 'Developmentdetail', label: 'user privileges'});\">{{ 'User privileges"
+msgstr ""
+
+#: mydevices/index.html:120
+msgid "MainPage', {category: 'Device', label: 'deleteDevice'});\">{{ 'Delete"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:90
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(angular,dialog)'});\">{{ 'Angular"
+msgstr ""
+
+#: mydevices/detail/apihint.html:102
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(angular,tab)'});\">{{ 'Angular"
+msgstr ""
+
+#: mydevices/detail/apihint.html:93
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(arduino,tab)'});\">{{ 'Arduino"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:83
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(jquery,dialog)'});\" >{{ 'jQuery"
+msgstr ""
+
+#: mydevices/detail/apihint.html:99
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(jquery,tab)'});\">{{ 'jQuery"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:76
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(telnet,dialog)'});\" >{{ 'Telnet"
+msgstr ""
+
+#: mydevices/detail/apihint.html:96
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(telnet,tab)'});\">{{ 'Telnet"
+msgstr ""
+
+#: mydevices/detail.html:223
+msgid "MainPage', {category: 'Devicedetail', label: 'data channel'});\">{{ 'Data channel"
+msgstr ""
+
+#: mydevices/detail.html:244
+msgid "MainPage', {category: 'Devicedetail', label: 'firmware'});\">{{ 'Firmware"
+msgstr ""
+
+#: mydevices/detail.html:230
+msgid "MainPage', {category: 'Devicedetail', label: 'trigger'});\">{{ 'Trigger & Action"
+msgstr ""
+
+#: mydevices/detail.html:237
+msgid "MainPage', {category: 'Devicedetail', label: 'user privileges'});\">{{ 'User privileges"
+msgstr ""
+
+#: profile/index.html:220
+msgid "MainPage', {category: 'Profiledetail', label: 'Mobile list'});\">{{ 'Mobile list"
+msgstr ""
+
+#: profile/index.html:228
+msgid "MainPage', {category: 'Profiledetail', label: 'Service Provider'});\">{{ 'Service Provider"
+msgstr ""
+
 #: mydevices/detail/trigger.html:69
 msgid "Manage your action"
 msgstr ""
@@ -1395,7 +1463,6 @@ msgstr ""
 
 #: mydevices/detail/trigger.html:78
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:220
 msgid "Mobile list"
 msgstr ""
 
@@ -1512,8 +1579,8 @@ msgstr ""
 msgid "Now, you can create test device for the prototype and connect with real device. Try it!"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:104
-#: development/dialogs/addComponentContent.html:85
+#: development/dialogs/addComponentContent.html:107
+#: development/dialogs/addComponentContent.html:88
 msgid "Number of categories"
 msgstr ""
 
@@ -1683,7 +1750,6 @@ msgstr ""
 msgid "Profile page"
 msgstr ""
 
-#: development/detail.html:29
 #: development/index.html:31
 msgid "Prototype"
 msgstr ""
@@ -1794,9 +1860,9 @@ msgid "Role"
 msgstr ""
 
 #: components/UnitSelect/UnitSelect.js:248
-#: development/dialogs/addComponentContent.html:259
+#: development/dialogs/addComponentContent.html:262
 #: development/dialogs/createProducts.html:251
-#: development/dialogs/editComponent.html:127
+#: development/dialogs/editComponent.html:147
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
@@ -1893,10 +1959,6 @@ msgstr ""
 msgid "Serial number format error."
 msgstr ""
 
-#: profile/index.html:228
-msgid "Service Provider"
-msgstr ""
-
 #: profile/detail/serviceprovider.html:2
 msgid "Service Provider Section"
 msgstr ""
@@ -1987,16 +2049,11 @@ msgstr ""
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
-#: mydevices/detail/apihint.html:96
-#: mydevices/dialogs/showapihint.html:76
-msgid "Telnet"
-msgstr ""
-
 #: development/dialogs/editComponent.html:47
 msgid "Template preview"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:137
+#: development/dialogs/addComponentContent.html:140
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
@@ -2016,7 +2073,6 @@ msgstr ""
 #: development/CreateDevicePopover.js:88
 #: development/detail.html:171
 #: development/detail.html:180
-#: development/detail.html:221
 #: development/dialogs/createDevice.html:31
 #: development/index.html:165
 #: limitation/index.html:148
@@ -2027,7 +2083,6 @@ msgstr ""
 msgid "Test device list"
 msgstr ""
 
-#: mydevices/detail.html:39
 #: mydevices/index.html:31
 msgid "Test devices"
 msgstr ""
@@ -2137,9 +2192,7 @@ msgstr ""
 msgid "Totals Prototype"
 msgstr ""
 
-#: development/detail.html:204
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:230
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2244,11 +2297,6 @@ msgstr ""
 #: development/detail/userprivileges.html:8
 #: mydevices/detail/userprivileges.html:8
 msgid "User Name"
-msgstr ""
-
-#: development/detail.html:209
-#: mydevices/detail.html:237
-msgid "User privileges"
 msgstr ""
 
 #: development/detail/userprivileges.html:3
@@ -2386,7 +2434,7 @@ msgstr ""
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:106
+#: components/UnitSelect/UnitSelect.js:114
 msgid "You should input the Unit name."
 msgstr ""
 
@@ -2510,10 +2558,6 @@ msgstr ""
 msgid "data points have been used and still have"
 msgstr ""
 
-#: dashboard/numberofused.html:41
-msgid "data points have been used."
-msgstr ""
-
 #: controllers/dashboard/index.js:66
 msgid "days ago"
 msgstr ""
@@ -2565,11 +2609,6 @@ msgstr ""
 
 #: development/CreateDevicePopover.js:91
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
-msgstr ""
-
-#: mydevices/detail/apihint.html:99
-#: mydevices/dialogs/showapihint.html:83
-msgid "jQuery"
 msgstr ""
 
 #: controllers/dashboard/index.js:75
@@ -2726,6 +2765,18 @@ msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
+
+#: limitation/index.html:33
+msgid "openloading')\">{{ 'Dashboard"
+msgstr ""
+
+#: development/detail.html:29
+msgid "openloading')\">{{ 'Prototype"
+msgstr ""
+
+#: mydevices/detail.html:39
+msgid "openloading')\">{{ 'Test devices"
+msgstr ""
 
 #: filters/userPrivType.js:5
 msgid "owner"
