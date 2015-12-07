@@ -336,7 +336,7 @@ msgid "Can't find your template?"
 msgstr ""
 
 #: components/Dialogs/CommonDialog.js:140
-#: components/UnitSelect/UnitSelect.js:243
+#: components/UnitSelect/UnitSelect.js:244
 #: date.html:6
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
 #: development/dialogs/addComponentContent.html:258
@@ -1086,8 +1086,8 @@ msgstr ""
 msgid "Input device serial numbers. One serial number per line. Please make sure the serial number must be less than 50 characters."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:210
-#: components/UnitSelect/UnitSelect.js:228
+#: components/UnitSelect/UnitSelect.js:211
+#: components/UnitSelect/UnitSelect.js:229
 msgid "Input hint"
 msgstr ""
 
@@ -1095,7 +1095,7 @@ msgstr ""
 msgid "Input the Url."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:234
+#: components/UnitSelect/UnitSelect.js:235
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
@@ -1220,7 +1220,7 @@ msgstr ""
 msgid "Input the trigger name"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:217
+#: components/UnitSelect/UnitSelect.js:218
 msgid "Input the unit name"
 msgstr ""
 
@@ -1542,7 +1542,7 @@ msgstr ""
 msgid "No results found"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:190
+#: components/UnitSelect/UnitSelect.js:191
 msgid "No results found. Create your custom unit!"
 msgstr ""
 
@@ -1859,7 +1859,7 @@ msgstr ""
 msgid "Role"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:248
+#: components/UnitSelect/UnitSelect.js:249
 #: development/dialogs/addComponentContent.html:262
 #: development/dialogs/createProducts.html:251
 #: development/dialogs/editComponent.html:147
@@ -1924,7 +1924,7 @@ msgstr ""
 msgid "Select the prerequisite firmware that are compatible for this firmware (<b class=\"firmwareDialog__name\">{{ firmwareData.name }}</b>, <b class=\"firmwareDialog__name\">{{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:267
+#: components/UnitSelect/UnitSelect.js:268
 msgid "Select the unit"
 msgstr ""
 
@@ -2234,11 +2234,11 @@ msgstr ""
 msgid "Tutorial"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:201
+#: components/UnitSelect/UnitSelect.js:202
 msgid "Unit name"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:225
+#: components/UnitSelect/UnitSelect.js:226
 msgid "Unit symbol"
 msgstr ""
 
@@ -2434,7 +2434,7 @@ msgstr ""
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:114
+#: components/UnitSelect/UnitSelect.js:115
 msgid "You should input the Unit name."
 msgstr ""
 
