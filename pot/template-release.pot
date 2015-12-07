@@ -47,6 +47,10 @@ msgstr ""
 msgid "+ Add user"
 msgstr ""
 
+#: dashboard/numberofused.html:41
+msgid "0'}}</span> {{ 'data points have been used."
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:16
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
@@ -149,11 +153,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1214
+#: controllers/development/detail.js:1207
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1219
+#: controllers/development/detail.js:1212
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -264,11 +268,6 @@ msgstr ""
 msgid "And"
 msgstr ""
 
-#: mydevices/detail/apihint.html:102
-#: mydevices/dialogs/showapihint.html:90
-msgid "Angular"
-msgstr ""
-
 #: profile/dialogs/applyApp.html:11
 #: profile/dialogs/editApp.html:11
 msgid "App name"
@@ -296,7 +295,6 @@ msgstr ""
 msgid "Approve"
 msgstr ""
 
-#: mydevices/detail/apihint.html:93
 #: mydevices/dialogs/showapihint.html:69
 msgid "Arduino"
 msgstr ""
@@ -333,7 +331,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:625
+#: services/products/main.js:622
 msgid "Between"
 msgstr ""
 
@@ -574,7 +572,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1204
+#: controllers/development/detail.js:1197
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -592,22 +590,19 @@ msgstr ""
 
 #: aside.html:12
 #: dashboard/index.html:29
-#: limitation/index.html:33
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:476
+#: controllers/development/detail.js:468
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:479
+#: controllers/development/detail.js:471
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
-#: development/detail.html:197
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:223
 msgid "Data channel"
 msgstr ""
 
@@ -619,11 +614,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:546
+#: controllers/development/detail.js:534
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1202
+#: controllers/development/detail.js:1195
 msgid "Data channel is required!"
 msgstr ""
 
@@ -656,7 +651,6 @@ msgstr ""
 #: main.js:378
 #: management/DeviceListManagement/index.js:187
 #: mydevices/detail.html:88
-#: mydevices/index.html:120
 #: profile/detail/serviceprovider.html:22
 msgid "Delete"
 msgstr ""
@@ -694,7 +688,6 @@ msgid "Description"
 msgstr ""
 
 #: dashboard/numberofused.html:6
-#: development/index.html:175
 #: mydevices/index.html:148
 msgid "Detail"
 msgstr ""
@@ -763,7 +756,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:647
+#: controllers/development/detail.js:635
 msgid "Device name cannot null."
 msgstr ""
 
@@ -895,7 +888,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:621
+#: services/products/main.js:618
 msgid "Equal to"
 msgstr ""
 
@@ -932,10 +925,8 @@ msgstr ""
 msgid "File upload"
 msgstr ""
 
-#: development/detail.html:216
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:244
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1020,7 +1011,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:613
+#: services/products/main.js:610
 msgid "Greater than"
 msgstr ""
 
@@ -1060,8 +1051,8 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:649
-#: services/products/main.js:658
+#: services/products/main.js:646
+#: services/products/main.js:655
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
@@ -1103,7 +1094,7 @@ msgstr ""
 msgid "Input hint"
 msgstr ""
 
-#: services/products/main.js:667
+#: services/products/main.js:664
 msgid "Input the Url."
 msgstr ""
 
@@ -1111,7 +1102,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:642
+#: services/products/main.js:639
 msgid "Input the action title"
 msgstr ""
 
@@ -1123,28 +1114,28 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:657
+#: services/products/main.js:654
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:648
+#: services/products/main.js:645
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1440
+#: controllers/development/detail.js:1433
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1431
+#: controllers/development/detail.js:1424
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1422
+#: controllers/development/detail.js:1415
 #: development/dialogs/editComponent.html:21
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1452
+#: controllers/development/detail.js:1445
 msgid "Input the data type"
 msgstr ""
 
@@ -1342,7 +1333,7 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:617
+#: services/products/main.js:614
 msgid "Lower than"
 msgstr ""
 
@@ -1350,9 +1341,89 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1282
+#: controllers/development/detail.js:1275
 #: controllers/devices/detail.js:92
 msgid "MUST BE A VALID USER E-MAIL!"
+msgstr ""
+
+#: development/index.html:175
+msgid "MainPage', {category: 'Development', label: 'productDetail'});\">{{ 'Detail"
+msgstr ""
+
+#: development/detail.html:197
+msgid "MainPage', {category: 'Developmentdetail', label: 'datachannel'});\">{{ 'Data channel"
+msgstr ""
+
+#: development/detail.html:216
+msgid "MainPage', {category: 'Developmentdetail', label: 'firmware'});\">{{ 'Firmware"
+msgstr ""
+
+#: development/detail.html:221
+msgid "MainPage', {category: 'Developmentdetail', label: 'testdevicelist'});\">{{ 'Test device"
+msgstr ""
+
+#: development/detail.html:204
+msgid "MainPage', {category: 'Developmentdetail', label: 'trigger'});\">{{ 'Trigger & Action"
+msgstr ""
+
+#: development/detail.html:209
+msgid "MainPage', {category: 'Developmentdetail', label: 'user privileges'});\">{{ 'User privileges"
+msgstr ""
+
+#: mydevices/index.html:120
+msgid "MainPage', {category: 'Device', label: 'deleteDevice'});\">{{ 'Delete"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:90
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(angular,dialog)'});\">{{ 'Angular"
+msgstr ""
+
+#: mydevices/detail/apihint.html:102
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(angular,tab)'});\">{{ 'Angular"
+msgstr ""
+
+#: mydevices/detail/apihint.html:93
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(arduino,tab)'});\">{{ 'Arduino"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:83
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(jquery,dialog)'});\" >{{ 'jQuery"
+msgstr ""
+
+#: mydevices/detail/apihint.html:99
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(jquery,tab)'});\">{{ 'jQuery"
+msgstr ""
+
+#: mydevices/dialogs/showapihint.html:76
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(telnet,dialog)'});\" >{{ 'Telnet"
+msgstr ""
+
+#: mydevices/detail/apihint.html:96
+msgid "MainPage', {category: 'Devicedetail', label: 'apiHintLanguage(telnet,tab)'});\">{{ 'Telnet"
+msgstr ""
+
+#: mydevices/detail.html:223
+msgid "MainPage', {category: 'Devicedetail', label: 'data channel'});\">{{ 'Data channel"
+msgstr ""
+
+#: mydevices/detail.html:244
+msgid "MainPage', {category: 'Devicedetail', label: 'firmware'});\">{{ 'Firmware"
+msgstr ""
+
+#: mydevices/detail.html:230
+msgid "MainPage', {category: 'Devicedetail', label: 'trigger'});\">{{ 'Trigger & Action"
+msgstr ""
+
+#: mydevices/detail.html:237
+msgid "MainPage', {category: 'Devicedetail', label: 'user privileges'});\">{{ 'User privileges"
+msgstr ""
+
+#: profile/index.html:220
+msgid "MainPage', {category: 'Profiledetail', label: 'Mobile list'});\">{{ 'Mobile list"
+msgstr ""
+
+#: profile/index.html:228
+msgid "MainPage', {category: 'Profiledetail', label: 'Service Provider'});\">{{ 'Service Provider"
 msgstr ""
 
 #: mydevices/detail/trigger.html:69
@@ -1395,7 +1466,6 @@ msgstr ""
 
 #: mydevices/detail/trigger.html:78
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:220
 msgid "Mobile list"
 msgstr ""
 
@@ -1445,7 +1515,7 @@ msgid "Name cannot be null."
 msgstr ""
 
 #: controllers/development/detail.js:210
-#: controllers/development/detail.js:473
+#: controllers/development/detail.js:465
 msgid "Name cannot null"
 msgstr ""
 
@@ -1618,7 +1688,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1376
+#: controllers/development/detail.js:1369
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1626,11 +1696,11 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:795
+#: controllers/development/detail.js:783
 msgid "Please choose a file to upload"
 msgstr ""
 
-#: controllers/development/detail.js:1285
+#: controllers/development/detail.js:1278
 #: controllers/devices/detail.js:95
 msgid "Please choose a role for the user."
 msgstr ""
@@ -1646,7 +1716,7 @@ msgstr ""
 msgid "Please input {{key}}."
 msgstr ""
 
-#: services/products/main.js:358
+#: services/products/main.js:355
 msgid "Please select at least one test device"
 msgstr ""
 
@@ -1683,7 +1753,6 @@ msgstr ""
 msgid "Profile page"
 msgstr ""
 
-#: development/detail.html:29
 #: development/index.html:31
 msgid "Prototype"
 msgstr ""
@@ -1875,7 +1944,7 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:674
+#: services/products/main.js:671
 msgid "Send webhook"
 msgstr ""
 
@@ -1891,10 +1960,6 @@ msgstr ""
 
 #: development/dialogs/createDeviceFail.html:19
 msgid "Serial number format error."
-msgstr ""
-
-#: profile/index.html:228
-msgid "Service Provider"
 msgstr ""
 
 #: profile/detail/serviceprovider.html:2
@@ -1987,11 +2052,6 @@ msgstr ""
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
-#: mydevices/detail/apihint.html:96
-#: mydevices/dialogs/showapihint.html:76
-msgid "Telnet"
-msgstr ""
-
 #: development/dialogs/editComponent.html:47
 msgid "Template preview"
 msgstr ""
@@ -2016,7 +2076,6 @@ msgstr ""
 #: development/CreateDevicePopover.js:88
 #: development/detail.html:171
 #: development/detail.html:180
-#: development/detail.html:221
 #: development/dialogs/createDevice.html:31
 #: development/index.html:165
 #: limitation/index.html:148
@@ -2027,7 +2086,6 @@ msgstr ""
 msgid "Test device list"
 msgstr ""
 
-#: mydevices/detail.html:39
 #: mydevices/index.html:31
 msgid "Test devices"
 msgstr ""
@@ -2065,7 +2123,7 @@ msgstr ""
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
-#: services/products/main.js:668
+#: services/products/main.js:665
 msgid "The url has to start with http://"
 msgstr ""
 
@@ -2137,9 +2195,7 @@ msgstr ""
 msgid "Totals Prototype"
 msgstr ""
 
-#: development/detail.html:204
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:230
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2161,7 +2217,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1195
+#: controllers/development/detail.js:1188
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2246,11 +2302,6 @@ msgstr ""
 msgid "User Name"
 msgstr ""
 
-#: development/detail.html:209
-#: mydevices/detail.html:237
-msgid "User privileges"
-msgstr ""
-
 #: development/detail/userprivileges.html:3
 msgid "Users"
 msgstr ""
@@ -2326,8 +2377,8 @@ msgstr ""
 msgid "You can see its detail in \"My devices\"."
 msgstr ""
 
-#: services/products/main.js:650
-#: services/products/main.js:659
+#: services/products/main.js:647
+#: services/products/main.js:656
 msgid "You can use ${} to reference the pre-defined variables you would like to included in your notification. The variables include ${deviceId}, ${deviceName}, ${deviceKey} and ${value}."
 msgstr ""
 
@@ -2361,7 +2412,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:956
+#: controllers/development/detail.js:944
 #: controllers/development/index.js:96
 msgid "You have cloned the"
 msgstr ""
@@ -2382,7 +2433,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:482
+#: controllers/development/detail.js:474
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -2491,8 +2542,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:647
-#: services/products/main.js:656
+#: services/products/main.js:644
+#: services/products/main.js:653
 msgid "content"
 msgstr ""
 
@@ -2508,10 +2559,6 @@ msgstr ""
 #: limitation/index.html:187
 #: limitation/index.html:195
 msgid "data points have been used and still have"
-msgstr ""
-
-#: dashboard/numberofused.html:41
-msgid "data points have been used."
 msgstr ""
 
 #: controllers/dashboard/index.js:66
@@ -2538,11 +2585,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:857
+#: controllers/development/detail.js:845
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:956
+#: controllers/development/detail.js:944
 #: controllers/development/index.js:96
 msgid "from"
 msgstr ""
@@ -2565,11 +2612,6 @@ msgstr ""
 
 #: development/CreateDevicePopover.js:91
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
-msgstr ""
-
-#: mydevices/detail/apihint.html:99
-#: mydevices/dialogs/showapihint.html:83
-msgid "jQuery"
 msgstr ""
 
 #: controllers/dashboard/index.js:75
@@ -2699,7 +2741,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:849
+#: controllers/development/detail.js:837
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2727,6 +2769,18 @@ msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
 
+#: limitation/index.html:33
+msgid "openloading')\">{{ 'Dashboard"
+msgstr ""
+
+#: development/detail.html:29
+msgid "openloading')\">{{ 'Prototype"
+msgstr ""
+
+#: mydevices/detail.html:39
+msgid "openloading')\">{{ 'Test devices"
+msgstr ""
+
 #: filters/userPrivType.js:5
 msgid "owner"
 msgstr ""
@@ -2750,12 +2804,12 @@ msgstr ""
 msgid "select role"
 msgstr ""
 
-#: controllers/development/detail.js:1175
-#: controllers/development/detail.js:1183
+#: controllers/development/detail.js:1168
+#: controllers/development/detail.js:1176
 #: controllers/development/detail.js:223
 #: controllers/development/detail.js:243
 #: controllers/development/detail.js:321
-#: controllers/development/detail.js:368
+#: controllers/development/detail.js:364
 #: controllers/development/index.js:176
 #: controllers/development/index.js:209
 #: controllers/devices/detail.js:149
@@ -2764,12 +2818,12 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:956
+#: controllers/development/detail.js:944
 #: controllers/development/index.js:96
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:641
+#: services/products/main.js:638
 msgid "title"
 msgstr ""
 
@@ -2802,7 +2856,7 @@ msgstr ""
 msgid "upperbound"
 msgstr ""
 
-#: services/products/main.js:666
+#: services/products/main.js:663
 msgid "url"
 msgstr ""
 
@@ -2814,7 +2868,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:853
+#: controllers/development/detail.js:841
 msgid "version cannot be null!"
 msgstr ""
 
