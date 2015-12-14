@@ -55,7 +55,7 @@ msgstr ""
 msgid "1. {{count}} test devices"
 msgstr ""
 
-#: main.js:376
+#: main.js:382
 msgid "1010"
 msgstr ""
 
@@ -360,7 +360,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:435
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:380
+#: main.js:386
 #: management/DeviceListManagement/index.js:179
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:82
@@ -470,7 +470,7 @@ msgstr ""
 msgid "Clone from existing prototype"
 msgstr ""
 
-#: main.js:347
+#: main.js:353
 msgid "Close"
 msgstr ""
 
@@ -650,7 +650,7 @@ msgstr ""
 #: controllers/development/detail.js:112
 #: development/detail/components.html:136
 #: development/index.html:139
-#: main.js:379
+#: main.js:385
 #: management/DeviceListManagement/index.js:187
 #: mydevices/detail.html:88
 #: mydevices/index.html:120
@@ -668,7 +668,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:377
+#: main.js:383
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -732,7 +732,7 @@ msgstr ""
 msgid "Device"
 msgstr ""
 
-#: main.js:378
+#: main.js:384
 msgid "Device Title"
 msgstr ""
 
@@ -1237,6 +1237,19 @@ msgstr ""
 msgid "Input the user name or email"
 msgstr ""
 
+#: factories/components.js:799
+#: factories/components.js:805
+#: factories/components.js:811
+#: factories/components.js:817
+#: factories/components.js:823
+#: factories/components.js:828
+#: factories/components.js:870
+#: factories/components.js:876
+#: factories/components.js:882
+#: factories/components.js:888
+msgid "Input value"
+msgstr ""
+
 #: profile/dialogs/applyApp.html:17
 #: profile/dialogs/editApp.html:19
 msgid "Input your App name."
@@ -1655,8 +1668,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:346
-#: main.js:356
+#: main.js:352
+#: main.js:362
 msgid "Please try again!"
 msgstr ""
 
@@ -1966,8 +1979,8 @@ msgstr ""
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
-#: main.js:344
-#: main.js:361
+#: main.js:350
+#: main.js:367
 msgid "Success!"
 msgstr ""
 
@@ -2529,6 +2542,8 @@ msgstr ""
 msgid "devices before reaching your quota limitation. Over provision will lead to device creation failure."
 msgstr ""
 
+#: directives/components/control/gamepad.js:118
+#: directives/components/control/gamepad.js:25
 #: factories/components.js:803
 #: factories/components.js:842
 #: factories/components.js:874
@@ -2679,6 +2694,8 @@ msgstr ""
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr ""
 
+#: directives/components/control/gamepad.js:119
+#: directives/components/control/gamepad.js:26
 #: factories/components.js:809
 #: factories/components.js:843
 #: factories/components.js:880
@@ -2713,8 +2730,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:354
-#: main.js:368
+#: main.js:360
+#: main.js:374
 msgid "notice"
 msgstr ""
 
@@ -2737,6 +2754,8 @@ msgstr ""
 msgid "page"
 msgstr ""
 
+#: directives/components/control/gamepad.js:120
+#: directives/components/control/gamepad.js:27
 #: factories/components.js:815
 #: factories/components.js:844
 #: factories/components.js:886
@@ -2786,6 +2805,8 @@ msgstr ""
 msgid "unitTypes"
 msgstr ""
 
+#: directives/components/control/gamepad.js:117
+#: directives/components/control/gamepad.js:24
 #: factories/components.js:797
 #: factories/components.js:841
 #: factories/components.js:868
