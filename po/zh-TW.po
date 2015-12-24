@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.7.5\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
 
 #: mydevices/dialogs/trigger.html:54 mydevices/dialogs/trigger.html:67
 msgid "( default )"
@@ -2653,6 +2653,7 @@ msgstr "個測試裝置"
 msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] "個裝置"
+msgstr[1] "個裝置"
 
 #: filters/userPrivType.js:5
 msgid "owner"
@@ -2748,6 +2749,7 @@ msgstr "您需要建立一個產品原型"
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] "{{deviceNumber}} 個裝置"
+msgstr[1] "{{deviceNumber}} 個裝置"
 
 #: services/validator.js:41
 msgid "{{key1}} and {{key2}} cannot be the same."
@@ -2757,6 +2759,7 @@ msgstr "{{key1}} 和 {{key2}} 不能相同。"
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] "{{testDeviceNumber}} 個測試裝置"
+msgstr[1] "{{testDeviceNumber}} 個測試裝置"
 
 #~ msgid ""
 #~ "You can use ${} to mention the variables you would like to include in "
