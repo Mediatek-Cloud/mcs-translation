@@ -2240,12 +2240,9 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
+#: factories/components.js:775
 #: factories/components.js:831
 #: factories/components.js:892
-msgid "Show current"
-msgstr ""
-
-#: factories/components.js:775
 msgid "Show current value"
 msgstr ""
 
