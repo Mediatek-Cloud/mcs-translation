@@ -108,7 +108,7 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:128
+#: mydevices/detail/components.html:119
 msgid "API Hint"
 msgstr ""
 
@@ -1033,8 +1033,7 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:112
-#: mydevices/detail/components.html:120
+#: mydevices/detail/components.html:111
 msgid "Hide History"
 msgstr ""
 
@@ -1874,8 +1873,7 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:111
-#: mydevices/detail/components.html:119
+#: mydevices/detail/components.html:110
 msgid "Show History"
 msgstr ""
 
