@@ -108,7 +108,7 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:119
+#: mydevices/detail/components.html:120
 msgid "API Hint"
 msgstr ""
 
@@ -606,7 +606,7 @@ msgstr ""
 #: development/detail/components.html:93
 #: development/dialogs/addComponentContent.html:28
 #: mydevices/detail/apihint.html:48
-#: mydevices/detail/components.html:61
+#: mydevices/detail/components.html:62
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
@@ -1033,7 +1033,7 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:111
+#: mydevices/detail/components.html:112
 msgid "Hide History"
 msgstr ""
 
@@ -1278,7 +1278,7 @@ msgstr ""
 #: components/GoogleMap/MarkerPopover.js:172
 #: dashboard/overview.html:46
 #: management/DeviceListManagement/index.js:256
-#: mydevices/detail/components.html:57
+#: mydevices/detail/components.html:58
 msgid "Last data point time"
 msgstr ""
 
@@ -1881,7 +1881,7 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:110
+#: mydevices/detail/components.html:111
 msgid "Show History"
 msgstr ""
 
