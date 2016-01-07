@@ -1130,7 +1130,7 @@ msgstr ""
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1488
+#: controllers/development/detail.js:1493
 msgid "Input the data type"
 msgstr ""
 
