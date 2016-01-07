@@ -59,6 +59,14 @@ msgstr ""
 msgid "1010"
 msgstr ""
 
+#: factories/components.js:986
+msgid "1280x960 - 1 Megapixel"
+msgstr ""
+
+#: factories/components.js:989
+msgid "1MB"
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:17
 msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
 msgstr ""
@@ -73,6 +81,18 @@ msgstr ""
 
 #: controllers/limitation/index.js:27
 msgid "3. {{count}} email notification device/day"
+msgstr ""
+
+#: factories/components.js:947
+msgid "30fps"
+msgstr ""
+
+#: factories/components.js:944
+msgid "320x240"
+msgstr ""
+
+#: factories/components.js:950
+msgid "3600 sec / per device / month"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:19
@@ -327,6 +347,14 @@ msgstr ""
 
 #: services/products/main.js:622
 msgid "Between"
+msgstr ""
+
+#: factories/components.js:821
+msgid "Button A"
+msgstr ""
+
+#: factories/components.js:826
+msgid "Button B"
 msgstr ""
 
 #: development/dialogs/addComponent.html:82
@@ -812,6 +840,13 @@ msgstr ""
 msgid "Done"
 msgstr ""
 
+#: factories/components.js:803
+#: factories/components.js:842
+#: factories/components.js:874
+#: factories/components.js:903
+msgid "Down"
+msgstr ""
+
 #: development/dialogs/createProducts.html:204
 #: development/dialogs/editProducts.html:195
 msgid "Drop an image here to upload!"
@@ -912,6 +947,10 @@ msgstr ""
 
 #: controllers/development/detail.js:45
 msgid "Failure!"
+msgstr ""
+
+#: factories/components.js:982
+msgid "File type supported"
 msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:48
@@ -1057,6 +1096,10 @@ msgstr ""
 
 #: factories/dataChnTypeId.js:104
 msgid "Image"
+msgstr ""
+
+#: factories/components.js:988
+msgid "Image size limits"
 msgstr ""
 
 #: development/dialogs/createProducts.html:186
@@ -1271,6 +1314,95 @@ msgstr ""
 msgid "Integer only"
 msgstr ""
 
+#: factories/components.js:983
+msgid "JPG, JPEG, PNG"
+msgstr ""
+
+#: factories/components.js:115
+#: factories/components.js:163
+#: factories/components.js:222
+#: factories/components.js:448
+#: factories/components.js:486
+#: factories/components.js:535
+#: factories/components.js:595
+#: factories/components.js:78
+msgid "Key1 name"
+msgstr ""
+
+#: factories/components.js:120
+#: factories/components.js:168
+#: factories/components.js:227
+#: factories/components.js:453
+#: factories/components.js:491
+#: factories/components.js:540
+#: factories/components.js:83
+msgid "Key1 value"
+msgstr ""
+
+#: factories/components.js:125
+#: factories/components.js:173
+#: factories/components.js:232
+#: factories/components.js:458
+#: factories/components.js:496
+#: factories/components.js:545
+#: factories/components.js:605
+#: factories/components.js:88
+msgid "Key2 name"
+msgstr ""
+
+#: factories/components.js:130
+#: factories/components.js:178
+#: factories/components.js:237
+#: factories/components.js:463
+#: factories/components.js:501
+#: factories/components.js:550
+#: factories/components.js:610
+#: factories/components.js:93
+msgid "Key2 value"
+msgstr ""
+
+#: factories/components.js:135
+#: factories/components.js:183
+#: factories/components.js:242
+#: factories/components.js:506
+#: factories/components.js:555
+#: factories/components.js:615
+msgid "Key3 name"
+msgstr ""
+
+#: factories/components.js:140
+#: factories/components.js:188
+#: factories/components.js:247
+#: factories/components.js:511
+#: factories/components.js:560
+#: factories/components.js:620
+msgid "Key3 value"
+msgstr ""
+
+#: factories/components.js:193
+#: factories/components.js:252
+#: factories/components.js:565
+#: factories/components.js:625
+msgid "Key4 name"
+msgstr ""
+
+#: factories/components.js:198
+#: factories/components.js:257
+#: factories/components.js:570
+#: factories/components.js:630
+msgid "Key4 value"
+msgstr ""
+
+#: factories/components.js:262
+#: factories/components.js:635
+msgid "Key5 name"
+msgstr ""
+
+#: factories/components.js:267
+#: factories/components.js:640
+msgid "Key5 value"
+msgstr ""
+
 #: profile/index.html:89
 msgid "Language"
 msgstr ""
@@ -1297,6 +1429,13 @@ msgstr ""
 
 #: components/control/gps.html:55
 msgid "Latitude:"
+msgstr ""
+
+#: factories/components.js:809
+#: factories/components.js:843
+#: factories/components.js:880
+#: factories/components.js:904
+msgid "Left"
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:29
@@ -1327,6 +1466,13 @@ msgstr ""
 
 #: services/products/main.js:614
 msgid "Lower than"
+msgstr ""
+
+#: factories/components.js:291
+#: factories/components.js:318
+#: factories/components.js:403
+#: factories/components.js:763
+msgid "Lowerbound"
 msgstr ""
 
 #: mydevices/dialogs/editDevices.html:52
@@ -1362,6 +1508,15 @@ msgstr ""
 
 #: management/dialogs/createSerialNumber.html:65
 msgid "Manually enter serial numbers"
+msgstr ""
+
+#: factories/components.js:946
+msgid "Maximum fps supported"
+msgstr ""
+
+#: factories/components.js:943
+#: factories/components.js:985
+msgid "Maximum resolution supported"
 msgstr ""
 
 #: profile/detail/mobilelist.html:2
@@ -1766,6 +1921,13 @@ msgstr ""
 msgid "Retrieve data points"
 msgstr ""
 
+#: factories/components.js:815
+#: factories/components.js:844
+#: factories/components.js:886
+#: factories/components.js:905
+msgid "Right"
+msgstr ""
+
 #: development/detail/userprivileges.html:10
 #: development/dialogs/userPrivilege.html:41
 #: mydevices/detail/userprivileges.html:10
@@ -2162,6 +2324,20 @@ msgstr ""
 msgid "Unit symbol"
 msgstr ""
 
+#: factories/components.js:301
+#: factories/components.js:328
+#: factories/components.js:666
+#: factories/components.js:685
+msgid "UnitTypes"
+msgstr ""
+
+#: factories/components.js:797
+#: factories/components.js:841
+#: factories/components.js:868
+#: factories/components.js:902
+msgid "Up"
+msgstr ""
+
 #: limitation/index.html:46
 #: limitation/index.html:70
 msgid "Upgrade now"
@@ -2201,8 +2377,19 @@ msgstr ""
 msgid "Uploading..."
 msgstr ""
 
+#: factories/components.js:296
+#: factories/components.js:323
+#: factories/components.js:408
+#: factories/components.js:769
+msgid "Upperbound"
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:3
 msgid "Usage limitation detail"
+msgstr ""
+
+#: factories/components.js:949
+msgid "Usage limitation per device"
 msgstr ""
 
 #: limitation/index.html:104
@@ -2256,6 +2443,10 @@ msgstr ""
 
 #: factories/dataChnTypeId.js:108
 msgid "Video Stream"
+msgstr ""
+
+#: factories/components.js:930
+msgid "Video type supported"
 msgstr ""
 
 #: profile/detail/serviceprovider.html:43
@@ -2440,14 +2631,6 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: factories/components.js:821
-msgid "button A"
-msgstr ""
-
-#: factories/components.js:826
-msgid "button B"
-msgstr ""
-
 #: mydevices/dialogs/editDevices.html:149
 msgid "cancel"
 msgstr ""
@@ -2504,12 +2687,8 @@ msgstr ""
 msgid "devices before reaching your quota limitation. Over provision will lead to device creation failure."
 msgstr ""
 
-#: directives/components/control/gamepad.js:118
+#: directives/components/control/gamepad.js:126
 #: directives/components/control/gamepad.js:25
-#: factories/components.js:803
-#: factories/components.js:842
-#: factories/components.js:874
-#: factories/components.js:903
 msgid "down"
 msgstr ""
 
@@ -2519,10 +2698,6 @@ msgstr ""
 
 #: controllers/development/detail.js:874
 msgid "file cannot be null!"
-msgstr ""
-
-#: factories/components.js:982
-msgid "file type supported"
 msgstr ""
 
 #: controllers/development/detail.js:973
@@ -2536,10 +2711,6 @@ msgstr ""
 
 #: controllers/dashboard/index.js:69
 msgid "hours ago"
-msgstr ""
-
-#: factories/components.js:988
-msgid "image size limits"
 msgstr ""
 
 #: dashboard/tutorial.html:4
@@ -2567,91 +2738,6 @@ msgstr ""
 msgid "ke1 value"
 msgstr ""
 
-#: factories/components.js:115
-#: factories/components.js:163
-#: factories/components.js:222
-#: factories/components.js:448
-#: factories/components.js:486
-#: factories/components.js:535
-#: factories/components.js:595
-#: factories/components.js:78
-msgid "key1 name"
-msgstr ""
-
-#: factories/components.js:120
-#: factories/components.js:168
-#: factories/components.js:227
-#: factories/components.js:453
-#: factories/components.js:491
-#: factories/components.js:540
-#: factories/components.js:83
-msgid "key1 value"
-msgstr ""
-
-#: factories/components.js:125
-#: factories/components.js:173
-#: factories/components.js:232
-#: factories/components.js:458
-#: factories/components.js:496
-#: factories/components.js:545
-#: factories/components.js:605
-#: factories/components.js:88
-msgid "key2 name"
-msgstr ""
-
-#: factories/components.js:130
-#: factories/components.js:178
-#: factories/components.js:237
-#: factories/components.js:463
-#: factories/components.js:501
-#: factories/components.js:550
-#: factories/components.js:610
-#: factories/components.js:93
-msgid "key2 value"
-msgstr ""
-
-#: factories/components.js:135
-#: factories/components.js:183
-#: factories/components.js:242
-#: factories/components.js:506
-#: factories/components.js:555
-#: factories/components.js:615
-msgid "key3 name"
-msgstr ""
-
-#: factories/components.js:140
-#: factories/components.js:188
-#: factories/components.js:247
-#: factories/components.js:511
-#: factories/components.js:560
-#: factories/components.js:620
-msgid "key3 value"
-msgstr ""
-
-#: factories/components.js:193
-#: factories/components.js:252
-#: factories/components.js:565
-#: factories/components.js:625
-msgid "key4 name"
-msgstr ""
-
-#: factories/components.js:198
-#: factories/components.js:257
-#: factories/components.js:570
-#: factories/components.js:630
-msgid "key4 value"
-msgstr ""
-
-#: factories/components.js:262
-#: factories/components.js:635
-msgid "key5 name"
-msgstr ""
-
-#: factories/components.js:267
-#: factories/components.js:640
-msgid "key5 value"
-msgstr ""
-
 #: directives/components/control/gps.js:155
 msgid "latitude must be between -90 and 90 meters!"
 msgstr ""
@@ -2664,28 +2750,13 @@ msgstr ""
 msgid "latitude or longitude or altitude should be float/integer!"
 msgstr ""
 
-#: directives/components/control/gamepad.js:119
+#: directives/components/control/gamepad.js:127
 #: directives/components/control/gamepad.js:26
-#: factories/components.js:809
-#: factories/components.js:843
-#: factories/components.js:880
-#: factories/components.js:904
 msgid "left"
 msgstr ""
 
 #: directives/components/control/gps.js:158
 msgid "longitude must be between -180 and 180 meters!"
-msgstr ""
-
-#: factories/components.js:291
-#: factories/components.js:318
-#: factories/components.js:403
-#: factories/components.js:763
-msgid "lowerbound"
-msgstr ""
-
-#: factories/components.js:985
-msgid "maximum resolution supported"
 msgstr ""
 
 #: controllers/dashboard/index.js:72
@@ -2728,12 +2799,8 @@ msgstr ""
 msgid "page"
 msgstr ""
 
-#: directives/components/control/gamepad.js:120
+#: directives/components/control/gamepad.js:128
 #: directives/components/control/gamepad.js:27
-#: factories/components.js:815
-#: factories/components.js:844
-#: factories/components.js:886
-#: factories/components.js:905
 msgid "right"
 msgstr ""
 
@@ -2772,31 +2839,13 @@ msgstr ""
 msgid "tutorials"
 msgstr ""
 
-#: factories/components.js:301
-#: factories/components.js:328
-#: factories/components.js:666
-#: factories/components.js:685
-msgid "unitTypes"
-msgstr ""
-
-#: directives/components/control/gamepad.js:117
+#: directives/components/control/gamepad.js:125
 #: directives/components/control/gamepad.js:24
-#: factories/components.js:797
-#: factories/components.js:841
-#: factories/components.js:868
-#: factories/components.js:902
 msgid "up"
 msgstr ""
 
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:1
 msgid "upgrade you've uploaded."
-msgstr ""
-
-#: factories/components.js:296
-#: factories/components.js:323
-#: factories/components.js:408
-#: factories/components.js:769
-msgid "upperbound"
 msgstr ""
 
 #: services/products/main.js:663
@@ -2817,10 +2866,6 @@ msgstr ""
 
 #: factories/components.js:958
 msgid "video type"
-msgstr ""
-
-#: factories/components.js:930
-msgid "video type supported"
 msgstr ""
 
 #: filters/userPrivType.js:7
