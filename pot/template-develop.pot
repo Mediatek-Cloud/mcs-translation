@@ -674,6 +674,14 @@ msgstr ""
 msgid "Data type"
 msgstr ""
 
+#: factories/components.js:958
+msgid "Decode type"
+msgstr ""
+
+#: factories/components.js:930
+msgid "Decode type supported"
+msgstr ""
+
 #: development/dialogs/trigger/add.html:212
 #: development/dialogs/trigger/add.html:224
 #: development/dialogs/trigger/edit.html:202
@@ -2464,10 +2472,6 @@ msgstr ""
 msgid "Video Stream"
 msgstr ""
 
-#: factories/components.js:930
-msgid "Video type supported"
-msgstr ""
-
 #: profile/detail/serviceprovider.html:43
 msgid "Website"
 msgstr ""
@@ -2881,10 +2885,6 @@ msgstr ""
 
 #: controllers/development/detail.js:870
 msgid "version cannot be null!"
-msgstr ""
-
-#: factories/components.js:958
-msgid "video type"
 msgstr ""
 
 #: filters/userPrivType.js:7
