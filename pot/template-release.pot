@@ -2515,7 +2515,7 @@ msgstr ""
 
 #: services/products/main.js:647
 #: services/products/main.js:656
-msgid "You can use ${} to reference the pre-defined variables you would like to included in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
+msgid "You can use ${} to reference the pre-defined variables you would like to include in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
 #: mydevices/detail/apihint.html:35
