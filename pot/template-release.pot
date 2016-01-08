@@ -384,7 +384,7 @@ msgstr ""
 #: development/dialogs/createProducts.html:246
 #: development/dialogs/createTestDevice.html:49
 #: development/dialogs/deleteConfirm.html:28
-#: development/dialogs/editComponent.html:174
+#: development/dialogs/editComponent.html:173
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
@@ -1954,7 +1954,7 @@ msgstr ""
 #: components/UnitSelect/UnitSelect.js:256
 #: development/dialogs/addComponentContent.html:277
 #: development/dialogs/createProducts.html:251
-#: development/dialogs/editComponent.html:181
+#: development/dialogs/editComponent.html:180
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
@@ -2331,7 +2331,7 @@ msgid "Try to create it now."
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:182
-#: development/dialogs/editComponent.html:79
+#: development/dialogs/editComponent.html:78
 msgid "Unit"
 msgstr ""
 
