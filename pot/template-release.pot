@@ -184,8 +184,8 @@ msgstr ""
 msgid "Action {{field}} is required!"
 msgstr ""
 
-#: management/DeviceListManagement/index.js:251
-#: management/PrototypeListManagement/index.js:172
+#: management/DeviceListManagement/index.js:215
+#: management/PrototypeListManagement/index.js:136
 msgid "Activated"
 msgstr ""
 
@@ -193,7 +193,7 @@ msgstr ""
 msgid "Activated device"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:186
+#: management/PrototypeListManagement/index.js:150
 msgid "Activated rate"
 msgstr ""
 
@@ -264,7 +264,7 @@ msgstr ""
 msgid "Allows you define Firmware(s) for this prototype for created test devices Over-the-Air(OTA) Firmware updates."
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:165
+#: components/GoogleMap/MarkerPopover.js:129
 msgid "Altitude"
 msgstr ""
 
@@ -315,7 +315,7 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
-#: components/TermsOfUse.js:410
+#: components/TermsOfUse.js:374
 msgid "Approve"
 msgstr ""
 
@@ -328,7 +328,7 @@ msgstr ""
 msgid "Are you sure you want to beta-release your prototype now?"
 msgstr ""
 
-#: management/DeviceListManagement/index.js:107
+#: management/DeviceListManagement/index.js:71
 msgid "Are you sure you want to delete?"
 msgstr ""
 
@@ -372,10 +372,10 @@ msgstr ""
 msgid "Can't find your template?"
 msgstr ""
 
-#: components/Dialogs/CommonDialog.js:140
-#: components/UnitSelect/UnitSelect.js:251
+#: components/Dialogs/CommonDialog.js:104
+#: components/UnitSelect/UnitSelect.js:215
 #: date.html:6
-#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:94
 #: development/dialogs/addComponentContent.html:273
 #: development/dialogs/cloneProduct.html:54
 #: development/dialogs/createDevice.html:158
@@ -396,7 +396,7 @@ msgstr ""
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:379
-#: management/DeviceListManagement/index.js:179
+#: management/DeviceListManagement/index.js:143
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:82
 #: mydevices/dialogs/showapihint.html:106
@@ -491,7 +491,7 @@ msgstr ""
 msgid "Click the edit button. Let's start editing !"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:299
+#: management/DeviceListManagement/DeviceRow.js:263
 msgid "Click to copy the activation code"
 msgstr ""
 
@@ -539,7 +539,7 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:256
+#: management/DeviceListManagement/DeviceRow.js:220
 #: mydevices/detail.html:167
 #: mydevices/detail.html:184
 #: mydevices/detail.html:213
@@ -693,7 +693,7 @@ msgstr ""
 #: development/detail/components.html:136
 #: development/index.html:138
 #: main.js:378
-#: management/DeviceListManagement/index.js:187
+#: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:105
 #: mydevices/index.html:120
 #: profile/detail/serviceprovider.html:22
@@ -769,7 +769,7 @@ msgstr ""
 #: development/dialogs/createDevice.html:42
 #: development/index.html:165
 #: limitation/index.html:88
-#: management/DeviceListManagement/index.js:226
+#: management/DeviceListManagement/index.js:190
 msgid "Device"
 msgstr ""
 
@@ -786,7 +786,7 @@ msgstr ""
 msgid "Device description ( default )"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:117
+#: management/PrototypeListManagement/index.js:81
 msgid "Device list filtered by prototype"
 msgstr ""
 
@@ -823,7 +823,7 @@ msgstr ""
 msgid "DeviceKey"
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:158
+#: management/PrototypeListManagement/index.js:122
 msgid "Devices"
 msgstr ""
 
@@ -848,7 +848,7 @@ msgstr ""
 msgid "Display"
 msgstr ""
 
-#: development/ImageHistory/Header.js:98
+#: development/ImageHistory/Header.js:62
 msgid "Display {{name}} history"
 msgstr ""
 
@@ -1004,7 +1004,7 @@ msgstr ""
 msgid "Float"
 msgstr ""
 
-#: development/CloneDevicePopover.js:82
+#: development/CloneDevicePopover.js:46
 msgid "For beta-release prototype, you can use the clone function to make modification for the frozen prototype and continue your development. The Clone function will only copy the data channels and trigger & action rules."
 msgstr ""
 
@@ -1058,7 +1058,7 @@ msgstr ""
 msgid "Go to limitation"
 msgstr ""
 
-#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:139
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:103
 #: development/dialogs/createDeviceSuccess.html:34
 #: development/dialogs/finishCreateDevice.html:30
 msgid "Go to management"
@@ -1108,7 +1108,7 @@ msgstr ""
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
-#: development/GPSHistory/Header.js:97
+#: development/GPSHistory/Header.js:61
 msgid "Historical GPS location"
 msgstr ""
 
@@ -1149,8 +1149,8 @@ msgstr ""
 msgid "Input device serial numbers. One serial number per line. Please make sure the serial number must be less than 50 characters."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:218
-#: components/UnitSelect/UnitSelect.js:236
+#: components/UnitSelect/UnitSelect.js:182
+#: components/UnitSelect/UnitSelect.js:200
 msgid "Input hint"
 msgstr ""
 
@@ -1158,7 +1158,7 @@ msgstr ""
 msgid "Input the Url."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:242
+#: components/UnitSelect/UnitSelect.js:206
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
@@ -1283,7 +1283,7 @@ msgstr ""
 msgid "Input the trigger name"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:225
+#: components/UnitSelect/UnitSelect.js:189
 msgid "Input the unit name"
 msgstr ""
 
@@ -1429,9 +1429,9 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:172
+#: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
-#: management/DeviceListManagement/index.js:256
+#: management/DeviceListManagement/index.js:220
 #: mydevices/detail/components.html:58
 msgid "Last data point time"
 msgstr ""
@@ -1445,7 +1445,7 @@ msgstr ""
 msgid "Last updated time"
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:151
+#: components/GoogleMap/MarkerPopover.js:115
 msgid "Latitude"
 msgstr ""
 
@@ -1469,7 +1469,7 @@ msgstr ""
 msgid "Limitation"
 msgstr ""
 
-#: components/GoogleMap/MarkerPopover.js:158
+#: components/GoogleMap/MarkerPopover.js:122
 msgid "Longitude"
 msgstr ""
 
@@ -1512,10 +1512,10 @@ msgstr ""
 
 #: development/detail.html:185
 #: development/dialogs/finishRelease.html:10
-#: management/DeviceListManagement/index.js:128
-#: management/DeviceListManagement/index.js:201
-#: management/PrototypeListManagement/index.js:236
-#: management/PrototypeListManagement/index.js:250
+#: management/DeviceListManagement/index.js:165
+#: management/DeviceListManagement/index.js:92
+#: management/PrototypeListManagement/index.js:200
+#: management/PrototypeListManagement/index.js:214
 #: mydevices/detail.html:60
 msgid "Management"
 msgstr ""
@@ -1559,7 +1559,7 @@ msgstr ""
 msgid "Monthly accumulation"
 msgstr ""
 
-#: development/MoreDropdownButton.js:91
+#: development/MoreDropdownButton.js:55
 msgid "More"
 msgstr ""
 
@@ -1584,7 +1584,7 @@ msgstr ""
 #: development/detail/testdevicelist.html:8
 #: development/detail/trigger.html:8
 #: limitation/index.html:122
-#: management/DeviceListManagement/index.js:241
+#: management/DeviceListManagement/index.js:205
 #: mydevices/detail/firmware.html:15
 #: mydevices/detail/trigger.html:8
 #: mydevices/detail/trigger.html:83
@@ -1627,7 +1627,7 @@ msgstr ""
 msgid "No results found"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:198
+#: components/UnitSelect/UnitSelect.js:162
 msgid "No results found. Create your custom unit!"
 msgstr ""
 
@@ -1646,13 +1646,13 @@ msgstr ""
 msgid "Not now"
 msgstr ""
 
-#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:99
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:63
 #: development/dialogs/createDeviceFail.html:5
 #: development/dialogs/createDeviceNotice.html:5
 #: development/dialogs/deleteConfirm.html:5
 #: development/dialogs/ranOutOfLimitation.html:5
 #: dialogs/tutorialCloseConfirm.html:5
-#: management/DeviceListManagement/index.js:152
+#: management/DeviceListManagement/index.js:116
 msgid "Notice!"
 msgstr ""
 
@@ -1679,7 +1679,7 @@ msgid "OFF"
 msgstr ""
 
 #: alert.html:24
-#: components/Dialogs/CommonDialog.js:148
+#: components/Dialogs/CommonDialog.js:112
 #: components/control/float.html:13
 #: components/control/gps.html:92
 #: components/control/hexstring.html:13
@@ -1722,7 +1722,7 @@ msgstr ""
 msgid "Only prototype owner can beta-release the prototype, please contact your prototype owner."
 msgstr ""
 
-#: management/DeviceListManagement/index.js:115
+#: management/DeviceListManagement/index.js:79
 msgid "Only prototype owner can delete device, please contact your prototype owner."
 msgstr ""
 
@@ -1752,8 +1752,8 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: development/GPSHistory/index.js:527
-#: development/ImageHistory/ImageHistory.js:314
+#: development/GPSHistory/index.js:490
+#: development/ImageHistory/ImageHistory.js:278
 msgid "Pause"
 msgstr ""
 
@@ -1767,8 +1767,8 @@ msgstr ""
 msgid "Platform"
 msgstr ""
 
-#: development/GPSHistory/index.js:536
-#: development/ImageHistory/ImageHistory.js:324
+#: development/GPSHistory/index.js:499
+#: development/ImageHistory/ImageHistory.js:288
 msgid "Play"
 msgstr ""
 
@@ -1959,7 +1959,7 @@ msgstr ""
 msgid "Role"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:256
+#: components/UnitSelect/UnitSelect.js:220
 #: development/dialogs/addComponentContent.html:277
 #: development/dialogs/createProducts.html:251
 #: development/dialogs/editComponent.html:180
@@ -2024,7 +2024,7 @@ msgstr ""
 msgid "Select the prerequisite firmware that are compatible for this firmware (<b class=\"firmwareDialog__name\">{{ firmwareData.name }}</b>, <b class=\"firmwareDialog__name\">{{ firmwareData.version }}</b>) upgrade you've uploaded."
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:275
+#: components/UnitSelect/UnitSelect.js:239
 msgid "Select the unit"
 msgstr ""
 
@@ -2046,12 +2046,12 @@ msgid "Send webhook"
 msgstr ""
 
 #: development/dialogs/createDevice.html:90
-#: management/DeviceListManagement/index.js:246
+#: management/DeviceListManagement/index.js:210
 #: mydevices/dialogs/createDevices.html:22
 msgid "Serial number"
 msgstr ""
 
-#: management/DeviceListManagement/DeviceRow.js:228
+#: management/DeviceListManagement/DeviceRow.js:192
 msgid "Serial number :"
 msgstr ""
 
@@ -2077,7 +2077,7 @@ msgstr ""
 msgid "Show current value"
 msgstr ""
 
-#: components/TermsOfUse.js:405
+#: components/TermsOfUse.js:369
 msgid "Sign out"
 msgstr ""
 
@@ -2162,7 +2162,7 @@ msgstr ""
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
-#: components/TermsOfUse.js:388
+#: components/TermsOfUse.js:352
 msgid "Terms Of Use"
 msgstr ""
 
@@ -2175,7 +2175,7 @@ msgstr ""
 msgid "Test Device"
 msgstr ""
 
-#: development/CreateDevicePopover.js:88
+#: development/CreateDevicePopover.js:52
 #: development/detail.html:171
 #: development/detail.html:180
 #: development/detail.html:221
@@ -2222,7 +2222,7 @@ msgstr ""
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
-#: development/GPSHistory/index.js:542
+#: development/GPSHistory/index.js:505
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
@@ -2294,7 +2294,7 @@ msgstr ""
 msgid "Totals"
 msgstr ""
 
-#: components/ProgressCircles/TotalsPrototype.js:108
+#: components/ProgressCircles/TotalsPrototype.js:72
 msgid "Totals Prototype"
 msgstr ""
 
@@ -2343,11 +2343,11 @@ msgstr ""
 msgid "Unit"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:209
+#: components/UnitSelect/UnitSelect.js:173
 msgid "Unit name"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:233
+#: components/UnitSelect/UnitSelect.js:197
 msgid "Unit symbol"
 msgstr ""
 
@@ -2480,7 +2480,7 @@ msgstr ""
 msgid "Welcome"
 msgstr ""
 
-#: development/CreateDevicePopover.js:96
+#: development/CreateDevicePopover.js:60
 msgid "When you ready to commercialize your prototype, create device with serial number and you can find it in Management page!"
 msgstr ""
 
@@ -2530,11 +2530,11 @@ msgstr ""
 msgid "You cannot create more device than your account limitation."
 msgstr ""
 
-#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:116
+#: development/Dialogs/DeletePrototypeWithDevicesDialog.js:80
 msgid "You cannot delete prototype with non-zero devices."
 msgstr ""
 
-#: management/DeviceListManagement/index.js:109
+#: management/DeviceListManagement/index.js:73
 msgid "You cannot revert this action."
 msgstr ""
 
@@ -2542,7 +2542,7 @@ msgstr ""
 msgid "You do not finish the tutorial yet."
 msgstr ""
 
-#: management/PrototypeListManagement/index.js:216
+#: management/PrototypeListManagement/index.js:180
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
@@ -2577,7 +2577,7 @@ msgstr ""
 msgid "You should choose a data channel type!"
 msgstr ""
 
-#: components/UnitSelect/UnitSelect.js:122
+#: components/UnitSelect/UnitSelect.js:86
 msgid "You should input the Unit name."
 msgstr ""
 
@@ -2744,7 +2744,7 @@ msgstr ""
 msgid "is different from your setting."
 msgstr ""
 
-#: development/CreateDevicePopover.js:91
+#: development/CreateDevicePopover.js:55
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
 msgstr ""
 
@@ -2808,7 +2808,7 @@ msgstr ""
 msgid "of {{deviceCount}} Test Devices"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:164
+#: components/ProgressCircles/TotalsDevice.js:128
 msgid "of {{limit}} Device"
 msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
@@ -2899,7 +2899,7 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:214
+#: components/ProgressCircles/TotalsDevice.js:178
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] ""
@@ -2909,7 +2909,7 @@ msgstr[1] ""
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
 
-#: components/ProgressCircles/TotalsDevice.js:191
+#: components/ProgressCircles/TotalsDevice.js:155
 msgid "{{testDeviceNumber}} test device"
 msgid_plural "{{testDeviceNumber}} test devices"
 msgstr[0] ""
