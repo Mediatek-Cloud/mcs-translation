@@ -28,21 +28,21 @@ msgstr ""
 msgid "+ Add data channel"
 msgstr ""
 
-#: development/detail/firmware.html:73
+#: development/detail/firmware.html:74
 msgid "+ Add firmware"
 msgstr ""
 
 #: controllers/development/detail.js:102
-#: development/detail/testdevicelist.html:58
+#: development/detail/testdevicelist.html:59
 msgid "+ Add test device"
 msgstr ""
 
 #: controllers/development/detail.js:98
-#: development/detail/trigger.html:75
+#: development/detail/trigger.html:78
 msgid "+ Add trigger & action"
 msgstr ""
 
-#: development/detail/userprivileges.html:52
+#: development/detail/userprivileges.html:55
 #: mydevices/detail/userprivileges.html:55
 msgid "+ Add user"
 msgstr ""
@@ -198,9 +198,9 @@ msgid "Activated rate"
 msgstr ""
 
 #: controllers/development/detail.js:94
-#: development/detail/components.html:28
-#: development/dialogs/addComponent.html:30
-#: development/dialogs/addComponent.html:56
+#: development/detail/components.html:29
+#: development/dialogs/addComponent.html:31
+#: development/dialogs/addComponent.html:58
 msgid "Add"
 msgstr ""
 
@@ -303,7 +303,7 @@ msgid "App url"
 msgstr ""
 
 #: development/detail.html:154
-#: development/dialogs/createProducts.html:145
+#: development/dialogs/createProducts.html:152
 #: development/dialogs/editProducts.html:137
 #: mydevices/detail.html:142
 #: mydevices/dialogs/editDevices.html:99
@@ -348,11 +348,11 @@ msgstr ""
 msgid "Beta Release"
 msgstr ""
 
-#: development/dialogs/createDeviceNotice.html:38
+#: development/dialogs/createDeviceNotice.html:40
 msgid "Beta release"
 msgstr ""
 
-#: development/index.html:159
+#: development/index.html:160
 msgid "Beta released"
 msgstr ""
 
@@ -368,7 +368,7 @@ msgstr ""
 msgid "Button B"
 msgstr ""
 
-#: development/dialogs/addComponent.html:82
+#: development/dialogs/addComponent.html:84
 msgid "Can't find your template?"
 msgstr ""
 
@@ -376,15 +376,15 @@ msgstr ""
 #: components/UnitSelect/UnitSelect.js:251
 #: date.html:6
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:130
-#: development/dialogs/addComponentContent.html:273
-#: development/dialogs/cloneProduct.html:54
-#: development/dialogs/createDevice.html:158
-#: development/dialogs/createDeviceFail.html:29
-#: development/dialogs/createDeviceNotice.html:31
-#: development/dialogs/createProducts.html:246
-#: development/dialogs/createTestDevice.html:49
-#: development/dialogs/deleteConfirm.html:28
-#: development/dialogs/editComponent.html:173
+#: development/dialogs/addComponentContent.html:282
+#: development/dialogs/cloneProduct.html:55
+#: development/dialogs/createDevice.html:165
+#: development/dialogs/createDeviceFail.html:30
+#: development/dialogs/createDeviceNotice.html:32
+#: development/dialogs/createProducts.html:257
+#: development/dialogs/createTestDevice.html:52
+#: development/dialogs/deleteConfirm.html:29
+#: development/dialogs/editComponent.html:179
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
@@ -433,7 +433,7 @@ msgstr ""
 msgid "Choose app platform."
 msgstr ""
 
-#: development/dialogs/createDevice.html:144
+#: development/dialogs/createDevice.html:150
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:65
 #: management/dialogs/createSerialNumber.html:55
 msgid "Choose file"
@@ -444,7 +444,7 @@ msgstr ""
 msgid "Choose the action"
 msgstr ""
 
-#: development/dialogs/createProducts.html:156
+#: development/dialogs/createProducts.html:163
 #: development/dialogs/editProducts.html:148
 msgid "Choose the application"
 msgstr ""
@@ -458,12 +458,12 @@ msgstr ""
 msgid "Choose the dataChannel"
 msgstr ""
 
-#: development/dialogs/createProducts.html:56
+#: development/dialogs/createProducts.html:58
 #: development/dialogs/editProducts.html:56
 msgid "Choose the hardware platform"
 msgstr ""
 
-#: development/dialogs/createProducts.html:112
+#: development/dialogs/createProducts.html:117
 #: development/dialogs/editProducts.html:109
 msgid "Choose the industry"
 msgstr ""
@@ -496,8 +496,8 @@ msgid "Click to copy the activation code"
 msgstr ""
 
 #: controllers/development/detail.js:109
-#: development/dialogs/cloneProduct.html:59
-#: development/index.html:137
+#: development/dialogs/cloneProduct.html:61
+#: development/index.html:138
 msgid "Clone"
 msgstr ""
 
@@ -509,7 +509,7 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: development/dialogs/addComponent.html:72
+#: development/dialogs/addComponent.html:74
 msgid "Coming soon"
 msgstr ""
 
@@ -517,8 +517,8 @@ msgstr ""
 msgid "Coming soon!"
 msgstr ""
 
-#: development/dialogs/addFirmware.html:38
-#: development/dialogs/addFirmware.html:45
+#: development/dialogs/addFirmware.html:40
+#: development/dialogs/addFirmware.html:47
 #: development/dialogs/editFirmware.html:26
 msgid "Compatible firmware"
 msgstr ""
@@ -549,9 +549,9 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-#: development/dialogs/createDevice.html:163
-#: development/dialogs/createTestDevice.html:54
-#: development/index.html:95
+#: development/dialogs/createDevice.html:171
+#: development/dialogs/createTestDevice.html:58
+#: development/index.html:96
 msgid "Create"
 msgstr ""
 
@@ -642,8 +642,8 @@ msgstr ""
 msgid "Data channel"
 msgstr ""
 
-#: development/detail/components.html:93
-#: development/dialogs/addComponentContent.html:28
+#: development/detail/components.html:94
+#: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:48
 #: mydevices/detail/components.html:62
 #: mydevices/dialogs/showapihint.html:10
@@ -670,7 +670,7 @@ msgstr ""
 msgid "Data points usage"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:63
+#: development/dialogs/addComponentContent.html:66
 msgid "Data type"
 msgstr ""
 
@@ -690,8 +690,8 @@ msgid "Default value"
 msgstr ""
 
 #: controllers/development/detail.js:112
-#: development/detail/components.html:136
-#: development/index.html:138
+#: development/detail/components.html:139
+#: development/index.html:139
 #: main.js:378
 #: management/DeviceListManagement/index.js:187
 #: mydevices/detail.html:105
@@ -716,10 +716,10 @@ msgstr ""
 
 #: development/detail.html:158
 #: development/detail/manufacturerinfo.html:18
-#: development/dialogs/addComponentContent.html:45
+#: development/dialogs/addComponentContent.html:47
 #: development/dialogs/cloneProduct.html:35
-#: development/dialogs/createProducts.html:87
-#: development/dialogs/editComponent.html:29
+#: development/dialogs/createProducts.html:91
+#: development/dialogs/editComponent.html:30
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
@@ -733,7 +733,7 @@ msgid "Description"
 msgstr ""
 
 #: dashboard/numberofused.html:6
-#: development/index.html:174
+#: development/index.html:176
 #: mydevices/index.html:148
 msgid "Detail"
 msgstr ""
@@ -766,8 +766,8 @@ msgid "Development"
 msgstr ""
 
 #: dashboard/numberofused.html:27
-#: development/dialogs/createDevice.html:42
-#: development/index.html:165
+#: development/dialogs/createDevice.html:44
+#: development/index.html:166
 #: limitation/index.html:88
 #: management/DeviceListManagement/index.js:226
 msgid "Device"
@@ -777,8 +777,8 @@ msgstr ""
 msgid "Device Title"
 msgstr ""
 
-#: development/dialogs/createDevice.html:68
-#: development/dialogs/createTestDevice.html:29
+#: development/dialogs/createDevice.html:71
+#: development/dialogs/createTestDevice.html:30
 msgid "Device description"
 msgstr ""
 
@@ -790,7 +790,7 @@ msgstr ""
 msgid "Device list filtered by prototype"
 msgstr ""
 
-#: development/dialogs/createDevice.html:52
+#: development/dialogs/createDevice.html:54
 #: development/dialogs/createTestDevice.html:13
 #: mydevices/dialogs/createDevices.html:33
 #: mydevices/dialogs/editDevices.html:10
@@ -844,7 +844,7 @@ msgstr ""
 msgid "Devices creation success!"
 msgstr ""
 
-#: development/dialogs/addComponent.html:47
+#: development/dialogs/addComponent.html:48
 msgid "Display"
 msgstr ""
 
@@ -869,7 +869,7 @@ msgstr ""
 msgid "Down"
 msgstr ""
 
-#: development/dialogs/createProducts.html:204
+#: development/dialogs/createProducts.html:213
 #: development/dialogs/editProducts.html:195
 msgid "Drop an image here to upload!"
 msgstr ""
@@ -883,9 +883,9 @@ msgid "EX:100(only input integer)"
 msgstr ""
 
 #: controllers/development/detail.js:133
-#: development/detail/components.html:130
+#: development/detail/components.html:132
 #: development/detail/manufacturerinfo.html:11
-#: development/index.html:136
+#: development/index.html:137
 #: profile/detail/serviceprovider.html:31
 msgid "Edit"
 msgstr ""
@@ -988,8 +988,8 @@ msgstr ""
 msgid "Firmware"
 msgstr ""
 
-#: development/dialogs/addFirmware.html:19
-#: development/dialogs/addFirmware.html:27
+#: development/dialogs/addFirmware.html:20
+#: development/dialogs/addFirmware.html:28
 #: development/dialogs/editFirmware.html:17
 msgid "Firmware information"
 msgstr ""
@@ -1059,7 +1059,7 @@ msgid "Go to limitation"
 msgstr ""
 
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:139
-#: development/dialogs/createDeviceSuccess.html:34
+#: development/dialogs/createDeviceSuccess.html:36
 #: development/dialogs/finishCreateDevice.html:30
 msgid "Go to management"
 msgstr ""
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #: development/detail.html:49
 #: development/detail.html:56
-#: development/dialogs/createProducts.html:45
+#: development/dialogs/createProducts.html:47
 #: development/dialogs/editProducts.html:45
 #: mydevices/detail.html:86
 #: mydevices/detail.html:92
@@ -1112,7 +1112,7 @@ msgstr ""
 msgid "Historical GPS location"
 msgstr ""
 
-#: development/dialogs/addComponent.html:66
+#: development/dialogs/addComponent.html:68
 msgid "Hybrid"
 msgstr ""
 
@@ -1124,7 +1124,7 @@ msgstr ""
 msgid "Image size limits"
 msgstr ""
 
-#: development/dialogs/createProducts.html:186
+#: development/dialogs/createProducts.html:195
 #: development/dialogs/editProducts.html:175
 #: mydevices/dialogs/createDevices.html:56
 #: mydevices/dialogs/editDevices.html:128
@@ -1132,7 +1132,7 @@ msgid "Image upload"
 msgstr ""
 
 #: development/detail.html:153
-#: development/dialogs/createProducts.html:101
+#: development/dialogs/createProducts.html:106
 #: development/dialogs/editProducts.html:98
 #: mydevices/detail.html:141
 #: mydevices/dialogs/editDevices.html:70
@@ -1166,7 +1166,7 @@ msgstr ""
 msgid "Input the action title"
 msgstr ""
 
-#: development/dialogs/editComponent.html:39
+#: development/dialogs/editComponent.html:41
 msgid "Input the component description"
 msgstr ""
 
@@ -1191,7 +1191,7 @@ msgid "Input the data channel id"
 msgstr ""
 
 #: controllers/development/detail.js:1464
-#: development/dialogs/editComponent.html:21
+#: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
@@ -1199,13 +1199,13 @@ msgstr ""
 msgid "Input the data type"
 msgstr ""
 
-#: development/dialogs/createDevice.html:78
-#: development/dialogs/createTestDevice.html:39
+#: development/dialogs/createDevice.html:82
+#: development/dialogs/createTestDevice.html:41
 msgid "Input the device description"
 msgstr ""
 
-#: development/dialogs/createDevice.html:63
-#: development/dialogs/createTestDevice.html:24
+#: development/dialogs/createDevice.html:66
+#: development/dialogs/createTestDevice.html:25
 msgid "Input the device name"
 msgstr ""
 
@@ -1245,17 +1245,17 @@ msgstr ""
 msgid "Input the product ID"
 msgstr ""
 
-#: development/dialogs/createProducts.html:96
+#: development/dialogs/createProducts.html:101
 #: development/dialogs/editProducts.html:93
 msgid "Input the prototype description"
 msgstr ""
 
-#: development/dialogs/createProducts.html:24
+#: development/dialogs/createProducts.html:25
 #: development/dialogs/editProducts.html:24
 msgid "Input the prototype name"
 msgstr ""
 
-#: development/dialogs/createProducts.html:39
+#: development/dialogs/createProducts.html:41
 #: development/dialogs/editProducts.html:39
 msgid "Input the prototype version"
 msgstr ""
@@ -1524,7 +1524,7 @@ msgstr ""
 msgid "Manual"
 msgstr ""
 
-#: development/dialogs/createDevice.html:109
+#: development/dialogs/createDevice.html:114
 msgid "Manual input"
 msgstr ""
 
@@ -1631,7 +1631,7 @@ msgstr ""
 msgid "No results found. Create your custom unit!"
 msgstr ""
 
-#: development/dialogs/createDeviceSuccess.html:28
+#: development/dialogs/createDeviceSuccess.html:29
 #: development/dialogs/finishCreateDevice.html:25
 #: development/dialogs/finishCreateTestDevice.html:25
 msgid "No, thanks"
@@ -1664,8 +1664,8 @@ msgstr ""
 msgid "Now, you can create test device for the prototype and connect with real device. Try it!"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:107
-#: development/dialogs/addComponentContent.html:88
+#: development/dialogs/addComponentContent.html:112
+#: development/dialogs/addComponentContent.html:92
 msgid "Number of categories"
 msgstr ""
 
@@ -1687,7 +1687,7 @@ msgstr ""
 #: components/control/pwm.html:30
 #: components/control/string.html:13
 #: date.html:5
-#: development/dialogs/deleteConfirm.html:34
+#: development/dialogs/deleteConfirm.html:36
 #: development/dialogs/finishRelease.html:21
 #: development/dialogs/firmware/firmwareSuccess.html:27
 #: development/dialogs/release.html:47
@@ -1861,11 +1861,11 @@ msgstr ""
 msgid "Prototype name"
 msgstr ""
 
-#: development/index.html:161
+#: development/index.html:162
 msgid "Prototype state"
 msgstr ""
 
-#: development/dialogs/createProducts.html:29
+#: development/dialogs/createProducts.html:30
 #: development/dialogs/editProducts.html:29
 msgid "Prototype version"
 msgstr ""
@@ -1880,7 +1880,7 @@ msgstr ""
 msgid "Push firmware only when device is online"
 msgstr ""
 
-#: development/dialogs/addFirmware.html:55
+#: development/dialogs/addFirmware.html:58
 #: development/dialogs/editFirmware.html:34
 msgid "Push firmware to device"
 msgstr ""
@@ -1897,7 +1897,7 @@ msgstr ""
 msgid "Recent activity"
 msgstr ""
 
-#: development/dialogs/createProducts.html:205
+#: development/dialogs/createProducts.html:214
 #: development/dialogs/editProducts.html:196
 msgid "Recommended 300 x 160 pixels."
 msgstr ""
@@ -1960,9 +1960,9 @@ msgid "Role"
 msgstr ""
 
 #: components/UnitSelect/UnitSelect.js:256
-#: development/dialogs/addComponentContent.html:277
-#: development/dialogs/createProducts.html:251
-#: development/dialogs/editComponent.html:180
+#: development/dialogs/addComponentContent.html:287
+#: development/dialogs/createProducts.html:263
+#: development/dialogs/editComponent.html:187
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
@@ -2037,7 +2037,7 @@ msgstr ""
 msgid "Send email to {{email}}"
 msgstr ""
 
-#: development/dialogs/addComponent.html:92
+#: development/dialogs/addComponent.html:95
 msgid "Send us a message!"
 msgstr ""
 
@@ -2045,7 +2045,7 @@ msgstr ""
 msgid "Send webhook"
 msgstr ""
 
-#: development/dialogs/createDevice.html:90
+#: development/dialogs/createDevice.html:94
 #: management/DeviceListManagement/index.js:246
 #: mydevices/dialogs/createDevices.html:22
 msgid "Serial number"
@@ -2092,24 +2092,24 @@ msgstr ""
 #: dashboard/overview.html:45
 #: development/detail.html:150
 #: development/detail.html:152
-#: development/index.html:156
-#: development/index.html:159
+#: development/index.html:157
+#: development/index.html:160
 msgid "Status"
 msgstr ""
 
-#: development/dialogs/addFirmware.html:18
-#: development/dialogs/addFirmware.html:26
+#: development/dialogs/addFirmware.html:19
+#: development/dialogs/addFirmware.html:27
 #: development/dialogs/trigger/add.html:23
 msgid "Step 1"
 msgstr ""
 
-#: development/dialogs/addFirmware.html:38
-#: development/dialogs/addFirmware.html:45
+#: development/dialogs/addFirmware.html:40
+#: development/dialogs/addFirmware.html:47
 #: development/dialogs/trigger/add.html:37
 msgid "Step 2"
 msgstr ""
 
-#: development/dialogs/addFirmware.html:55
+#: development/dialogs/addFirmware.html:58
 #: development/dialogs/trigger/add.html:47
 msgid "Step 3"
 msgstr ""
@@ -2145,7 +2145,7 @@ msgstr ""
 msgid "Switch"
 msgstr ""
 
-#: development/dialogs/addComponent.html:85
+#: development/dialogs/addComponent.html:87
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
@@ -2154,11 +2154,11 @@ msgstr ""
 msgid "Telnet"
 msgstr ""
 
-#: development/dialogs/editComponent.html:51
+#: development/dialogs/editComponent.html:53
 msgid "Template preview"
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:140
+#: development/dialogs/addComponentContent.html:145
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
@@ -2179,8 +2179,8 @@ msgstr ""
 #: development/detail.html:171
 #: development/detail.html:180
 #: development/detail.html:221
-#: development/dialogs/createDevice.html:31
-#: development/index.html:164
+#: development/dialogs/createDevice.html:32
+#: development/index.html:165
 msgid "Test device"
 msgstr ""
 
@@ -2197,7 +2197,7 @@ msgstr ""
 msgid "Test devices list"
 msgstr ""
 
-#: development/dialogs/addComponent.html:69
+#: development/dialogs/addComponent.html:71
 msgid "The Hybrid data channel is a two ways data channel contains bothe controller and display."
 msgstr ""
 
@@ -2205,7 +2205,7 @@ msgstr ""
 msgid "The controller data channels allow you to control the status of your devices. eg, ON/OFF for a switch"
 msgstr ""
 
-#: development/dialogs/addComponent.html:50
+#: development/dialogs/addComponent.html:51
 msgid "The display data channels allow you to get the data from your devices."
 msgstr ""
 
@@ -2330,7 +2330,7 @@ msgstr ""
 msgid "Trigger switch"
 msgstr ""
 
-#: development/dialogs/createDeviceFail.html:35
+#: development/dialogs/createDeviceFail.html:37
 msgid "Try again"
 msgstr ""
 
@@ -2338,8 +2338,8 @@ msgstr ""
 msgid "Try to create it now."
 msgstr ""
 
-#: development/dialogs/addComponentContent.html:182
-#: development/dialogs/editComponent.html:78
+#: development/dialogs/addComponentContent.html:187
+#: development/dialogs/editComponent.html:80
 msgid "Unit"
 msgstr ""
 
@@ -2370,7 +2370,7 @@ msgstr ""
 msgid "Upgrade now"
 msgstr ""
 
-#: development/dialogs/createProducts.html:229
+#: development/dialogs/createProducts.html:239
 #: development/dialogs/editProducts.html:220
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:98
 #: management/dialogs/createSerialNumber.html:24
@@ -2379,7 +2379,7 @@ msgstr ""
 msgid "Upload"
 msgstr ""
 
-#: development/dialogs/createDevice.html:120
+#: development/dialogs/createDevice.html:126
 msgid "Upload CSV"
 msgstr ""
 
@@ -2396,7 +2396,7 @@ msgstr ""
 msgid "Upload data points"
 msgstr ""
 
-#: development/dialogs/createProducts.html:188
+#: development/dialogs/createProducts.html:197
 #: development/dialogs/editProducts.html:180
 #: mydevices/dialogs/createDevices.html:58
 #: mydevices/dialogs/editDevices.html:130
@@ -2456,7 +2456,7 @@ msgstr ""
 #: development/detail/firmware.html:9
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:19
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
-#: development/index.html:153
+#: development/index.html:154
 #: mydevices/detail.html:85
 #: mydevices/detail.html:91
 #: mydevices/detail/firmware.html:16
@@ -2598,7 +2598,7 @@ msgstr ""
 msgid "Your account"
 msgstr ""
 
-#: development/dialogs/createDevice.html:85
+#: development/dialogs/createDevice.html:89
 msgid "Your account plan is"
 msgstr ""
 
@@ -2618,7 +2618,7 @@ msgstr ""
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
-#: development/detail/components.html:31
+#: development/detail/components.html:32
 msgid "Your prototype is beta-released."
 msgstr ""
 
@@ -2706,7 +2706,7 @@ msgstr ""
 msgid "device"
 msgstr ""
 
-#: development/dialogs/createDevice.html:85
+#: development/dialogs/createDevice.html:89
 msgid "devices before reaching your quota limitation. Over provision will lead to device creation failure."
 msgstr ""
 
@@ -2891,7 +2891,7 @@ msgstr ""
 msgid "viewer"
 msgstr ""
 
-#: development/dialogs/createDevice.html:85
+#: development/dialogs/createDevice.html:89
 msgid "you can create"
 msgstr ""
 
