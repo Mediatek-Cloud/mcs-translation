@@ -60,11 +60,11 @@ msgstr ""
 msgid "1010"
 msgstr ""
 
-#: factories/components.js:976
+#: factories/components.js:963
 msgid "1280x960 - 1 Megapixel"
 msgstr ""
 
-#: factories/components.js:979
+#: factories/components.js:966
 msgid "1MB"
 msgstr ""
 
@@ -674,10 +674,6 @@ msgstr ""
 msgid "Data type"
 msgstr ""
 
-#: factories/components.js:948
-msgid "Decode type"
-msgstr ""
-
 #: development/dialogs/trigger/add.html:212
 #: development/dialogs/trigger/add.html:224
 #: development/dialogs/trigger/edit.html:202
@@ -967,7 +963,7 @@ msgstr ""
 msgid "Failure!"
 msgstr ""
 
-#: factories/components.js:972
+#: factories/components.js:959
 msgid "File type supported"
 msgstr ""
 
@@ -1116,7 +1112,7 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: factories/components.js:978
+#: factories/components.js:965
 msgid "Image size limits"
 msgstr ""
 
@@ -1332,7 +1328,7 @@ msgstr ""
 msgid "Integer only"
 msgstr ""
 
-#: factories/components.js:973
+#: factories/components.js:960
 msgid "JPG, JPEG, PNG"
 msgstr ""
 
@@ -1537,7 +1533,7 @@ msgid "Maximum fps supported"
 msgstr ""
 
 #: factories/components.js:933
-#: factories/components.js:975
+#: factories/components.js:962
 msgid "Maximum resolution supported"
 msgstr ""
 
@@ -1795,7 +1791,6 @@ msgstr ""
 
 #: factories/components.js:849
 #: factories/components.js:910
-#: factories/components.js:953
 #: services/validator.js:31
 #: services/validator.js:61
 msgid "Please input {{key}}."
