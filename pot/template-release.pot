@@ -60,11 +60,11 @@ msgstr ""
 msgid "1010"
 msgstr ""
 
-#: factories/components.js:986
+#: factories/components.js:976
 msgid "1280x960 - 1 Megapixel"
 msgstr ""
 
-#: factories/components.js:989
+#: factories/components.js:979
 msgid "1MB"
 msgstr ""
 
@@ -86,16 +86,16 @@ msgstr ""
 msgid "3. {{count}} email notification device/day"
 msgstr ""
 
-#: factories/components.js:947
+#: factories/components.js:937
 msgid "30fps"
 msgstr ""
 
-#: factories/components.js:944
+#: factories/components.js:934
 msgid "320x240"
 msgstr ""
 
-#: factories/components.js:950
-msgid "3600 sec / per device / month"
+#: factories/components.js:940
+msgid "3GB video view / per device / per month"
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:19
@@ -674,12 +674,8 @@ msgstr ""
 msgid "Data type"
 msgstr ""
 
-#: factories/components.js:958
+#: factories/components.js:948
 msgid "Decode type"
-msgstr ""
-
-#: factories/components.js:930
-msgid "Decode type supported"
 msgstr ""
 
 #: development/dialogs/trigger/add.html:212
@@ -971,7 +967,7 @@ msgstr ""
 msgid "Failure!"
 msgstr ""
 
-#: factories/components.js:982
+#: factories/components.js:972
 msgid "File type supported"
 msgstr ""
 
@@ -1120,7 +1116,7 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: factories/components.js:988
+#: factories/components.js:978
 msgid "Image size limits"
 msgstr ""
 
@@ -1336,7 +1332,7 @@ msgstr ""
 msgid "Integer only"
 msgstr ""
 
-#: factories/components.js:983
+#: factories/components.js:973
 msgid "JPG, JPEG, PNG"
 msgstr ""
 
@@ -1497,6 +1493,10 @@ msgstr ""
 msgid "Lowerbound"
 msgstr ""
 
+#: factories/components.js:931
+msgid "MPEG1"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:52
 msgid "MT7681"
 msgstr ""
@@ -1532,12 +1532,12 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: factories/components.js:946
+#: factories/components.js:936
 msgid "Maximum fps supported"
 msgstr ""
 
-#: factories/components.js:943
-#: factories/components.js:985
+#: factories/components.js:933
+#: factories/components.js:975
 msgid "Maximum resolution supported"
 msgstr ""
 
@@ -1795,7 +1795,7 @@ msgstr ""
 
 #: factories/components.js:849
 #: factories/components.js:910
-#: factories/components.js:963
+#: factories/components.js:953
 #: services/validator.js:31
 #: services/validator.js:61
 msgid "Please input {{key}}."
@@ -2411,12 +2411,12 @@ msgstr ""
 msgid "Upperbound"
 msgstr ""
 
-#: limitation/dialogs/limitationDetail.html:3
-msgid "Usage limitation detail"
+#: factories/components.js:939
+msgid "Usage limitation"
 msgstr ""
 
-#: factories/components.js:949
-msgid "Usage limitation per device"
+#: limitation/dialogs/limitationDetail.html:3
+msgid "Usage limitation detail"
 msgstr ""
 
 #: limitation/index.html:104
@@ -2470,6 +2470,10 @@ msgstr ""
 
 #: factories/dataChnTypeId.js:108
 msgid "Video Stream"
+msgstr ""
+
+#: factories/components.js:930
+msgid "Video format"
 msgstr ""
 
 #: profile/detail/serviceprovider.html:43
