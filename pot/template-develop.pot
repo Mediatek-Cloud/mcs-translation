@@ -356,7 +356,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:631
+#: services/products/main.js:632
 msgid "Between"
 msgstr ""
 
@@ -935,7 +935,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:627
+#: services/products/main.js:628
 msgid "Equal to"
 msgstr ""
 
@@ -1060,7 +1060,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:619
+#: services/products/main.js:620
 msgid "Greater than"
 msgstr ""
 
@@ -1099,8 +1099,8 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:655
-#: services/products/main.js:664
+#: services/products/main.js:656
+#: services/products/main.js:665
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
@@ -1150,7 +1150,7 @@ msgstr ""
 msgid "Input hint"
 msgstr ""
 
-#: services/products/main.js:673
+#: services/products/main.js:674
 msgid "Input the Url."
 msgstr ""
 
@@ -1158,7 +1158,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:648
+#: services/products/main.js:649
 msgid "Input the action title"
 msgstr ""
 
@@ -1170,11 +1170,11 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:663
+#: services/products/main.js:664
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:654
+#: services/products/main.js:655
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
@@ -1482,7 +1482,7 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:623
+#: services/products/main.js:624
 msgid "Lower than"
 msgstr ""
 
@@ -1804,7 +1804,7 @@ msgstr ""
 msgid "Please select application."
 msgstr ""
 
-#: services/products/main.js:364
+#: services/products/main.js:365
 msgid "Please select at least one test device"
 msgstr ""
 
@@ -2040,7 +2040,7 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:680
+#: services/products/main.js:681
 msgid "Send webhook"
 msgstr ""
 
@@ -2225,7 +2225,7 @@ msgstr ""
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
-#: services/products/main.js:674
+#: services/products/main.js:675
 msgid "The url has to start with http://"
 msgstr ""
 
@@ -2520,8 +2520,8 @@ msgstr ""
 msgid "You can see its detail in \"My devices\"."
 msgstr ""
 
-#: services/products/main.js:656
-#: services/products/main.js:665
+#: services/products/main.js:657
+#: services/products/main.js:666
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
@@ -2677,8 +2677,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:653
-#: services/products/main.js:662
+#: services/products/main.js:654
+#: services/products/main.js:663
 msgid "content"
 msgstr ""
 
@@ -2857,7 +2857,7 @@ msgstr ""
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:647
+#: services/products/main.js:648
 msgid "title"
 msgstr ""
 
@@ -2874,7 +2874,7 @@ msgstr ""
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: services/products/main.js:672
+#: services/products/main.js:673
 msgid "url"
 msgstr ""
 
