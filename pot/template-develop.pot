@@ -1875,10 +1875,6 @@ msgstr ""
 msgid "Push"
 msgstr ""
 
-#: mydevices/detail/firmware.html:56
-msgid "Push firmware only when device is online"
-msgstr ""
-
 #: development/dialogs/addFirmware.html:58
 #: development/dialogs/editFirmware.html:34
 msgid "Push firmware to device"
