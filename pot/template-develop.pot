@@ -301,7 +301,7 @@ msgid "App url"
 msgstr ""
 
 #: development/detail.html:153
-#: development/dialogs/createProducts.html:152
+#: development/dialogs/createProducts.html:167
 #: development/dialogs/editProducts.html:137
 #: mydevices/detail.html:142
 #: mydevices/dialogs/editDevices.html:99
@@ -354,7 +354,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:632
+#: services/products/main.js:641
 msgid "Between"
 msgstr ""
 
@@ -379,7 +379,7 @@ msgstr ""
 #: development/dialogs/createDevice.html:165
 #: development/dialogs/createDeviceFail.html:30
 #: development/dialogs/createDeviceNotice.html:32
-#: development/dialogs/createProducts.html:257
+#: development/dialogs/createProducts.html:272
 #: development/dialogs/createTestDevice.html:52
 #: development/dialogs/deleteConfirm.html:29
 #: development/dialogs/editComponent.html:179
@@ -442,7 +442,7 @@ msgstr ""
 msgid "Choose the action"
 msgstr ""
 
-#: development/dialogs/createProducts.html:163
+#: development/dialogs/createProducts.html:179
 #: development/dialogs/editProducts.html:148
 msgid "Choose the application"
 msgstr ""
@@ -456,12 +456,12 @@ msgstr ""
 msgid "Choose the dataChannel"
 msgstr ""
 
-#: development/dialogs/createProducts.html:58
+#: development/dialogs/createProducts.html:74
 #: development/dialogs/editProducts.html:56
 msgid "Choose the hardware platform"
 msgstr ""
 
-#: development/dialogs/createProducts.html:117
+#: development/dialogs/createProducts.html:133
 #: development/dialogs/editProducts.html:109
 msgid "Choose the industry"
 msgstr ""
@@ -470,6 +470,7 @@ msgstr ""
 msgid "Choose the role"
 msgstr ""
 
+#: components/InputCodeBlock/InputCodeBlock.js:167
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -700,7 +701,7 @@ msgstr ""
 #: development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:47
 #: development/dialogs/cloneProduct.html:35
-#: development/dialogs/createProducts.html:91
+#: development/dialogs/createProducts.html:106
 #: development/dialogs/editComponent.html:30
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
@@ -851,7 +852,7 @@ msgstr ""
 msgid "Down"
 msgstr ""
 
-#: development/dialogs/createProducts.html:213
+#: development/dialogs/createProducts.html:228
 #: development/dialogs/editProducts.html:195
 msgid "Drop an image here to upload!"
 msgstr ""
@@ -925,7 +926,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:628
+#: services/products/main.js:637
 msgid "Equal to"
 msgstr ""
 
@@ -964,6 +965,10 @@ msgstr ""
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:48
 #: management/dialogs/createSerialNumber.html:45
 msgid "File upload"
+msgstr ""
+
+#: development/dialogs/createProducts.html:22
+msgid "Fill in the following information or"
 msgstr ""
 
 #: development/detail.html:215
@@ -1050,7 +1055,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:620
+#: services/products/main.js:629
 msgid "Greater than"
 msgstr ""
 
@@ -1060,7 +1065,7 @@ msgstr ""
 
 #: development/detail.html:49
 #: development/detail.html:56
-#: development/dialogs/createProducts.html:47
+#: development/dialogs/createProducts.html:62
 #: development/dialogs/editProducts.html:45
 #: mydevices/detail.html:86
 #: mydevices/detail.html:92
@@ -1089,8 +1094,8 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:656
 #: services/products/main.js:665
+#: services/products/main.js:674
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
@@ -1110,15 +1115,19 @@ msgstr ""
 msgid "Image size limits"
 msgstr ""
 
-#: development/dialogs/createProducts.html:195
+#: development/dialogs/createProducts.html:210
 #: development/dialogs/editProducts.html:175
 #: mydevices/dialogs/createDevices.html:56
 #: mydevices/dialogs/editDevices.html:128
 msgid "Image upload"
 msgstr ""
 
+#: components/InputCodeBlock/InputCodeBlock.js:163
+msgid "Import prototype: Paste JSON here"
+msgstr ""
+
 #: development/detail.html:152
-#: development/dialogs/createProducts.html:106
+#: development/dialogs/createProducts.html:121
 #: development/dialogs/editProducts.html:98
 #: mydevices/detail.html:141
 #: mydevices/dialogs/editDevices.html:70
@@ -1140,7 +1149,7 @@ msgstr ""
 msgid "Input hint"
 msgstr ""
 
-#: services/products/main.js:674
+#: services/products/main.js:683
 msgid "Input the Url."
 msgstr ""
 
@@ -1148,7 +1157,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:649
+#: services/products/main.js:658
 msgid "Input the action title"
 msgstr ""
 
@@ -1160,11 +1169,11 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:664
+#: services/products/main.js:673
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:655
+#: services/products/main.js:664
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
@@ -1231,17 +1240,17 @@ msgstr ""
 msgid "Input the product ID"
 msgstr ""
 
-#: development/dialogs/createProducts.html:101
+#: development/dialogs/createProducts.html:116
 #: development/dialogs/editProducts.html:93
 msgid "Input the prototype description"
 msgstr ""
 
-#: development/dialogs/createProducts.html:25
+#: development/dialogs/createProducts.html:40
 #: development/dialogs/editProducts.html:24
 msgid "Input the prototype name"
 msgstr ""
 
-#: development/dialogs/createProducts.html:41
+#: development/dialogs/createProducts.html:56
 #: development/dialogs/editProducts.html:39
 msgid "Input the prototype version"
 msgstr ""
@@ -1324,6 +1333,10 @@ msgstr ""
 
 #: factories/components.js:960
 msgid "JPG, JPEG, PNG"
+msgstr ""
+
+#: controllers/development/index.js:84
+msgid "JSON cannot be null."
 msgstr ""
 
 #: factories/components.js:115
@@ -1472,7 +1485,7 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:624
+#: services/products/main.js:633
 msgid "Lower than"
 msgstr ""
 
@@ -1582,7 +1595,7 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: controllers/development/index.js:40
+#: controllers/development/index.js:63
 msgid "Name cannot be null."
 msgstr ""
 
@@ -1790,19 +1803,19 @@ msgstr ""
 msgid "Please input {{key}}."
 msgstr ""
 
-#: controllers/development/index.js:52
+#: controllers/development/index.js:75
 msgid "Please select application."
 msgstr ""
 
-#: services/products/main.js:365
+#: services/products/main.js:374
 msgid "Please select at least one test device"
 msgstr ""
 
-#: controllers/development/index.js:46
+#: controllers/development/index.js:69
 msgid "Please select hardware platform."
 msgstr ""
 
-#: controllers/development/index.js:49
+#: controllers/development/index.js:72
 msgid "Please select industry."
 msgstr ""
 
@@ -1845,7 +1858,7 @@ msgid "Prototype list"
 msgstr ""
 
 #: development/dialogs/cloneProduct.html:19
-#: development/dialogs/createProducts.html:13
+#: development/dialogs/createProducts.html:28
 #: development/dialogs/editProducts.html:13
 msgid "Prototype name"
 msgstr ""
@@ -1854,7 +1867,7 @@ msgstr ""
 msgid "Prototype state"
 msgstr ""
 
-#: development/dialogs/createProducts.html:30
+#: development/dialogs/createProducts.html:45
 #: development/dialogs/editProducts.html:29
 msgid "Prototype version"
 msgstr ""
@@ -1882,7 +1895,7 @@ msgstr ""
 msgid "Recent activity"
 msgstr ""
 
-#: development/dialogs/createProducts.html:214
+#: development/dialogs/createProducts.html:229
 #: development/dialogs/editProducts.html:196
 msgid "Recommended 300 x 160 pixels."
 msgstr ""
@@ -1946,7 +1959,7 @@ msgstr ""
 
 #: components/UnitSelect/UnitSelect.js:220
 #: development/dialogs/addComponentContent.html:287
-#: development/dialogs/createProducts.html:263
+#: development/dialogs/createProducts.html:278
 #: development/dialogs/editComponent.html:187
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
@@ -2026,7 +2039,7 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:681
+#: services/products/main.js:690
 msgid "Send webhook"
 msgstr ""
 
@@ -2211,7 +2224,7 @@ msgstr ""
 msgid "The start time should be ealier than the end time."
 msgstr ""
 
-#: services/products/main.js:675
+#: services/products/main.js:684
 msgid "The url has to start with http://"
 msgstr ""
 
@@ -2355,7 +2368,7 @@ msgstr ""
 msgid "Upgrade now"
 msgstr ""
 
-#: development/dialogs/createProducts.html:239
+#: development/dialogs/createProducts.html:252
 #: development/dialogs/editProducts.html:220
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:98
 #: management/dialogs/createSerialNumber.html:24
@@ -2381,7 +2394,7 @@ msgstr ""
 msgid "Upload data points"
 msgstr ""
 
-#: development/dialogs/createProducts.html:197
+#: development/dialogs/createProducts.html:212
 #: development/dialogs/editProducts.html:180
 #: mydevices/dialogs/createDevices.html:58
 #: mydevices/dialogs/editDevices.html:130
@@ -2449,7 +2462,7 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: controllers/development/index.js:43
+#: controllers/development/index.js:66
 msgid "Version cannot be null."
 msgstr ""
 
@@ -2506,8 +2519,8 @@ msgstr ""
 msgid "You can see its detail in \"My devices\"."
 msgstr ""
 
-#: services/products/main.js:657
 #: services/products/main.js:666
+#: services/products/main.js:675
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
@@ -2535,14 +2548,14 @@ msgstr ""
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
-#: controllers/development/index.js:150
-#: controllers/development/index.js:225
+#: controllers/development/index.js:184
+#: controllers/development/index.js:259
 #: controllers/devices/index.js:85
 msgid "You do not have permission"
 msgstr ""
 
 #: controllers/development/detail.js:993
-#: controllers/development/index.js:103
+#: controllers/development/index.js:137
 msgid "You have cloned the"
 msgstr ""
 
@@ -2643,6 +2656,10 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
+#: components/InputCodeBlock/InputCodeBlock.js:165
+msgid "browse"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:149
 msgid "cancel"
 msgstr ""
@@ -2663,8 +2680,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:654
 #: services/products/main.js:663
+#: services/products/main.js:672
 msgid "content"
 msgstr ""
 
@@ -2713,7 +2730,7 @@ msgid "file cannot be null!"
 msgstr ""
 
 #: controllers/development/detail.js:993
-#: controllers/development/index.js:103
+#: controllers/development/index.js:137
 msgid "from"
 msgstr ""
 
@@ -2723,6 +2740,10 @@ msgstr ""
 
 #: controllers/dashboard/index.js:69
 msgid "hours ago"
+msgstr ""
+
+#: controllers/development/index.js:19
+msgid "import from JSON file"
 msgstr ""
 
 #: dashboard/tutorial.html:4
@@ -2803,6 +2824,10 @@ msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
 
+#: components/InputCodeBlock/InputCodeBlock.js:164
+msgid "or"
+msgstr ""
+
 #: filters/userPrivType.js:5
 msgid "owner"
 msgstr ""
@@ -2830,8 +2855,8 @@ msgstr ""
 #: controllers/development/detail.js:248
 #: controllers/development/detail.js:336
 #: controllers/development/detail.js:379
-#: controllers/development/index.js:183
-#: controllers/development/index.js:216
+#: controllers/development/index.js:217
+#: controllers/development/index.js:250
 #: controllers/devices/detail.js:157
 #: controllers/devices/detail.js:353
 #: controllers/devices/index.js:76
@@ -2839,12 +2864,16 @@ msgid "success."
 msgstr ""
 
 #: controllers/development/detail.js:993
-#: controllers/development/index.js:103
+#: controllers/development/index.js:137
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:648
+#: services/products/main.js:657
 msgid "title"
+msgstr ""
+
+#: components/InputCodeBlock/InputCodeBlock.js:166
+msgid "to upload"
 msgstr ""
 
 #: dashboard/tutorial.html:4
@@ -2860,7 +2889,7 @@ msgstr ""
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: services/products/main.js:673
+#: services/products/main.js:682
 msgid "url"
 msgstr ""
 
