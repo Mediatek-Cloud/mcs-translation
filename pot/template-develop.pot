@@ -143,7 +143,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:286
+#: mydevices/detail.html:285
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -303,7 +303,6 @@ msgstr ""
 #: development/detail.html:153
 #: development/dialogs/createProducts.html:167
 #: development/dialogs/editProducts.html:137
-#: mydevices/detail.html:142
 #: mydevices/dialogs/editDevices.html:99
 msgid "Application"
 msgstr ""
@@ -538,10 +537,10 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: controllers/devices/detail.js:170
+#: controllers/devices/detail.js:189
 #: management/DeviceListManagement/DeviceRow.js:220
-#: mydevices/detail.html:221
-#: mydevices/detail.html:233
+#: mydevices/detail.html:220
+#: mydevices/detail.html:232
 #: profile/detail/serviceprovider.html:66
 #: profile/detail/serviceprovider.html:83
 msgid "Copy"
@@ -636,7 +635,7 @@ msgstr ""
 #: development/detail.html:196
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:253
+#: mydevices/detail.html:252
 msgid "Data channel"
 msgstr ""
 
@@ -706,7 +705,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:143
+#: mydevices/detail.html:142
 #: mydevices/dialogs/createDevices.html:44
 #: mydevices/dialogs/editDevices.html:64
 #: profile/detail/serviceprovider.html:46
@@ -974,7 +973,7 @@ msgstr ""
 #: development/detail.html:215
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:274
+#: mydevices/detail.html:273
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1129,7 +1128,6 @@ msgstr ""
 #: development/detail.html:152
 #: development/dialogs/createProducts.html:121
 #: development/dialogs/editProducts.html:98
-#: mydevices/detail.html:141
 #: mydevices/dialogs/editDevices.html:70
 msgid "Industry"
 msgstr ""
@@ -1505,7 +1503,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:1338
-#: controllers/devices/detail.js:92
+#: controllers/devices/detail.js:111
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1788,7 +1786,7 @@ msgid "Please choose a file to upload"
 msgstr ""
 
 #: controllers/development/detail.js:1341
-#: controllers/devices/detail.js:95
+#: controllers/devices/detail.js:114
 msgid "Please choose a role for the user."
 msgstr ""
 
@@ -1832,6 +1830,10 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
+#: controllers/devices/detail.js:49
+msgid "Private"
+msgstr ""
+
 #: mydevices/dialogs/createDevices.html:10
 msgid "Product ID"
 msgstr ""
@@ -1870,6 +1872,10 @@ msgstr ""
 #: development/dialogs/createProducts.html:45
 #: development/dialogs/editProducts.html:29
 msgid "Prototype version"
+msgstr ""
+
+#: controllers/devices/detail.js:48
+msgid "Public"
 msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:66
@@ -2092,6 +2098,7 @@ msgstr ""
 #: development/detail.html:151
 #: development/index.html:157
 #: development/index.html:160
+#: mydevices/detail.html:141
 msgid "Status"
 msgstr ""
 
@@ -2298,7 +2305,7 @@ msgstr ""
 
 #: development/detail.html:203
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:260
+#: mydevices/detail.html:259
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2432,7 +2439,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:208
-#: mydevices/detail.html:267
+#: mydevices/detail.html:266
 msgid "User privileges"
 msgstr ""
 
@@ -2583,8 +2590,8 @@ msgstr ""
 msgid "You should input the Unit name."
 msgstr ""
 
-#: mydevices/detail.html:150
-#: mydevices/detail.html:209
+#: mydevices/detail.html:149
+#: mydevices/detail.html:208
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -2857,8 +2864,8 @@ msgstr ""
 #: controllers/development/detail.js:379
 #: controllers/development/index.js:217
 #: controllers/development/index.js:250
-#: controllers/devices/detail.js:157
-#: controllers/devices/detail.js:353
+#: controllers/devices/detail.js:176
+#: controllers/devices/detail.js:372
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
