@@ -469,7 +469,7 @@ msgstr ""
 msgid "Choose the role"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:162
+#: components/InputCodeBlock/InputCodeBlock.js:167
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -1121,7 +1121,7 @@ msgstr ""
 msgid "Image upload"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:158
+#: components/InputCodeBlock/InputCodeBlock.js:163
 msgid "Import prototype: Paste JSON here"
 msgstr ""
 
@@ -2667,7 +2667,7 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:160
+#: components/InputCodeBlock/InputCodeBlock.js:165
 msgid "browse"
 msgstr ""
 
@@ -2835,7 +2835,7 @@ msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:159
+#: components/InputCodeBlock/InputCodeBlock.js:164
 msgid "or"
 msgstr ""
 
@@ -2883,7 +2883,7 @@ msgstr ""
 msgid "title"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:161
+#: components/InputCodeBlock/InputCodeBlock.js:166
 msgid "to upload"
 msgstr ""
 
