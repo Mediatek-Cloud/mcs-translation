@@ -143,7 +143,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:285
+#: mydevices/detail.html:310
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -537,10 +537,10 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: controllers/devices/detail.js:189
+#: controllers/devices/detail.js:190
 #: management/DeviceListManagement/DeviceRow.js:220
-#: mydevices/detail.html:220
-#: mydevices/detail.html:232
+#: mydevices/detail.html:245
+#: mydevices/detail.html:257
 #: profile/detail/serviceprovider.html:66
 #: profile/detail/serviceprovider.html:83
 msgid "Copy"
@@ -635,7 +635,7 @@ msgstr ""
 #: development/detail.html:196
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:252
+#: mydevices/detail.html:277
 msgid "Data channel"
 msgstr ""
 
@@ -705,7 +705,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:142
+#: mydevices/detail.html:167
 #: mydevices/dialogs/createDevices.html:44
 #: mydevices/dialogs/editDevices.html:64
 #: profile/detail/serviceprovider.html:46
@@ -973,7 +973,7 @@ msgstr ""
 #: development/detail.html:215
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:273
+#: mydevices/detail.html:298
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1503,7 +1503,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:1335
-#: controllers/devices/detail.js:111
+#: controllers/devices/detail.js:112
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1786,7 +1786,7 @@ msgid "Please choose a file to upload"
 msgstr ""
 
 #: controllers/development/detail.js:1338
-#: controllers/devices/detail.js:114
+#: controllers/devices/detail.js:115
 msgid "Please choose a role for the user."
 msgstr ""
 
@@ -1830,7 +1830,7 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
-#: controllers/devices/detail.js:49
+#: controllers/devices/detail.js:50
 msgid "Private"
 msgstr ""
 
@@ -1874,8 +1874,12 @@ msgstr ""
 msgid "Prototype version"
 msgstr ""
 
-#: controllers/devices/detail.js:48
+#: controllers/devices/detail.js:49
 msgid "Public"
+msgstr ""
+
+#: mydevices/detail.html:147
+msgid "Public URL"
 msgstr ""
 
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:66
@@ -2098,7 +2102,7 @@ msgstr ""
 #: development/detail.html:151
 #: development/index.html:157
 #: development/index.html:160
-#: mydevices/detail.html:141
+#: mydevices/detail.html:142
 msgid "Status"
 msgstr ""
 
@@ -2305,7 +2309,7 @@ msgstr ""
 
 #: development/detail.html:203
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:259
+#: mydevices/detail.html:284
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2439,7 +2443,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:208
-#: mydevices/detail.html:266
+#: mydevices/detail.html:291
 msgid "User privileges"
 msgstr ""
 
@@ -2590,8 +2594,8 @@ msgstr ""
 msgid "You should input the Unit name."
 msgstr ""
 
-#: mydevices/detail.html:149
-#: mydevices/detail.html:208
+#: mydevices/detail.html:174
+#: mydevices/detail.html:233
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
@@ -2864,8 +2868,8 @@ msgstr ""
 #: controllers/development/detail.js:376
 #: controllers/development/index.js:217
 #: controllers/development/index.js:250
-#: controllers/devices/detail.js:176
-#: controllers/devices/detail.js:372
+#: controllers/devices/detail.js:177
+#: controllers/devices/detail.js:373
 #: controllers/devices/index.js:76
 msgid "success."
 msgstr ""
