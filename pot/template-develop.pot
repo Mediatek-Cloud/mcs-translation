@@ -143,7 +143,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:310
+#: mydevices/detail.html:286
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -303,6 +303,7 @@ msgstr ""
 #: development/detail.html:153
 #: development/dialogs/createProducts.html:167
 #: development/dialogs/editProducts.html:137
+#: mydevices/detail.html:142
 #: mydevices/dialogs/editDevices.html:99
 msgid "Application"
 msgstr ""
@@ -539,8 +540,8 @@ msgstr ""
 
 #: controllers/devices/detail.js:190
 #: management/DeviceListManagement/DeviceRow.js:220
-#: mydevices/detail.html:245
-#: mydevices/detail.html:257
+#: mydevices/detail.html:221
+#: mydevices/detail.html:233
 #: profile/detail/serviceprovider.html:66
 #: profile/detail/serviceprovider.html:83
 msgid "Copy"
@@ -635,7 +636,7 @@ msgstr ""
 #: development/detail.html:196
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:277
+#: mydevices/detail.html:253
 msgid "Data channel"
 msgstr ""
 
@@ -705,7 +706,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
-#: mydevices/detail.html:167
+#: mydevices/detail.html:143
 #: mydevices/dialogs/createDevices.html:44
 #: mydevices/dialogs/editDevices.html:64
 #: profile/detail/serviceprovider.html:46
@@ -973,7 +974,7 @@ msgstr ""
 #: development/detail.html:215
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:298
+#: mydevices/detail.html:274
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -1128,6 +1129,7 @@ msgstr ""
 #: development/detail.html:152
 #: development/dialogs/createProducts.html:121
 #: development/dialogs/editProducts.html:98
+#: mydevices/detail.html:141
 #: mydevices/dialogs/editDevices.html:70
 msgid "Industry"
 msgstr ""
@@ -1878,10 +1880,6 @@ msgstr ""
 msgid "Public"
 msgstr ""
 
-#: mydevices/detail.html:147
-msgid "Public URL"
-msgstr ""
-
 #: development/dialogs/firmware/add/pushFirmwareToDevice.html:66
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:64
 #: mydevices/detail/firmware.html:59
@@ -2102,7 +2100,6 @@ msgstr ""
 #: development/detail.html:151
 #: development/index.html:157
 #: development/index.html:160
-#: mydevices/detail.html:142
 msgid "Status"
 msgstr ""
 
@@ -2309,7 +2306,7 @@ msgstr ""
 
 #: development/detail.html:203
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:284
+#: mydevices/detail.html:260
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2443,7 +2440,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:208
-#: mydevices/detail.html:291
+#: mydevices/detail.html:267
 msgid "User privileges"
 msgstr ""
 
@@ -2594,8 +2591,8 @@ msgstr ""
 msgid "You should input the Unit name."
 msgstr ""
 
-#: mydevices/detail.html:174
-#: mydevices/detail.html:233
+#: mydevices/detail.html:150
+#: mydevices/detail.html:209
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
