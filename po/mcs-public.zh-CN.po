@@ -9,27 +9,23 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.7.5\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#. [NotFound.notFoundPage] - 404 Not Found page here
-#: _translations/src/containers/NotFound/messages.json
-msgid ""
-"{code} Not Found page here {count, plural, =0 {no new messages} one {1 new "
-"message} other {{count} new messages}}"
-msgstr ""
-"{code} 不发现页面在这里 {count, plural, =0 {没有新邮件} one {1 封新邮件} "
-"other {{count} 新消息}}"
 
 #. [Device.createYourOwnDevice] - Create your own device
 #: _translations/src/containers/Device/messages.json
 msgid "Create your own device"
-msgstr "创建您自己的设备"
+msgstr "创建属于您的装置"
+
+#. [Device.creator] - Creator
+#: _translations/src/containers/Device/messages.json
+msgid "Creator"
+msgstr "建立者"
 
 #. [Device.description] - Description
 #: _translations/src/containers/Device/messages.json
 msgid "Description"
-msgstr "描述"
+msgstr "简介"
 
 #. [Device.hardwarePlatform] - Hardware platform
 #: _translations/src/containers/Device/messages.json
@@ -41,9 +37,11 @@ msgstr "硬件平台"
 msgid "Version"
 msgstr "版本"
 
-#. [Device.creator] - Creator
-#. [NotFound.creator] - Creator
-#: _translations/src/containers/Device/messages.json
+#. [NotFound.notFoundPage] - 404 Not Found page here
 #: _translations/src/containers/NotFound/messages.json
-msgid "Creator"
-msgstr "建立者"
+msgid ""
+"{code} Not Found page here {count, plural, =0 {no new messages} one {1 new "
+"message} other {{count} new messages}}"
+msgstr ""
+"{code} 不发现页面在这里 {count, plural, =0 {没有新邮件} one {1 封新邮件} "
+"other {{count} 新消息}}"
