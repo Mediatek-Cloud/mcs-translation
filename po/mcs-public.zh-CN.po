@@ -27,10 +27,20 @@ msgstr "建立者"
 msgid "Description"
 msgstr "简介"
 
+#. [App.errorButton] - Click error Button
+#: _translations/src/containers/App/App.json
+msgid "Go to MCS website"
+msgstr "前往 MCS 网站"
+
 #. [Device.hardwarePlatform] - Hardware platform
 #: _translations/src/containers/Device/messages.json
 msgid "Hardware platform"
 msgstr "硬件平台"
+
+#. [App.errorMessage] - The error message when api response as 404 not found
+#: _translations/src/containers/App/App.json
+msgid "The device is now private or deleted."
+msgstr "此装置已不公开或已遭删除。"
 
 #. [Device.version] - Version
 #: _translations/src/containers/Device/messages.json
