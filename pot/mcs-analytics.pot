@@ -1,0 +1,29 @@
+#: ./_translations/src/containers/Device/messages.json
+#. [Device.createYourOwnDevice] - Create your own device
+msgid "Create your own device"
+msgstr ""
+
+#: ./_translations/src/containers/Device/messages.json
+#. [Device.creator] - Creator
+msgid "Creator"
+msgstr ""
+
+#: ./_translations/src/containers/Device/messages.json
+#. [Device.description] - Description
+msgid "Description"
+msgstr ""
+
+#: ./_translations/src/containers/Device/messages.json
+#. [Device.hardwarePlatform] - Hardware platform
+msgid "Hardware platform"
+msgstr ""
+
+#: ./_translations/src/containers/Device/messages.json
+#. [Device.version] - Version
+msgid "Version"
+msgstr ""
+
+#: ./_translations/src/containers/NotFound/messages.json
+#. [NotFound.notFoundPage] - 404 Not Found page here
+msgid "{code} Not Found page here {count, plural, =0 {no new messages} one {1 new message} other {{count} new messages}}"
+msgstr ""
