@@ -143,7 +143,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:286
+#: mydevices/detail.html:294
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -540,8 +540,6 @@ msgstr ""
 
 #: controllers/devices/detail.js:190
 #: management/DeviceListManagement/DeviceRow.js:220
-#: mydevices/detail.html:221
-#: mydevices/detail.html:233
 #: profile/detail/serviceprovider.html:66
 #: profile/detail/serviceprovider.html:83
 msgid "Copy"
@@ -636,7 +634,7 @@ msgstr ""
 #: development/detail.html:196
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:253
+#: mydevices/detail.html:261
 msgid "Data channel"
 msgstr ""
 
@@ -974,7 +972,7 @@ msgstr ""
 #: development/detail.html:215
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:274
+#: mydevices/detail.html:282
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -2306,7 +2304,7 @@ msgstr ""
 
 #: development/detail.html:203
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:260
+#: mydevices/detail.html:268
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2440,7 +2438,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:208
-#: mydevices/detail.html:267
+#: mydevices/detail.html:275
 msgid "User privileges"
 msgstr ""
 
