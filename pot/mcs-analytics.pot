@@ -1,36 +1,11 @@
-#: ./_translations/src/containers/Device/messages.json
-#. [Device.createYourOwnDevice] - Create your own device
-msgid "Create your own device"
-msgstr ""
-
-#: ./_translations/src/containers/Device/messages.json
-#. [Device.creator] - Creator
-msgid "Creator"
-msgstr ""
-
-#: ./_translations/src/containers/Device/messages.json
-#. [Device.description] - Description
-msgid "Description"
-msgstr ""
-
 #: ./_translations/src/containers/App/App.json
 #. [App.errorButton] - Click error Button
 msgid "Go to MCS website"
 msgstr ""
 
-#: ./_translations/src/containers/Device/messages.json
-#. [Device.hardwarePlatform] - Hardware platform
-msgid "Hardware platform"
-msgstr ""
-
 #: ./_translations/src/containers/App/App.json
 #. [App.errorMessage] - The error message when api response as 404 not found
 msgid "The device is now private or deleted."
-msgstr ""
-
-#: ./_translations/src/containers/Device/messages.json
-#. [Device.version] - Version
-msgid "Version"
 msgstr ""
 
 #: ./_translations/src/containers/NotFound/messages.json
