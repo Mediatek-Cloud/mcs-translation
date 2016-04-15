@@ -56,7 +56,7 @@ msgstr ""
 msgid "1. {{count}} test devices"
 msgstr ""
 
-#: main.js:375
+#: main.js:376
 msgid "1010"
 msgstr ""
 
@@ -393,7 +393,7 @@ msgstr ""
 #: development/dialogs/trigger/edit.html:394
 #: development/dialogs/userPrivilege.html:97
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:379
+#: main.js:380
 #: management/DeviceListManagement/index.js:143
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:82
@@ -504,7 +504,7 @@ msgstr ""
 msgid "Clone from existing prototype"
 msgstr ""
 
-#: main.js:346
+#: main.js:347
 msgid "Close"
 msgstr ""
 
@@ -673,7 +673,7 @@ msgstr ""
 #: controllers/development/detail.js:115
 #: development/detail/components.html:139
 #: development/index.html:139
-#: main.js:378
+#: main.js:379
 #: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:105
 #: mydevices/index.html:120
@@ -691,7 +691,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:376
+#: main.js:377
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -754,7 +754,7 @@ msgstr ""
 msgid "Device"
 msgstr ""
 
-#: main.js:377
+#: main.js:378
 msgid "Device Title"
 msgstr ""
 
@@ -1817,8 +1817,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:345
-#: main.js:355
+#: main.js:346
+#: main.js:356
 msgid "Please try again!"
 msgstr ""
 
@@ -1903,7 +1903,7 @@ msgstr ""
 
 #: development/dialogs/createProducts.html:229
 #: development/dialogs/editProducts.html:196
-msgid "Recommended 300 x 160 pixels."
+msgid "Recommended 1836 X 980 pixels."
 msgstr ""
 
 #: development/detail/testdevicelist.html:11
@@ -2139,8 +2139,8 @@ msgstr ""
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
-#: main.js:343
-#: main.js:360
+#: main.js:344
+#: main.js:361
 msgid "Success!"
 msgstr ""
 
@@ -2814,8 +2814,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:353
-#: main.js:367
+#: main.js:354
+#: main.js:368
 msgid "notice"
 msgstr ""
 
