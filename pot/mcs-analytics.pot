@@ -4,8 +4,8 @@ msgid "Go to MCS website"
 msgstr ""
 
 #: ./_translations/src/containers/App/App.json
-#. [App.errorMessage] - The error message when api response as 404 not found
-msgid "The device is now private or deleted."
+#. [App.errorMessage] - The error message when api response as 401
+msgid "You don't have permission!"
 msgstr ""
 
 #: ./_translations/src/containers/NotFound/messages.json
