@@ -60,11 +60,11 @@ msgstr ""
 msgid "1010"
 msgstr ""
 
-#: factories/components.js:964
+#: factories/components.js:967
 msgid "1280x960 - 1 Megapixel"
 msgstr ""
 
-#: factories/components.js:967
+#: factories/components.js:970
 msgid "1MB"
 msgstr ""
 
@@ -86,15 +86,15 @@ msgstr ""
 msgid "3. {{count}} email notification device/day"
 msgstr ""
 
-#: factories/components.js:938
+#: factories/components.js:941
 msgid "30fps"
 msgstr ""
 
-#: factories/components.js:935
+#: factories/components.js:938
 msgid "320x240"
 msgstr ""
 
-#: factories/components.js:941
+#: factories/components.js:944
 msgid "3GB video view / per device / per month"
 msgstr ""
 
@@ -357,11 +357,11 @@ msgstr ""
 msgid "Between"
 msgstr ""
 
-#: factories/components.js:822
+#: factories/components.js:825
 msgid "Button A"
 msgstr ""
 
-#: factories/components.js:827
+#: factories/components.js:830
 msgid "Button B"
 msgstr ""
 
@@ -841,10 +841,10 @@ msgstr ""
 msgid "Done"
 msgstr ""
 
-#: factories/components.js:804
-#: factories/components.js:843
-#: factories/components.js:875
-#: factories/components.js:904
+#: factories/components.js:807
+#: factories/components.js:846
+#: factories/components.js:878
+#: factories/components.js:907
 msgid "Down"
 msgstr ""
 
@@ -962,7 +962,7 @@ msgstr ""
 msgid "Failure!"
 msgstr ""
 
-#: factories/components.js:960
+#: factories/components.js:963
 msgid "File type supported"
 msgstr ""
 
@@ -1115,7 +1115,7 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: factories/components.js:966
+#: factories/components.js:969
 msgid "Image size limits"
 msgstr ""
 
@@ -1285,16 +1285,16 @@ msgstr ""
 msgid "Input the unit name"
 msgstr ""
 
-#: factories/components.js:800
-#: factories/components.js:806
-#: factories/components.js:812
-#: factories/components.js:818
-#: factories/components.js:824
-#: factories/components.js:829
-#: factories/components.js:871
-#: factories/components.js:877
-#: factories/components.js:883
-#: factories/components.js:889
+#: factories/components.js:803
+#: factories/components.js:809
+#: factories/components.js:815
+#: factories/components.js:821
+#: factories/components.js:827
+#: factories/components.js:832
+#: factories/components.js:874
+#: factories/components.js:880
+#: factories/components.js:886
+#: factories/components.js:892
 msgid "Input value"
 msgstr ""
 
@@ -1330,7 +1330,7 @@ msgstr ""
 msgid "Integer only"
 msgstr ""
 
-#: factories/components.js:961
+#: factories/components.js:964
 msgid "JPG, JPEG, PNG"
 msgstr ""
 
@@ -1451,10 +1451,10 @@ msgstr ""
 msgid "Latitude:"
 msgstr ""
 
-#: factories/components.js:810
-#: factories/components.js:844
-#: factories/components.js:881
-#: factories/components.js:905
+#: factories/components.js:813
+#: factories/components.js:847
+#: factories/components.js:884
+#: factories/components.js:908
 msgid "Left"
 msgstr ""
 
@@ -1495,7 +1495,7 @@ msgstr ""
 msgid "Lowerbound"
 msgstr ""
 
-#: factories/components.js:932
+#: factories/components.js:935
 msgid "MPEG1"
 msgstr ""
 
@@ -1534,12 +1534,12 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: factories/components.js:937
+#: factories/components.js:940
 msgid "Maximum fps supported"
 msgstr ""
 
-#: factories/components.js:934
-#: factories/components.js:963
+#: factories/components.js:937
+#: factories/components.js:966
 msgid "Maximum resolution supported"
 msgstr ""
 
@@ -1793,8 +1793,8 @@ msgstr ""
 msgid "Please enter a valid email address."
 msgstr ""
 
-#: factories/components.js:850
-#: factories/components.js:911
+#: factories/components.js:853
+#: factories/components.js:914
 #: services/validator.js:33
 #: services/validator.js:63
 msgid "Please input {{key}}."
@@ -1956,10 +1956,10 @@ msgstr ""
 msgid "Retrieve data points"
 msgstr ""
 
-#: factories/components.js:816
-#: factories/components.js:845
-#: factories/components.js:887
-#: factories/components.js:906
+#: factories/components.js:819
+#: factories/components.js:848
+#: factories/components.js:890
+#: factories/components.js:909
 msgid "Right"
 msgstr ""
 
@@ -2071,8 +2071,8 @@ msgid "Show History"
 msgstr ""
 
 #: factories/components.js:776
-#: factories/components.js:832
-#: factories/components.js:893
+#: factories/components.js:835
+#: factories/components.js:896
 msgid "Show current value"
 msgstr ""
 
@@ -2355,10 +2355,10 @@ msgstr ""
 msgid "UnitTypes"
 msgstr ""
 
-#: factories/components.js:798
-#: factories/components.js:842
-#: factories/components.js:869
-#: factories/components.js:903
+#: factories/components.js:801
+#: factories/components.js:845
+#: factories/components.js:872
+#: factories/components.js:906
 msgid "Up"
 msgstr ""
 
@@ -2408,7 +2408,7 @@ msgstr ""
 msgid "Upperbound"
 msgstr ""
 
-#: factories/components.js:940
+#: factories/components.js:943
 msgid "Usage limitation"
 msgstr ""
 
@@ -2468,7 +2468,7 @@ msgstr ""
 msgid "Video Stream"
 msgstr ""
 
-#: factories/components.js:931
+#: factories/components.js:934
 msgid "Video format"
 msgstr ""
 
