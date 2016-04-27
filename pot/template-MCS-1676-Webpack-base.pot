@@ -2552,7 +2552,7 @@ msgstr ""
 
 #: controllers/development/index.js:189
 #: controllers/development/index.js:264
-#: controllers/devices/index.js:86
+#: controllers/devices/index.js:90
 msgid "You do not have permission"
 msgstr ""
 
@@ -2857,7 +2857,7 @@ msgstr ""
 #: controllers/development/index.js:255
 #: controllers/devices/detail.js:177
 #: controllers/devices/detail.js:403
-#: controllers/devices/index.js:77
+#: controllers/devices/index.js:81
 msgid "success."
 msgstr ""
 
