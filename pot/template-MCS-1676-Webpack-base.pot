@@ -914,6 +914,10 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
+#: mydevices/detail/components.html:123
+msgid "Embed"
+msgstr ""
+
 #: controllers/devices/detail.js:237
 msgid "Embed code"
 msgstr ""
