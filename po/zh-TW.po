@@ -64,11 +64,11 @@ msgstr "1. {{count}} 個測試裝置"
 msgid "1010"
 msgstr "1010"
 
-#: factories/components.js:964
+#: factories/components.js:967
 msgid "1280x960 - 1 Megapixel"
 msgstr "1280x960 - 一百萬像素"
 
-#: factories/components.js:967
+#: factories/components.js:970
 msgid "1MB"
 msgstr "1MB"
 
@@ -92,15 +92,15 @@ msgstr "3. 使用者若已超過限制數量，將不能再建立新的裝置。
 msgid "3. {{count}} email notification device/day"
 msgstr "3. 每天 {{count}} 封電子郵件通知"
 
-#: factories/components.js:938
+#: factories/components.js:941
 msgid "30fps"
 msgstr "30fps"
 
-#: factories/components.js:935
+#: factories/components.js:938
 msgid "320x240"
 msgstr "320x240"
 
-#: factories/components.js:941
+#: factories/components.js:944
 msgid "3GB video view / per device / per month"
 msgstr "每個裝置每月 3GB 影像串流限制"
 
@@ -361,11 +361,11 @@ msgstr "Beta released"
 msgid "Between"
 msgstr "之間"
 
-#: factories/components.js:822
+#: factories/components.js:825
 msgid "Button A"
 msgstr "A 鍵"
 
-#: factories/components.js:827
+#: factories/components.js:830
 msgid "Button B"
 msgstr "B 鍵"
 
@@ -824,8 +824,8 @@ msgstr "您要立即創建裝置嗎？"
 msgid "Done"
 msgstr "完成"
 
-#: factories/components.js:804 factories/components.js:843
-#: factories/components.js:875 factories/components.js:904
+#: factories/components.js:807 factories/components.js:846
+#: factories/components.js:878 factories/components.js:907
 msgid "Down"
 msgstr "下"
 
@@ -892,6 +892,10 @@ msgstr "電子郵件帳號"
 msgid "Email trigger"
 msgstr "電子郵件通知"
 
+#: mydevices/detail/components.html:123
+msgid "Embed"
+msgstr "崁入"
+
 #: controllers/devices/detail.js:237
 msgid "Embed code"
 msgstr "崁入碼"
@@ -940,7 +944,7 @@ msgstr "匯出"
 msgid "Failure!"
 msgstr "錯誤！"
 
-#: factories/components.js:960
+#: factories/components.js:963
 msgid "File type supported"
 msgstr "支援的檔案類型"
 
@@ -1088,7 +1092,7 @@ msgstr "綜合型控制顯示器"
 msgid "Image"
 msgstr "圖片"
 
-#: factories/components.js:966
+#: factories/components.js:969
 msgid "Image size limits"
 msgstr "圖片大小限制"
 
@@ -1265,11 +1269,11 @@ msgstr "輸入觸發條件名稱"
 msgid "Input the unit name"
 msgstr "輸入單位名稱"
 
-#: factories/components.js:800 factories/components.js:806
-#: factories/components.js:812 factories/components.js:818
-#: factories/components.js:824 factories/components.js:829
-#: factories/components.js:871 factories/components.js:877
-#: factories/components.js:883 factories/components.js:889
+#: factories/components.js:803 factories/components.js:809
+#: factories/components.js:815 factories/components.js:821
+#: factories/components.js:827 factories/components.js:832
+#: factories/components.js:874 factories/components.js:880
+#: factories/components.js:886 factories/components.js:892
 msgid "Input value"
 msgstr "輸入值"
 
@@ -1300,7 +1304,7 @@ msgstr "整數"
 msgid "Integer only"
 msgstr "只接受整數"
 
-#: factories/components.js:961
+#: factories/components.js:964
 msgid "JPG, JPEG, PNG"
 msgstr "JPG, JPEG, PNG"
 
@@ -1392,8 +1396,8 @@ msgstr "緯度"
 msgid "Latitude:"
 msgstr "緯度："
 
-#: factories/components.js:810 factories/components.js:844
-#: factories/components.js:881 factories/components.js:905
+#: factories/components.js:813 factories/components.js:847
+#: factories/components.js:884 factories/components.js:908
 msgid "Left"
 msgstr "左"
 
@@ -1431,7 +1435,7 @@ msgstr "小於"
 msgid "Lowerbound"
 msgstr "下限"
 
-#: factories/components.js:932
+#: factories/components.js:935
 msgid "MPEG1"
 msgstr "MPEG1"
 
@@ -1467,11 +1471,11 @@ msgstr "手動輸入"
 msgid "Manually enter serial numbers"
 msgstr "手動輸入序號"
 
-#: factories/components.js:937
+#: factories/components.js:940
 msgid "Maximum fps supported"
 msgstr "最大支援 fps 值"
 
-#: factories/components.js:934 factories/components.js:963
+#: factories/components.js:937 factories/components.js:966
 msgid "Maximum resolution supported"
 msgstr "最大支援解析度值"
 
@@ -1708,7 +1712,7 @@ msgstr "請確認是否要發佈這個產品原型。"
 msgid "Please enter a valid email address."
 msgstr "請輸入有效的電子郵件。"
 
-#: factories/components.js:850 factories/components.js:911
+#: factories/components.js:853 factories/components.js:914
 #: services/validator.js:33 services/validator.js:63
 msgid "Please input {{key}}."
 msgstr "請輸入 {{key}}"
@@ -1863,8 +1867,8 @@ msgstr "回復默認值"
 msgid "Retrieve data points"
 msgstr "取得資料點"
 
-#: factories/components.js:816 factories/components.js:845
-#: factories/components.js:887 factories/components.js:906
+#: factories/components.js:819 factories/components.js:848
+#: factories/components.js:890 factories/components.js:909
 msgid "Right"
 msgstr "右"
 
@@ -1984,8 +1988,8 @@ msgstr "服務提供者專區"
 msgid "Show History"
 msgstr "打開歷史資料"
 
-#: factories/components.js:776 factories/components.js:832
-#: factories/components.js:893
+#: factories/components.js:776 factories/components.js:835
+#: factories/components.js:896
 msgid "Show current value"
 msgstr "顯示當前數值"
 
@@ -2260,8 +2264,8 @@ msgstr "單位符號"
 msgid "UnitTypes"
 msgstr "單位"
 
-#: factories/components.js:798 factories/components.js:842
-#: factories/components.js:869 factories/components.js:903
+#: factories/components.js:801 factories/components.js:845
+#: factories/components.js:872 factories/components.js:906
 msgid "Up"
 msgstr "上"
 
@@ -2306,7 +2310,7 @@ msgstr "上傳中..."
 msgid "Upperbound"
 msgstr "上限"
 
-#: factories/components.js:940
+#: factories/components.js:943
 msgid "Usage limitation"
 msgstr "用量限制"
 
@@ -2361,7 +2365,7 @@ msgstr "版本不能為空。"
 msgid "Video Stream"
 msgstr "影像串流"
 
-#: factories/components.js:931
+#: factories/components.js:934
 msgid "Video format"
 msgstr "影像格式"
 
@@ -2474,7 +2478,7 @@ msgstr ""
 "型並且建立裝置，才能在此管理頁面中看到且管理這些發已發佈的裝置。"
 
 #: controllers/development/index.js:189 controllers/development/index.js:264
-#: controllers/devices/index.js:86
+#: controllers/devices/index.js:90
 msgid "You do not have permission"
 msgstr "您沒有權限"
 
@@ -2778,7 +2782,7 @@ msgstr "儲存"
 #: controllers/development/detail.js:375 controllers/development/detail.js:418
 #: controllers/development/index.js:222 controllers/development/index.js:255
 #: controllers/devices/detail.js:177 controllers/devices/detail.js:403
-#: controllers/devices/index.js:77
+#: controllers/devices/index.js:81
 msgid "success."
 msgstr "成功。"
 
