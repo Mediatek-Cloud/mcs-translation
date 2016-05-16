@@ -349,7 +349,7 @@ msgstr ""
 msgid "Beta release"
 msgstr ""
 
-#: development/index.html:160
+#: development/index.html:161
 msgid "Beta released"
 msgstr ""
 
@@ -380,7 +380,7 @@ msgstr ""
 #: development/dialogs/createDeviceFail.html:30
 #: development/dialogs/createDeviceNotice.html:32
 #: development/dialogs/createProducts.html:272
-#: development/dialogs/createTestDevice.html:69
+#: development/dialogs/createTestDevice.html:71
 #: development/dialogs/deleteConfirm.html:28
 #: development/dialogs/deleteDataChannel.html:29
 #: development/dialogs/editComponent.html:179
@@ -541,7 +541,7 @@ msgid "Copy"
 msgstr ""
 
 #: development/dialogs/createDevice.html:188
-#: development/dialogs/createTestDevice.html:75
+#: development/dialogs/createTestDevice.html:77
 #: development/index.html:96
 msgid "Create"
 msgstr ""
@@ -671,7 +671,7 @@ msgstr ""
 
 #: controllers/development/detail.js:157
 #: development/detail/components.html:140
-#: development/index.html:139
+#: development/index.html:140
 #: main.js:408
 #: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:105
@@ -712,7 +712,7 @@ msgid "Description"
 msgstr ""
 
 #: dashboard/numberofused.html:6
-#: development/index.html:176
+#: development/index.html:177
 #: mydevices/index.html:148
 msgid "Detail"
 msgstr ""
@@ -746,7 +746,7 @@ msgstr ""
 
 #: dashboard/numberofused.html:27
 #: development/dialogs/createDevice.html:44
-#: development/index.html:166
+#: development/index.html:167
 #: limitation/index.html:88
 #: management/DeviceListManagement/index.js:190
 msgid "Device"
@@ -959,6 +959,7 @@ msgid "Exit"
 msgstr ""
 
 #: controllers/development/detail.js:154
+#: development/index.html:139
 msgid "Export"
 msgstr ""
 
@@ -1872,7 +1873,7 @@ msgstr ""
 msgid "Prototype name"
 msgstr ""
 
-#: development/index.html:162
+#: development/index.html:163
 msgid "Prototype state"
 msgstr ""
 
@@ -1914,7 +1915,7 @@ msgstr ""
 
 #: development/dialogs/createProducts.html:229
 #: development/dialogs/editProducts.html:196
-msgid "Recommended 300 x 160 pixels."
+msgid "Recommended 1836 X 980 pixels."
 msgstr ""
 
 #: development/detail/testdevicelist.html:11
@@ -2100,8 +2101,8 @@ msgstr ""
 #: dashboard/overview.html:45
 #: development/detail.html:149
 #: development/detail.html:151
-#: development/index.html:157
-#: development/index.html:160
+#: development/index.html:158
+#: development/index.html:161
 #: mydevices/detail.html:142
 msgid "Status"
 msgstr ""
@@ -2189,7 +2190,7 @@ msgstr ""
 #: development/detail.html:179
 #: development/detail.html:220
 #: development/dialogs/createDevice.html:32
-#: development/index.html:165
+#: development/index.html:166
 msgid "Test device"
 msgstr ""
 
@@ -2456,7 +2457,7 @@ msgstr ""
 #: development/detail/firmware.html:9
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:19
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:18
-#: development/index.html:154
+#: development/index.html:155
 #: mydevices/detail.html:85
 #: mydevices/detail.html:91
 #: mydevices/detail/firmware.html:16
@@ -2554,14 +2555,14 @@ msgstr ""
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
-#: controllers/development/index.js:189
-#: controllers/development/index.js:264
+#: controllers/development/index.js:204
+#: controllers/development/index.js:279
 #: controllers/devices/index.js:90
 msgid "You do not have permission"
 msgstr ""
 
 #: controllers/development/detail.js:1041
-#: controllers/development/index.js:142
+#: controllers/development/index.js:157
 msgid "You have cloned the"
 msgstr ""
 
@@ -2736,7 +2737,7 @@ msgid "file cannot be null!"
 msgstr ""
 
 #: controllers/development/detail.js:1041
-#: controllers/development/index.js:142
+#: controllers/development/index.js:157
 msgid "from"
 msgstr ""
 
@@ -2857,8 +2858,8 @@ msgstr ""
 #: controllers/development/detail.js:290
 #: controllers/development/detail.js:375
 #: controllers/development/detail.js:418
-#: controllers/development/index.js:222
-#: controllers/development/index.js:255
+#: controllers/development/index.js:237
+#: controllers/development/index.js:270
 #: controllers/devices/detail.js:177
 #: controllers/devices/detail.js:403
 #: controllers/devices/index.js:81
@@ -2866,7 +2867,7 @@ msgid "success."
 msgstr ""
 
 #: controllers/development/detail.js:1041
-#: controllers/development/index.js:142
+#: controllers/development/index.js:157
 msgid "successfully."
 msgstr ""
 
