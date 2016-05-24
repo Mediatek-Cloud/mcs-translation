@@ -465,7 +465,7 @@ msgstr ""
 msgid "Choose the industry"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:167
+#: components/InputCodeBlock/InputCodeBlock.js:169
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -717,12 +717,16 @@ msgstr ""
 msgid "Detail"
 msgstr ""
 
-#: dashboard/quickresources.html:14
+#: dashboard/quickresources.html:16
 msgid "Develop with LinkIt Connect 7681"
 msgstr ""
 
-#: dashboard/quickresources.html:12
+#: dashboard/quickresources.html:14
 msgid "Develop with LinkIt ONE"
+msgstr ""
+
+#: dashboard/quickresources.html:12
+msgid "Develop with LinkIt Smart 7688"
 msgstr ""
 
 #: dashboard/quickresources.html:9
@@ -1038,11 +1042,11 @@ msgstr ""
 msgid "Get started now"
 msgstr ""
 
-#: dashboard/quickresources.html:19
+#: dashboard/quickresources.html:21
 msgid "Go to Android mobile app"
 msgstr ""
 
-#: dashboard/quickresources.html:18
+#: dashboard/quickresources.html:20
 msgid "Go to MediaTek Labs"
 msgstr ""
 
@@ -1050,7 +1054,7 @@ msgstr ""
 msgid "Go to detail"
 msgstr ""
 
-#: dashboard/quickresources.html:20
+#: dashboard/quickresources.html:22
 msgid "Go to forum"
 msgstr ""
 
@@ -1131,7 +1135,7 @@ msgstr ""
 msgid "Image upload"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:163
+#: components/InputCodeBlock/InputCodeBlock.js:165
 msgid "Import prototype: Paste JSON here"
 msgstr ""
 
@@ -2663,7 +2667,7 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:165
+#: components/InputCodeBlock/InputCodeBlock.js:167
 msgid "browse"
 msgstr ""
 
@@ -2831,7 +2835,7 @@ msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:164
+#: components/InputCodeBlock/InputCodeBlock.js:166
 msgid "or"
 msgstr ""
 
@@ -2875,7 +2879,7 @@ msgstr ""
 msgid "title"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:166
+#: components/InputCodeBlock/InputCodeBlock.js:168
 msgid "to upload"
 msgstr ""
 
