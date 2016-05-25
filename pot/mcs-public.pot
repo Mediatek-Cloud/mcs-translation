@@ -13,6 +13,11 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
+#: ./_translations/src/containers/Device/messages.json
+#. [Device.help] - Help message for create your own device
+msgid "Do you find this public device interesting to you? Click to create a same test device that belongs to you. After log in, you will automatically get a prototype and a test device created that is the same as this public device you are viewing now."
+msgstr ""
+
 #: ./_translations/src/containers/App/App.json
 #. [App.errorButton] - Click error Button
 msgid "Go to MCS website"
