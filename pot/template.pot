@@ -465,7 +465,7 @@ msgstr ""
 msgid "Choose the industry"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:169
+#: components/InputCodeBlock/InputCodeBlock.js:173
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -534,6 +534,7 @@ msgid "Controller"
 msgstr ""
 
 #: controllers/devices/detail.js:190
+#: controllers/profile/index.js:286
 #: management/DeviceListManagement/DeviceRow.js:220
 msgid "Copy"
 msgstr ""
@@ -1139,7 +1140,7 @@ msgstr ""
 msgid "Image upload"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:165
+#: components/InputCodeBlock/InputCodeBlock.js:169
 msgid "Import prototype: Paste JSON here"
 msgstr ""
 
@@ -2683,7 +2684,7 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:167
+#: components/InputCodeBlock/InputCodeBlock.js:171
 msgid "browse"
 msgstr ""
 
@@ -2852,7 +2853,7 @@ msgid_plural "of {{limit}} Devices"
 msgstr[0] ""
 msgstr[1] ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:166
+#: components/InputCodeBlock/InputCodeBlock.js:170
 msgid "or"
 msgstr ""
 
@@ -2896,7 +2897,7 @@ msgstr ""
 msgid "title"
 msgstr ""
 
-#: components/InputCodeBlock/InputCodeBlock.js:168
+#: components/InputCodeBlock/InputCodeBlock.js:172
 msgid "to upload"
 msgstr ""
 
