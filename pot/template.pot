@@ -32,12 +32,12 @@ msgstr ""
 msgid "+ Add firmware"
 msgstr ""
 
-#: controllers/development/detail.js:144
+#: controllers/development/detail.js:145
 #: development/detail/testdevicelist.html:59
 msgid "+ Add test device"
 msgstr ""
 
-#: controllers/development/detail.js:140
+#: controllers/development/detail.js:141
 #: development/detail/trigger.html:78
 msgid "+ Add trigger & action"
 msgstr ""
@@ -158,12 +158,12 @@ msgstr ""
 msgid "API type"
 msgstr ""
 
-#: controllers/development/detail.js:127
+#: controllers/development/detail.js:128
 msgid "Account limitation reached. You cannot create more devices."
 msgstr ""
 
-#: controllers/development/detail.js:131
-#: controllers/development/detail.js:143
+#: controllers/development/detail.js:132
+#: controllers/development/detail.js:144
 msgid "Account limitation reached. You cannot create more test devices."
 msgstr ""
 
@@ -176,11 +176,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1338
+#: controllers/development/detail.js:1336
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1343
+#: controllers/development/detail.js:1341
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -197,7 +197,7 @@ msgstr ""
 msgid "Activated rate"
 msgstr ""
 
-#: controllers/development/detail.js:136
+#: controllers/development/detail.js:137
 #: development/detail/components.html:29
 #: development/dialogs/addComponent.html:31
 #: development/dialogs/addComponent.html:58
@@ -489,7 +489,7 @@ msgstr ""
 msgid "Click to copy the activation code"
 msgstr ""
 
-#: controllers/development/detail.js:151
+#: controllers/development/detail.js:152
 #: development/dialogs/cloneProduct.html:61
 #: development/index.html:138
 msgid "Clone"
@@ -549,11 +549,11 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: controllers/development/detail.js:728
+#: controllers/development/detail.js:726
 msgid "Create as public device"
 msgstr ""
 
-#: controllers/development/detail.js:128
+#: controllers/development/detail.js:129
 #: development/detail.html:89
 #: development/dialogs/createDevice.html:6
 msgid "Create device"
@@ -571,7 +571,7 @@ msgstr ""
 msgid "Create prototype"
 msgstr ""
 
-#: controllers/development/detail.js:132
+#: controllers/development/detail.js:133
 #: development/detail.html:71
 #: development/dialogs/createTestDevice.html:6
 msgid "Create test device"
@@ -600,7 +600,7 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1328
+#: controllers/development/detail.js:1326
 msgid "Criteria Value should be in numeric format!"
 msgstr ""
 
@@ -621,11 +621,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:559
+#: controllers/development/detail.js:557
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:562
+#: controllers/development/detail.js:560
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -644,11 +644,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:625
+#: controllers/development/detail.js:623
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1326
+#: controllers/development/detail.js:1324
 msgid "Data channel is required!"
 msgstr ""
 
@@ -668,7 +668,7 @@ msgstr ""
 msgid "Data type"
 msgstr ""
 
-#: controllers/development/detail.js:157
+#: controllers/development/detail.js:158
 #: development/detail/components.html:149
 #: development/index.html:140
 #: main.js:435
@@ -787,7 +787,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:736
+#: controllers/development/detail.js:734
 msgid "Device name cannot null."
 msgstr ""
 
@@ -868,7 +868,7 @@ msgstr ""
 msgid "EX:100(only input integer)"
 msgstr ""
 
-#: controllers/development/detail.js:180
+#: controllers/development/detail.js:181
 #: development/detail/components.html:142
 #: development/detail/manufacturerinfo.html:11
 #: development/index.html:137
@@ -965,12 +965,12 @@ msgstr ""
 msgid "Exit"
 msgstr ""
 
-#: controllers/development/detail.js:154
+#: controllers/development/detail.js:155
 #: development/index.html:139
 msgid "Export"
 msgstr ""
 
-#: controllers/development/detail.js:84
+#: controllers/development/detail.js:85
 msgid "Failure!"
 msgstr ""
 
@@ -1195,20 +1195,20 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1549
+#: controllers/development/detail.js:1547
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1542
+#: controllers/development/detail.js:1540
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1535
+#: controllers/development/detail.js:1533
 #: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1564
+#: controllers/development/detail.js:1562
 msgid "Input the data type"
 msgstr ""
 
@@ -1518,7 +1518,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1373
+#: controllers/development/detail.js:1371
 #: controllers/devices/detail.js:99
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1621,8 +1621,8 @@ msgstr ""
 msgid "Name cannot be null."
 msgstr ""
 
-#: controllers/development/detail.js:273
-#: controllers/development/detail.js:556
+#: controllers/development/detail.js:271
+#: controllers/development/detail.js:554
 msgid "Name cannot null"
 msgstr ""
 
@@ -1797,7 +1797,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1489
+#: controllers/development/detail.js:1487
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1805,7 +1805,7 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:885
+#: controllers/development/detail.js:883
 msgid "Please choose a file to upload"
 msgstr ""
 
@@ -2160,7 +2160,7 @@ msgstr ""
 msgid "Success"
 msgstr ""
 
-#: controllers/development/detail.js:83
+#: controllers/development/detail.js:84
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
@@ -2351,7 +2351,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1319
+#: controllers/development/detail.js:1317
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2590,7 +2590,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:1061
+#: controllers/development/detail.js:1059
 #: controllers/development/index.js:157
 msgid "You have cloned the"
 msgstr ""
@@ -2611,7 +2611,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:565
+#: controllers/development/detail.js:563
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -2660,11 +2660,11 @@ msgstr ""
 msgid "Your prototype is beta-released."
 msgstr ""
 
-#: controllers/development/detail.js:135
+#: controllers/development/detail.js:136
 msgid "Your prototype is beta-released. You can no longer make change to the data channel."
 msgstr ""
 
-#: controllers/development/detail.js:139
+#: controllers/development/detail.js:140
 msgid "Your prototype is beta-released. You can no longer make change to the trigger and action rules."
 msgstr ""
 
@@ -2762,11 +2762,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:947
+#: controllers/development/detail.js:945
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:1061
+#: controllers/development/detail.js:1059
 #: controllers/development/index.js:157
 msgid "from"
 msgstr ""
@@ -2833,7 +2833,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:939
+#: controllers/development/detail.js:937
 msgid "name cannot be null!"
 msgstr ""
 
@@ -2882,12 +2882,12 @@ msgstr ""
 msgid "save"
 msgstr ""
 
-#: controllers/development/detail.js:1299
-#: controllers/development/detail.js:1307
-#: controllers/development/detail.js:286
-#: controllers/development/detail.js:306
-#: controllers/development/detail.js:391
-#: controllers/development/detail.js:434
+#: controllers/development/detail.js:1297
+#: controllers/development/detail.js:1305
+#: controllers/development/detail.js:284
+#: controllers/development/detail.js:304
+#: controllers/development/detail.js:389
+#: controllers/development/detail.js:432
 #: controllers/development/index.js:237
 #: controllers/development/index.js:270
 #: controllers/devices/detail.js:177
@@ -2896,7 +2896,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:1061
+#: controllers/development/detail.js:1059
 #: controllers/development/index.js:157
 msgid "successfully."
 msgstr ""
@@ -2934,7 +2934,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:943
+#: controllers/development/detail.js:941
 msgid "version cannot be null!"
 msgstr ""
 
