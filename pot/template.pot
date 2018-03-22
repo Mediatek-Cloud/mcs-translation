@@ -56,7 +56,7 @@ msgstr ""
 msgid "1. {{count}} test devices"
 msgstr ""
 
-#: main.js:432
+#: main.js:442
 msgid "1010"
 msgstr ""
 
@@ -353,7 +353,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:653
+#: services/products/main.js:654
 msgid "Between"
 msgstr ""
 
@@ -393,7 +393,7 @@ msgstr ""
 #: development/dialogs/trigger/add.html:406
 #: development/dialogs/trigger/edit.html:394
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:436
+#: main.js:446
 #: management/DeviceListManagement/index.js:143
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:82
@@ -499,7 +499,7 @@ msgstr ""
 msgid "Clone from existing prototype"
 msgstr ""
 
-#: main.js:403
+#: main.js:413
 msgid "Close"
 msgstr ""
 
@@ -671,7 +671,7 @@ msgstr ""
 #: controllers/development/detail.js:158
 #: development/detail/components.html:149
 #: development/index.html:140
-#: main.js:435
+#: main.js:445
 #: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:105
 #: mydevices/index.html:120
@@ -689,7 +689,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:433
+#: main.js:443
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -755,7 +755,7 @@ msgstr ""
 msgid "Device"
 msgstr ""
 
-#: main.js:434
+#: main.js:444
 msgid "Device Title"
 msgstr ""
 
@@ -941,7 +941,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:649
+#: services/products/main.js:650
 msgid "Equal to"
 msgstr ""
 
@@ -1072,7 +1072,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:641
+#: services/products/main.js:642
 msgid "Greater than"
 msgstr ""
 
@@ -1111,9 +1111,9 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:677
-#: services/products/main.js:686
-#: services/products/main.js:704
+#: services/products/main.js:678
+#: services/products/main.js:687
+#: services/products/main.js:705
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
@@ -1166,7 +1166,7 @@ msgstr ""
 msgid "Input hint"
 msgstr ""
 
-#: services/products/main.js:695
+#: services/products/main.js:696
 msgid "Input the Url."
 msgstr ""
 
@@ -1174,7 +1174,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:670
+#: services/products/main.js:671
 msgid "Input the action title"
 msgstr ""
 
@@ -1186,12 +1186,12 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:685
-#: services/products/main.js:703
+#: services/products/main.js:686
+#: services/products/main.js:704
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:676
+#: services/products/main.js:677
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
@@ -1499,7 +1499,7 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:645
+#: services/products/main.js:646
 msgid "Lower than"
 msgstr ""
 
@@ -1828,7 +1828,7 @@ msgstr ""
 msgid "Please select application."
 msgstr ""
 
-#: services/products/main.js:384
+#: services/products/main.js:385
 msgid "Please select at least one test device"
 msgstr ""
 
@@ -1840,8 +1840,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
-#: main.js:402
 #: main.js:412
+#: main.js:422
 msgid "Please try again!"
 msgstr ""
 
@@ -2064,7 +2064,7 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:710
+#: services/products/main.js:711
 msgid "Send webhook"
 msgstr ""
 
@@ -2164,8 +2164,8 @@ msgstr ""
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
-#: main.js:400
-#: main.js:417
+#: main.js:410
+#: main.js:427
 msgid "Success!"
 msgstr ""
 
@@ -2263,7 +2263,7 @@ msgstr ""
 msgid "The system is creating your device now. Please wait and you will be automatically directed to the device after creation."
 msgstr ""
 
-#: services/products/main.js:696
+#: services/products/main.js:697
 msgid "The url has to start with http:// or https://"
 msgstr ""
 
@@ -2554,9 +2554,9 @@ msgstr ""
 msgid "You can share the device page with anyone if you set a device as public. People can view the real-time data collected by your device without login! Please note currently we do not support GPS, image, and video data channels to be displayed on the public page."
 msgstr ""
 
-#: services/products/main.js:678
-#: services/products/main.js:687
-#: services/products/main.js:705
+#: services/products/main.js:679
+#: services/products/main.js:688
+#: services/products/main.js:706
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
@@ -2716,9 +2716,9 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:675
-#: services/products/main.js:684
-#: services/products/main.js:702
+#: services/products/main.js:676
+#: services/products/main.js:685
+#: services/products/main.js:703
 msgid "content"
 msgstr ""
 
@@ -2845,8 +2845,8 @@ msgstr ""
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:410
-#: main.js:424
+#: main.js:420
+#: main.js:434
 msgid "notice"
 msgstr ""
 
@@ -2901,7 +2901,7 @@ msgstr ""
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:669
+#: services/products/main.js:670
 msgid "title"
 msgstr ""
 
@@ -2922,7 +2922,7 @@ msgstr ""
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: services/products/main.js:694
+#: services/products/main.js:695
 msgid "url"
 msgstr ""
 
