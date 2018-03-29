@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=0;\n"
 
 #: mydevices/dialogs/trigger.html:54 mydevices/dialogs/trigger.html:67
@@ -547,7 +547,7 @@ msgstr "替产品原型新增一个测试装置"
 
 #: controllers/development/detail.js:728
 msgid "Create as public device"
-msgstr "建立为开发装置"
+msgstr "建立为公开装置"
 
 #: controllers/development/detail.js:128 development/detail.html:89
 #: development/dialogs/createDevice.html:6
