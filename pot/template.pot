@@ -143,7 +143,7 @@ msgstr ""
 msgid "API Hint"
 msgstr ""
 
-#: mydevices/detail.html:317
+#: mydevices/detail.html:322
 #: mydevices/dialogs/showapihint.html:3
 msgid "API hint"
 msgstr ""
@@ -632,7 +632,7 @@ msgstr ""
 #: development/detail.html:196
 #: development/dialogs/trigger/add.html:120
 #: development/dialogs/trigger/edit.html:110
-#: mydevices/detail.html:284
+#: mydevices/detail.html:289
 msgid "Data channel"
 msgstr ""
 
@@ -702,6 +702,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:84
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
+#: mydevices/detail.html:168
 #: mydevices/dialogs/createDevices.html:44
 #: mydevices/dialogs/editDevices.html:64
 #: profile/detail/serviceprovider.html:46
@@ -990,7 +991,7 @@ msgstr ""
 #: development/detail.html:215
 #: development/detail/firmware.html:3
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:63
-#: mydevices/detail.html:305
+#: mydevices/detail.html:310
 #: mydevices/detail/firmware.html:9
 msgid "Firmware"
 msgstr ""
@@ -2329,7 +2330,7 @@ msgstr ""
 
 #: development/detail.html:203
 #: development/detail/trigger.html:3
-#: mydevices/detail.html:291
+#: mydevices/detail.html:296
 #: mydevices/detail/trigger.html:3
 msgid "Trigger & Action"
 msgstr ""
@@ -2463,7 +2464,7 @@ msgid "User Name"
 msgstr ""
 
 #: development/detail.html:208
-#: mydevices/detail.html:298
+#: mydevices/detail.html:303
 msgid "User privileges"
 msgstr ""
 
@@ -2619,8 +2620,8 @@ msgstr ""
 msgid "You should input the Unit name."
 msgstr ""
 
-#: mydevices/detail.html:173
-#: mydevices/detail.html:232
+#: mydevices/detail.html:178
+#: mydevices/detail.html:237
 msgid "You will need the deviceId and deviceKey when calling our API to access this device"
 msgstr ""
 
