@@ -511,12 +511,12 @@ msgstr ""
 msgid "Coming soon!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:371
+#: components/ProfileDialog/ProfileDialog.js:378
 #: components/ProfileForm/ProfileForm.js:366
 msgid "Company/organization name"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:337
+#: components/ProfileDialog/ProfileDialog.js:344
 #: components/ProfileForm/ProfileForm.js:332
 msgid "Company/organization type"
 msgstr ""
@@ -622,7 +622,7 @@ msgstr ""
 msgid "Currently use:"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:559
+#: components/ProfileDialog/ProfileDialog.js:566
 msgid "Customized smart scene"
 msgstr ""
 
@@ -1117,7 +1117,7 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:313
+#: components/ProfileDialog/ProfileDialog.js:320
 msgid "Hi"
 msgstr ""
 
@@ -1144,7 +1144,7 @@ msgstr ""
 msgid "Hybrid"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:532
+#: components/ProfileDialog/ProfileDialog.js:539
 #: components/ProfileForm/ProfileForm.js:507
 msgid "I would like to receive the latest news."
 msgstr ""
@@ -1356,11 +1356,11 @@ msgstr ""
 msgid "Input your company type"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:385
+#: components/ProfileDialog/ProfileDialog.js:392
 msgid "Input your company/org name"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:350
+#: components/ProfileDialog/ProfileDialog.js:357
 msgid "Input your company/org type"
 msgstr ""
 
@@ -1368,12 +1368,12 @@ msgstr ""
 msgid "Input your company/organization name"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:419
+#: components/ProfileDialog/ProfileDialog.js:426
 #: components/ProfileForm/ProfileForm.js:414
 msgid "Input your company/organization website"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:447
+#: components/ProfileDialog/ProfileDialog.js:454
 #: components/ProfileForm/ProfileForm.js:447
 msgid "Input your current position"
 msgstr ""
@@ -1386,7 +1386,7 @@ msgstr ""
 msgid "Input your new password again"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:481
+#: components/ProfileDialog/ProfileDialog.js:488
 #: components/ProfileForm/ProfileForm.js:481
 msgid "Input your phone number"
 msgstr ""
@@ -1621,7 +1621,7 @@ msgstr ""
 msgid "Maximum resolution supported"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:325
+#: components/ProfileDialog/ProfileDialog.js:332
 msgid ""
 "MediaTek Cloud Sandbox is an online platform for\n"
 "prototyping and testing products. To provide better features for your\n"
@@ -1717,7 +1717,7 @@ msgstr ""
 msgid "No results found. Create your custom unit!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:619
+#: components/ProfileDialog/ProfileDialog.js:626
 msgid "No, I'm not interested."
 msgstr ""
 
@@ -1813,11 +1813,11 @@ msgstr ""
 msgid "On line"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:579
+#: components/ProfileDialog/ProfileDialog.js:586
 msgid "On-premise platform solution"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:589
+#: components/ProfileDialog/ProfileDialog.js:596
 msgid "One-click data export"
 msgstr ""
 
@@ -1838,7 +1838,7 @@ msgstr ""
 msgid "Only the devices that you have owner access will be listed and counted."
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:190
+#: components/ProfileDialog/ProfileDialog.js:198
 #: components/ProfileForm/ProfileForm.js:170
 msgid "Oops! The update was not successful. Please try again."
 msgstr ""
@@ -2063,7 +2063,7 @@ msgstr ""
 msgid "Retrieve data points"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:569
+#: components/ProfileDialog/ProfileDialog.js:576
 msgid "Richer event trigger rules"
 msgstr ""
 
@@ -2260,7 +2260,7 @@ msgstr ""
 msgid "Success! Device created."
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:182
+#: components/ProfileDialog/ProfileDialog.js:190
 #: components/ProfileForm/ProfileForm.js:162
 msgid "Success! Your profile has been updated!"
 msgstr ""
@@ -2373,9 +2373,9 @@ msgstr ""
 msgid "This feature is under development, will be coming soon!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:700
-#: components/ProfileDialog/ProfileDialog.js:702
-#: components/ProfileDialog/ProfileDialog.js:704
+#: components/ProfileDialog/ProfileDialog.js:709
+#: components/ProfileDialog/ProfileDialog.js:711
+#: components/ProfileDialog/ProfileDialog.js:713
 #: components/ProfileForm/ProfileForm.js:587
 #: components/ProfileForm/ProfileForm.js:589
 msgid "This field is is required"
@@ -2495,12 +2495,12 @@ msgstr ""
 msgid "Up"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:631
+#: components/ProfileDialog/ProfileDialog.js:638
 #: components/ProfileForm/ProfileForm.js:518
 msgid "Update"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:299
+#: components/ProfileDialog/ProfileDialog.js:306
 msgid "Update Profile"
 msgstr ""
 
@@ -2618,7 +2618,7 @@ msgstr ""
 msgid "Video format"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:543
+#: components/ProfileDialog/ProfileDialog.js:550
 msgid ""
 "We would like to further this platform by\n"
 "incorporating key features that are essential to your IoT product\n"
@@ -2637,11 +2637,11 @@ msgstr ""
 msgid "When you ready to commercialize your prototype, create device with serial number and you can find it in Management page!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:600
+#: components/ProfileDialog/ProfileDialog.js:607
 msgid "Would you be interested in above features?"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:611
+#: components/ProfileDialog/ProfileDialog.js:618
 msgid "Yes, I'd like to know more about this commercial version."
 msgstr ""
 
@@ -2760,7 +2760,7 @@ msgstr ""
 msgid "Your App"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:406
+#: components/ProfileDialog/ProfileDialog.js:413
 #: components/ProfileForm/ProfileForm.js:401
 msgid "Your Company/organization website"
 msgstr ""
@@ -2777,7 +2777,7 @@ msgstr ""
 msgid "Your account quota:"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:435
+#: components/ProfileDialog/ProfileDialog.js:442
 #: components/ProfileForm/ProfileForm.js:435
 msgid "Your current position"
 msgstr ""
@@ -2790,7 +2790,7 @@ msgstr ""
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:468
+#: components/ProfileDialog/ProfileDialog.js:475
 #: components/ProfileForm/ProfileForm.js:468
 msgid "Your phone number"
 msgstr ""
