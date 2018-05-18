@@ -544,7 +544,7 @@ msgid "Controller"
 msgstr ""
 
 #: controllers/devices/detail.js:190
-#: controllers/profile/index.js:291
+#: controllers/profile/index.js:292
 #: management/DeviceListManagement/DeviceRow.js:220
 msgid "Copy"
 msgstr ""
@@ -1638,7 +1638,7 @@ msgstr ""
 
 #: mydevices/detail/trigger.html:78
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:110
+#: profile/index.html:111
 msgid "Mobile list"
 msgstr ""
 
@@ -2143,7 +2143,7 @@ msgstr ""
 msgid "Select trigger action"
 msgstr ""
 
-#: controllers/profile/index.js:192
+#: controllers/profile/index.js:193
 msgid "Send email to {{email}}"
 msgstr ""
 
@@ -2169,7 +2169,7 @@ msgstr ""
 msgid "Serial number format error."
 msgstr ""
 
-#: profile/index.html:118
+#: profile/index.html:119
 msgid "Service Provider"
 msgstr ""
 
@@ -2373,11 +2373,11 @@ msgstr ""
 msgid "This feature is under development, will be coming soon!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:709
-#: components/ProfileDialog/ProfileDialog.js:711
-#: components/ProfileDialog/ProfileDialog.js:713
-#: components/ProfileForm/ProfileForm.js:587
-#: components/ProfileForm/ProfileForm.js:589
+#: components/ProfileDialog/ProfileDialog.js:710
+#: components/ProfileDialog/ProfileDialog.js:712
+#: components/ProfileDialog/ProfileDialog.js:714
+#: components/ProfileForm/ProfileForm.js:588
+#: components/ProfileForm/ProfileForm.js:590
 msgid "This field is is required"
 msgstr ""
 
@@ -2786,7 +2786,7 @@ msgstr ""
 msgid "Your device list"
 msgstr ""
 
-#: controllers/profile/index.js:212
+#: controllers/profile/index.js:213
 msgid "Your password length cannot be less than 8 characters"
 msgstr ""
 
@@ -2843,7 +2843,7 @@ msgstr ""
 msgid "click here"
 msgstr ""
 
-#: controllers/profile/index.js:205
+#: controllers/profile/index.js:206
 msgid "confirm password can not be null"
 msgstr ""
 
@@ -2964,11 +2964,11 @@ msgstr ""
 msgid "name cannot be null!"
 msgstr ""
 
-#: controllers/profile/index.js:202
+#: controllers/profile/index.js:203
 msgid "new password can not be null"
 msgstr ""
 
-#: controllers/profile/index.js:208
+#: controllers/profile/index.js:209
 msgid "new password is not as same as confirm password"
 msgstr ""
 
