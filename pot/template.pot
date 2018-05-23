@@ -56,7 +56,7 @@ msgstr ""
 msgid "1. {{count}} test devices"
 msgstr ""
 
-#: main.js:447
+#: main.js:437
 msgid "1010"
 msgstr ""
 
@@ -311,7 +311,7 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
-#: components/TermsOfUse.js:377
+#: components/TermsOfUse.js:374
 msgid "Approve"
 msgstr ""
 
@@ -393,7 +393,7 @@ msgstr ""
 #: development/dialogs/trigger/add.html:406
 #: development/dialogs/trigger/edit.html:394
 #: dialogs/tutorialCloseConfirm.html:32
-#: main.js:451
+#: main.js:441
 #: management/DeviceListManagement/index.js:143
 #: management/dialogs/createSerialNumber.html:84
 #: mydevices/dialogs/createDevices.html:82
@@ -412,7 +412,7 @@ msgid "Category"
 msgstr ""
 
 #: profile/dialogs/changePassword.html:3
-#: profile/index.html:76
+#: profile/index.html:85
 msgid "Change password"
 msgstr ""
 
@@ -499,7 +499,7 @@ msgstr ""
 msgid "Clone from existing prototype"
 msgstr ""
 
-#: main.js:418
+#: main.js:408
 msgid "Close"
 msgstr ""
 
@@ -509,16 +509,6 @@ msgstr ""
 
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:378
-#: components/ProfileForm/ProfileForm.js:366
-msgid "Company/organization name"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:344
-#: components/ProfileForm/ProfileForm.js:332
-msgid "Company/organization type"
 msgstr ""
 
 #: development/dialogs/addFirmware.html:40
@@ -544,7 +534,7 @@ msgid "Controller"
 msgstr ""
 
 #: controllers/devices/detail.js:195
-#: controllers/profile/index.js:292
+#: controllers/profile/index.js:286
 #: management/DeviceListManagement/DeviceRow.js:220
 msgid "Copy"
 msgstr ""
@@ -622,10 +612,6 @@ msgstr ""
 msgid "Currently use:"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:566
-msgid "Customized smart scene"
-msgstr ""
-
 #: controllers/limitation/index.js:60
 msgid "Daily accumulation"
 msgstr ""
@@ -685,7 +671,7 @@ msgstr ""
 #: controllers/development/detail.js:158
 #: development/detail/components.html:153
 #: development/index.html:147
-#: main.js:450
+#: main.js:440
 #: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:105
 #: mydevices/index.html:120
@@ -703,7 +689,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: main.js:448
+#: main.js:438
 msgid "Deleting your device and its sensors is irreversible. Enter your device's name below to confirm you want to permanently delete it:"
 msgstr ""
 
@@ -770,7 +756,7 @@ msgstr ""
 msgid "Device"
 msgstr ""
 
-#: main.js:449
+#: main.js:439
 msgid "Device Title"
 msgstr ""
 
@@ -928,7 +914,7 @@ msgstr ""
 #: development/detail/userprivileges.html:9
 #: limitation/index.html:127
 #: mydevices/detail/userprivileges.html:9
-#: profile/index.html:71
+#: profile/index.html:76
 msgid "Email"
 msgstr ""
 
@@ -1117,10 +1103,6 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:320
-msgid "Hi"
-msgstr ""
-
 #: mydevices/detail/components.html:112
 msgid "Hide History"
 msgstr ""
@@ -1142,11 +1124,6 @@ msgstr ""
 
 #: development/dialogs/addComponent.html:68
 msgid "Hybrid"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:539
-#: components/ProfileForm/ProfileForm.js:507
-msgid "I would like to receive the latest news."
 msgstr ""
 
 #: factories/dataChnTypeId.js:105
@@ -1352,47 +1329,8 @@ msgstr ""
 msgid "Input your check sum information"
 msgstr ""
 
-#: components/ProfileForm/ProfileForm.js:345
-msgid "Input your company type"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:392
-msgid "Input your company/org name"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:357
-msgid "Input your company/org type"
-msgstr ""
-
-#: components/ProfileForm/ProfileForm.js:380
-msgid "Input your company/organization name"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:426
-#: components/ProfileForm/ProfileForm.js:414
-msgid "Input your company/organization website"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:454
-#: components/ProfileForm/ProfileForm.js:447
-msgid "Input your current position"
-msgstr ""
-
-#: components/ProfileForm/ProfileForm.js:276
-msgid "Input your language"
-msgstr ""
-
 #: profile/dialogs/changePassword.html:115
 msgid "Input your new password again"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:488
-#: components/ProfileForm/ProfileForm.js:481
-msgid "Input your phone number"
-msgstr ""
-
-#: components/ProfileForm/ProfileForm.js:308
-msgid "Input your timezone"
 msgstr ""
 
 #: factories/dataChnTypeId.js:25
@@ -1501,7 +1439,7 @@ msgstr ""
 msgid "Key5 value"
 msgstr ""
 
-#: components/ProfileForm/ProfileForm.js:263
+#: profile/index.html:89
 msgid "Language"
 msgstr ""
 
@@ -1621,13 +1559,6 @@ msgstr ""
 msgid "Maximum resolution supported"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:332
-msgid ""
-"MediaTek Cloud Sandbox is an online platform for\n"
-"prototyping and testing products. To provide better features for your\n"
-"application, please share more about your information with us."
-msgstr ""
-
 #: profile/detail/mobilelist.html:2
 msgid "Mobile Notification from MCS"
 msgstr ""
@@ -1638,7 +1569,7 @@ msgstr ""
 
 #: mydevices/detail/trigger.html:78
 #: profile/detail/mobilelist.html:5
-#: profile/index.html:111
+#: profile/index.html:230
 msgid "Mobile list"
 msgstr ""
 
@@ -1707,6 +1638,10 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
+#: profile/index.html:72
+msgid "Nick name"
+msgstr ""
+
 #: components/graph/gpio.html:7
 #: components/graph/line.html:7
 #: components/graph/pwm.html:7
@@ -1715,10 +1650,6 @@ msgstr ""
 
 #: components/UnitSelect/UnitSelect.js:162
 msgid "No results found. Create your custom unit!"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:626
-msgid "No, I'm not interested."
 msgstr ""
 
 #: development/dialogs/createDeviceSuccess.html:29
@@ -1813,14 +1744,6 @@ msgstr ""
 msgid "On line"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:586
-msgid "On-premise platform solution"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:596
-msgid "One-click data export"
-msgstr ""
-
 #: development/dialogs/createDeviceNotice.html:21
 msgid "Only prototype owner can beta-release the prototype, please contact your prototype owner."
 msgstr ""
@@ -1838,11 +1761,6 @@ msgstr ""
 msgid "Only the devices that you have owner access will be listed and counted."
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:198
-#: components/ProfileForm/ProfileForm.js:170
-msgid "Oops! The update was not successful. Please try again."
-msgstr ""
-
 #: dashboard/tutorial.html:4
 msgid "Or you can check out the"
 msgstr ""
@@ -1856,7 +1774,7 @@ msgstr ""
 msgid "PWM"
 msgstr ""
 
-#: profile/index.html:73
+#: profile/index.html:80
 msgid "Password"
 msgstr ""
 
@@ -1923,8 +1841,8 @@ msgstr ""
 msgid "Please select industry."
 msgstr ""
 
+#: main.js:407
 #: main.js:417
-#: main.js:427
 msgid "Please try again!"
 msgstr ""
 
@@ -1948,12 +1866,12 @@ msgstr ""
 msgid "Product ID"
 msgstr ""
 
-#: profile/index.html:30
-msgid "Profile"
-msgstr ""
-
 #: profile/index.html:36
 msgid "Profile detail"
+msgstr ""
+
+#: profile/index.html:30
+msgid "Profile page"
 msgstr ""
 
 #: development/detail.html:29
@@ -2063,10 +1981,6 @@ msgstr ""
 msgid "Retrieve data points"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:576
-msgid "Richer event trigger rules"
-msgstr ""
-
 #: factories/components.js:819
 #: factories/components.js:848
 #: factories/components.js:890
@@ -2143,7 +2057,7 @@ msgstr ""
 msgid "Select trigger action"
 msgstr ""
 
-#: controllers/profile/index.js:193
+#: controllers/profile/index.js:187
 msgid "Send email to {{email}}"
 msgstr ""
 
@@ -2169,7 +2083,7 @@ msgstr ""
 msgid "Serial number format error."
 msgstr ""
 
-#: profile/index.html:119
+#: profile/index.html:238
 msgid "Service Provider"
 msgstr ""
 
@@ -2187,7 +2101,7 @@ msgstr ""
 msgid "Show current value"
 msgstr ""
 
-#: components/TermsOfUse.js:372
+#: components/TermsOfUse.js:369
 msgid "Sign out"
 msgstr ""
 
@@ -2251,18 +2165,13 @@ msgstr ""
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
 #: development/dialogs/submitReleaseSuccess.html:5
-#: main.js:415
-#: main.js:432
+#: main.js:405
+#: main.js:422
 msgid "Success!"
 msgstr ""
 
 #: controllers/devices/clone.js:12
 msgid "Success! Device created."
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:190
-#: components/ProfileForm/ProfileForm.js:162
-msgid "Success! Your profile has been updated!"
 msgstr ""
 
 #: mydevices/detail/trigger.html:86
@@ -2287,7 +2196,7 @@ msgstr ""
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
-#: components/TermsOfUse.js:355
+#: components/TermsOfUse.js:352
 msgid "Terms Of Use"
 msgstr ""
 
@@ -2373,14 +2282,6 @@ msgstr ""
 msgid "This feature is under development, will be coming soon!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:710
-#: components/ProfileDialog/ProfileDialog.js:712
-#: components/ProfileDialog/ProfileDialog.js:714
-#: components/ProfileForm/ProfileForm.js:588
-#: components/ProfileForm/ProfileForm.js:590
-msgid "This field is is required"
-msgstr ""
-
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:33
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:32
 msgid "This firmware version already exist."
@@ -2390,7 +2291,7 @@ msgstr ""
 msgid "This is my clicked marker!"
 msgstr ""
 
-#: components/ProfileForm/ProfileForm.js:295
+#: profile/index.html:135
 msgid "Timezone"
 msgstr ""
 
@@ -2495,15 +2396,6 @@ msgstr ""
 msgid "Up"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:638
-#: components/ProfileForm/ProfileForm.js:518
-msgid "Update"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:306
-msgid "Update Profile"
-msgstr ""
-
 #: limitation/index.html:46
 #: limitation/index.html:70
 msgid "Upgrade now"
@@ -2576,10 +2468,6 @@ msgstr ""
 msgid "User privileges"
 msgstr ""
 
-#: profile/index.html:70
-msgid "Username"
-msgstr ""
-
 #: development/detail/userprivileges.html:3
 msgid "Users"
 msgstr ""
@@ -2618,13 +2506,6 @@ msgstr ""
 msgid "Video format"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:550
-msgid ""
-"We would like to further this platform by\n"
-"incorporating key features that are essential to your IoT product\n"
-"deployment in commercial application, including:"
-msgstr ""
-
 #: profile/detail/serviceprovider.html:43
 msgid "Website"
 msgstr ""
@@ -2635,14 +2516,6 @@ msgstr ""
 
 #: development/CreateDevicePopover.js:60
 msgid "When you ready to commercialize your prototype, create device with serial number and you can find it in Management page!"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:607
-msgid "Would you be interested in above features?"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:618
-msgid "Yes, I'd like to know more about this commercial version."
 msgstr ""
 
 #: values/products/ngIntro.js:13
@@ -2760,11 +2633,6 @@ msgstr ""
 msgid "Your App"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:413
-#: components/ProfileForm/ProfileForm.js:401
-msgid "Your Company/organization website"
-msgstr ""
-
 #: limitation/index.html:44
 msgid "Your account"
 msgstr ""
@@ -2777,22 +2645,16 @@ msgstr ""
 msgid "Your account quota:"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:442
-#: components/ProfileForm/ProfileForm.js:435
-msgid "Your current position"
+#: profile/index.html:211
+msgid "Your current timezone"
 msgstr ""
 
 #: limitation/index.html:99
 msgid "Your device list"
 msgstr ""
 
-#: controllers/profile/index.js:213
+#: controllers/profile/index.js:207
 msgid "Your password length cannot be less than 8 characters"
-msgstr ""
-
-#: components/ProfileDialog/ProfileDialog.js:475
-#: components/ProfileForm/ProfileForm.js:468
-msgid "Your phone number"
 msgstr ""
 
 #: development/detail/components.html:36
@@ -2839,11 +2701,19 @@ msgstr ""
 msgid "cancel"
 msgstr ""
 
+#: profile/index.html:95
+msgid "choose Language"
+msgstr ""
+
+#: profile/index.html:141
+msgid "choose Timezone"
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:19
 msgid "click here"
 msgstr ""
 
-#: controllers/profile/index.js:206
+#: controllers/profile/index.js:200
 msgid "confirm password can not be null"
 msgstr ""
 
@@ -2918,6 +2788,10 @@ msgstr ""
 msgid "in resources to learn more."
 msgstr ""
 
+#: profile/index.html:211
+msgid "is different from your setting."
+msgstr ""
+
 #: development/CreateDevicePopover.js:55
 msgid "is for prototype testing. It will be created without serial number and you can find it in Test devices tab in Development page."
 msgstr ""
@@ -2964,16 +2838,16 @@ msgstr ""
 msgid "name cannot be null!"
 msgstr ""
 
-#: controllers/profile/index.js:203
+#: controllers/profile/index.js:197
 msgid "new password can not be null"
 msgstr ""
 
-#: controllers/profile/index.js:209
+#: controllers/profile/index.js:203
 msgid "new password is not as same as confirm password"
 msgstr ""
 
-#: main.js:425
-#: main.js:439
+#: main.js:415
+#: main.js:429
 msgid "notice"
 msgstr ""
 
