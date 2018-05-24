@@ -1054,6 +1054,10 @@ msgstr ""
 msgid "Go to MediaTek Labs"
 msgstr ""
 
+#: dashboard/quickresources.html:23
+msgid "Go to blog"
+msgstr ""
+
 #: development/dialogs/finishCreateTestDevice.html:30
 msgid "Go to detail"
 msgstr ""
