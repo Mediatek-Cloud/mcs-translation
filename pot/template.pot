@@ -1054,7 +1054,7 @@ msgstr ""
 msgid "Go to MediaTek Labs"
 msgstr ""
 
-#: dashboard/quickresources.html:23
+#: dashboard/quickresources.html:25
 msgid "Go to blog"
 msgstr ""
 
