@@ -311,7 +311,7 @@ msgstr ""
 msgid "Apply for appId and appSecret"
 msgstr ""
 
-#: components/TermsOfUse.js:374
+#: components/TermsOfUse.js:375
 msgid "Approve"
 msgstr ""
 
@@ -2105,7 +2105,7 @@ msgstr ""
 msgid "Show current value"
 msgstr ""
 
-#: components/TermsOfUse.js:369
+#: components/TermsOfUse.js:370
 msgid "Sign out"
 msgstr ""
 
@@ -2200,7 +2200,7 @@ msgstr ""
 msgid "Template preview: Select a template that suits your data channel."
 msgstr ""
 
-#: components/TermsOfUse.js:352
+#: components/TermsOfUse.js:349
 msgid "Terms Of Use"
 msgstr ""
 
