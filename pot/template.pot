@@ -476,8 +476,8 @@ msgstr ""
 msgid "Choose the industry"
 msgstr ""
 
-#: components/InputRole/InputRole.js:179
 #: components/InputRole/InputRole.js:189
+#: components/InputRole/InputRole.js:199
 msgid "Choose the value"
 msgstr ""
 
