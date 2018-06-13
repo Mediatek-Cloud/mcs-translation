@@ -618,6 +618,8 @@ msgstr ""
 
 #: controllers/development/detail.js:1345
 #: controllers/development/detail.js:1347
+#: controllers/devices/detail.js:424
+#: controllers/devices/detail.js:426
 msgid "Criteria Value should not be empty!"
 msgstr ""
 
