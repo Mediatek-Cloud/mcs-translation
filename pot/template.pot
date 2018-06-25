@@ -430,7 +430,7 @@ msgstr ""
 msgid "Chip"
 msgstr ""
 
-#: components/SeveritySelect/SeveritySelect.js:62
+#: components/SeveritySelect/SeveritySelect.js:70
 msgid "Choose alert severity"
 msgstr ""
 
