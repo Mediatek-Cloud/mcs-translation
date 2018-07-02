@@ -140,7 +140,7 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:120
+#: mydevices/detail/components.html:130
 msgid "API Hint"
 msgstr ""
 
@@ -244,6 +244,10 @@ msgstr ""
 
 #: development/dialogs/createDeviceNotice.html:17
 msgid "After your prototype is beta-released, you can no longer make change to the data channel, trigger and action rules, and prototype details. You can find more detail"
+msgstr ""
+
+#: components/AlertLabel/AlertLabel.js:149
+msgid "Alert time"
 msgstr ""
 
 #: development/detail/firmware.html:39
@@ -552,7 +556,7 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: controllers/devices/detail.js:195
+#: controllers/devices/detail.js:199
 #: controllers/profile/index.js:286
 #: management/DeviceListManagement/DeviceRow.js:220
 msgid "Copy"
@@ -578,7 +582,7 @@ msgstr ""
 msgid "Create device"
 msgstr ""
 
-#: mydevices/index.html:137
+#: mydevices/index.html:145
 msgid "Create from"
 msgstr ""
 
@@ -621,8 +625,8 @@ msgstr ""
 
 #: controllers/development/detail.js:1360
 #: controllers/development/detail.js:1362
-#: controllers/devices/detail.js:424
-#: controllers/devices/detail.js:426
+#: controllers/devices/detail.js:428
+#: controllers/devices/detail.js:430
 msgid "Criteria Value should not be empty!"
 msgstr ""
 
@@ -659,7 +663,7 @@ msgstr ""
 #: development/detail/components.html:98
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:48
-#: mydevices/detail/components.html:62
+#: mydevices/detail/components.html:72
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
@@ -694,7 +698,7 @@ msgstr ""
 #: main.js:446
 #: management/DeviceListManagement/index.js:151
 #: mydevices/detail.html:105
-#: mydevices/index.html:120
+#: mydevices/index.html:128
 #: profile/detail/serviceprovider.html:22
 msgid "Delete"
 msgstr ""
@@ -733,7 +737,7 @@ msgstr ""
 
 #: dashboard/numberofused.html:6
 #: development/index.html:184
-#: mydevices/index.html:148
+#: mydevices/index.html:156
 msgid "Detail"
 msgstr ""
 
@@ -851,6 +855,10 @@ msgstr ""
 msgid "Devices creation success!"
 msgstr ""
 
+#: components/AlertLabel/AlertLabel.js:164
+msgid "Dismiss"
+msgstr ""
+
 #: development/dialogs/addComponent.html:48
 msgid "Display"
 msgstr ""
@@ -943,15 +951,15 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
-#: mydevices/detail/components.html:128
+#: mydevices/detail/components.html:138
 msgid "Embed"
 msgstr ""
 
-#: controllers/devices/detail.js:242
+#: controllers/devices/detail.js:246
 msgid "Embed code"
 msgstr ""
 
-#: controllers/devices/detail.js:239
+#: controllers/devices/detail.js:243
 msgid "Embed data channel"
 msgstr ""
 
@@ -1128,7 +1136,7 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:112
+#: mydevices/detail/components.html:122
 msgid "Hide History"
 msgstr ""
 
@@ -1471,7 +1479,7 @@ msgstr ""
 #: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
 #: management/DeviceListManagement/index.js:220
-#: mydevices/detail/components.html:58
+#: mydevices/detail/components.html:68
 msgid "Last data point time"
 msgstr ""
 
@@ -1545,7 +1553,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:1407
-#: controllers/devices/detail.js:104
+#: controllers/devices/detail.js:108
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1760,7 +1768,7 @@ msgid "Off line"
 msgstr ""
 
 #: components/Dialogs/PrivilegeDialog.js:225
-#: controllers/devices/detail.js:240
+#: controllers/devices/detail.js:244
 #: limitation/dialogs/limitationDetail.html:27
 msgid "Ok"
 msgstr ""
@@ -1874,7 +1882,7 @@ msgstr ""
 msgid "Prerequisite"
 msgstr ""
 
-#: controllers/devices/detail.js:241
+#: controllers/devices/detail.js:245
 msgid "Preview"
 msgstr ""
 
@@ -1882,7 +1890,7 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
-#: controllers/devices/detail.js:70
+#: controllers/devices/detail.js:74
 msgid "Private"
 msgstr ""
 
@@ -1926,7 +1934,7 @@ msgstr ""
 msgid "Prototype version"
 msgstr ""
 
-#: controllers/devices/detail.js:69
+#: controllers/devices/detail.js:73
 msgid "Public"
 msgstr ""
 
@@ -2119,7 +2127,7 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:111
+#: mydevices/detail/components.html:121
 msgid "Show History"
 msgstr ""
 
@@ -2202,6 +2210,10 @@ msgstr ""
 msgid "Success! Device created."
 msgstr ""
 
+#: controllers/devices/detail.js:563
+msgid "Success! You have dismissed alert."
+msgstr ""
+
 #: mydevices/detail/trigger.html:89
 #: profile/detail/mobilelist.html:13
 msgid "Switch"
@@ -2228,7 +2240,7 @@ msgstr ""
 msgid "Terms Of Use"
 msgstr ""
 
-#: mydevices/index.html:100
+#: mydevices/index.html:108
 msgid "Test"
 msgstr ""
 
@@ -2518,7 +2530,7 @@ msgstr ""
 #: mydevices/detail.html:85
 #: mydevices/detail.html:91
 #: mydevices/detail/firmware.html:16
-#: mydevices/index.html:135
+#: mydevices/index.html:143
 msgid "Version"
 msgstr ""
 
@@ -2619,7 +2631,7 @@ msgstr ""
 
 #: controllers/development/index.js:204
 #: controllers/development/index.js:279
-#: controllers/devices/index.js:90
+#: controllers/devices/index.js:91
 msgid "You do not have permission"
 msgstr ""
 
@@ -2932,9 +2944,9 @@ msgstr ""
 #: controllers/development/detail.js:451
 #: controllers/development/index.js:237
 #: controllers/development/index.js:270
-#: controllers/devices/detail.js:182
-#: controllers/devices/detail.js:408
-#: controllers/devices/index.js:81
+#: controllers/devices/detail.js:186
+#: controllers/devices/detail.js:412
+#: controllers/devices/index.js:82
 msgid "success."
 msgstr ""
 
