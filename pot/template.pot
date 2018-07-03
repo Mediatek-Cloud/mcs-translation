@@ -2210,7 +2210,7 @@ msgstr ""
 msgid "Success! Device created."
 msgstr ""
 
-#: controllers/devices/detail.js:563
+#: controllers/devices/detail.js:564
 msgid "Success! You have dismissed alert."
 msgstr ""
 
