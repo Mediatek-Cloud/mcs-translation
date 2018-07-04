@@ -140,7 +140,7 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:130
+#: mydevices/detail/components.html:131
 msgid "API Hint"
 msgstr ""
 
@@ -246,7 +246,7 @@ msgstr ""
 msgid "After your prototype is beta-released, you can no longer make change to the data channel, trigger and action rules, and prototype details. You can find more detail"
 msgstr ""
 
-#: components/AlertLabel/AlertLabel.js:149
+#: components/AlertLabel/AlertLabel.js:146
 msgid "Alert time"
 msgstr ""
 
@@ -663,7 +663,7 @@ msgstr ""
 #: development/detail/components.html:98
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:48
-#: mydevices/detail/components.html:72
+#: mydevices/detail/components.html:73
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
@@ -855,7 +855,7 @@ msgstr ""
 msgid "Devices creation success!"
 msgstr ""
 
-#: components/AlertLabel/AlertLabel.js:164
+#: components/AlertLabel/AlertLabel.js:161
 msgid "Dismiss"
 msgstr ""
 
@@ -951,7 +951,7 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
-#: mydevices/detail/components.html:138
+#: mydevices/detail/components.html:139
 msgid "Embed"
 msgstr ""
 
@@ -1136,7 +1136,7 @@ msgstr ""
 msgid "Hex"
 msgstr ""
 
-#: mydevices/detail/components.html:122
+#: mydevices/detail/components.html:123
 msgid "Hide History"
 msgstr ""
 
@@ -1479,7 +1479,7 @@ msgstr ""
 #: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
 #: management/DeviceListManagement/index.js:220
-#: mydevices/detail/components.html:68
+#: mydevices/detail/components.html:69
 msgid "Last data point time"
 msgstr ""
 
@@ -2127,7 +2127,7 @@ msgstr ""
 msgid "Service Provider Section"
 msgstr ""
 
-#: mydevices/detail/components.html:121
+#: mydevices/detail/components.html:122
 msgid "Show History"
 msgstr ""
 
@@ -2210,7 +2210,7 @@ msgstr ""
 msgid "Success! Device created."
 msgstr ""
 
-#: controllers/devices/detail.js:564
+#: controllers/devices/detail.js:567
 msgid "Success! You have dismissed alert."
 msgstr ""
 
