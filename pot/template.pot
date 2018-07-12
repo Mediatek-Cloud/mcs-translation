@@ -556,7 +556,7 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: controllers/devices/detail.js:199
+#: controllers/devices/detail.js:208
 #: controllers/profile/index.js:286
 #: management/DeviceListManagement/DeviceRow.js:220
 msgid "Copy"
@@ -625,8 +625,8 @@ msgstr ""
 
 #: controllers/development/detail.js:1360
 #: controllers/development/detail.js:1362
-#: controllers/devices/detail.js:428
-#: controllers/devices/detail.js:430
+#: controllers/devices/detail.js:437
+#: controllers/devices/detail.js:439
 msgid "Criteria Value should not be empty!"
 msgstr ""
 
@@ -955,11 +955,11 @@ msgstr ""
 msgid "Embed"
 msgstr ""
 
-#: controllers/devices/detail.js:246
+#: controllers/devices/detail.js:255
 msgid "Embed code"
 msgstr ""
 
-#: controllers/devices/detail.js:243
+#: controllers/devices/detail.js:252
 msgid "Embed data channel"
 msgstr ""
 
@@ -1553,7 +1553,7 @@ msgid "MT7681"
 msgstr ""
 
 #: controllers/development/detail.js:1407
-#: controllers/devices/detail.js:108
+#: controllers/devices/detail.js:117
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
 
@@ -1768,7 +1768,7 @@ msgid "Off line"
 msgstr ""
 
 #: components/Dialogs/PrivilegeDialog.js:225
-#: controllers/devices/detail.js:244
+#: controllers/devices/detail.js:253
 #: limitation/dialogs/limitationDetail.html:27
 msgid "Ok"
 msgstr ""
@@ -1882,7 +1882,7 @@ msgstr ""
 msgid "Prerequisite"
 msgstr ""
 
-#: controllers/devices/detail.js:245
+#: controllers/devices/detail.js:254
 msgid "Preview"
 msgstr ""
 
@@ -1890,7 +1890,7 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
-#: controllers/devices/detail.js:74
+#: controllers/devices/detail.js:83
 msgid "Private"
 msgstr ""
 
@@ -1934,7 +1934,7 @@ msgstr ""
 msgid "Prototype version"
 msgstr ""
 
-#: controllers/devices/detail.js:73
+#: controllers/devices/detail.js:82
 msgid "Public"
 msgstr ""
 
@@ -2210,7 +2210,7 @@ msgstr ""
 msgid "Success! Device created."
 msgstr ""
 
-#: controllers/devices/detail.js:567
+#: controllers/devices/detail.js:576
 msgid "Success! You have dismissed alert."
 msgstr ""
 
@@ -2631,7 +2631,7 @@ msgstr ""
 
 #: controllers/development/index.js:204
 #: controllers/development/index.js:279
-#: controllers/devices/index.js:91
+#: controllers/devices/index.js:96
 msgid "You do not have permission"
 msgstr ""
 
@@ -2944,9 +2944,9 @@ msgstr ""
 #: controllers/development/detail.js:451
 #: controllers/development/index.js:237
 #: controllers/development/index.js:270
-#: controllers/devices/detail.js:186
-#: controllers/devices/detail.js:412
-#: controllers/devices/index.js:82
+#: controllers/devices/detail.js:195
+#: controllers/devices/detail.js:421
+#: controllers/devices/index.js:87
 msgid "success."
 msgstr ""
 
