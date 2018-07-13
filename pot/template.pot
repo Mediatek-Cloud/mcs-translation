@@ -246,7 +246,7 @@ msgstr ""
 msgid "After your prototype is beta-released, you can no longer make change to the data channel, trigger and action rules, and prototype details. You can find more detail"
 msgstr ""
 
-#: components/AlertLabel/AlertLabel.js:147
+#: components/AlertLabel/AlertLabel.js:163
 msgid "Alert time"
 msgstr ""
 
@@ -855,7 +855,7 @@ msgstr ""
 msgid "Devices creation success!"
 msgstr ""
 
-#: components/AlertLabel/AlertLabel.js:162
+#: components/AlertLabel/AlertLabel.js:178
 msgid "Dismiss"
 msgstr ""
 
