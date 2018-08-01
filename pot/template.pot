@@ -19,13 +19,13 @@ msgstr ""
 msgid "(meter)"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:399
-#: development/dialogs/trigger/edit.html:388
+#: development/dialogs/trigger/add.html:402
+#: development/dialogs/trigger/edit.html:391
 msgid "+ Add action"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:244
-#: development/dialogs/trigger/edit.html:233
+#: development/dialogs/trigger/add.html:247
+#: development/dialogs/trigger/edit.html:236
 msgid "+ Add data channel"
 msgstr ""
 
@@ -115,7 +115,7 @@ msgstr ""
 msgid "5. {{count}}G streaming usage per device/month."
 msgstr ""
 
-#: development/dialogs/trigger/edit.html:324
+#: development/dialogs/trigger/edit.html:327
 msgid ""
 "<span ng-show=\"format.type!='button'\">\n"
 "                {{ format.display | capitalize:'first' }}\n"
@@ -172,8 +172,8 @@ msgstr ""
 msgid "Action"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:283
-#: development/dialogs/trigger/edit.html:271
+#: development/dialogs/trigger/add.html:286
+#: development/dialogs/trigger/edit.html:274
 msgid "Action type"
 msgstr ""
 
@@ -280,8 +280,8 @@ msgid "Analog"
 msgstr ""
 
 #: development/dialogs/trigger/add.html:109
-#: development/dialogs/trigger/add.html:275
-#: development/dialogs/trigger/edit.html:263
+#: development/dialogs/trigger/add.html:278
+#: development/dialogs/trigger/edit.html:266
 #: development/dialogs/trigger/edit.html:99
 #: mydevices/dialogs/trigger.html:103
 #: mydevices/dialogs/trigger.html:31
@@ -394,8 +394,8 @@ msgstr ""
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/ranOutOfLimitation.html:27
-#: development/dialogs/trigger/add.html:421
-#: development/dialogs/trigger/edit.html:410
+#: development/dialogs/trigger/add.html:424
+#: development/dialogs/trigger/edit.html:413
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:447
 #: management/DeviceListManagement/index.js:143
@@ -410,8 +410,8 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:222
-#: development/dialogs/trigger/edit.html:212
+#: development/dialogs/trigger/add.html:225
+#: development/dialogs/trigger/edit.html:215
 msgid "Can’t find your data channel?"
 msgstr ""
 
@@ -454,8 +454,8 @@ msgstr ""
 msgid "Choose file"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:297
-#: development/dialogs/trigger/edit.html:285
+#: development/dialogs/trigger/add.html:300
+#: development/dialogs/trigger/edit.html:288
 msgid "Choose the action"
 msgstr ""
 
@@ -703,13 +703,13 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:381
-#: development/dialogs/trigger/edit.html:370
+#: development/dialogs/trigger/add.html:384
+#: development/dialogs/trigger/edit.html:373
 msgid "Delete action"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:207
-#: development/dialogs/trigger/edit.html:197
+#: development/dialogs/trigger/add.html:210
+#: development/dialogs/trigger/edit.html:200
 msgid "Delete data channel"
 msgstr ""
 
@@ -1666,7 +1666,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:103
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
-#: development/dialogs/trigger/add.html:428
+#: development/dialogs/trigger/add.html:431
 #: values/products/ngIntro.js:37
 msgid "Next"
 msgstr ""
@@ -2033,8 +2033,8 @@ msgstr ""
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
-#: development/dialogs/trigger/add.html:435
-#: development/dialogs/trigger/edit.html:416
+#: development/dialogs/trigger/add.html:438
+#: development/dialogs/trigger/edit.html:419
 #: mydevices/dialogs/createDevices.html:90
 #: mydevices/dialogs/trigger.html:154
 #: profile/dialogs/applyApp.html:93
