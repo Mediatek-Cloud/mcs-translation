@@ -19,7 +19,7 @@ msgstr ""
 msgid "(meter)"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:414
+#: development/dialogs/trigger/add.html:415
 #: development/dialogs/trigger/edit.html:405
 msgid "+ Add action"
 msgstr ""
@@ -419,7 +419,7 @@ msgstr ""
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/ranOutOfLimitation.html:27
-#: development/dialogs/trigger/add.html:436
+#: development/dialogs/trigger/add.html:437
 #: development/dialogs/trigger/edit.html:427
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:457
@@ -743,7 +743,7 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:396
+#: development/dialogs/trigger/add.html:397
 #: development/dialogs/trigger/edit.html:387
 msgid "Delete action"
 msgstr ""
@@ -1793,7 +1793,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:103
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
-#: development/dialogs/trigger/add.html:443
+#: development/dialogs/trigger/add.html:444
 #: values/products/ngIntro.js:37
 msgid "Next"
 msgstr ""
@@ -2187,7 +2187,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
-#: development/dialogs/trigger/add.html:450
+#: development/dialogs/trigger/add.html:451
 #: development/dialogs/trigger/edit.html:433
 #: mydevices/dialogs/createDevices.html:90
 #: mydevices/dialogs/trigger.html:154
@@ -2504,9 +2504,9 @@ msgstr ""
 msgid "This feature is under development, will be coming soon!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:710
-#: components/ProfileDialog/ProfileDialog.js:712
-#: components/ProfileDialog/ProfileDialog.js:714
+#: components/ProfileDialog/ProfileDialog.js:711
+#: components/ProfileDialog/ProfileDialog.js:713
+#: components/ProfileDialog/ProfileDialog.js:715
 #: components/ProfileForm/ProfileForm.js:588
 #: components/ProfileForm/ProfileForm.js:590
 msgid "This field is is required"
