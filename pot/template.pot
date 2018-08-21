@@ -2504,9 +2504,9 @@ msgstr ""
 msgid "This feature is under development, will be coming soon!"
 msgstr ""
 
-#: components/ProfileDialog/ProfileDialog.js:711
-#: components/ProfileDialog/ProfileDialog.js:713
-#: components/ProfileDialog/ProfileDialog.js:715
+#: components/ProfileDialog/ProfileDialog.js:714
+#: components/ProfileDialog/ProfileDialog.js:716
+#: components/ProfileDialog/ProfileDialog.js:718
 #: components/ProfileForm/ProfileForm.js:588
 #: components/ProfileForm/ProfileForm.js:590
 msgid "This field is is required"
