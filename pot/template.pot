@@ -19,8 +19,8 @@ msgstr ""
 msgid "(meter)"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:415
-#: development/dialogs/trigger/edit.html:405
+#: development/dialogs/trigger/add.html:421
+#: development/dialogs/trigger/edit.html:411
 msgid "+ Add action"
 msgstr ""
 
@@ -380,7 +380,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:657
+#: services/products/main.js:659
 msgid "Between"
 msgstr ""
 
@@ -419,8 +419,8 @@ msgstr ""
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/ranOutOfLimitation.html:27
-#: development/dialogs/trigger/add.html:437
-#: development/dialogs/trigger/edit.html:427
+#: development/dialogs/trigger/add.html:443
+#: development/dialogs/trigger/edit.html:433
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:457
 #: management/DeviceListManagement/index.js:143
@@ -743,8 +743,8 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:397
-#: development/dialogs/trigger/edit.html:387
+#: development/dialogs/trigger/add.html:403
+#: development/dialogs/trigger/edit.html:393
 msgid "Delete action"
 msgstr ""
 
@@ -777,6 +777,10 @@ msgstr ""
 #: profile/dialogs/applyApp.html:65
 #: profile/dialogs/editApp.html:70
 msgid "Description"
+msgstr ""
+
+#: components/ProcessButtonWithErrorMsg/ProcessButtonWithErrorMsg.js:124
+msgid "Destination server returns"
 msgstr ""
 
 #: dashboard/numberofused.html:6
@@ -1019,7 +1023,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:653
+#: services/products/main.js:655
 msgid "Equal to"
 msgstr ""
 
@@ -1048,6 +1052,7 @@ msgstr ""
 msgid "Export"
 msgstr ""
 
+#: components/ProcessButtonWithErrorMsg/ProcessButtonWithErrorMsg.js:191
 #: controllers/development/detail.js:146
 msgid "Failure!"
 msgstr ""
@@ -1154,7 +1159,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:645
+#: services/products/main.js:647
 msgid "Greater than"
 msgstr ""
 
@@ -1197,9 +1202,9 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:685
-#: services/products/main.js:694
-#: services/products/main.js:721
+#: services/products/main.js:687
+#: services/products/main.js:696
+#: services/products/main.js:723
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
@@ -1261,7 +1266,7 @@ msgstr ""
 msgid "Input severity name"
 msgstr ""
 
-#: services/products/main.js:703
+#: services/products/main.js:705
 msgid "Input the URL."
 msgstr ""
 
@@ -1269,7 +1274,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:678
+#: services/products/main.js:680
 msgid "Input the action title"
 msgstr ""
 
@@ -1281,15 +1286,15 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:720
+#: services/products/main.js:722
 msgid "Input the content of HTTP request body here. When the trigger criteria is met, the HTTP request will be sent to the specified URL with specified action, headers and body."
 msgstr ""
 
-#: services/products/main.js:693
+#: services/products/main.js:695
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:684
+#: services/products/main.js:686
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
@@ -1653,7 +1658,7 @@ msgstr ""
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:649
+#: services/products/main.js:651
 msgid "Lower than"
 msgstr ""
 
@@ -1793,7 +1798,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:103
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
-#: development/dialogs/trigger/add.html:444
+#: development/dialogs/trigger/add.html:450
 #: values/products/ngIntro.js:37
 msgid "Next"
 msgstr ""
@@ -1909,7 +1914,7 @@ msgstr ""
 msgid "On-premise platform solution"
 msgstr ""
 
-#: services/products/main.js:661
+#: services/products/main.js:663
 msgid "OnChange"
 msgstr ""
 
@@ -2041,6 +2046,10 @@ msgstr ""
 
 #: controllers/devices/detail.js:83
 msgid "Private"
+msgstr ""
+
+#: components/ProcessButtonWithErrorMsg/ProcessButtonWithErrorMsg.js:191
+msgid "Processing"
 msgstr ""
 
 #: mydevices/dialogs/createDevices.html:10
@@ -2187,8 +2196,8 @@ msgstr ""
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
-#: development/dialogs/trigger/add.html:451
-#: development/dialogs/trigger/edit.html:433
+#: development/dialogs/trigger/add.html:457
+#: development/dialogs/trigger/edit.html:439
 #: mydevices/dialogs/createDevices.html:90
 #: mydevices/dialogs/trigger.html:154
 #: profile/dialogs/applyApp.html:93
@@ -2215,7 +2224,7 @@ msgstr ""
 msgid "Select HTTP Method"
 msgstr ""
 
-#: services/products/main.js:735
+#: services/products/main.js:737
 msgid "Select alert severity"
 msgstr ""
 
@@ -2259,7 +2268,7 @@ msgstr ""
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:727
+#: services/products/main.js:729
 msgid "Send webhook"
 msgstr ""
 
@@ -2365,6 +2374,7 @@ msgstr ""
 msgid "Success"
 msgstr ""
 
+#: components/ProcessButtonWithErrorMsg/ProcessButtonWithErrorMsg.js:191
 #: controllers/development/detail.js:145
 #: development/dialogs/finishCreateDevice.html:3
 #: development/dialogs/finishCreateTestDevice.html:3
@@ -2457,7 +2467,7 @@ msgstr ""
 msgid "The Hybrid data channel is a two ways data channel contains bothe controller and display."
 msgstr ""
 
-#: services/products/main.js:704
+#: services/products/main.js:706
 msgid "The URL has to start with http:// or https://"
 msgstr ""
 
@@ -2818,12 +2828,12 @@ msgstr ""
 msgid "You can share the device page with anyone if you set a device as public. People can view the real-time data collected by your device without login! Please note currently we do not support GPS, image, and video data channels to be displayed on the public page."
 msgstr ""
 
-#: services/products/main.js:722
+#: services/products/main.js:724
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your body. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
-#: services/products/main.js:686
-#: services/products/main.js:695
+#: services/products/main.js:688
+#: services/products/main.js:697
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
@@ -2955,7 +2965,7 @@ msgstr ""
 msgid "Your prototype is successfully beta-released."
 msgstr ""
 
-#: services/products/main.js:710
+#: services/products/main.js:712
 msgid "action"
 msgstr ""
 
@@ -2963,7 +2973,7 @@ msgstr ""
 msgid "administrator"
 msgstr ""
 
-#: services/products/main.js:734
+#: services/products/main.js:736
 msgid "alert severity"
 msgstr ""
 
@@ -2983,7 +2993,7 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: services/products/main.js:719
+#: services/products/main.js:721
 msgid "body"
 msgstr ""
 
@@ -3003,8 +3013,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:683
-#: services/products/main.js:692
+#: services/products/main.js:685
+#: services/products/main.js:694
 msgid "content"
 msgstr ""
 
@@ -3057,7 +3067,7 @@ msgstr ""
 msgid "from"
 msgstr ""
 
-#: services/products/main.js:715
+#: services/products/main.js:717
 msgid "headers"
 msgstr ""
 
@@ -3192,7 +3202,7 @@ msgstr ""
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:677
+#: services/products/main.js:679
 msgid "title"
 msgstr ""
 
@@ -3213,7 +3223,7 @@ msgstr ""
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: services/products/main.js:702
+#: services/products/main.js:704
 msgid "url"
 msgstr ""
 
