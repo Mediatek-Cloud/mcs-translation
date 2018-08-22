@@ -52,8 +52,8 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
-#: controllers/limitation/index.js:25
-#: controllers/limitation/index.js:36
+#: controllers/limitation/index.js:26
+#: controllers/limitation/index.js:37
 msgid "1. {{count}} test devices"
 msgstr ""
 
@@ -73,8 +73,8 @@ msgstr ""
 msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
 msgstr ""
 
-#: controllers/limitation/index.js:27
-#: controllers/limitation/index.js:38
+#: controllers/limitation/index.js:28
+#: controllers/limitation/index.js:39
 msgid "2. {{count}} data points device/month"
 msgstr ""
 
@@ -82,8 +82,8 @@ msgstr ""
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
 msgstr ""
 
-#: controllers/limitation/index.js:29
-#: controllers/limitation/index.js:40
+#: controllers/limitation/index.js:30
+#: controllers/limitation/index.js:41
 msgid "3. {{count}} email notification device/day"
 msgstr ""
 
@@ -103,15 +103,15 @@ msgstr ""
 msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
-#: controllers/limitation/index.js:42
+#: controllers/limitation/index.js:43
 msgid "4. Unlimited number of prototype and Mobile notification"
 msgstr ""
 
-#: controllers/limitation/index.js:31
+#: controllers/limitation/index.js:32
 msgid "4. {{count}}G streaming usage per device/month."
 msgstr ""
 
-#: controllers/limitation/index.js:42
+#: controllers/limitation/index.js:43
 msgid "5. {{count}}G streaming usage per device/month."
 msgstr ""
 
@@ -677,7 +677,7 @@ msgstr ""
 msgid "Customized smart scene"
 msgstr ""
 
-#: controllers/limitation/index.js:60
+#: controllers/limitation/index.js:61
 msgid "Daily accumulation"
 msgstr ""
 
@@ -1738,7 +1738,7 @@ msgstr ""
 msgid "Mobile list"
 msgstr ""
 
-#: controllers/limitation/index.js:59
+#: controllers/limitation/index.js:60
 msgid "Monthly accumulation"
 msgstr ""
 
