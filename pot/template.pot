@@ -591,7 +591,7 @@ msgstr ""
 msgid "Controller"
 msgstr ""
 
-#: controllers/devices/detail.js:208
+#: controllers/devices/detail.js:209
 #: controllers/profile/index.js:292
 #: management/DeviceListManagement/DeviceRow.js:220
 msgid "Copy"
@@ -660,8 +660,8 @@ msgstr ""
 
 #: controllers/development/detail.js:1417
 #: controllers/development/detail.js:1419
-#: controllers/devices/detail.js:437
-#: controllers/devices/detail.js:439
+#: controllers/devices/detail.js:438
+#: controllers/devices/detail.js:440
 msgid "Criteria Value should not be empty!"
 msgstr ""
 
@@ -1007,11 +1007,11 @@ msgstr ""
 msgid "Embed"
 msgstr ""
 
-#: controllers/devices/detail.js:255
+#: controllers/devices/detail.js:256
 msgid "Embed code"
 msgstr ""
 
-#: controllers/devices/detail.js:252
+#: controllers/devices/detail.js:253
 msgid "Embed data channel"
 msgstr ""
 
@@ -1298,20 +1298,20 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1640
+#: controllers/development/detail.js:1641
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1633
+#: controllers/development/detail.js:1634
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1626
+#: controllers/development/detail.js:1627
 #: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1655
+#: controllers/development/detail.js:1656
 msgid "Input the data type"
 msgstr ""
 
@@ -1901,7 +1901,7 @@ msgstr ""
 
 #: components/AlertSeverity/LimitDialog.js:64
 #: components/Dialogs/PrivilegeDialog.js:225
-#: controllers/devices/detail.js:253
+#: controllers/devices/detail.js:254
 #: limitation/dialogs/limitationDetail.html:27
 msgid "Ok"
 msgstr ""
@@ -1976,7 +1976,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1580
+#: controllers/development/detail.js:1581
 msgid "Please Try Again!"
 msgstr ""
 
@@ -2036,7 +2036,7 @@ msgstr ""
 msgid "Prerequisite"
 msgstr ""
 
-#: controllers/devices/detail.js:254
+#: controllers/devices/detail.js:255
 msgid "Preview"
 msgstr ""
 
@@ -2392,7 +2392,7 @@ msgstr ""
 msgid "Success! You have deleted a severity level."
 msgstr ""
 
-#: controllers/devices/detail.js:576
+#: controllers/devices/detail.js:577
 msgid "Success! You have dismissed alert."
 msgstr ""
 
@@ -3191,8 +3191,8 @@ msgstr ""
 #: controllers/development/detail.js:508
 #: controllers/development/index.js:237
 #: controllers/development/index.js:270
-#: controllers/devices/detail.js:195
-#: controllers/devices/detail.js:421
+#: controllers/devices/detail.js:196
+#: controllers/devices/detail.js:422
 #: controllers/devices/index.js:87
 msgid "success."
 msgstr ""
