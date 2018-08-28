@@ -177,11 +177,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1429
+#: controllers/development/detail.js:1432
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1434
+#: controllers/development/detail.js:1437
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -658,8 +658,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1417
-#: controllers/development/detail.js:1419
+#: controllers/development/detail.js:1420
+#: controllers/development/detail.js:1422
 #: controllers/devices/detail.js:438
 #: controllers/devices/detail.js:440
 msgid "Criteria Value should not be empty!"
@@ -711,7 +711,7 @@ msgstr ""
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1415
+#: controllers/development/detail.js:1418
 msgid "Data channel is required!"
 msgstr ""
 
@@ -1298,20 +1298,20 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1641
+#: controllers/development/detail.js:1644
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1634
+#: controllers/development/detail.js:1637
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1627
+#: controllers/development/detail.js:1630
 #: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1656
+#: controllers/development/detail.js:1659
 msgid "Input the data type"
 msgstr ""
 
@@ -1677,7 +1677,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1464
+#: controllers/development/detail.js:1467
 #: controllers/devices/detail.js:117
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1976,7 +1976,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1581
+#: controllers/development/detail.js:1584
 msgid "Please Try Again!"
 msgstr ""
 
@@ -2592,7 +2592,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1408
+#: controllers/development/detail.js:1411
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2862,14 +2862,14 @@ msgstr ""
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
-#: controllers/development/index.js:204
-#: controllers/development/index.js:279
+#: controllers/development/index.js:207
+#: controllers/development/index.js:282
 #: controllers/devices/index.js:96
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:1148
-#: controllers/development/index.js:157
+#: controllers/development/detail.js:1151
+#: controllers/development/index.js:160
 msgid "You have cloned the"
 msgstr ""
 
@@ -3062,8 +3062,8 @@ msgstr ""
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:1148
-#: controllers/development/index.js:157
+#: controllers/development/detail.js:1151
+#: controllers/development/index.js:160
 msgid "from"
 msgstr ""
 
@@ -3183,22 +3183,22 @@ msgstr ""
 msgid "save"
 msgstr ""
 
-#: controllers/development/detail.js:1388
-#: controllers/development/detail.js:1396
+#: controllers/development/detail.js:1391
+#: controllers/development/detail.js:1399
 #: controllers/development/detail.js:360
 #: controllers/development/detail.js:380
 #: controllers/development/detail.js:465
 #: controllers/development/detail.js:508
-#: controllers/development/index.js:237
-#: controllers/development/index.js:270
+#: controllers/development/index.js:240
+#: controllers/development/index.js:273
 #: controllers/devices/detail.js:196
 #: controllers/devices/detail.js:422
 #: controllers/devices/index.js:87
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:1148
-#: controllers/development/index.js:157
+#: controllers/development/detail.js:1151
+#: controllers/development/index.js:160
 msgid "successfully."
 msgstr ""
 
