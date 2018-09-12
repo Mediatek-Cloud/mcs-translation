@@ -61,11 +61,11 @@ msgstr ""
 msgid "1010"
 msgstr ""
 
-#: factories/components.js:967
+#: factories/components.js:957
 msgid "1280x960 - 1 Megapixel"
 msgstr ""
 
-#: factories/components.js:970
+#: factories/components.js:960
 msgid "1MB"
 msgstr ""
 
@@ -87,15 +87,15 @@ msgstr ""
 msgid "3. {{count}} email notification device/day"
 msgstr ""
 
-#: factories/components.js:941
+#: factories/components.js:931
 msgid "30fps"
 msgstr ""
 
-#: factories/components.js:938
+#: factories/components.js:928
 msgid "320x240"
 msgstr ""
 
-#: factories/components.js:944
+#: factories/components.js:934
 msgid "3GB video view / per device / per month"
 msgstr ""
 
@@ -177,11 +177,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1441
+#: controllers/development/detail.js:1437
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1446
+#: controllers/development/detail.js:1442
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -384,11 +384,11 @@ msgstr ""
 msgid "Between"
 msgstr ""
 
-#: factories/components.js:825
+#: factories/components.js:815
 msgid "Button A"
 msgstr ""
 
-#: factories/components.js:830
+#: factories/components.js:820
 msgid "Button B"
 msgstr ""
 
@@ -607,7 +607,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: controllers/development/detail.js:808
+#: controllers/development/detail.js:804
 msgid "Create as public device"
 msgstr ""
 
@@ -658,8 +658,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1429
-#: controllers/development/detail.js:1431
+#: controllers/development/detail.js:1425
+#: controllers/development/detail.js:1427
 #: controllers/devices/detail.js:438
 #: controllers/devices/detail.js:440
 msgid "Criteria Value should not be empty!"
@@ -686,11 +686,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:636
+#: controllers/development/detail.js:632
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:639
+#: controllers/development/detail.js:635
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -707,11 +707,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:702
+#: controllers/development/detail.js:698
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1427
+#: controllers/development/detail.js:1423
 msgid "Data channel is required!"
 msgstr ""
 
@@ -860,7 +860,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:829
+#: controllers/development/detail.js:825
 msgid "Device name cannot null."
 msgstr ""
 
@@ -925,10 +925,10 @@ msgstr ""
 msgid "Done"
 msgstr ""
 
-#: factories/components.js:807
-#: factories/components.js:846
-#: factories/components.js:878
-#: factories/components.js:907
+#: factories/components.js:797
+#: factories/components.js:836
+#: factories/components.js:868
+#: factories/components.js:897
 msgid "Down"
 msgstr ""
 
@@ -1057,7 +1057,7 @@ msgstr ""
 msgid "Failure!"
 msgstr ""
 
-#: factories/components.js:963
+#: factories/components.js:953
 msgid "File type supported"
 msgstr ""
 
@@ -1225,7 +1225,7 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: factories/components.js:969
+#: factories/components.js:959
 msgid "Image size limits"
 msgstr ""
 
@@ -1298,20 +1298,20 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1653
+#: controllers/development/detail.js:1649
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1646
+#: controllers/development/detail.js:1642
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1639
+#: controllers/development/detail.js:1635
 #: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1668
+#: controllers/development/detail.js:1664
 msgid "Input the data type"
 msgstr ""
 
@@ -1411,16 +1411,16 @@ msgstr ""
 msgid "Input the value"
 msgstr ""
 
-#: factories/components.js:803
-#: factories/components.js:809
-#: factories/components.js:815
-#: factories/components.js:821
-#: factories/components.js:827
-#: factories/components.js:832
-#: factories/components.js:874
-#: factories/components.js:880
-#: factories/components.js:886
-#: factories/components.js:892
+#: factories/components.js:793
+#: factories/components.js:799
+#: factories/components.js:805
+#: factories/components.js:811
+#: factories/components.js:817
+#: factories/components.js:822
+#: factories/components.js:864
+#: factories/components.js:870
+#: factories/components.js:876
+#: factories/components.js:882
 msgid "Input value"
 msgstr ""
 
@@ -1490,12 +1490,12 @@ msgstr ""
 #: components/control/pwm.html:23
 #: components/control/pwm.html:9
 #: components/control/pwmSlider.html:9
-#: factories/components.js:766
-#: factories/components.js:772
+#: factories/components.js:756
+#: factories/components.js:762
 msgid "Integer only"
 msgstr ""
 
-#: factories/components.js:964
+#: factories/components.js:954
 msgid "JPG, JPEG, PNG"
 msgstr ""
 
@@ -1507,6 +1507,27 @@ msgstr ""
 msgid "Key"
 msgstr ""
 
+#: factories/components.js:106
+#: factories/components.js:154
+#: factories/components.js:213
+#: factories/components.js:439
+#: factories/components.js:477
+#: factories/components.js:526
+#: factories/components.js:586
+#: factories/components.js:69
+msgid "Key1 name"
+msgstr ""
+
+#: factories/components.js:111
+#: factories/components.js:159
+#: factories/components.js:218
+#: factories/components.js:444
+#: factories/components.js:482
+#: factories/components.js:531
+#: factories/components.js:74
+msgid "Key1 value"
+msgstr ""
+
 #: factories/components.js:116
 #: factories/components.js:164
 #: factories/components.js:223
@@ -1515,7 +1536,7 @@ msgstr ""
 #: factories/components.js:536
 #: factories/components.js:596
 #: factories/components.js:79
-msgid "Key1 name"
+msgid "Key2 name"
 msgstr ""
 
 #: factories/components.js:121
@@ -1524,71 +1545,50 @@ msgstr ""
 #: factories/components.js:454
 #: factories/components.js:492
 #: factories/components.js:541
+#: factories/components.js:601
 #: factories/components.js:84
-msgid "Key1 value"
+msgid "Key2 value"
 msgstr ""
 
 #: factories/components.js:126
 #: factories/components.js:174
 #: factories/components.js:233
-#: factories/components.js:459
 #: factories/components.js:497
 #: factories/components.js:546
 #: factories/components.js:606
-#: factories/components.js:89
-msgid "Key2 name"
+msgid "Key3 name"
 msgstr ""
 
 #: factories/components.js:131
 #: factories/components.js:179
 #: factories/components.js:238
-#: factories/components.js:464
 #: factories/components.js:502
 #: factories/components.js:551
 #: factories/components.js:611
-#: factories/components.js:94
-msgid "Key2 value"
-msgstr ""
-
-#: factories/components.js:136
-#: factories/components.js:184
-#: factories/components.js:243
-#: factories/components.js:507
-#: factories/components.js:556
-#: factories/components.js:616
-msgid "Key3 name"
-msgstr ""
-
-#: factories/components.js:141
-#: factories/components.js:189
-#: factories/components.js:248
-#: factories/components.js:512
-#: factories/components.js:561
-#: factories/components.js:621
 msgid "Key3 value"
 msgstr ""
 
-#: factories/components.js:194
-#: factories/components.js:253
-#: factories/components.js:566
-#: factories/components.js:626
+#: factories/components.js:184
+#: factories/components.js:243
+#: factories/components.js:556
+#: factories/components.js:616
 msgid "Key4 name"
 msgstr ""
 
-#: factories/components.js:199
-#: factories/components.js:258
-#: factories/components.js:571
-#: factories/components.js:631
+#: factories/components.js:189
+#: factories/components.js:248
+#: factories/components.js:561
+#: factories/components.js:621
 msgid "Key4 value"
 msgstr ""
 
-#: factories/components.js:263
-#: factories/components.js:636
+#: factories/components.js:253
+#: factories/components.js:626
 msgid "Key5 name"
 msgstr ""
 
-#: factories/components.js:268
-#: factories/components.js:641
+#: factories/components.js:258
+#: factories/components.js:631
 msgid "Key5 value"
 msgstr ""
 
@@ -1620,10 +1620,10 @@ msgstr ""
 msgid "Latitude:"
 msgstr ""
 
-#: factories/components.js:813
-#: factories/components.js:847
-#: factories/components.js:884
-#: factories/components.js:908
+#: factories/components.js:803
+#: factories/components.js:837
+#: factories/components.js:874
+#: factories/components.js:898
 msgid "Left"
 msgstr ""
 
@@ -1662,14 +1662,14 @@ msgstr ""
 msgid "Lower than"
 msgstr ""
 
-#: factories/components.js:292
-#: factories/components.js:319
-#: factories/components.js:404
-#: factories/components.js:764
+#: factories/components.js:282
+#: factories/components.js:309
+#: factories/components.js:394
+#: factories/components.js:754
 msgid "Lowerbound"
 msgstr ""
 
-#: factories/components.js:935
+#: factories/components.js:925
 msgid "MPEG1"
 msgstr ""
 
@@ -1677,7 +1677,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1476
+#: controllers/development/detail.js:1472
 #: controllers/devices/detail.js:117
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1708,12 +1708,12 @@ msgstr ""
 msgid "Manually enter serial numbers"
 msgstr ""
 
-#: factories/components.js:940
+#: factories/components.js:930
 msgid "Maximum fps supported"
 msgstr ""
 
-#: factories/components.js:937
-#: factories/components.js:966
+#: factories/components.js:927
+#: factories/components.js:956
 msgid "Maximum resolution supported"
 msgstr ""
 
@@ -1788,7 +1788,7 @@ msgid "Name cannot be null."
 msgstr ""
 
 #: controllers/development/detail.js:347
-#: controllers/development/detail.js:633
+#: controllers/development/detail.js:629
 msgid "Name cannot null"
 msgstr ""
 
@@ -1976,7 +1976,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1593
+#: controllers/development/detail.js:1589
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1984,7 +1984,7 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:981
+#: controllers/development/detail.js:977
 msgid "Please choose a file to upload"
 msgstr ""
 
@@ -2004,8 +2004,8 @@ msgstr ""
 msgid "Please input the severity name"
 msgstr ""
 
-#: factories/components.js:853
-#: factories/components.js:914
+#: factories/components.js:843
+#: factories/components.js:904
 #: services/validator.js:33
 #: services/validator.js:63
 msgid "Please input {{key}}."
@@ -2175,10 +2175,10 @@ msgstr ""
 msgid "Richer event trigger rules"
 msgstr ""
 
-#: factories/components.js:819
-#: factories/components.js:848
-#: factories/components.js:890
-#: factories/components.js:909
+#: factories/components.js:809
+#: factories/components.js:838
+#: factories/components.js:880
+#: factories/components.js:899
 msgid "Right"
 msgstr ""
 
@@ -2308,9 +2308,9 @@ msgstr ""
 msgid "Show History"
 msgstr ""
 
-#: factories/components.js:776
-#: factories/components.js:835
-#: factories/components.js:896
+#: factories/components.js:766
+#: factories/components.js:825
+#: factories/components.js:886
 msgid "Show current value"
 msgstr ""
 
@@ -2484,11 +2484,11 @@ msgstr ""
 msgid "The input value is out of the upper bound and lower bound limit."
 msgstr ""
 
-#: factories/components.js:418
+#: factories/components.js:408
 msgid "The lower bound and upper bound must be numeric value."
 msgstr ""
 
-#: factories/components.js:422
+#: factories/components.js:412
 msgid "The lower bound and upper bound range is from 0 to 1000."
 msgstr ""
 
@@ -2592,7 +2592,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1420
+#: controllers/development/detail.js:1416
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2622,17 +2622,17 @@ msgstr ""
 msgid "Unit symbol"
 msgstr ""
 
-#: factories/components.js:302
-#: factories/components.js:329
-#: factories/components.js:667
-#: factories/components.js:686
+#: factories/components.js:292
+#: factories/components.js:319
+#: factories/components.js:657
+#: factories/components.js:676
 msgid "UnitTypes"
 msgstr ""
 
-#: factories/components.js:801
-#: factories/components.js:845
-#: factories/components.js:872
-#: factories/components.js:906
+#: factories/components.js:791
+#: factories/components.js:835
+#: factories/components.js:862
+#: factories/components.js:896
 msgid "Up"
 msgstr ""
 
@@ -2684,14 +2684,14 @@ msgstr ""
 msgid "Uploading..."
 msgstr ""
 
-#: factories/components.js:297
-#: factories/components.js:324
-#: factories/components.js:409
-#: factories/components.js:770
+#: factories/components.js:287
+#: factories/components.js:314
+#: factories/components.js:399
+#: factories/components.js:760
 msgid "Upperbound"
 msgstr ""
 
-#: factories/components.js:943
+#: factories/components.js:933
 msgid "Usage limitation"
 msgstr ""
 
@@ -2756,7 +2756,7 @@ msgstr ""
 msgid "Video Stream"
 msgstr ""
 
-#: factories/components.js:934
+#: factories/components.js:924
 msgid "Video format"
 msgstr ""
 
@@ -2868,7 +2868,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:1160
+#: controllers/development/detail.js:1156
 #: controllers/development/index.js:160
 msgid "You have cloned the"
 msgstr ""
@@ -2893,7 +2893,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:642
+#: controllers/development/detail.js:638
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -3058,11 +3058,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:1043
+#: controllers/development/detail.js:1039
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:1160
+#: controllers/development/detail.js:1156
 #: controllers/development/index.js:160
 msgid "from"
 msgstr ""
@@ -3100,7 +3100,7 @@ msgstr ""
 msgid "just now"
 msgstr ""
 
-#: factories/components.js:601
+#: factories/components.js:591
 msgid "ke1 value"
 msgstr ""
 
@@ -3129,7 +3129,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:1035
+#: controllers/development/detail.js:1031
 msgid "name cannot be null!"
 msgstr ""
 
@@ -3183,8 +3183,8 @@ msgstr ""
 msgid "save"
 msgstr ""
 
-#: controllers/development/detail.js:1400
-#: controllers/development/detail.js:1408
+#: controllers/development/detail.js:1396
+#: controllers/development/detail.js:1404
 #: controllers/development/detail.js:363
 #: controllers/development/detail.js:383
 #: controllers/development/detail.js:468
@@ -3197,7 +3197,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:1160
+#: controllers/development/detail.js:1156
 #: controllers/development/index.js:160
 msgid "successfully."
 msgstr ""
@@ -3235,7 +3235,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:1039
+#: controllers/development/detail.js:1035
 msgid "version cannot be null!"
 msgstr ""
 
