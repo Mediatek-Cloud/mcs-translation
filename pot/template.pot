@@ -52,6 +52,10 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:98
+msgid "1. JavaScript coding size limit < 800."
+msgstr ""
+
 #: controllers/limitation/index.js:26
 #: controllers/limitation/index.js:37
 msgid "1. {{count}} test devices"
@@ -69,6 +73,10 @@ msgstr ""
 msgid "1MB"
 msgstr ""
 
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:100
+msgid "2. External library include is not allowed."
+msgstr ""
+
 #: limitation/dialogs/limitationDetail.html:17
 msgid "2. The monthly counting period commences from 1st day to the last day of each month(UTC time)."
 msgstr ""
@@ -80,6 +88,10 @@ msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:18
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
+msgstr ""
+
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:102
+msgid "3. Processing Time is limited to < 20 ms per datapoint invoke."
 msgstr ""
 
 #: controllers/limitation/index.js:30
@@ -101,6 +113,13 @@ msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:19
 msgid "4. If you have a need to expand usage quota, please"
+msgstr ""
+
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:104
+msgid ""
+"4. Return value to other data channels within the device excluding\n"
+"itself and other function data channel, the timestamp of the return value matches\n"
+"the timestamp of the datapoint uploaded."
 msgstr ""
 
 #: controllers/limitation/index.js:43
@@ -140,7 +159,7 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:132
+#: mydevices/detail/components.html:149
 msgid "API Hint"
 msgstr ""
 
@@ -177,11 +196,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1437
+#: controllers/development/detail.js:1464
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1442
+#: controllers/development/detail.js:1469
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -203,6 +222,7 @@ msgstr ""
 #: development/detail/components.html:33
 #: development/dialogs/addComponent.html:31
 #: development/dialogs/addComponent.html:58
+#: development/dialogs/addComponent.html:76
 msgid "Add"
 msgstr ""
 
@@ -380,7 +400,7 @@ msgstr ""
 msgid "Beta released"
 msgstr ""
 
-#: services/products/main.js:659
+#: services/products/main.js:654
 msgid "Between"
 msgstr ""
 
@@ -392,7 +412,7 @@ msgstr ""
 msgid "Button B"
 msgstr ""
 
-#: development/dialogs/addComponent.html:84
+#: development/dialogs/addComponent.html:89
 msgid "Can't find your template?"
 msgstr ""
 
@@ -403,7 +423,7 @@ msgstr ""
 #: components/UnitSelect/UnitSelect.js:215
 #: date.html:6
 #: development/Dialogs/DeletePrototypeWithDevicesDialog.js:94
-#: development/dialogs/addComponentContent.html:282
+#: development/dialogs/addComponentContent.html:311
 #: development/dialogs/cloneProduct.html:55
 #: development/dialogs/createDevice.html:182
 #: development/dialogs/createDeviceFail.html:30
@@ -412,7 +432,7 @@ msgstr ""
 #: development/dialogs/createTestDevice.html:71
 #: development/dialogs/deleteConfirm.html:28
 #: development/dialogs/deleteDataChannel.html:29
-#: development/dialogs/editComponent.html:179
+#: development/dialogs/editComponent.html:209
 #: development/dialogs/editProducts.html:237
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
@@ -514,6 +534,8 @@ msgid "Choose the value"
 msgstr ""
 
 #: components/InputCodeBlock/InputCodeBlock.js:173
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:132
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:168
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -549,10 +571,6 @@ msgstr ""
 
 #: main.js:424
 msgid "Close"
-msgstr ""
-
-#: development/dialogs/addComponent.html:74
-msgid "Coming soon"
 msgstr ""
 
 #: dialogs/comingSoon.html:3
@@ -607,7 +625,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: controllers/development/detail.js:804
+#: controllers/development/detail.js:831
 msgid "Create as public device"
 msgstr ""
 
@@ -658,8 +676,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1425
-#: controllers/development/detail.js:1427
+#: controllers/development/detail.js:1452
+#: controllers/development/detail.js:1454
 #: controllers/devices/detail.js:438
 #: controllers/devices/detail.js:440
 msgid "Criteria Value should not be empty!"
@@ -686,11 +704,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:632
+#: controllers/development/detail.js:651
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:635
+#: controllers/development/detail.js:654
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -699,19 +717,19 @@ msgstr ""
 msgid "Data channel"
 msgstr ""
 
-#: development/detail/components.html:98
+#: development/detail/components.html:101
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:48
-#: mydevices/detail/components.html:74
+#: mydevices/detail/components.html:91
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:698
+#: controllers/development/detail.js:725
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1423
+#: controllers/development/detail.js:1450
 msgid "Data channel is required!"
 msgstr ""
 
@@ -733,7 +751,7 @@ msgstr ""
 
 #: components/AlertSeverity/DeleteDialog.js:107
 #: controllers/development/detail.js:234
-#: development/detail/components.html:153
+#: development/detail/components.html:156
 #: development/index.html:147
 #: main.js:456
 #: management/DeviceListManagement/index.js:151
@@ -860,7 +878,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:825
+#: controllers/development/detail.js:852
 msgid "Device name cannot null."
 msgstr ""
 
@@ -946,7 +964,7 @@ msgid "EX:100(only input integer)"
 msgstr ""
 
 #: controllers/development/detail.js:257
-#: development/detail/components.html:146
+#: development/detail/components.html:149
 #: development/detail/manufacturerinfo.html:11
 #: development/index.html:144
 #: profile/detail/serviceprovider.html:31
@@ -1003,7 +1021,7 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
-#: mydevices/detail/components.html:140
+#: mydevices/detail/components.html:157
 msgid "Embed"
 msgstr ""
 
@@ -1015,6 +1033,10 @@ msgstr ""
 msgid "Embed data channel"
 msgstr ""
 
+#: controllers/development/detail.js:1764
+msgid "Enter code here"
+msgstr ""
+
 #: mydevices/dialogs/editDevices.html:16
 msgid "Enter device name"
 msgstr ""
@@ -1023,7 +1045,7 @@ msgstr ""
 msgid "Enter your serials, one per line."
 msgstr ""
 
-#: services/products/main.js:655
+#: services/products/main.js:650
 msgid "Equal to"
 msgstr ""
 
@@ -1098,6 +1120,15 @@ msgstr ""
 msgid "For beta-release prototype, you can use the clone function to make modification for the frozen prototype and continue your development. The Clone function will only copy the data channels and trigger & action rules."
 msgstr ""
 
+#: development/dialogs/addComponent.html:70
+#: factories/dataChnTypeId.js:113
+msgid "Function"
+msgstr ""
+
+#: development/dialogs/addComponent.html:73
+msgid "Function data channel process your device data and return value to other data channels."
+msgstr ""
+
 #: factories/dataChnTypeId.js:48
 #: factories/dataChnTypeId.js:89
 msgid "GPIO"
@@ -1159,7 +1190,7 @@ msgstr ""
 msgid "Go to management"
 msgstr ""
 
-#: services/products/main.js:647
+#: services/products/main.js:642
 msgid "Greater than"
 msgstr ""
 
@@ -1193,7 +1224,7 @@ msgstr ""
 msgid "Hi"
 msgstr ""
 
-#: mydevices/detail/components.html:124
+#: mydevices/detail/components.html:141
 msgid "Hide History"
 msgstr ""
 
@@ -1202,18 +1233,14 @@ msgstr ""
 msgid "High"
 msgstr ""
 
-#: services/products/main.js:687
-#: services/products/main.js:696
-#: services/products/main.js:723
+#: services/products/main.js:682
+#: services/products/main.js:691
+#: services/products/main.js:718
 msgid "Hint: You can use ${} to use the variable function."
 msgstr ""
 
 #: development/GPSHistory/Header.js:61
 msgid "Historical GPS location"
-msgstr ""
-
-#: development/dialogs/addComponent.html:68
-msgid "Hybrid"
 msgstr ""
 
 #: components/ProfileDialog/ProfileDialog.js:539
@@ -1266,7 +1293,7 @@ msgstr ""
 msgid "Input severity name"
 msgstr ""
 
-#: services/products/main.js:705
+#: services/products/main.js:700
 msgid "Input the URL."
 msgstr ""
 
@@ -1274,7 +1301,7 @@ msgstr ""
 msgid "Input the abbreviation or symbol"
 msgstr ""
 
-#: services/products/main.js:680
+#: services/products/main.js:675
 msgid "Input the action title"
 msgstr ""
 
@@ -1286,32 +1313,32 @@ msgstr ""
 msgid "Input the confirm password"
 msgstr ""
 
-#: services/products/main.js:722
+#: services/products/main.js:717
 msgid "Input the content of HTTP request body here. When the trigger criteria is met, the HTTP request will be sent to the specified URL with specified action, headers and body."
 msgstr ""
 
-#: services/products/main.js:695
+#: services/products/main.js:690
 msgid "Input the content of the mobile notificaton. When the trigger criteria is met, the mobile notification will be sent to the specified users."
 msgstr ""
 
-#: services/products/main.js:686
+#: services/products/main.js:681
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1649
+#: controllers/development/detail.js:1676
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1642
+#: controllers/development/detail.js:1669
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1635
+#: controllers/development/detail.js:1662
 #: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1664
+#: controllers/development/detail.js:1691
 msgid "Input the data type"
 msgstr ""
 
@@ -1593,13 +1620,20 @@ msgid "Key5 value"
 msgstr ""
 
 #: components/ProfileForm/ProfileForm.js:263
+#: development/dialogs/addComponentContent.html:281
+#: development/dialogs/editComponent.html:176
 msgid "Language"
+msgstr ""
+
+#: development/detail/components.html:96
+#: mydevices/detail/components.html:69
+msgid "Last data point status"
 msgstr ""
 
 #: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
 #: management/DeviceListManagement/index.js:220
-#: mydevices/detail/components.html:70
+#: mydevices/detail/components.html:87
 msgid "Last data point time"
 msgstr ""
 
@@ -1654,11 +1688,11 @@ msgstr ""
 msgid "Low"
 msgstr ""
 
-#: services/validator.js:70
+#: services/validator.js:69
 msgid "Lower bound should be smaller than upper bound."
 msgstr ""
 
-#: services/products/main.js:651
+#: services/products/main.js:646
 msgid "Lower than"
 msgstr ""
 
@@ -1677,7 +1711,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1472
+#: controllers/development/detail.js:1499
 #: controllers/devices/detail.js:117
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1750,11 +1784,11 @@ msgstr ""
 msgid "Most utilized device:"
 msgstr ""
 
-#: development/detail/components.html:136
+#: development/detail/components.html:139
 msgid "Move down"
 msgstr ""
 
-#: development/detail/components.html:133
+#: development/detail/components.html:136
 msgid "Move up"
 msgstr ""
 
@@ -1788,7 +1822,7 @@ msgid "Name cannot be null."
 msgstr ""
 
 #: controllers/development/detail.js:347
-#: controllers/development/detail.js:629
+#: controllers/development/detail.js:648
 msgid "Name cannot null"
 msgstr ""
 
@@ -1914,7 +1948,7 @@ msgstr ""
 msgid "On-premise platform solution"
 msgstr ""
 
-#: services/products/main.js:663
+#: services/products/main.js:658
 msgid "OnChange"
 msgstr ""
 
@@ -1976,7 +2010,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1589
+#: controllers/development/detail.js:1616
 msgid "Please Try Again!"
 msgstr ""
 
@@ -1984,7 +2018,7 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:977
+#: controllers/development/detail.js:1004
 msgid "Please choose a file to upload"
 msgstr ""
 
@@ -1994,6 +2028,16 @@ msgstr ""
 
 #: components/Dialogs/PrivilegeDialog.js:121
 msgid "Please enter a valid email address."
+msgstr ""
+
+#: controllers/development/detail.js:447
+#: controllers/development/detail.js:664
+msgid "Please fix code syntax error"
+msgstr ""
+
+#: controllers/development/detail.js:444
+#: controllers/development/detail.js:661
+msgid "Please input code"
 msgstr ""
 
 #: components/AlertSeverity/Form.js:329
@@ -2006,8 +2050,8 @@ msgstr ""
 
 #: factories/components.js:843
 #: factories/components.js:904
-#: services/validator.js:33
-#: services/validator.js:63
+#: services/validator.js:32
+#: services/validator.js:62
 msgid "Please input {{key}}."
 msgstr ""
 
@@ -2015,7 +2059,7 @@ msgstr ""
 msgid "Please select application."
 msgstr ""
 
-#: services/products/main.js:385
+#: services/products/main.js:380
 msgid "Please select at least one test device"
 msgstr ""
 
@@ -2190,9 +2234,9 @@ msgstr ""
 
 #: components/AlertSeverity/Form.js:264
 #: components/UnitSelect/UnitSelect.js:220
-#: development/dialogs/addComponentContent.html:287
+#: development/dialogs/addComponentContent.html:316
 #: development/dialogs/createProducts.html:278
-#: development/dialogs/editComponent.html:187
+#: development/dialogs/editComponent.html:217
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
@@ -2220,11 +2264,15 @@ msgstr ""
 msgid "See the usage limitation detail…"
 msgstr ""
 
+#: controllers/development/detail.js:1733
+msgid "Select Function Language"
+msgstr ""
+
 #: components/HttpMethodSelect/HttpMethodSelect.js:84
 msgid "Select HTTP Method"
 msgstr ""
 
-#: services/products/main.js:737
+#: services/products/main.js:732
 msgid "Select alert severity"
 msgstr ""
 
@@ -2264,11 +2312,11 @@ msgstr ""
 msgid "Send email to {{email}}"
 msgstr ""
 
-#: development/dialogs/addComponent.html:95
+#: development/dialogs/addComponent.html:100
 msgid "Send us a message!"
 msgstr ""
 
-#: services/products/main.js:729
+#: services/products/main.js:724
 msgid "Send webhook"
 msgstr ""
 
@@ -2304,7 +2352,7 @@ msgstr ""
 msgid "Severity name"
 msgstr ""
 
-#: mydevices/detail/components.html:123
+#: mydevices/detail/components.html:140
 msgid "Show History"
 msgstr ""
 
@@ -2411,7 +2459,7 @@ msgstr ""
 msgid "Switch"
 msgstr ""
 
-#: development/dialogs/addComponent.html:87
+#: development/dialogs/addComponent.html:92
 msgid "Tell us what kind of template you want to add!"
 msgstr ""
 
@@ -2463,11 +2511,7 @@ msgstr ""
 msgid "Test devices list"
 msgstr ""
 
-#: development/dialogs/addComponent.html:71
-msgid "The Hybrid data channel is a two ways data channel contains bothe controller and display."
-msgstr ""
-
-#: services/products/main.js:706
+#: services/products/main.js:701
 msgid "The URL has to start with http:// or https://"
 msgstr ""
 
@@ -2592,7 +2636,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1416
+#: controllers/development/detail.js:1443
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2610,7 +2654,7 @@ msgid "Try to create it now."
 msgstr ""
 
 #: development/dialogs/addComponentContent.html:187
-#: development/dialogs/editComponent.html:80
+#: development/dialogs/editComponent.html:81
 msgid "Unit"
 msgstr ""
 
@@ -2828,12 +2872,16 @@ msgstr ""
 msgid "You can share the device page with anyone if you set a device as public. People can view the real-time data collected by your device without login! Please note currently we do not support GPS, image, and video data channels to be displayed on the public page."
 msgstr ""
 
-#: services/products/main.js:724
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:81
+msgid "You can use"
+msgstr ""
+
+#: services/products/main.js:719
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your body. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
-#: services/products/main.js:688
-#: services/products/main.js:697
+#: services/products/main.js:683
+#: services/products/main.js:692
 msgid "You can use ${} to reference the pre-defined variables you would like to include in your notification. The variables include ${deviceId}, ${deviceName} and ${value}."
 msgstr ""
 
@@ -2868,7 +2916,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:1156
+#: controllers/development/detail.js:1183
 #: controllers/development/index.js:160
 msgid "You have cloned the"
 msgstr ""
@@ -2893,7 +2941,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:638
+#: controllers/development/detail.js:657
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -2965,7 +3013,7 @@ msgstr ""
 msgid "Your prototype is successfully beta-released."
 msgstr ""
 
-#: services/products/main.js:712
+#: services/products/main.js:707
 msgid "action"
 msgstr ""
 
@@ -2973,7 +3021,7 @@ msgstr ""
 msgid "administrator"
 msgstr ""
 
-#: services/products/main.js:736
+#: services/products/main.js:731
 msgid "alert severity"
 msgstr ""
 
@@ -2993,7 +3041,7 @@ msgstr ""
 msgid "appSecret :"
 msgstr ""
 
-#: services/products/main.js:721
+#: services/products/main.js:716
 msgid "body"
 msgstr ""
 
@@ -3013,8 +3061,8 @@ msgstr ""
 msgid "confirm password can not be null"
 msgstr ""
 
-#: services/products/main.js:685
-#: services/products/main.js:694
+#: services/products/main.js:680
+#: services/products/main.js:689
 msgid "content"
 msgstr ""
 
@@ -3058,16 +3106,16 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:1039
+#: controllers/development/detail.js:1066
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:1156
+#: controllers/development/detail.js:1183
 #: controllers/development/index.js:160
 msgid "from"
 msgstr ""
 
-#: services/products/main.js:717
+#: services/products/main.js:712
 msgid "headers"
 msgstr ""
 
@@ -3129,7 +3177,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:1031
+#: controllers/development/detail.js:1058
 msgid "name cannot be null!"
 msgstr ""
 
@@ -3183,12 +3231,12 @@ msgstr ""
 msgid "save"
 msgstr ""
 
-#: controllers/development/detail.js:1396
-#: controllers/development/detail.js:1404
+#: controllers/development/detail.js:1423
+#: controllers/development/detail.js:1431
 #: controllers/development/detail.js:363
 #: controllers/development/detail.js:383
-#: controllers/development/detail.js:468
-#: controllers/development/detail.js:511
+#: controllers/development/detail.js:476
+#: controllers/development/detail.js:519
 #: controllers/development/index.js:240
 #: controllers/development/index.js:273
 #: controllers/devices/detail.js:196
@@ -3197,13 +3245,20 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:1156
+#: controllers/development/detail.js:1183
 #: controllers/development/index.js:160
 msgid "successfully."
 msgstr ""
 
-#: services/products/main.js:679
+#: services/products/main.js:674
 msgid "title"
+msgstr ""
+
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:89
+msgid ""
+"to return value to other\n"
+"data channels within the device. Besides, please be mindful of the constrains\n"
+"while completing your code."
 msgstr ""
 
 #: components/InputCodeBlock/InputCodeBlock.js:172
@@ -3223,7 +3278,7 @@ msgstr ""
 msgid "upgrade you've uploaded."
 msgstr ""
 
-#: services/products/main.js:704
+#: services/products/main.js:699
 msgid "url"
 msgstr ""
 
@@ -3235,7 +3290,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:1035
+#: controllers/development/detail.js:1062
 msgid "version cannot be null!"
 msgstr ""
 
@@ -3251,13 +3306,17 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:86
+msgid "{dataChnId1: value1, dataChnId2: value2, ...}"
+msgstr ""
+
 #: components/ProgressCircles/TotalsDevice.js:178
 msgid "{{deviceNumber}} device"
 msgid_plural "{{deviceNumber}} devices"
 msgstr[0] ""
 msgstr[1] ""
 
-#: services/validator.js:43
+#: services/validator.js:42
 msgid "{{key1}} and {{key2}} cannot be the same."
 msgstr ""
 
