@@ -52,8 +52,8 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:98
-msgid "1. JavaScript coding size limit < 800."
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:95
+msgid "1. JavaScript coding size limit < ."
 msgstr ""
 
 #: controllers/limitation/index.js:26
@@ -73,7 +73,7 @@ msgstr ""
 msgid "1MB"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:100
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:97
 msgid "2. External library include is not allowed."
 msgstr ""
 
@@ -90,7 +90,7 @@ msgstr ""
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:102
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:99
 msgid "3. Processing Time is limited to < 20 ms per datapoint invoke."
 msgstr ""
 
@@ -115,7 +115,7 @@ msgstr ""
 msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:104
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:101
 msgid ""
 "4. Return value to other data channels within the device excluding\n"
 "itself and other function data channel, the timestamp of the return value matches\n"
@@ -196,11 +196,11 @@ msgstr ""
 msgid "Action type"
 msgstr ""
 
-#: controllers/development/detail.js:1464
+#: controllers/development/detail.js:1466
 msgid "Action type is required!"
 msgstr ""
 
-#: controllers/development/detail.js:1469
+#: controllers/development/detail.js:1471
 msgid "Action {{field}} is required!"
 msgstr ""
 
@@ -534,8 +534,8 @@ msgid "Choose the value"
 msgstr ""
 
 #: components/InputCodeBlock/InputCodeBlock.js:173
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:132
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:168
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:133
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:173
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -625,7 +625,7 @@ msgstr ""
 msgid "Create a test device from prototype"
 msgstr ""
 
-#: controllers/development/detail.js:831
+#: controllers/development/detail.js:833
 msgid "Create as public device"
 msgstr ""
 
@@ -676,8 +676,8 @@ msgstr ""
 msgid "Creator"
 msgstr ""
 
-#: controllers/development/detail.js:1452
 #: controllers/development/detail.js:1454
+#: controllers/development/detail.js:1456
 #: controllers/devices/detail.js:438
 #: controllers/devices/detail.js:440
 msgid "Criteria Value should not be empty!"
@@ -704,11 +704,11 @@ msgstr ""
 msgid "Dashboard"
 msgstr ""
 
-#: controllers/development/detail.js:651
+#: controllers/development/detail.js:650
 msgid "Data Channel Id cannot null"
 msgstr ""
 
-#: controllers/development/detail.js:654
+#: controllers/development/detail.js:653
 msgid "Data Channel Id only input a-z, 0-9, and_"
 msgstr ""
 
@@ -725,11 +725,11 @@ msgstr ""
 msgid "Data channel Id"
 msgstr ""
 
-#: controllers/development/detail.js:725
+#: controllers/development/detail.js:727
 msgid "Data channel Id was used!"
 msgstr ""
 
-#: controllers/development/detail.js:1450
+#: controllers/development/detail.js:1452
 msgid "Data channel is required!"
 msgstr ""
 
@@ -878,7 +878,7 @@ msgstr ""
 msgid "Device name ( default )"
 msgstr ""
 
-#: controllers/development/detail.js:852
+#: controllers/development/detail.js:854
 msgid "Device name cannot null."
 msgstr ""
 
@@ -1033,7 +1033,7 @@ msgstr ""
 msgid "Embed data channel"
 msgstr ""
 
-#: controllers/development/detail.js:1764
+#: controllers/development/detail.js:1766
 msgid "Enter code here"
 msgstr ""
 
@@ -1325,20 +1325,20 @@ msgstr ""
 msgid "Input the content of the notificaton email. When the trigger criterla is met, the email will be sent to the specified users."
 msgstr ""
 
-#: controllers/development/detail.js:1676
+#: controllers/development/detail.js:1678
 msgid "Input the data channel description"
 msgstr ""
 
-#: controllers/development/detail.js:1669
+#: controllers/development/detail.js:1671
 msgid "Input the data channel id"
 msgstr ""
 
-#: controllers/development/detail.js:1662
+#: controllers/development/detail.js:1664
 #: development/dialogs/editComponent.html:22
 msgid "Input the data channel name"
 msgstr ""
 
-#: controllers/development/detail.js:1691
+#: controllers/development/detail.js:1693
 msgid "Input the data type"
 msgstr ""
 
@@ -1711,7 +1711,7 @@ msgstr ""
 msgid "MT7681"
 msgstr ""
 
-#: controllers/development/detail.js:1499
+#: controllers/development/detail.js:1501
 #: controllers/devices/detail.js:117
 msgid "MUST BE A VALID USER E-MAIL!"
 msgstr ""
@@ -1822,7 +1822,7 @@ msgid "Name cannot be null."
 msgstr ""
 
 #: controllers/development/detail.js:347
-#: controllers/development/detail.js:648
+#: controllers/development/detail.js:647
 msgid "Name cannot null"
 msgstr ""
 
@@ -2010,7 +2010,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-#: controllers/development/detail.js:1616
+#: controllers/development/detail.js:1618
 msgid "Please Try Again!"
 msgstr ""
 
@@ -2018,7 +2018,7 @@ msgstr ""
 msgid "Please be noted:"
 msgstr ""
 
-#: controllers/development/detail.js:1004
+#: controllers/development/detail.js:1006
 msgid "Please choose a file to upload"
 msgstr ""
 
@@ -2031,12 +2031,12 @@ msgid "Please enter a valid email address."
 msgstr ""
 
 #: controllers/development/detail.js:447
-#: controllers/development/detail.js:664
+#: controllers/development/detail.js:663
 msgid "Please fix code syntax error"
 msgstr ""
 
 #: controllers/development/detail.js:444
-#: controllers/development/detail.js:661
+#: controllers/development/detail.js:660
 msgid "Please input code"
 msgstr ""
 
@@ -2264,7 +2264,7 @@ msgstr ""
 msgid "See the usage limitation detail…"
 msgstr ""
 
-#: controllers/development/detail.js:1733
+#: controllers/development/detail.js:1735
 msgid "Select Function Language"
 msgstr ""
 
@@ -2436,6 +2436,10 @@ msgstr ""
 msgid "Success! Device created."
 msgstr ""
 
+#: controllers/development/detail.js:707
+msgid "Success! You have added a data channel."
+msgstr ""
+
 #: controllers/development/detail.js:112
 msgid "Success! You have deleted a severity level."
 msgstr ""
@@ -2447,6 +2451,10 @@ msgstr ""
 #: controllers/development/detail.js:86
 #: controllers/development/detail.js:99
 msgid "Success! You have saved the change."
+msgstr ""
+
+#: controllers/development/detail.js:464
+msgid "Success! You have updated a data channel."
 msgstr ""
 
 #: components/ProfileDialog/ProfileDialog.js:190
@@ -2636,7 +2644,7 @@ msgstr ""
 msgid "Trigger name"
 msgstr ""
 
-#: controllers/development/detail.js:1443
+#: controllers/development/detail.js:1445
 msgid "Trigger name is required!"
 msgstr ""
 
@@ -2872,7 +2880,7 @@ msgstr ""
 msgid "You can share the device page with anyone if you set a device as public. People can view the real-time data collected by your device without login! Please note currently we do not support GPS, image, and video data channels to be displayed on the public page."
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:81
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:78
 msgid "You can use"
 msgstr ""
 
@@ -2916,7 +2924,7 @@ msgstr ""
 msgid "You do not have permission"
 msgstr ""
 
-#: controllers/development/detail.js:1183
+#: controllers/development/detail.js:1185
 #: controllers/development/index.js:160
 msgid "You have cloned the"
 msgstr ""
@@ -2941,7 +2949,7 @@ msgstr ""
 msgid "You must have data channel before create test device."
 msgstr ""
 
-#: controllers/development/detail.js:657
+#: controllers/development/detail.js:656
 msgid "You should choose a data channel type!"
 msgstr ""
 
@@ -3106,11 +3114,11 @@ msgstr ""
 msgid "field."
 msgstr ""
 
-#: controllers/development/detail.js:1066
+#: controllers/development/detail.js:1068
 msgid "file cannot be null!"
 msgstr ""
 
-#: controllers/development/detail.js:1183
+#: controllers/development/detail.js:1185
 #: controllers/development/index.js:160
 msgid "from"
 msgstr ""
@@ -3177,7 +3185,7 @@ msgstr ""
 msgid "mins ago"
 msgstr ""
 
-#: controllers/development/detail.js:1058
+#: controllers/development/detail.js:1060
 msgid "name cannot be null!"
 msgstr ""
 
@@ -3231,12 +3239,11 @@ msgstr ""
 msgid "save"
 msgstr ""
 
-#: controllers/development/detail.js:1423
-#: controllers/development/detail.js:1431
+#: controllers/development/detail.js:1425
+#: controllers/development/detail.js:1433
 #: controllers/development/detail.js:363
 #: controllers/development/detail.js:383
-#: controllers/development/detail.js:476
-#: controllers/development/detail.js:519
+#: controllers/development/detail.js:521
 #: controllers/development/index.js:240
 #: controllers/development/index.js:273
 #: controllers/devices/detail.js:196
@@ -3245,7 +3252,7 @@ msgstr ""
 msgid "success."
 msgstr ""
 
-#: controllers/development/detail.js:1183
+#: controllers/development/detail.js:1185
 #: controllers/development/index.js:160
 msgid "successfully."
 msgstr ""
@@ -3254,7 +3261,7 @@ msgstr ""
 msgid "title"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:89
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:86
 msgid ""
 "to return value to other\n"
 "data channels within the device. Besides, please be mindful of the constrains\n"
@@ -3290,7 +3297,7 @@ msgstr ""
 msgid "version"
 msgstr ""
 
-#: controllers/development/detail.js:1062
+#: controllers/development/detail.js:1064
 msgid "version cannot be null!"
 msgstr ""
 
@@ -3306,7 +3313,7 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:86
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:83
 msgid "{dataChnId1: value1, dataChnId2: value2, ...}"
 msgstr ""
 
