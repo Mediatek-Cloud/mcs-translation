@@ -19,7 +19,7 @@ msgstr ""
 msgid "(meter)"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:421
+#: development/dialogs/trigger/add.html:420
 #: development/dialogs/trigger/edit.html:411
 msgid "+ Add action"
 msgstr ""
@@ -251,7 +251,7 @@ msgstr ""
 msgid "Add firmware"
 msgstr ""
 
-#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:160
+#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:165
 msgid "Add key & value"
 msgstr ""
 
@@ -439,7 +439,7 @@ msgstr ""
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:82
 #: development/dialogs/ranOutOfLimitation.html:27
-#: development/dialogs/trigger/add.html:443
+#: development/dialogs/trigger/add.html:442
 #: development/dialogs/trigger/edit.html:433
 #: dialogs/tutorialCloseConfirm.html:32
 #: main.js:457
@@ -761,7 +761,7 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: development/dialogs/trigger/add.html:403
+#: development/dialogs/trigger/add.html:402
 #: development/dialogs/trigger/edit.html:393
 msgid "Delete action"
 msgstr ""
@@ -771,7 +771,7 @@ msgstr ""
 msgid "Delete data channel"
 msgstr ""
 
-#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:148
+#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:153
 msgid "Delete key & value"
 msgstr ""
 
@@ -1376,7 +1376,7 @@ msgstr ""
 msgid "Input the hexadecimal value, only 0-9 or A-F."
 msgstr ""
 
-#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:125
+#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:130
 msgid "Input the key"
 msgstr ""
 
@@ -1434,7 +1434,7 @@ msgstr ""
 msgid "Input the unit name"
 msgstr ""
 
-#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:135
+#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:140
 msgid "Input the value"
 msgstr ""
 
@@ -1530,7 +1530,7 @@ msgstr ""
 msgid "JSON cannot be null."
 msgstr ""
 
-#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:121
+#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:126
 msgid "Key"
 msgstr ""
 
@@ -1832,7 +1832,7 @@ msgstr ""
 
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:103
 #: development/dialogs/firmware/add/selectCompatibleFirmware.html:92
-#: development/dialogs/trigger/add.html:450
+#: development/dialogs/trigger/add.html:449
 #: values/products/ngIntro.js:37
 msgid "Next"
 msgstr ""
@@ -2240,7 +2240,7 @@ msgstr ""
 #: development/dialogs/editProducts.html:241
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
-#: development/dialogs/trigger/add.html:457
+#: development/dialogs/trigger/add.html:456
 #: development/dialogs/trigger/edit.html:439
 #: mydevices/dialogs/createDevices.html:90
 #: mydevices/dialogs/trigger.html:154
@@ -2781,7 +2781,7 @@ msgstr ""
 msgid "Users ({{ privileges.length }})"
 msgstr ""
 
-#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:132
+#: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:137
 #: components/control/pwm.html:4
 #: components/control/pwmSlider.html:13
 msgid "Value"
