@@ -52,7 +52,7 @@ msgstr ""
 msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:95
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:82
 msgid "1. JavaScript coding size limit < ."
 msgstr ""
 
@@ -73,7 +73,7 @@ msgstr ""
 msgid "1MB"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:97
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:84
 msgid "2. External library include is not allowed."
 msgstr ""
 
@@ -90,7 +90,7 @@ msgstr ""
 msgid "3. Existing user have devices created beyond the limitation will not be able to create new device."
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:99
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:86
 msgid "3. Processing Time is limited to < 20 ms per datapoint invoke."
 msgstr ""
 
@@ -115,7 +115,7 @@ msgstr ""
 msgid "4. If you have a need to expand usage quota, please"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:101
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:88
 msgid ""
 "4. Return value to other data channels within the device excluding\n"
 "itself and other function data channel, the timestamp of the return value matches\n"
@@ -159,7 +159,7 @@ msgstr ""
 msgid "AND"
 msgstr ""
 
-#: mydevices/detail/components.html:149
+#: mydevices/detail/components.html:152
 msgid "API Hint"
 msgstr ""
 
@@ -534,8 +534,8 @@ msgid "Choose the value"
 msgstr ""
 
 #: components/InputCodeBlock/InputCodeBlock.js:173
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:133
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:173
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:143
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:188
 #: components/control/float.html:9
 #: components/control/hexstring.html:9
 #: components/control/integer.html:9
@@ -717,10 +717,10 @@ msgstr ""
 msgid "Data channel"
 msgstr ""
 
-#: development/detail/components.html:101
+#: development/detail/components.html:105
 #: development/dialogs/addComponentContent.html:29
 #: mydevices/detail/apihint.html:48
-#: mydevices/detail/components.html:91
+#: mydevices/detail/components.html:94
 #: mydevices/dialogs/showapihint.html:10
 msgid "Data channel Id"
 msgstr ""
@@ -751,7 +751,7 @@ msgstr ""
 
 #: components/AlertSeverity/DeleteDialog.js:107
 #: controllers/development/detail.js:234
-#: development/detail/components.html:156
+#: development/detail/components.html:160
 #: development/index.html:147
 #: main.js:456
 #: management/DeviceListManagement/index.js:151
@@ -964,7 +964,7 @@ msgid "EX:100(only input integer)"
 msgstr ""
 
 #: controllers/development/detail.js:257
-#: development/detail/components.html:149
+#: development/detail/components.html:153
 #: development/detail/manufacturerinfo.html:11
 #: development/index.html:144
 #: profile/detail/serviceprovider.html:31
@@ -1021,7 +1021,7 @@ msgstr ""
 msgid "Email trigger"
 msgstr ""
 
-#: mydevices/detail/components.html:157
+#: mydevices/detail/components.html:160
 msgid "Embed"
 msgstr ""
 
@@ -1224,7 +1224,7 @@ msgstr ""
 msgid "Hi"
 msgstr ""
 
-#: mydevices/detail/components.html:141
+#: mydevices/detail/components.html:144
 msgid "Hide History"
 msgstr ""
 
@@ -1625,15 +1625,15 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: development/detail/components.html:96
-#: mydevices/detail/components.html:69
+#: development/detail/components.html:100
+#: mydevices/detail/components.html:72
 msgid "Last data point status"
 msgstr ""
 
 #: components/GoogleMap/MarkerPopover.js:136
 #: dashboard/overview.html:46
 #: management/DeviceListManagement/index.js:220
-#: mydevices/detail/components.html:87
+#: mydevices/detail/components.html:90
 msgid "Last data point time"
 msgstr ""
 
@@ -1784,11 +1784,11 @@ msgstr ""
 msgid "Most utilized device:"
 msgstr ""
 
-#: development/detail/components.html:139
+#: development/detail/components.html:143
 msgid "Move down"
 msgstr ""
 
-#: development/detail/components.html:136
+#: development/detail/components.html:140
 msgid "Move up"
 msgstr ""
 
@@ -2352,7 +2352,7 @@ msgstr ""
 msgid "Severity name"
 msgstr ""
 
-#: mydevices/detail/components.html:140
+#: mydevices/detail/components.html:143
 msgid "Show History"
 msgstr ""
 
@@ -2880,7 +2880,7 @@ msgstr ""
 msgid "You can share the device page with anyone if you set a device as public. People can view the real-time data collected by your device without login! Please note currently we do not support GPS, image, and video data channels to be displayed on the public page."
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:78
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:65
 msgid "You can use"
 msgstr ""
 
@@ -3261,7 +3261,7 @@ msgstr ""
 msgid "title"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:86
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:73
 msgid ""
 "to return value to other\n"
 "data channels within the device. Besides, please be mindful of the constrains\n"
@@ -3313,7 +3313,7 @@ msgstr ""
 msgid "you need to create a prototype"
 msgstr ""
 
-#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:83
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:70
 msgid "{dataChnId1: value1, dataChnId2: value2, ...}"
 msgstr ""
 
