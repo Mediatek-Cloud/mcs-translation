@@ -53,7 +53,7 @@ msgid "1. Devices being shared from other user account will not be counted."
 msgstr ""
 
 #: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:82
-msgid "1. JavaScript coding size limit < ."
+msgid "1. JavaScript coding size limit <"
 msgstr ""
 
 #: controllers/limitation/index.js:26
@@ -573,6 +573,10 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:217
+msgid "Code size exceeds"
+msgstr ""
+
 #: dialogs/comingSoon.html:3
 msgid "Coming soon!"
 msgstr ""
@@ -743,7 +747,7 @@ msgstr ""
 msgid "Data channel name"
 msgstr ""
 
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:330
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:340
 msgid "Data point list"
 msgstr ""
 
@@ -2193,7 +2197,7 @@ msgstr ""
 msgid "Recommended 1836 X 980 pixels."
 msgstr ""
 
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:359
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:369
 msgid "Refresh"
 msgstr ""
 
@@ -2382,7 +2386,7 @@ msgstr ""
 msgid "Severity name"
 msgstr ""
 
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:294
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:304
 #: mydevices/detail/components.html:143
 msgid "Show History"
 msgstr ""
@@ -2411,7 +2415,7 @@ msgid "Statistics up to today,"
 msgstr ""
 
 #: dashboard/overview.html:45
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:376
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:386
 #: development/detail.html:164
 #: development/detail.html:166
 #: development/index.html:165
@@ -2619,7 +2623,7 @@ msgstr ""
 msgid "This is my clicked marker!"
 msgstr ""
 
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:381
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:391
 msgid "Time"
 msgstr ""
 
@@ -2741,7 +2745,7 @@ msgstr ""
 msgid "Update Profile"
 msgstr ""
 
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:340
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:350
 msgid "Update time"
 msgstr ""
 
@@ -2832,7 +2836,7 @@ msgstr ""
 #: components/HttpHeaderInputGroup/HttpHeaderInputGroup.js:137
 #: components/control/pwm.html:4
 #: components/control/pwmSlider.html:13
-#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:371
+#: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:381
 msgid "Value"
 msgstr ""
 
@@ -3108,6 +3112,14 @@ msgstr ""
 
 #: mydevices/dialogs/editDevices.html:149
 msgid "cancel"
+msgstr ""
+
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:217
+msgid "characters"
+msgstr ""
+
+#: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:82
+msgid "characters."
 msgstr ""
 
 #: limitation/dialogs/limitationDetail.html:19
