@@ -340,9 +340,8 @@ msgstr ""
 msgid "App url"
 msgstr ""
 
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:184
 #: development/detail.html:170
-#: development/dialogs/createProducts.html:167
-#: development/dialogs/editProducts.html:137
 #: mydevices/dialogs/editDevices.html:99
 msgid "Application"
 msgstr ""
@@ -428,12 +427,12 @@ msgstr ""
 #: development/dialogs/createDevice.html:182
 #: development/dialogs/createDeviceFail.html:30
 #: development/dialogs/createDeviceNotice.html:32
-#: development/dialogs/createProducts.html:272
+#: development/dialogs/createProducts.html:145
 #: development/dialogs/createTestDevice.html:71
 #: development/dialogs/deleteConfirm.html:28
 #: development/dialogs/deleteDataChannel.html:29
 #: development/dialogs/editComponent.html:216
-#: development/dialogs/editProducts.html:237
+#: development/dialogs/editProducts.html:148
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:93
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:65
 #: development/dialogs/firmware/edit/pushFirmwareToDevice.html:57
@@ -504,8 +503,7 @@ msgstr ""
 msgid "Choose the action"
 msgstr ""
 
-#: development/dialogs/createProducts.html:179
-#: development/dialogs/editProducts.html:148
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:190
 msgid "Choose the application"
 msgstr ""
 
@@ -518,13 +516,12 @@ msgstr ""
 msgid "Choose the dataChannel"
 msgstr ""
 
-#: development/dialogs/createProducts.html:74
-#: development/dialogs/editProducts.html:56
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:161
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:186
 msgid "Choose the hardware platform"
 msgstr ""
 
-#: development/dialogs/createProducts.html:133
-#: development/dialogs/editProducts.html:109
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:144
 msgid "Choose the industry"
 msgstr ""
 
@@ -799,9 +796,9 @@ msgstr ""
 #: development/detail/manufacturerinfo.html:18
 #: development/dialogs/addComponentContent.html:47
 #: development/dialogs/cloneProduct.html:35
-#: development/dialogs/createProducts.html:106
+#: development/dialogs/createProducts.html:65
 #: development/dialogs/editComponent.html:30
-#: development/dialogs/editProducts.html:84
+#: development/dialogs/editProducts.html:57
 #: development/dialogs/trigger/add.html:79
 #: development/dialogs/trigger/edit.html:69
 #: mydevices/detail.html:176
@@ -966,8 +963,8 @@ msgstr ""
 msgid "Down"
 msgstr ""
 
-#: development/dialogs/createProducts.html:228
-#: development/dialogs/editProducts.html:195
+#: development/dialogs/createProducts.html:101
+#: development/dialogs/editProducts.html:106
 msgid "Drop an image here to upload!"
 msgstr ""
 
@@ -1218,10 +1215,18 @@ msgstr ""
 msgid "Hardware Platform"
 msgstr ""
 
+#: controllers/development/index.js:270
+msgid "Hardware cannot be null."
+msgstr ""
+
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:180
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:205
+msgid "Hardware name"
+msgstr ""
+
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:155
 #: development/detail.html:51
 #: development/detail.html:58
-#: development/dialogs/createProducts.html:62
-#: development/dialogs/editProducts.html:45
 #: mydevices/detail.html:100
 #: mydevices/detail.html:94
 msgid "Hardware platform"
@@ -1276,8 +1281,8 @@ msgstr ""
 msgid "Image size limits"
 msgstr ""
 
-#: development/dialogs/createProducts.html:210
-#: development/dialogs/editProducts.html:175
+#: development/dialogs/createProducts.html:83
+#: development/dialogs/editProducts.html:86
 #: mydevices/dialogs/createDevices.html:56
 #: mydevices/dialogs/editDevices.html:128
 msgid "Image upload"
@@ -1287,11 +1292,14 @@ msgstr ""
 msgid "Import prototype: Paste JSON here"
 msgstr ""
 
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:138
 #: development/detail.html:169
-#: development/dialogs/createProducts.html:121
-#: development/dialogs/editProducts.html:98
 #: mydevices/dialogs/editDevices.html:70
 msgid "Industry"
+msgstr ""
+
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:163
+msgid "Industry name"
 msgstr ""
 
 #: mydevices/dialogs/editDevices.html:106
@@ -1412,8 +1420,8 @@ msgstr ""
 msgid "Input the product ID"
 msgstr ""
 
-#: development/dialogs/createProducts.html:116
-#: development/dialogs/editProducts.html:93
+#: development/dialogs/createProducts.html:75
+#: development/dialogs/editProducts.html:66
 msgid "Input the prototype description"
 msgstr ""
 
@@ -1512,6 +1520,14 @@ msgstr ""
 msgid "Input your current position"
 msgstr ""
 
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:215
+msgid "Input your hardware platform name"
+msgstr ""
+
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:173
+msgid "Input your industry name"
+msgstr ""
+
 #: components/ProfileForm/ProfileForm.js:276
 msgid "Input your language"
 msgstr ""
@@ -1546,7 +1562,7 @@ msgstr ""
 msgid "JPG, JPEG, PNG"
 msgstr ""
 
-#: controllers/development/index.js:89
+#: controllers/development/index.js:121
 msgid "JSON cannot be null."
 msgstr ""
 
@@ -1837,7 +1853,8 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: controllers/development/index.js:68
+#: controllers/development/index.js:100
+#: controllers/development/index.js:264
 msgid "Name cannot be null."
 msgstr ""
 
@@ -2080,7 +2097,8 @@ msgstr ""
 msgid "Please input {{key}}."
 msgstr ""
 
-#: controllers/development/index.js:80
+#: controllers/development/index.js:112
+#: controllers/development/index.js:276
 msgid "Please select application."
 msgstr ""
 
@@ -2088,11 +2106,12 @@ msgstr ""
 msgid "Please select at least one test device"
 msgstr ""
 
-#: controllers/development/index.js:74
+#: controllers/development/index.js:106
 msgid "Please select hardware platform."
 msgstr ""
 
-#: controllers/development/index.js:77
+#: controllers/development/index.js:109
+#: controllers/development/index.js:273
 msgid "Please select industry."
 msgstr ""
 
@@ -2192,8 +2211,8 @@ msgstr ""
 msgid "Recent activity"
 msgstr ""
 
-#: development/dialogs/createProducts.html:229
-#: development/dialogs/editProducts.html:196
+#: development/dialogs/createProducts.html:102
+#: development/dialogs/editProducts.html:107
 msgid "Recommended 1836 X 980 pixels."
 msgstr ""
 
@@ -2268,9 +2287,9 @@ msgstr ""
 #: components/AlertSeverity/Form.js:264
 #: components/UnitSelect/UnitSelect.js:220
 #: development/dialogs/addComponentContent.html:323
-#: development/dialogs/createProducts.html:278
+#: development/dialogs/createProducts.html:151
 #: development/dialogs/editComponent.html:224
-#: development/dialogs/editProducts.html:241
+#: development/dialogs/editProducts.html:152
 #: development/dialogs/firmware/edit/editFirmwareInfomation.html:70
 #: development/dialogs/firmware/edit/selectCompatibleFirmware.html:86
 #: development/dialogs/trigger/add.html:456
@@ -2754,8 +2773,8 @@ msgstr ""
 msgid "Upgrade now"
 msgstr ""
 
-#: development/dialogs/createProducts.html:252
-#: development/dialogs/editProducts.html:220
+#: development/dialogs/createProducts.html:125
+#: development/dialogs/editProducts.html:131
 #: development/dialogs/firmware/add/editFirmwareInfomation.html:98
 #: management/dialogs/createSerialNumber.html:24
 #: mydevices/dialogs/createDevices.html:64
@@ -2780,8 +2799,8 @@ msgstr ""
 msgid "Upload data points"
 msgstr ""
 
-#: development/dialogs/createProducts.html:212
-#: development/dialogs/editProducts.html:180
+#: development/dialogs/createProducts.html:85
+#: development/dialogs/editProducts.html:91
 #: mydevices/dialogs/createDevices.html:58
 #: mydevices/dialogs/editDevices.html:130
 #: profile/index.html:48
@@ -2853,7 +2872,8 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: controllers/development/index.js:71
+#: controllers/development/index.js:103
+#: controllers/development/index.js:267
 msgid "Version cannot be null."
 msgstr ""
 
@@ -2971,14 +2991,14 @@ msgstr ""
 msgid "You do not have any beta-released prototype and device yet. To see and manage the distributed devices here in the Management page, you have to first beta-release any of your prototype and create devices."
 msgstr ""
 
-#: controllers/development/index.js:207
-#: controllers/development/index.js:282
+#: controllers/development/index.js:239
+#: controllers/development/index.js:329
 #: controllers/devices/index.js:96
 msgid "You do not have permission"
 msgstr ""
 
 #: controllers/development/detail.js:1197
-#: controllers/development/index.js:160
+#: controllers/development/index.js:192
 msgid "You have cloned the"
 msgstr ""
 
@@ -3180,7 +3200,7 @@ msgid "file cannot be null!"
 msgstr ""
 
 #: controllers/development/detail.js:1197
-#: controllers/development/index.js:160
+#: controllers/development/index.js:192
 msgid "from"
 msgstr ""
 
@@ -3305,8 +3325,8 @@ msgstr ""
 #: controllers/development/detail.js:363
 #: controllers/development/detail.js:383
 #: controllers/development/detail.js:530
-#: controllers/development/index.js:240
-#: controllers/development/index.js:273
+#: controllers/development/index.js:287
+#: controllers/development/index.js:320
 #: controllers/devices/detail.js:196
 #: controllers/devices/detail.js:422
 #: controllers/devices/index.js:87
@@ -3314,7 +3334,7 @@ msgid "success."
 msgstr ""
 
 #: controllers/development/detail.js:1197
-#: controllers/development/index.js:160
+#: controllers/development/index.js:192
 msgid "successfully."
 msgstr ""
 
