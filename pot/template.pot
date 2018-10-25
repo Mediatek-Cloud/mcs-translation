@@ -340,7 +340,7 @@ msgstr ""
 msgid "App url"
 msgstr ""
 
-#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:184
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:196
 #: development/detail.html:170
 #: mydevices/dialogs/editDevices.html:99
 msgid "Application"
@@ -503,7 +503,7 @@ msgstr ""
 msgid "Choose the action"
 msgstr ""
 
-#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:190
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:202
 msgid "Choose the application"
 msgstr ""
 
@@ -516,12 +516,12 @@ msgstr ""
 msgid "Choose the dataChannel"
 msgstr ""
 
-#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:161
-#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:186
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:168
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:193
 msgid "Choose the hardware platform"
 msgstr ""
 
-#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:144
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:156
 msgid "Choose the industry"
 msgstr ""
 
@@ -1220,12 +1220,12 @@ msgstr ""
 msgid "Hardware cannot be null."
 msgstr ""
 
-#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:180
-#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:205
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:187
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:212
 msgid "Hardware name"
 msgstr ""
 
-#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:155
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:162
 #: development/detail.html:51
 #: development/detail.html:58
 #: mydevices/detail.html:100
@@ -1293,13 +1293,13 @@ msgstr ""
 msgid "Import prototype: Paste JSON here"
 msgstr ""
 
-#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:138
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:150
 #: development/detail.html:169
 #: mydevices/dialogs/editDevices.html:70
 msgid "Industry"
 msgstr ""
 
-#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:163
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:175
 msgid "Industry name"
 msgstr ""
 
@@ -1521,11 +1521,11 @@ msgstr ""
 msgid "Input your current position"
 msgstr ""
 
-#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:215
+#: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:222
 msgid "Input your hardware platform name"
 msgstr ""
 
-#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:173
+#: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:185
 msgid "Input your industry name"
 msgstr ""
 
