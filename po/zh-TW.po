@@ -59,7 +59,7 @@ msgstr "1. 由其他使用者分享給您的裝置不會列入計算。"
 
 #: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:82
 msgid "1. JavaScript coding size limit <"
-msgstr "1. javascript 編碼大小限制 <"
+msgstr "1. javascript 程式碼大小限制 <"
 
 #: controllers/limitation/index.js:26 controllers/limitation/index.js:37
 msgid "1. {{count}} test devices"
