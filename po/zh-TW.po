@@ -737,16 +737,12 @@ msgid "Data channel name"
 msgstr "資料通道名稱"
 
 #: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:340
-#, fuzzy
-#| msgid "data points"
 msgid "Data point list"
-msgstr "資料點"
+msgstr "資料點清單"
 
 #: development/FunctionDataChannelHistory/DataPointListItem/DataPointListItem.js:198
-#, fuzzy
-#| msgid "Data points usage"
 msgid "Data point value"
-msgstr "用量"
+msgstr "資料點值"
 
 #: dashboard/numberofused.html:37 directives/graphs/datapointusage.js:17
 #: limitation/index.html:123
@@ -1024,10 +1020,8 @@ msgid "Embed data channel"
 msgstr "崁入資料通道"
 
 #: controllers/development/detail.js:1818
-#, fuzzy
-#| msgid "Enter device name"
 msgid "Enter code here"
-msgstr "輸入裝置名稱"
+msgstr "在此輸入程式碼"
 
 #: mydevices/dialogs/editDevices.html:16
 msgid "Enter device name"
@@ -1066,10 +1060,8 @@ msgid "Export"
 msgstr "匯出"
 
 #: development/FunctionDataChannelHistory/DataPointListItem/styled-components.js:53
-#, fuzzy
-#| msgid "Failure!"
 msgid "Fail"
-msgstr "錯誤！"
+msgstr "失敗"
 
 #: components/ProcessButtonWithErrorMsg/ProcessButtonWithErrorMsg.js:191
 #: controllers/development/detail.js:146
@@ -1120,10 +1112,8 @@ msgstr ""
 "只會複製原本的資料通道和觸發條件與動作設定。"
 
 #: development/dialogs/addComponent.html:70 factories/dataChnTypeId.js:113
-#, fuzzy
-#| msgid "Action"
 msgid "Function"
-msgstr "動作"
+msgstr "資料運算"
 
 #: development/dialogs/addComponent.html:73
 msgid ""
@@ -1200,17 +1190,13 @@ msgstr "硬體平台"
 
 #: controllers/development/detail.js:384 controllers/development/index.js:104
 #: controllers/development/index.js:269
-#, fuzzy
-#| msgid "Name cannot be null."
 msgid "Hardware cannot be null."
 msgstr "名稱不能為空。"
 
 #: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:187
 #: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:212
-#, fuzzy
-#| msgid "Firmware name"
 msgid "Hardware name"
-msgstr "韌體名稱"
+msgstr "硬體名稱"
 
 #: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:162
 #: development/detail.html:51 development/detail.html:58
@@ -1282,14 +1268,10 @@ msgstr "產業"
 
 #: controllers/development/detail.js:387 controllers/development/index.js:107
 #: controllers/development/index.js:272
-#, fuzzy
-#| msgid "JSON cannot be null."
 msgid "Industry cannot be null."
 msgstr "JSON 內容不能為空。"
 
 #: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:175
-#, fuzzy
-#| msgid "Industry"
 msgid "Industry name"
 msgstr "產業"
 
@@ -1517,16 +1499,12 @@ msgid "Input your current position"
 msgstr "選擇您目前的職稱"
 
 #: components/InputHardwareFieldGroup/InputHardwareFieldGroup.js:222
-#, fuzzy
-#| msgid "Develop with our hardware platform"
 msgid "Input your hardware platform name"
-msgstr "使用我們的開發版來開發"
+msgstr "輸入所以用的開發版名稱"
 
 #: components/InputIndustryAppicationFieldGroup/InputIndustryAppicationFieldGroup.js:185
-#, fuzzy
-#| msgid "Input your App name."
 msgid "Input your industry name"
-msgstr "輸入您的 app 名稱。"
+msgstr "輸入您的產業名稱"
 
 #: components/ProfileForm/ProfileForm.js:276
 msgid "Input your language"
@@ -1632,8 +1610,6 @@ msgid "Language"
 msgstr "語言"
 
 #: development/detail/components.html:100 mydevices/detail/components.html:72
-#, fuzzy
-#| msgid "Last data point time"
 msgid "Last data point status"
 msgstr "最後資料點時間"
 
@@ -2021,10 +1997,8 @@ msgid "Please fix code syntax error"
 msgstr "請修復代碼語法錯誤"
 
 #: controllers/development/detail.js:496 controllers/development/detail.js:715
-#, fuzzy
-#| msgid "Please input {{key}}."
 msgid "Please input code"
-msgstr "請輸入 {{key}}"
+msgstr "請輸入程式碼"
 
 #: components/AlertSeverity/Form.js:329
 msgid "Please input the level color"
@@ -2418,8 +2392,6 @@ msgid "Success! Device created."
 msgstr "成功！裝置建立完成。"
 
 #: controllers/development/detail.js:762
-#, fuzzy
-#| msgid "Success! You have saved the change."
 msgid "Success! You have added a data channel."
 msgstr "成功！變更已儲存。"
 
@@ -2436,8 +2408,6 @@ msgid "Success! You have saved the change."
 msgstr "成功！變更已儲存。"
 
 #: controllers/development/detail.js:516
-#, fuzzy
-#| msgid "Success! You have saved the change."
 msgid "Success! You have updated a data channel."
 msgstr "成功！變更已儲存。"
 
@@ -2451,8 +2421,6 @@ msgid "Switch"
 msgstr "開關"
 
 #: development/FunctionDataChannelHistory/DataPointListItem/DataPointListItem.js:220
-#, fuzzy
-#| msgid "System detail"
 msgid "System log"
 msgstr "系統詳細資料"
 
@@ -2571,10 +2539,8 @@ msgid "This is my clicked marker!"
 msgstr "這是我的點擊標記！"
 
 #: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:391
-#, fuzzy
-#| msgid "Time:"
 msgid "Time"
-msgstr "時間："
+msgstr "時間"
 
 #: components/ProfileForm/ProfileForm.js:295
 msgid "Timezone"
@@ -2694,8 +2660,6 @@ msgid "Update Profile"
 msgstr "更新個人檔案"
 
 #: development/FunctionDataChannelHistory/FunctionDataChannelHistory.js:350
-#, fuzzy
-#| msgid "Last update time"
 msgid "Update time"
 msgstr "最後更新時間"
 
@@ -2897,10 +2861,8 @@ msgstr ""
 "集的資料。請注意目前公開的裝置尚不支援 GPS、影像、以及影像串流資料通道。"
 
 #: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:65
-#, fuzzy
-#| msgid "You can:"
 msgid "You can use"
-msgstr "您可以："
+msgstr "您可以使用"
 
 #: services/products/main.js:719
 msgid ""
@@ -3099,16 +3061,12 @@ msgid "cancel"
 msgstr "取消"
 
 #: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:217
-#, fuzzy
-#| msgid "At least 8 characters"
 msgid "characters"
-msgstr "至少8個字元"
+msgstr "字元"
 
 #: components/InputCodeBlockZoomable/InputCodeBlockZoomable.js:82
-#, fuzzy
-#| msgid "At least 8 characters"
 msgid "characters."
-msgstr "至少8個字元"
+msgstr "字元"
 
 #: limitation/dialogs/limitationDetail.html:19
 msgid "click here"
