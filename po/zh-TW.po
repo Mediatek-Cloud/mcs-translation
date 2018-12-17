@@ -1878,7 +1878,7 @@ msgstr "關"
 #: development/dialogs/release.html:47 dialogs/comingSoon.html:27
 #: dialogs/tutorialCloseConfirm.html:38
 msgid "OK"
-msgstr "成功"
+msgstr "確定"
 
 #: components/display/switch.html:6 mydevices/detail/trigger.html:53
 msgid "ON"
